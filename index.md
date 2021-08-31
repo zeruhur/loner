@@ -29,17 +29,17 @@ Your protagonist (or hero if you wish) is described by some fixed traits:
 - **Luck**: 6
 
 **Example**
-> **Zahra Nakajima** Witty Street Cat. Streetwise, Nimble, Merciful. 
->  Knife, Low O2 Supplement.
-> She wants to obtain unknown technology to save her planet from atmosphere collapse.
-> **Nemesis**: The Naturalist Order
+> **Zahra Nakajima** Witty Street Cat. Streetwise, Nimble, Merciful.  
+>  Knife, Low O2 Supplement.  
+> She wants to obtain unknown technology to save her planet from atmosphere collapse.  
+> **Nemesis**: The Naturalist Order  
 > **Luck**: 6
 
 Everything else in the game is a "character". The are living (the Non-Playing Characters) and inanimate characters (as vehicles and crafts). Inanimate characters does not have goal, movite or nemesis.
 
 **Example**
-> **The Century Skylark** Spacecraft in bad shape. Hyperjump Drive, Camouflage Circuits, Midlife Courier. 
-> Shields, Turrets. 
+> **The Century Skylark** Spacecraft in bad shape. Hyperjump Drive, Camouflage Circuits, Midlife Courier.  
+> Shields, Turrets.  
 > **Luck**: 6.
 
 ## Start your game
@@ -55,12 +55,12 @@ Decide on an initial scene for your adventure. Starting the game in the middle o
 |  6 |       Blackmailer       |        Pursuit       |        Revenge        |      Confession      | Object (map, journal, letter) |             Space             |
 
 **Example**
-> Who? Mentor
-> What? Exploit
-> Why? Help
-> Where? McGuffin
-> How? Rumors
-> Obstacle? Time
+> **Who?** Mentor  
+> **What?** Exploit  
+> **Why?** Help  
+> **Where?** McGuffin  
+> **How?** Rumors  
+> **Obstacle?** Time  
 > Tobias Wethern took Zahra under his wing when her parents died. That's why she can't say no to him now. Tobias wants Zahra to steal a datapad from the Leton Corporation's subsidiary. He doesn't know precisely where it is stored, but that in 24 hours it will be taken from the company's security corps to be transferred to another location. 
 
 ## Keep the action in motion
@@ -99,7 +99,7 @@ The final outcome depends on the context. Do you get caught? Are you seriously i
 |No, and... | You don’t get what you want, and things get worse.| Take 3| 
 
 **Example**
-> Zahra confronts a thug in an alley. He is "Martial Artist", "Hand-to-Hand Combat", "Feline" and "Short". Zahra tries to hit him with the knife, you throw (5) (6) [4] ("Yes, And...", causing a Luck loss of 3 to the thug). The thug throws a roundhouse kick at Zahra (roll (3) (2) [2], "Yes, but...", causing a Luck loss of 1 to Zahra). Who will win? 
+> Zahra confronts a thug in an alley. He is "Martial Artist", "Hand-to-Hand Combat", "Feline" and "Short". Zahra tries to hit him with the knife, you throw (5) (6) [4] ("**Yes, And...**", causing a Luck loss of 3 to the thug). The thug throws a roundhouse kick at Zahra (roll (3) (2) [2], "**Yes, but...**", causing a Luck loss of 1 to Zahra). Who will win? 
 
 ## Doubles and the Twist Counter
 The Twist Counter is a measure of the rising tension in the narrative. At the beginning is set to 0. Every time a double throw (dice are equal) happens, add 1 to the Counter. If the Counter is below three, consider the answer as "**Yes, but...**". Otherwise a **Twist** happens and resets the Counter.
@@ -122,7 +122,7 @@ Roll 2d6 and consult the following Twist Table to determine what kind of twist h
 
 Interpret the two-word sentence in the context of the current scene. Twists will keep the plot and events going in unexpected ways.
 
-> Now that Zahra knows the content of the datapad, but you roll 1 and 5 on the Twist Table "A third party", "Changes the goal". An agent of the Leton Corporation appears before Zahra with a proposal....
+> Now that Zahra knows the content of the datapad, but you roll 1 and 5 on the Twist Table "*A third party*", "*Changes the goal*". An agent of the Leton Corporation appears before Zahra with a proposal....
 
 ## Determine the mood of the next scene
 
@@ -139,7 +139,7 @@ At the end of the current scene, you may need to determine the general mood of t
 - A **meanwhile scene** that takes place somewhere else than where the hero is. It cuts to villains or other plot-important characters.
 
 **Example**
-> Zahra accepts the proposal, you know roll for the next scene: 6, Meanwhile. In the following scene, Tobias Wethern hires a hit man to kill Zahra...
+> Zahra accepts the proposal, you know roll for the next scene: 6, *Meanwhile scene*. In the following scene, Tobias Wethern hires a hit man to kill Zahra...
 
 ## Sibylline Responses
 The Oracle might sometimes give answers that don't make sense in the context of the scene. Don't be tempted to detail the answer with too many questions in sequence. Three questions should be sufficient. If you're still stuck, try using an open-ended question to unlock yourself or interpret the answer as "Yes, But..." and move the story forward. 
@@ -176,7 +176,7 @@ To answer an Open-Ended question, roll 1d6 once on each of the following tables 
 |      6     | magnificent |    arrogant   | unhealthy |    enormous   |  truculent  |  charming |
 
 **Example**
-> You ask: "Does Zahra have friends to ask for help against the hit man?". You roll 24 and 32: multiply motion. Zahra needs to move quickly to reach Melina Reade, a hacker with contacts in the underworld who might be able to help her!
+> You ask: "Does Zahra have friends to ask for help against the hit man?". You roll 24 and 32: *multiply motion*. Zahra needs to move quickly to reach Melina Reade, a hacker with contacts in the underworld who might be able to help her!
 
 ## When the story ends
 At the end of the adventure you may add other trait to the character. It is better that this is related to the story just ended and can be either a Skill, a Gear or a new Frailty or even a new Nemesis! You can also modify an existing trait to better represent an enhanced expertise.
