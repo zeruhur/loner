@@ -153,5 +153,7 @@ To answer an Open-Ended question, roll 1d6 once on each of the following tables 
 
 ## Credits
 Recluse Oracle (CC BY 4.0) by Graven Utterance and Tiny Solitary Soldier Oracle for the main resolution and scene mechanics.
+
 Freeform Universal Roleplaying Game (CC BY 4.0) by Nathan Russell as an inspiration of the whole game and the character traits.
+
 Harm mechanics are from 6Q System (CC BY 4.0) by Marcus Burggraf.
