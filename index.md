@@ -177,6 +177,14 @@ To answer an Open-Ended question, roll 1d6 once on each of the following tables 
 **Example**
 > You ask: "Does Zahra have friends to ask for help against the hit man?". You roll 24 and 32: multiply motion. Zahra needs to move quickly to reach Melina Reade, a hacker with contacts in the underworld who might be able to help her!
 
+## When the story ends
+At the end of the adventure you may add other trait to the character. It is better that this is related to the story just ended and can be either a Skill, a Gear or a new Frailty or even a new Nemesis! You can also modify an existing trait to better represent an enhanced expertise.
+
+Also note the list of contacts, enemies and any events, people or objects that may show up again in future adventures.
+
+**Example**
+> Zahra secures the datapad in the hands of the authorities, framing both Wethern and the Leton Corporation. Wethern is arrested, but she has gained a powerful enemy working against the Corporation. She gains "Wannabe Hacker" to her skills. Maybe Melina can mentor her!
+
 ## Credits
 Recluse Oracle (CC BY 4.0) by Graven Utterance and Tiny Solitary Soldier Oracle for the main resolution and scene mechanics.
 
