@@ -1,5 +1,6 @@
 # Loner
 Another Solo RPG Game
+
 CC BY 4.0 by Roberto Bisceglie
 
 Loner is a bare-bone freeform solo RPG designed to play with a solo character in "narrative" mode. You'll guide your character through the story that will unravel during the game, asking closed questions to an oracle who will assume the role of Game Master. Every now and then the game will surprise you when an unexpected plot twist happens!
