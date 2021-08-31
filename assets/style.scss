@@ -1,6 +1,6 @@
 @import "{{ site.theme }}";
 
-@import url(http://fonts.googleapis.com/css?family=Lato|Luckiest+Guy:400regular,400);
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Luckiest+Guy&display=swap');
 
 
 body {
@@ -9,6 +9,6 @@ body {
     color: black !important;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Luckiest Guy', cursive !important;
     color: black !important;
 }
