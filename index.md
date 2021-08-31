@@ -53,6 +53,15 @@ Decide on an initial scene for your adventure. Starting the game in the middle o
 |  5 |       Help-seeker       |        Escape        |        Ambition       |       McGuffin       |             Mishap            |              Time             |
 |  6 |       Blackmailer       |        Pursuit       |        Revenge        |      Confession      | Object (map, journal, letter) |             Space             |
 
+**Example**
+> Who? Mentor
+> What? Exploit
+> Why? Help
+> Where? McGuffin
+> How? Rumors
+> Obstacle? Time
+> Tobias Wethern took Zahra under his wing when her parents died. That's why she can't say no to him now. Tobias wants Zahra to steal a datapad from the Leton Corporation's subsidiary. He doesn't know precisely where it is stored, but that in 24 hours it will be taken from the company's security corps to be transferred to another location. 
+
 ## Keep the action in motion
 
 A game in Loner is a succession of scenes. A scene is a unit of time in which a certain action takes place in pursuit of a certain short-term goal. In a traditional role-playing game, it is the Game Master who proposes the scene and moves the world and NPCs. In a solo role-playing game, on the other hand, the player asks questions to an Oracle (as he would to a GM) who will provide a closed answer. It is therefore necessary to formulate questions whose answer is binary (Yes, No).
@@ -64,11 +73,14 @@ To resolve a closed question, roll one **Chance Die** and one **Risk Die**. If t
 Also look at the value on each die. If both are low (3 or less), add **But**. If both are high (4 or more), add **And**.
 
 **Example**
-> You ask, “Does the vampire catch fire?” You roll one Chance Die and one Risk Die and get 5 4. The answer is **Yes**, because the Chance Die is higher. You add also **And**, because both rolls are 4 or higher. If the Risk Die had come up as 3, it would have been a plain **Yes** instead.
+> You ask, “Does Zahra manage to force the hatch?” You roll one Chance Die and one Risk Die and get (5) [4]). The answer is **Yes**, because the Chance Die is higher. You add also **And**, because both rolls are 4 or higher. If the Risk Die had come up as [3], it would have been a plain **Yes** instead.
 
 ## Advantage and Disadvantage
 
-If circumstances or positive traits grant an advantage, add a **chance die** to the roll. Otherwise, when hindrances or negative traits cause a disadvantage, add a **risk die**. In both cases keep only the higher die of the added type when you check the roll.
+If circumstances or positive traits grant an advantage, add a **Chance Die** to the roll. Otherwise, when hindrances or negative traits cause a disadvantage, add a **Risk Die**. In both cases keep only the higher die of the added type when you check the roll.
+
+**Example**
+> You ask, "Does Zahra hack the datapad?" You roll one Chance Die and two Risk Die, as Zahra does not have any advantage in hacking and the datapad is the mission goal, compromising it would cause the mission to fail. You get (4) [4] [5]. You discard the lower Risk Die [4] and keep (4) and [5]. You obtain a **No** and add a **And** since they are both 4 or higher. This hacking has gone really bad...
 
 ## Harm & Luck
 
@@ -85,12 +97,18 @@ The final outcome depends on the context. Do you get caught? Are you seriously i
 |No... | You don’t get what you were after.| Take 2 |
 |No, and... | You don’t get what you want, and things get worse.| Take 3| 
 
-## Doubles and the Crisis Counter
-The Crisis Counter is a measure of the rising tension in the narrative. At the beginning is set to 0. Every time a double throw (dice are equal) happens, add 1 to the Counter. If the Counter is below three, consider the answer as "**Yes, but...**". Otherwise a **Twist** happens and resets the Counter.
+**Example**
+> Zahra confronts a thug in an alley. He is "Martial Artist", "Hand-to-Hand Combat", "Feline" and "Short". Zahra tries to hit him with the knife, you throw (5) (6) [4] ("Yes, And...", causing a Luck loss of 3 to the thug). The thug throws a roundhouse kick at Zahra (roll (3) (2) [2], "Yes, but...", causing a Luck loss of 1 to Zahra). Who will win? 
+
+## Doubles and the Twist Counter
+The Twist Counter is a measure of the rising tension in the narrative. At the beginning is set to 0. Every time a double throw (dice are equal) happens, add 1 to the Counter. If the Counter is below three, consider the answer as "**Yes, but...**". Otherwise a **Twist** happens and resets the Counter.
+
+**Example**
+> You ask if the datapad contains sensible data about Wethern's illicit activities. You roll (4) [4]. The answers is "Yes, but...". You add 1 to the Twist Counter. But you were already at 2 on the counter, so a twist happens! The counter resets to 0.
 
 ## Determine the Twist
 
-Roll 2d6 and consult the following lists to determine what kind of twist happens. 
+Roll 2d6 and consult the following Twist Table to determine what kind of twist happens. 
 
 | D6 |      Subject       |        Action       |
 |:--:|:------------------:|:-------------------:|
@@ -102,6 +120,8 @@ Roll 2d6 and consult the following lists to determine what kind of twist happens
 |  6 |      An object     |    Ends the scene   |
 
 Interpret the two-word sentence in the context of the current scene. Twists will keep the plot and events going in unexpected ways.
+
+> Now that Zahra knows the content of the datapad, but you roll 1 and 5 on the Twist Table "A third party", "Changes the goal". An agent of the Leton Corporation appears before Zahra with a proposal....
 
 ## Determine the mood of the next scene
 
@@ -116,6 +136,9 @@ At the end of the current scene, you may need to determine the general mood of t
 - A **dramatic scene** does not break the tension of the previous scene but carries it further forward, introducing further obstacles or difficulties.
 - During a **quiet scene** there is time to take a breath, to heal, to make plans for the next steps and to deepen relationships.
 - A **meanwhile scene** that takes place somewhere else than where the hero is. It cuts to villains or other plot-important characters.
+
+**Example**
+> Zahra accepts the proposal, you know roll for the next scene: 6, Meanwhile. In the following scene, Tobias Wethern hires a hit man to kill Zahra...
 
 ## Sibylline Responses
 The Oracle might sometimes give answers that don't make sense in the context of the scene. Don't be tempted to detail the answer with too many questions in sequence. Three questions should be sufficient. If you're still stuck, try using an open-ended question to unlock yourself or interpret the answer as "Yes, But..." and move the story forward. 
@@ -150,6 +173,17 @@ To answer an Open-Ended question, roll 1d6 once on each of the following tables 
 |      4     |    silky    |   worthless   |   fixed   |     loose     |   willing   |    cold   |
 |      5     |    quiet    |     stormy    |   spooky  |   delirious   |    innate   |    late   |
 |      6     | magnificent |    arrogant   | unhealthy |    enormous   |  truculent  |  charming |
+
+**Example**
+> You ask: "Does Zahra have friends to ask for help against the hit man?". You roll 24 and 32: multiply motion. Zahra needs to move quickly to reach Melina Reade, a hacker with contacts in the underworld who might be able to help her!
+
+## When the story ends
+At the end of the adventure you may add other trait to the character. It is better that this is related to the story just ended and can be either a Skill, a Gear or a new Frailty or even a new Nemesis! You can also modify an existing trait to better represent an enhanced expertise.
+
+Also note the list of contacts, enemies and any events, people or objects that may show up again in future adventures.
+
+**Example**
+> Zahra secures the datapad in the hands of the authorities, framing both Wethern and the Leton Corporation. Wethern is arrested, but she has gained a powerful enemy working against the Corporation. She gains "Wannabe Hacker" to her skills. Maybe Melina can mentor her!
 
 ## Credits
 Recluse Oracle (CC BY 4.0) by Graven Utterance and Tiny Solitary Soldier Oracle for the main resolution and scene mechanics.
