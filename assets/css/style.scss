@@ -1,7 +1,7 @@
 @import "{{ site.theme }}";
 
-@import url(//fonts.googleapis.com/css?family=Lato:ital,wght@0,400;0,700;1,400;1,700);
-@import url(//fonts.googleapis.com/css?family=Luckiest+Guy);
+@import url('https://fonts.googleapis.com/css?family=Lato:ital,wght@0,400;0,700;1,400;1,700');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy');
 
 body {
     font-family: 'Lato', sans-serif !important;
