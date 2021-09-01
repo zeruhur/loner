@@ -187,8 +187,8 @@ Also note the list of contacts, enemies and any events, people or objects that m
 > Zahra secures the datapad in the hands of the authorities, framing both Wethern and the Leton Corporation. Wethern is arrested, but she has gained a powerful enemy working against the Corporation. She gains "Wannabe Hacker" to her skills. Maybe Melina can mentor her!
 
 ## Credits
-Recluse Oracle (CC BY 4.0) by Graven Utterance and Tiny Solitary Soldier Oracle for the main resolution and scene mechanics.
+[Recluse Engine](https://gravenutterance.itch.io/recluse) (CC BY 4.0) by Graven Utterance and Tiny Solitary Soldier Oracle for the main resolution and scene mechanics.
 
-Freeform Universal Roleplaying Game (CC BY 4.0) by Nathan Russell as an inspiration of the whole game and the character traits.
+[Freeform Universal Roleplaying Game](https://www.perilplanet.com/freeform-universal/) (CC BY 4.0) by Nathan Russell as an inspiration of the whole game and the character traits.
 
-Harm mechanics are from 6Q System (CC BY 4.0) by Marcus Burggraf.
+Harm mechanics are from [6Q System](https://chaosmeister.itch.io/6-q-system) (CC BY 4.0) by Marcus Burggraf.
