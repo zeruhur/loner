@@ -35,7 +35,7 @@ Your protagonist (or hero if you wish) is described by some fixed traits:
 > **Nemesis**: The Naturalist Order  
 > **Luck**: 6
 
-Everything else in the game is a "character". The are living (the Non-Playing Characters) and inanimate characters (as vehicles and crafts). Inanimate characters does not have goal, movite or nemesis.
+Everything else in the game is a "character". The are living (the Non-Playing Characters) and inanimate characters (as vehicles and crafts). Inanimate characters do not have goal, motive or nemesis.
 
 **Example**
 > **The Century Skylark** Spacecraft in bad shape. Hyperjump Drive, Camouflage Circuits, Midlife Courier.  
