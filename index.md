@@ -179,7 +179,7 @@ To answer an Open-Ended question, roll 1d6 once on each of the following tables 
 > You ask: "Does Zahra have friends to ask for help against the hit man?". You roll 24 and 32: *multiply motion*. Zahra needs to move quickly to reach Melina Reade, a hacker with contacts in the underworld who might be able to help her!
 
 ## When the story ends
-At the end of the adventure you may add another trait to the character. It is better that this is related to how the story just ended and can be either a Skill, a Gear or a new Frailty or even a new Nemesis! You can also modify an existing trait to better represent an enhanced expertise.
+At the end of the adventure you may add another trait to the character. It is better that this is related to how the story just ended and can be either a Skill, Gear, a new Frailty, or even a new Nemesis! You can also modify an existing trait to better represent an enhanced expertise.
 
 Also note the list of contacts, enemies and any events, people or objects that may show up again in future adventures.
 
@@ -193,4 +193,4 @@ Also note the list of contacts, enemies and any events, people or objects that m
 
 Harm mechanics are from [6Q System](https://chaosmeister.itch.io/6-q-system) (CC BY 4.0) by Marcus Burggraf.
 
-Proof reading by Shane Conner.
+With deepest thanks to Shane Conner for proof reading and revision of the text.
