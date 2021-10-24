@@ -25,7 +25,7 @@ Your protagonist (or hero if you wish) is described by some fixed traits:
 - **Gear** (x2): particular equipment supplied to the character in coherence with the setting. Everyday items are taken for granted and do not fall under this trait.
 - **Goal**: the long-term objective.
 - **Motive**: what drives the pursuit of the goal.
-- **Nemesis**: a person or organization that hinders the protagonist. It can emerge during the first game sessions, or not be the direct antagonist of the story, ready to appear to make life even more difficult
+- **Nemesis**: a person or organization that hinders the protagonist. It can emerge during the first game sessions, it may or may or not be the direct antagonist of the story, ready to appear to make life even more difficult
 - **Luck**: 6
 
 **Example**
@@ -35,7 +35,7 @@ Your protagonist (or hero if you wish) is described by some fixed traits:
 > **Nemesis**: The Naturalist Order  
 > **Luck**: 6
 
-Everything else in the game is a "character". The are living (the Non-Playing Characters) and inanimate characters (as vehicles and crafts). Inanimate characters do not have goal, motive or nemesis.
+Everything else in the game is a "character". The are the living (the Non-Playing Characters), and inanimate characters (such as vehicles and crafts). Inanimate characters do not have goal, motive or a nemesis.
 
 **Example**
 > **The Century Skylark** Spacecraft in bad shape. Hyperjump Drive, Camouflage Circuits, Midlife Courier.  
@@ -43,13 +43,13 @@ Everything else in the game is a "character". The are living (the Non-Playing Ch
 > **Luck**: 6.
 
 ## Start your game
-Decide on an initial scene for your adventure. Starting the game in the middle of an action scene is a good way to set events in motion. If nothing If none comes to mind, roll on each of the following questions to generate a random adventure seed.
+Decide on an initial scene for your adventure. Starting the game in the middle of an action scene is a good way to set events in motion. If nothing comes to mind, roll on each of the following questions to generate a random adventure seed.
 
 | D6 |  Who?<br>The proposer   | What?<br>The mission | Why?<br>The incentive | Where?<br>The target |        How?<br>The seed       | Obstacle?<br>The complication |
 |:--:|:-----------------------:|:--------------------:|:---------------------:|:--------------------:|:-----------------------------:|:-----------------------------:|
 |  1 |        Authority        |        Rescue        |          Help         |        Person        |        Casual encounter       |           Opposition          |
 |  2 |       Organization      |      Protection      |        Fortune        |         Group        |        Old acquaintance       |           Deception           |
-|  3 | Ally (friend, relative) |        Exploit       |       Coercition      |       Treasure       |             Rumors            |          Environment          |
+|  3 | Ally (friend, relative) |        Exploit       |       Coercion        |       Treasure       |             Rumors            |          Environment          |
 |  4 |          Mentor         |        Explore       |        Impulse        |       Location       |            Capture            |            Disguise           |
 |  5 |       Help-seeker       |        Escape        |        Ambition       |       McGuffin       |             Mishap            |              Time             |
 |  6 |       Blackmailer       |        Pursuit       |        Revenge        |      Confession      | Object (map, journal, letter) |             Space             |
@@ -74,7 +74,7 @@ To resolve a closed question, roll one **Chance Die** and one **Risk Die**. If t
 Also look at the value on each die. If both are low (3 or less), add **But**. If both are high (4 or more), add **And**.
 
 **Example**
-> You ask, “Does Zahra manage to force the hatch?” You roll one Chance Die and one Risk Die and get (5) [4]). The answer is **Yes**, because the Chance Die is higher. You add also **And**, because both rolls are 4 or higher. If the Risk Die had come up as [3], it would have been a plain **Yes** instead.
+> You ask, “Does Zahra manage to force the hatch?” You roll one Chance Die and one Risk Die and get (5) [4]). The answer is **Yes**, because the Chance Die is higher. You also add **And**, because both rolls are 4 or higher. If the Risk Die had come up as [3], it would have been a plain **Yes** instead.
 
 ## Advantage and Disadvantage
 
@@ -85,7 +85,7 @@ If circumstances or positive traits grant an advantage, add a **Chance Die** to 
 
 ## Harm & Luck
 
-When you are in conflict the game is played in turns alternating between player and NPCs. When you fail your defense, reduce your current Luck according to the table below. NPCs also have a Luck trait. If you attack in any form, reduce the targets Luck according to the table below. When your Luck runs out you face mortal danger and the next attack will take you out of the conflict.
+When you are in conflict the game is played in turns alternating between the player and NPCs. When you fail your defense, reduce your current Luck according to the table below. NPCs also have a Luck trait. If you attack in any form, reduce the targets Luck according to the table below. When your Luck runs out you face mortal danger and the next attack will take you out of the conflict.
 
 The final outcome depends on the context. Do you get caught? Are you seriously injured? You may even die if that fits the narrative.
 
@@ -105,7 +105,7 @@ The final outcome depends on the context. Do you get caught? Are you seriously i
 The Twist Counter is a measure of the rising tension in the narrative. At the beginning is set to 0. Every time a double throw (dice are equal) happens, add 1 to the Counter. If the Counter is below three, consider the answer as "**Yes, but...**". Otherwise a **Twist** happens and resets the Counter.
 
 **Example**
-> You ask if the datapad contains sensible data about Wethern's illicit activities. You roll (4) [4]. The answers is "Yes, but...". You add 1 to the Twist Counter. But you were already at 2 on the counter, so a twist happens! The counter resets to 0.
+> You ask if the datapad contains sensitive data about Wethern's illicit activities. You roll (4) [4]. The answers is "Yes, but...". You add 1 to the Twist Counter. But you were already at 2 on the counter, so a twist happens! The counter resets to 0.
 
 ## Determine the Twist
 
@@ -122,7 +122,7 @@ Roll 2d6 and consult the following Twist Table to determine what kind of twist h
 
 Interpret the two-word sentence in the context of the current scene. Twists will keep the plot and events going in unexpected ways.
 
-> Now that Zahra knows the content of the datapad, but you roll 1 and 5 on the Twist Table "*A third party*", "*Changes the goal*". An agent of the Leton Corporation appears before Zahra with a proposal....
+> Now Zahra knows the content of the datapad, but you roll 1 and 5 on the Twist Table "*A third party*", "*Changes the goal*". An agent of the Leton Corporation appears before Zahra with a proposal....
 
 ## Determine the mood of the next scene
 
@@ -136,10 +136,10 @@ At the end of the current scene, you may need to determine the general mood of t
 
 - A **dramatic scene** does not break the tension of the previous scene but carries it further forward, introducing further obstacles or difficulties.
 - During a **quiet scene** there is time to take a breath, to heal, to make plans for the next steps and to deepen relationships.
-- A **meanwhile scene** that takes place somewhere else than where the hero is. It cuts to villains or other plot-important characters.
+- A **meanwhile scene** takes place somewhere else, other than where the hero is. It cuts to villains or other plot-important characters.
 
 **Example**
-> Zahra accepts the proposal, you know roll for the next scene: 6, *Meanwhile scene*. In the following scene, Tobias Wethern hires a hit man to kill Zahra...
+> Zahra accepts the proposal, you now roll for the next scene: 6, *Meanwhile scene*. In the following scene, Tobias Wethern hires a hit man to kill Zahra...
 
 ## Sibylline Responses
 The Oracle might sometimes give answers that don't make sense in the context of the scene. Don't be tempted to detail the answer with too many questions in sequence. Three questions should be sufficient. If you're still stuck, try using an open-ended question to unlock yourself or interpret the answer as "Yes, But..." and move the story forward. 
@@ -179,7 +179,7 @@ To answer an Open-Ended question, roll 1d6 once on each of the following tables 
 > You ask: "Does Zahra have friends to ask for help against the hit man?". You roll 24 and 32: *multiply motion*. Zahra needs to move quickly to reach Melina Reade, a hacker with contacts in the underworld who might be able to help her!
 
 ## When the story ends
-At the end of the adventure you may add other trait to the character. It is better that this is related to the story just ended and can be either a Skill, a Gear or a new Frailty or even a new Nemesis! You can also modify an existing trait to better represent an enhanced expertise.
+At the end of the adventure you may add another trait to the character. It is better that this is related to how the story just ended and can be either a Skill, a Gear or a new Frailty or even a new Nemesis! You can also modify an existing trait to better represent an enhanced expertise.
 
 Also note the list of contacts, enemies and any events, people or objects that may show up again in future adventures.
 
@@ -192,3 +192,5 @@ Also note the list of contacts, enemies and any events, people or objects that m
 [Freeform Universal Roleplaying Game](https://www.perilplanet.com/freeform-universal/) (CC BY 4.0) by Nathan Russell as an inspiration of the whole game and the character traits.
 
 Harm mechanics are from [6Q System](https://chaosmeister.itch.io/6-q-system) (CC BY 4.0) by Marcus Burggraf.
+
+Proof reading by Shane Conner.
