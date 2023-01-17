@@ -28,5 +28,42 @@ Il tuo protagonista (o eroe se vuoi) è descritto da alcune caratteristiche fiss
 - **Fortuna**: 6
 
 **Esempio**
-> **Zahra Nakajima** Randagia Sagace
+> **Zahra Nakajima** Randagia Sagace. Scaltra, Agile, Compassionevole. 
+> Coltello, Supplemento di bassa O2.
+> Vuole ottenere tecnologie sconosciute per salvare il suo pianeta dal collasso dell'atmosfera.
+> **Nemico**: L'Ordine Naturalista
+> **Fortuna**: 6
+
+Tutto il resto del gioco è un "personaggio". Ci sono personaggi viventi (i personaggi non giocanti) e personaggi inanimati (come veicoli e navi). I personaggi inanimati non hanno obiettivi, moviti o nemici.
+
+**Esempio**
+> **The Century Skylark** Nave spaziale in cattive condizioni. Motore di Salto, Circuiti Camaleonti, Nave Corriere in malarnese. 
+> Scudi, Torrette. 
+> **Fortuna**: 6.
+
+## Inizia il tuo gioco
+Decidi una scena iniziale per la tua avventura. Iniziare il gioco in mezzo a una scena d'azione è un buon modo per mettere in moto gli eventi. Se non ti viene in mente nulla, lancia i dadi su ciascuna delle seguenti domande per generare un seme di avventura casuale.
+
+| D6 |  Chi?<br>Il proponitore   | Cosa?<br>La missione | Perché?<br>Il incentivo | Dove?<br>La destinazione |        Come?<br>Il seme       | Ostacolo?<br>La complicazione |
+|:--:|:-----------------------:|:--------------------:|:---------------------:|:--------------------:|:-----------------------------:|:-----------------------------:|
+|  1 |        Autorità        |        Salvataggio        |          Aiuto         |        Persona        |        Incontro casuale       |           Opposizione          |
+|  2 |       Organizzazione      |      Protezione      |        Fortuna        |         Gruppo        |        Vecchia conoscenza       |           Inganno           |
+|  3 | Alleato (amico, parente) |        Sfruttamento       |       Costrizione      |       Tesoro       |             Voci            |          Ambiente          |
+|  4 |          Mentore         |        Recupero     |         Dovere          |      McGuffin        |         Ricerca e indagine  |            Tempo              |
+|  5 |       Sconosciuto          |        Sabotaggio      |         Vendetta       |       Posizione       |            Infiltrazione       |           Sorveglianza         |
+|  6 |       Te stesso          |        Scoperta     |         Curiosità     |         Evento        |            Esplorazione        |           Natura              |
+
+**Esempio**
+> Chi? Mentore
+> Cosa? Sfruttamento
+> Perché? Aiuto
+> Dove? McGuffin
+> Come? Voci
+> Ostacolo? Tempo
+> Tobias Wethern ha preso Zahra sotto la sua ala quando i suoi genitori sono morti. Ecco perché lei non può dire di no a lui ora. Tobias vuole che Zahra rubi un datapad dalla filiale della Leton Corporation. Non sa esattamente dove sia conservato, ma che in 24 ore sarà preso dai corp della sicurezza dell'azienda per essere trasferito in un'altra posizione.
+
+## Mantieni l'azione in movimento
+
+Un gioco in Loner è una successione di scene. Una scena è un'unità di tempo in cui si svolge una certa azione alla ricerca di un certo obiettivo a breve termine. In un gioco di ruolo tradizionale, è il Game Master a proporre la scena e a muovere il mondo e i personaggi non giocanti. In un gioco di ruolo solitario, invece, il giocatore fa domande a un Oracolo (come farebbe con un GM) che fornirà una risposta chiusa. È quindi necessario formulare domande la cui risposta sia binaria (Sì, No).
+
 
