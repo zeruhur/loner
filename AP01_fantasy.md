@@ -69,44 +69,44 @@ A character may use is Fortune to cast spells. Each spell or magic ability has a
 
 ### Spells
 
-| D66    |  Spell                                                                                                                                         |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 11  |Minor Heal (1 mana point) - A spell that allows the player to restore a small amount of health to a target. |
-| 12  |Light (1 mana point) - A spell that creates a small light source that illuminates the surrounding area. |
-| 13  |Identify (1 mana point) - A spell that allows the player to determine the properties of an item. |
-| 14  |Magic Missile (1 mana point) - A spell that creates a small bolt of energy that deals damage to a single target. |
-| 15  |Detect Magic (1 mana point) - A spell that allows the player to detect the presence of magic in the surrounding area. |
-| 16  |Mage Armor (2 mana points) - A spell that creates a magical barrier around the player, providing temporary protection against physical attacks. |
-| 21  |Levitate (2 mana points) - A spell that allows the player to levitate for a short period of time. |
-| 22  |Fear (2 mana points) - A spell that causes an enemy to become frightened and run away. |
-| 23  |Illusion (2 mana points) - A spell that creates an illusory image or sound. |
-| 24  |Charm (2 mana points) - A spell that allows the player to charm an enemy, making them more friendly and cooperative. |
-| 25  |Invisibility (3 mana points) - A spell that makes the player invisible to enemies for a short period of time. |
-| 26  |Teleport (4 mana points) - A spell that allows the player to instantly transport to a nearby location. |
-| 31  |Fireball (4 mana points) - A spell that creates a ball of fire, dealing damage to enemies in a small area. |
-| 32  |Minor Summon (4 mana points) - A spell that allows the player to summon a small creature to aid them in combat. |
-| 33  |Minor Enchantment (4 mana points) - A spell that allows the player to imbue an item with a temporary magical effect. |
-| 34  |Minor Divination (4 mana points) - A spell that allows the player to gain insight or information about a specific person or situation. |
-| 35  |Minor Abjuration (4 mana points) - A spell that allows the player to protect themselves or an ally from harmful magic. |
-| 36  |Minor Conjuration (4 mana points) - A spell that allows the player to summon a small object or non-living matter. |
-| 41  |Minor Necromancy (4 mana points) - A spell that allows the player to manipulate the dead or the undead. |
-| 42  |Minor Transmutation (4 mana points) - A spell that allows the player to change the form or properties of an object or creature. |
-| 43  |Minor Evocation (4 mana points) - A spell that allows the player to create a burst of energy or element to damage enemies or illuminate an area. |
-| 44  |Minor Illusion (4 mana points) - A spell that allows the player to create an illusion to mislead or deceive enemies. |
-| 45  |Minor Alteration (4 mana points) - A spell that allows the player to change their own form or properties. |
-| 46  |Minor Restoration (4 mana points) - A spell that allows the player to restore or repair an object or creature. |
-| 51  |Minor Alteration (4 mana points) - A spell that allows the player to change their own form or properties. |
-| 52  |Minor Illusion (4 mana points) - A spell that allows the player to create an illusion to mislead or deceive enemies. |
-| 53  |Minor Evocation (4 mana points) - A spell that allows the player to create a burst of energy or element to damage enemies or illuminate an area. |
-| 54  |Minor Transmutation (4 mana points) - A spell that allows the player to change the form or properties of an object or creature. |
-| 55  |Minor Necromancy (4 mana points) - A spell that allows the player to manipulate the dead or the undead. |
-| 56  |Minor Conjuration (4 mana points) - A spell that allows the player to summon a small object or non-living matter. |
-| 61  |Minor Abjuration (4 mana points) - A spell that allows the player to protect themselves or an ally from harmful magic. |
-| 62  |Minor Divination (4 mana points) - A spell that allows the player to gain insight or information about a specific person or situation. |
-| 63  |Minor Enchantment (4 mana points) - A spell that allows the player to imbue an item with a temporary magical effect. |
-| 64  |Minor Summon (4 mana points) - A spell that allows the player to summon a small creature to aid them in combat. |
-| 65  |Fireball (4 mana points) - A spell that creates a ball of fire, dealing damage to enemies in a small area. |
-| 66  |Teleport (4 mana points) - A spell that allows the player to instantly transport to a nearby location. |
+| D66 | Spell                                                                                                                                            |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 11  | Minor Heal (1 mana point) - A spell that allows the player to restore a small amount of health to a target.                                      |
+| 12  | Light (1 mana point) - A spell that creates a small light source that illuminates the surrounding area.                                          |
+| 13  | Identify (1 mana point) - A spell that allows the player to determine the properties of an item.                                                 |
+| 14  | Magic Missile (1 mana point) - A spell that creates a small bolt of energy that deals damage to a single target.                                 |
+| 15  | Detect Magic (1 mana point) - A spell that allows the player to detect the presence of magic in the surrounding area.                            |
+| 16  | Mage Armor (2 mana points) - A spell that creates a magical barrier around the player, providing temporary protection against physical attacks.  |
+| 21  | Levitate (2 mana points) - A spell that allows the player to levitate for a short period of time.                                                |
+| 22  | Fear (2 mana points) - A spell that causes an enemy to become frightened and run away.                                                           |
+| 23  | Illusion (2 mana points) - A spell that creates an illusory image or sound.                                                                      |
+| 24  | Charm (2 mana points) - A spell that allows the player to charm an enemy, making them more friendly and cooperative.                             |
+| 25  | Invisibility (3 mana points) - A spell that makes the player invisible to enemies for a short period of time.                                    |
+| 26  | Teleport (4 mana points) - A spell that allows the player to instantly transport to a nearby location.                                           |
+| 31  | Fireball (4 mana points) - A spell that creates a ball of fire, dealing damage to enemies in a small area.                                       |
+| 32  | Minor Summon (4 mana points) - A spell that allows the player to summon a small creature to aid them in combat.                                  |
+| 33  | Minor Enchantment (4 mana points) - A spell that allows the player to imbue an item with a temporary magical effect.                             |
+| 34  | Minor Divination (4 mana points) - A spell that allows the player to gain insight or information about a specific person or situation.           |
+| 35  | Minor Abjuration (4 mana points) - A spell that allows the player to protect themselves or an ally from harmful magic.                           |
+| 36  | Minor Conjuration (4 mana points) - A spell that allows the player to summon a small object or non-living matter.                                |
+| 41  | Minor Necromancy (4 mana points) - A spell that allows the player to manipulate the dead or the undead.                                          |
+| 42  | Minor Transmutation (4 mana points) - A spell that allows the player to change the form or properties of an object or creature.                  |
+| 43  | Minor Evocation (4 mana points) - A spell that allows the player to create a burst of energy or element to damage enemies or illuminate an area. |
+| 44  | Minor Illusion (4 mana points) - A spell that allows the player to create an illusion to mislead or deceive enemies.                             |
+| 45  | Minor Alteration (4 mana points) - A spell that allows the player to change their own form or properties.                                        |
+| 46  | Minor Restoration (4 mana points) - A spell that allows the player to restore or repair an object or creature.                                   |
+| 51  | Minor Alteration (4 mana points) - A spell that allows the player to change their own form or properties.                                        |
+| 52  | Minor Illusion (4 mana points) - A spell that allows the player to create an illusion to mislead or deceive enemies.                             |
+| 53  | Minor Evocation (4 mana points) - A spell that allows the player to create a burst of energy or element to damage enemies or illuminate an area. |
+| 54  | Minor Transmutation (4 mana points) - A spell that allows the player to change the form or properties of an object or creature.                  |
+| 55  | Minor Necromancy (4 mana points) - A spell that allows the player to manipulate the dead or the undead.                                          |
+| 56  | Minor Conjuration (4 mana points) - A spell that allows the player to summon a small object or non-living matter.                                |
+| 61  | Minor Abjuration (4 mana points) - A spell that allows the player to protect themselves or an ally from harmful magic.                           |
+| 62  | Minor Divination (4 mana points) - A spell that allows the player to gain insight or information about a specific person or situation.           |
+| 63  | Minor Enchantment (4 mana points) - A spell that allows the player to imbue an item with a temporary magical effect.                             |
+| 64  | Minor Summon (4 mana points) - A spell that allows the player to summon a small creature to aid them in combat.                                  |
+| 65  | Fireball (4 mana points) - A spell that creates a ball of fire, dealing damage to enemies in a small area.                                       |
+| 66  | Teleport (4 mana points) - A spell that allows the player to instantly transport to a nearby location.                                           |
 
 ## Factions
 
