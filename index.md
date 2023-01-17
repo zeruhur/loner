@@ -18,4 +18,4 @@ Loner è un gioco di ruolo solitario minimalista progettato per giocare con un s
 
 Per giocare, si assume che abbia già familiarità con il mondo dei giochi di ruolo e dei giochi solitari. Un buon punto di partenza per farsene un'idea è la pagina [GDR](https://it.wikipedia.org/wiki/Gioco_di_ruolo) su Wikipedia.
 
-[Regolamento](loner-ita.md)
+[**Regolamento**](loner-ita.md)
