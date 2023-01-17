@@ -1,7 +1,5 @@
 # Fantasy Adventure Pack
 
-  - Location descriptions: The castle, the forest, the dragon's lair, etc.
-
 ## Setting Information
 
 - The world is a place of magic and wonder, where mythical creatures roam free and ancient ruins hold secrets of the past. 
