@@ -12,6 +12,10 @@ To play it, it is assumed that you are already familiar with the world of role-p
 
 You can play online with the [Loner Assistant](https://zeruhur.space/loner-assistant/)!
 
+## Genre Packs
+If you need inspiration to build your matches in Loner, Genre Packs with additional options are available here to inspire you
+
+[Fantasy](AP01_fantasy.md)
 
 # Italiano
 Loner è un gioco di ruolo solitario minimalista progettato per giocare con un solo personaggio in modalità "narrativa". Lo guiderai attraverso la storia che si svilupperà durante il gioco, ponendo domande chiuse a un oracolo che assumerà il ruolo di Game Master. Ogni tanto il gioco ti sorprenderà quando succederà un colpo di scena inaspettato!
