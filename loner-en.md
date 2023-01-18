@@ -17,6 +17,9 @@ Unlike a gamebook (such as the Fighting Fantasy, Lone Wolf, and Tunnels & Trolls
 
 Through the interaction of player, oracle, tools, and prompts, the character's actions will build an emergent narrative within whose boundaries anything can be attempted, without predetermined limits.
 
+## Safety Tools
+You will play alone, but be sure to play in an environment that is comfortable for you, without overexerting yourself, and reserve the option to stop as soon as you feel uncomfortable for any reason, physical or emotional. Don't be afraid to tackle new themes, but do so in full awareness of your boundaries.
+
 ## Minimum Requirements
 To play Loner you will need:
 - **4 six sided dice** (also known as d6s): two pairs of different colors

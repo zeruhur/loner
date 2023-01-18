@@ -15,6 +15,9 @@ A differenza di un librogioco (come le serie Fighting Fantasy, Lone Wolf e Tunne
 
 Attraverso l'interazione tra giocatore, oracolo, strumenti e suggerimenti, le azioni del personaggio costruiranno una narrazione emergente entro i cui confini si può tentare qualsiasi cosa, senza limiti predeterminati.
 
+## Strumenti di sicurezza
+Giocherai da solo, ma sii certo di giocare in un ambiente per te confortevole, senza affaticarti eccessivamente e riservati l'opzione di interrompere appena dovessi sentirti a disagio per qualcuno motivo, fisico o emozionale. Non avere timore di affrontare temi nuovi, ma fallo nella piena consapevolezza dei tuoi limiti.
+
 ## Requisiti minimi
 Per giocare a Loner avrai bisogno di:
 - **4 dadi a sei facce** (noti anche come d6): due coppie di colori diversi.
