@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@import url('https://fonts.googleapis.com/css?family=Raleway:ital,wght@0,400;0,700;1,400;1,700');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy');
+
+body {
+    font-family: 'Raleway', sans-serif !important;
+    font-size: 1em !important;
+    color: black !important;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Luckiest Guy', cursive !important;
+    color: black !important;
+}
