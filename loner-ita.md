@@ -5,10 +5,18 @@ CC BY 4.0 Roberto Bisceglie
 
 Loner è un gioco di ruolo solitario minimalista progettato per giocare con un solo personaggio in modalità "narrativa". Lo guiderai attraverso la storia che si svilupperà durante il gioco, ponendo domande chiuse a un oracolo che assumerà il ruolo di Game Master. Ogni tanto il gioco ti sorprenderà quando succederà un colpo di scena inaspettato!
 
-Per giocare, si assume che abbia già familiarità con il mondo dei giochi di ruolo e dei giochi solitari. Un buon punto di partenza per farsene un'idea è la pagina [GDR](https://it.wikipedia.org/wiki/Gioco_di_ruolo) su Wikipedia.
+## Che cos'è un gioco di ruolo (GDR)?
+Un gioco di ruolo (GDR) è un tipo di gioco in cui i giocatori assumono il ruolo di personaggi immaginari e agiscono e prendono decisioni all'interno di un'ambientazione immaginaria. L'esito di queste azioni e decisioni è spesso determinato da un insieme di regole e meccaniche di gioco, come il tiro di dadi o di attributi misurabili dei personaggi. I giocatori possono anche collaborare per creare una storia o una narrazione condivisa attraverso le azioni e le interazioni dei loro personaggi.
+
+## Che cos'è un gioco di ruolo in solitario?
+
+In un gioco di ruolo solitario (GDRS) un singolo giocatore assume il ruolo di uno o più personaggi, gestendo contemporaneamente anche alcuni elementi del mondo di gioco. Questi giochi prevedono in genere l'uso di un sistema di regole e di meccaniche di gioco per determinare l'esito delle azioni compiute dai personaggi controllati dal giocatore. 
+A differenza di un librogioco (come le serie Fighting Fantasy, Lone Wolf e Tunnels & Trolls), un GDRS non è una forma di narrazione interattiva a bivi in cui i risultati sono predeterminati e limitati dalle scelte dell'autore.
+
+Attraverso l'interazione tra giocatore, oracolo, strumenti e suggerimenti, le azioni del personaggio costruiranno una narrazione emergente entro i cui confini si può tentare qualsiasi cosa, senza limiti predeterminati.
 
 ## Requisiti minimi
-Avrai bisogno di:
+Per giocare a Loner avrai bisogno di:
 - **4 dadi a sei facce** (noti anche come d6): due coppie di colori diversi.
 - **carta e strumenti per scrivere**: almeno un foglio di carta straccia e una matita, ma schedine o foglietti adesivi sono un'ottima aggiunta.
 - **scheda del personaggio**: puoi utilizzare la scheda fornita in fondo al libretto o una semplice scheda.
@@ -16,7 +24,7 @@ Avrai bisogno di:
 
 ## Crea un personaggio
 
-Il tuo protagonista (o eroe se vuoi) è descritto da alcune caratteristiche:
+Il tuo protagonista (o eroe se preferisci) è descritto da alcune caratteristiche:
 
 - **Nome**: il nome dovrebbe essere iconico e consistente con il tono e l'ambientazione della storia.
 - **Concetto**: una descrizione concisa della professione, del background e delle abilità del personaggio. I migliori sono i binomi aggettivo-nome, come "Contrabbandiere audace" o "Bambino prodigio".

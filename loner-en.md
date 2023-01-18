@@ -3,12 +3,22 @@ Another Solo RPG Game
 
 CC BY 4.0 by Roberto Bisceglie
 
-Loner is a bare-bone freeform solo RPG designed to play with a solo character in "narrative" mode. You'll guide your character through the story that will unravel during the game, asking closed questions to an oracle who will assume the role of Game Master. Every now and then the game will surprise you when an unexpected plot twist happens!
+Loner is a freeform Solo RPG designed to play with a solitaire character in "narrative" mode. 
+You'll guide your character through the story that will unravel during the game, asking closed questions to an oracle who will assume the role of Game Master. 
+Every now and then the game will surprise you when an unexpected plot twist happens!
 
-To play it, it is assumed that you are already familiar with the world of role-playing and solo games. Good places to get an idea are the [RPG page](https://en.wikipedia.org/wiki/Role-playing_game) on Wikipedia and the [Lone Wolf Roleplaying](https://www.reddit.com/r/Solo_Roleplaying/wiki/guides) subreddit.
+## What is a Role Playing Game (RPG)?
+A role-playing game (RPG) is a type of game in which players assume the roles of fictional characters and act out their actions and decisions within a narrative or imaginary setting. The outcome of these actions and decisions is often determined by a set of rules and game mechanics, such as dice rolls or statistical attributes of the characters. Players may also collaborate to create a shared story or narrative through their characters' actions and interactions.
+
+## What is a Solo RPG?
+
+In a solo RPG a single player takes on the roles of one or more characters, while also simultaneously managing some elements of the game world. These games typically involve the use of a rule system and game mechanics to determine the outcome of actions taken by the player-controlled characters. 
+Unlike a gamebook (such as the Fighting Fantasy, Lone Wolf, and Tunnels & Trolls series) a solo RPG is not a form of interactive, forked narrative in which outcomes are pre-determined and limited by the author's choices.
+
+Through the interaction of player, oracle, tools, and prompts, the character's actions will build an emergent narrative within whose boundaries anything can be attempted, without predetermined limits.
 
 ## Minimum Requirements
-You will need:
+To play Loner you will need:
 - **4 six sided dice** (also known as d6s): two pairs of different colors
 - **paper and writing tools**: at least a sheet of scrap paper and and pencil, but index cards or sticky notes are a fine addition
 - **character sheet**: you may use the provided sheet at the back or a simple index card.
@@ -16,7 +26,7 @@ You will need:
 
 ## Make a Character
 
-Your protagonist (or hero if you wish) is described by some fixed traits:
+Your protagonist (or hero if you wish so) is described by some fixed traits:
 
 - **Name**: the name should be iconic and consistent with the tone and setting of the story
 - **Concept**: A concise description of the character's profession, background, and abilities. The best are adjective-name pairings, like *"Venturous Smuggler"* or *"Child Prodigy"*.
@@ -35,7 +45,7 @@ Your protagonist (or hero if you wish) is described by some fixed traits:
 > **Nemesis**: The Naturalist Order  
 > **Luck**: 6
 
-Everything else in the game is a "character". The are the living (the Non-Playing Characters), and inanimate characters (such as vehicles and crafts). Inanimate characters do not have goal, motive or a nemesis.
+Everything else in the game is a "character". The are the living (the Non-Playing Characters aka NPCs, and foes), and inanimate characters (such as vehicles and crafts). Inanimate characters do not have goal, motive or a nemesis.
 
 **Example**
 > **The Century Skylark** Spacecraft in bad shape. Hyperjump Drive, Camouflage Circuits, Midlife Courier.  
@@ -69,16 +79,18 @@ A game in Loner is a succession of scenes. A scene is a unit of time in which a 
 
 You’ll need 2d6 in one color (**Chance Dice**), and 2d6 in another (**Risk Dice**).
 
-To resolve a closed question, roll one **Chance Die** and one **Risk Die**. If the Chance Die is highest, the answer is **Yes**. If the Risk Die is highest, the answer is **No**.
-
-Also look at the value on each die. If both are low (3 or less), add **But**. If both are high (4 or more), add **And**.
+To resolve a closed question, roll one **Chance Die** and one **Risk Die**:
+- If the Chance Die is highest, the answer is **Yes**. 
+- If the Risk Die is highest, the answer is **No**.
+- If both are low (3 or less), add a **but...**. 
+- If both are high (4 or more), add an **and...**.
 
 
 | Dice Value | Chance Die > Risk Die | Risk Die > Chance Die |
-| ---------- | --------------------- | --------------------- |
-| Both < 4   | Yes, but...           | No, but...            |
-| Both > 3   | Yes, and...           | No, and...            |
-| Different  | Yes                   | No                    |
+| :--------: |:---------------------:|:---------------------:|
+| Both < 4   |      Yes, but...      |       No, but...      |
+| Both > 3   |      Yes, and...      |       No, and...      |
+| Mismatched |          Yes          |           No          |
 
 
 **Example**
@@ -97,14 +109,14 @@ When you are in conflict the game is played in turns alternating between the pla
 
 The final outcome depends on the context. Do you get caught? Are you seriously injured? You may even die if that fits the narrative.
 
-| Answer | Do you get what you want? | Harm |
-|---|---| --- |
-|Yes, and... | You get what you want, and something else.| Cause 3 |
-|Yes... | You get what you want.| Cause 2 |
-|Yes, but... | You get what you want, but at a cost.| Cause 1 |
-|No, but... | You don’t get what you want, but it’s not a total loss.| Take 1 |
-|No... | You don’t get what you were after.| Take 2 |
-|No, and... | You don’t get what you want, and things get worse.| Take 3| 
+| Answer      | Do you get what you want?                               | Harm    |
+| ----------- | ------------------------------------------------------- | ------- |
+| Yes, and... | You get what you want, and something else.              | Cause 3 |
+| Yes...      | You get what you want.                                  | Cause 2 |
+| Yes, but... | You get what you want, but at a cost.                   | Cause 1 |
+| No, but...  | You don’t get what you want, but it’s not a total loss. | Take 1  |
+| No...       | You don’t get what you were after.                      | Take 2  |
+| No, and...  | You don’t get what you want, and things get worse.      | Take 3  |
 
 **Example**
 > Zahra confronts a thug in an alley. He is "Martial Artist", "Hand-to-Hand Combat", "Feline" and "Short". Zahra tries to hit him with the knife, you throw (5) (6) [4] ("**Yes, And...**", causing a Luck loss of 3 to the thug). The thug throws a roundhouse kick at Zahra (roll (3) (2) [2], "**Yes, but...**", causing a Luck loss of 1 to Zahra). Who will win? 
@@ -165,14 +177,6 @@ To answer an Open-Ended question, roll 1d6 once on each of the following tables 
 |   5   |   face   | expand |  found  |  gather  |  prefer |  belong |
 |   6   |   trip   |  want  |   miss  |    dry   |  employ | destroy |
 
-| Nouns |      1     |    2    |    3   |    4   |     5     |     6    |
-|:-----:|:----------:|:-------:|:------:|:------:|:---------:|:--------:|
-|   1   |    cause   |  stage  | change |  verse |   thrill  |   spot   |
-|   2   |    front   |  event  |  home  |   bag  |  measure  |   birth  |
-|   3   |    prose   |  motion |  trade | memory |   chance  |   drop   |
-|   4   | instrument |  friend |  talk  | liquid |    fact   |   price  |
-|   5   |    word    | morning |  edge  |  room  |   system  |   camp   |
-|   6   |     key    |  income |   use  |  humor | statement | argument |
 
 | Adjectives |      1      |       2       |     3     |       4       |      5      |     6     |
 |:----------:|:-----------:|:-------------:|:---------:|:-------------:|:-----------:|:---------:|
@@ -182,6 +186,17 @@ To answer an Open-Ended question, roll 1d6 once on each of the following tables 
 |      4     |    silky    |   worthless   |   fixed   |     loose     |   willing   |    cold   |
 |      5     |    quiet    |     stormy    |   spooky  |   delirious   |    innate   |    late   |
 |      6     | magnificent |    arrogant   | unhealthy |    enormous   |  truculent  |  charming |
+
+
+| Nouns |      1     |    2    |    3   |    4   |     5     |     6    |
+|:-----:|:----------:|:-------:|:------:|:------:|:---------:|:--------:|
+|   1   |    cause   |  stage  | change |  verse |   thrill  |   spot   |
+|   2   |    front   |  event  |  home  |   bag  |  measure  |   birth  |
+|   3   |    prose   |  motion |  trade | memory |   chance  |   drop   |
+|   4   | instrument |  friend |  talk  | liquid |    fact   |   price  |
+|   5   |    word    | morning |  edge  |  room  |   system  |   camp   |
+|   6   |     key    |  income |   use  |  humor | statement | argument |
+
 
 **Example**
 > You ask: "Does Zahra have friends to ask for help against the hit man?". You roll 24 and 32: *multiply motion*. Zahra needs to move quickly to reach Melina Reade, a hacker with contacts in the underworld who might be able to help her!
