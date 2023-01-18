@@ -3,7 +3,7 @@ Un altro GDR Solitario
 
 CC BY 4.0 Roberto Bisceglie  
 
-Loner è un gioco di ruolo solitario minimalista progettato per giocare con un solo personaggio in modalità "narrativa". Lo guiderai attraverso la storia che si svilupperà durante il gioco, ponendo domande chiuse a un oracolo che assumerà il ruolo di Game Master. Ogni tanto il gioco ti sorprenderà quando succederà un colpo di scena inaspettato!
+***Loner*** è un gioco di ruolo solitario minimalista progettato per giocare con un solo personaggio in modalità "narrativa". Lo guiderai attraverso la storia che si svilupperà durante il gioco, ponendo domande chiuse a un oracolo che assumerà il ruolo di Game Master. Ogni tanto il gioco ti sorprenderà quando succederà un colpo di scena inaspettato!
 
 ## Che cos'è un gioco di ruolo (GDR)?
 Un gioco di ruolo (GDR) è un tipo di gioco in cui i giocatori assumono il ruolo di personaggi immaginari e agiscono e prendono decisioni all'interno di un'ambientazione immaginaria. L'esito di queste azioni e decisioni è spesso determinato da un insieme di regole e meccaniche di gioco, come il tiro di dadi o di attributi misurabili dei personaggi. I giocatori possono anche collaborare per creare una storia o una narrazione condivisa attraverso le azioni e le interazioni dei loro personaggi.
@@ -19,11 +19,11 @@ Attraverso l'interazione tra giocatore, oracolo, strumenti e suggerimenti, le az
 Giocherai da solo, ma sii certo di giocare in un ambiente per te confortevole, senza affaticarti eccessivamente e riservati l'opzione di interrompere appena dovessi sentirti a disagio per qualcuno motivo, fisico o emozionale. Non avere timore di affrontare temi nuovi, ma fallo nella piena consapevolezza dei tuoi limiti.
 
 ## Requisiti minimi
-Per giocare a Loner avrai bisogno di:
+Per giocare a *Loner* avrai bisogno di:
 - **4 dadi a sei facce** (noti anche come d6): due coppie di colori diversi.
-- **carta e strumenti per scrivere**: almeno un foglio di carta straccia e una matita, ma schedine o foglietti adesivi sono un'ottima aggiunta.
-- **scheda del personaggio**: puoi utilizzare la scheda fornita in fondo al libretto o una semplice scheda.
-- **quaderno**: Loner non è un gioco solitario diaristico, puoi facilmente giocarlo nel "teatro della mente". Ma se ne senti la necessità puoi ovviamente tenere appunti durante la tua sessione!
+- **Carta e strumenti per scrivere**: almeno un foglio di carta straccia e una matita, ma schedine o foglietti adesivi sono un'ottima aggiunta.
+- **Scheda del personaggio**: puoi utilizzare la scheda fornita in fondo al libretto o una semplice scheda.
+- **Quaderno**: *Loner* non è un gioco solitario diaristico, puoi facilmente giocarlo nel "teatro della mente". Ma se ne senti la necessità puoi ovviamente tenere appunti durante la tua sessione!
 
 ## Crea un personaggio
 
@@ -76,7 +76,7 @@ Decidi una scena iniziale per la tua avventura. Iniziare il gioco in mezzo a una
 
 ## Mantieni l'azione in movimento
 
-Un gioco in Loner è una successione di scene. Una scena è un'unità di tempo in cui si svolge una determinata azione alla ricerca di un determinato obiettivo a breve termine. In un gioco di ruolo tradizionale, è il Game Master che propone la scena e muove il mondo e i PNG. In un gioco di ruolo solitario, invece, il giocatore fa domande all'Oracolo (come farebbe a un GM) che fornirà una risposta chiusa. È quindi necessario formulare domande il cui risposta sia binaria (Sì/No).
+Una partita a *Loner* è una successione di scene. Una scena è un'unità di tempo in cui si svolge una determinata azione alla ricerca di un determinato obiettivo a breve termine. In un gioco di ruolo tradizionale, è il Game Master che propone la scena e muove il mondo e i PNG. In un GDRS, invece, il giocatore fa domande all'Oracolo (come farebbe a un GM) che fornirà una risposta chiusa. È quindi necessario formulare domande il cui risposta sia binaria (Sì/No).
 
 Avrai bisogno di 2d6 di un colore (**Dadi Chance**), e 2d6 di un altro colore (**Dadi Rischio**).
 
@@ -97,10 +97,10 @@ Per risolvere una domanda chiusa, tira un **Dado Chance** e un **Dado Rischio**:
 
 ## Vantaggio e Svantaggio
 
-Se le circostanze o i tratti positivi garantiscono un vantaggio, aggiungere un **Dado Chance** al tiro. Altrimenti, quando ostacoli o tratti negativi causano uno svantaggio, aggiungere un **Dado Rischio**. In entrambi i casi, quando si controlla il tiro si tiene solo il dado più alto del tipo aggiunto.
+Se le circostanze o i tratti positivi garantiscono un vantaggio, aggiungere un **Dado Chance** al tiro. Altrimenti, quando ostacoli o tratti negativi causano uno svantaggio, aggiungere un **Dado Rischio**. In entrambi i casi, quando si verifica l'esito del tiro si considera solo il dado del tipo aggiunto con valore più alto.
 
 **Esempio**
-> Chiedi: "Zahra riesce ad hackerare il datapad?". Tiri un dado Chance e due dadi Rischio, poiché Zahra non ha alcun vantaggio nell'hacking e il datapad è l'obiettivo della missione, comprometterlo la farebbe fallire. Si ottiene (4) [4] [5]. Si scarta il dado rischio più basso [4] e si tengono (4) e [5]. Si ottiene un **No** e si aggiunge un **e...** dato che sono entrambi 4 o superiori. Questo hacking è andato davvero male...
+> Chiedi all'Oracolo: "Zahra riesce ad hackerare il datapad?". Tiri un dado Chance e due dadi Rischio, poiché Zahra non ha alcun vantaggio nell'hacking e il datapad è l'obiettivo della missione, comprometterlo la farebbe fallire. Si ottiene (4) [4] [5]. Si scarta il dado rischio più basso [4] e si tengono (4) e [5]. Si ottiene un **No** e si aggiunge un **e...** dato che sono entrambi 4 o superiori. Questo hacking è andato davvero male...
 
 ## Danno e Fortuna
 
@@ -121,7 +121,7 @@ L'esito finale dipende dal contesto. Si viene catturati? Si viene gravemente fer
 > Zahra affronta un delinquente in un vicolo. È "Artista marziale", "Combattente corpo a corpo", "Felino" e "Basso". Zahra cerca di colpirlo con il coltello, tu tiri (5) (6) [4] ("Sì, e...", causando una perdita di Fortuna di 3 al teppista). Il teppista tira un calcio circolare a Zahra (tiro (3) (2) [2], "Sì, ma...", causando una perdita di Fortuna di 1 a Zahra). Chi vincerà? 
 
 ## Raddoppi e il Contatore di colpi di scena
-Il Contatore dei colpi di scena è una misura della tensione crescente nella narrazione. All'inizio è fissato a 0. Ogni volta che avviene un raddoppio (i dadi sono uguali), si aggiunge 1 al Contatore. Se il Contatore è inferiore a tre, la risposta è "**Sì, ma...**". Altrimenti si verifica anche un **Colpo di scena** che azzera il contatore.
+Il **Contatore dei colpi di scena** è una misura della tensione crescente nella narrazione. All'inizio è fissato a 0. Ogni volta che avviene un **raddoppio** (i dadi sono uguali), si aggiunge 1 al Contatore. Se il Contatore è inferiore a tre, la risposta è "**Sì, ma...**". Altrimenti si verifica anche un **Colpo di scena** che azzera il contatore.
 
 **Esempio**
 > Chiedi all'Oracolo se il datapad contiene dati sensati sulle attività illecite di Wethern. Il tiro è (4) [4]. La risposta è "Sì, ma...". Aggiungete 1 al contatore di colpi di scena. Ma il contatore era già a 2, quindi si verifica un colpo di scena! Il contatore si azzera a 0.

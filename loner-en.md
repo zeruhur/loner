@@ -3,7 +3,7 @@ Another Solo RPG Game
 
 CC BY 4.0 by Roberto Bisceglie
 
-Loner is a freeform Solo RPG designed to play with a solitaire character in "narrative" mode. 
+***Loner*** is a freeform Solo RPG designed to play with a solitaire character in "narrative" mode. 
 You'll guide your character through the story that will unravel during the game, asking closed questions to an oracle who will assume the role of Game Master. 
 Every now and then the game will surprise you when an unexpected plot twist happens!
 
@@ -21,11 +21,11 @@ Through the interaction of player, oracle, tools, and prompts, the character's a
 You will play alone, but be sure to play in an environment that is comfortable for you, without overexerting yourself, and reserve the option to stop as soon as you feel uncomfortable for any reason, physical or emotional. Don't be afraid to tackle new themes, but do so in full awareness of your boundaries.
 
 ## Minimum Requirements
-To play Loner you will need:
+To play *Loner* you will need:
 - **4 six sided dice** (also known as d6s): two pairs of different colors
-- **paper and writing tools**: at least a sheet of scrap paper and and pencil, but index cards or sticky notes are a fine addition
-- **character sheet**: you may use the provided sheet at the back or a simple index card.
-- **notebook**: Loner is not a solo journaling game, you can easily play it in the "theater of mind". But you can keep track of you game if you feel the need!
+- **Paper and writing tools**: at least a sheet of scrap paper and and pencil, but index cards or sticky notes are a fine addition
+- **Character sheet**: you may use the provided sheet at the back or a simple index card.
+- **Notebook**: *Loner* is not a solo journaling game, you can easily play it in the "theater of mind". But you can keep track of you game if you feel the need!
 
 ## Make a Character
 
@@ -78,7 +78,7 @@ Decide on an initial scene for your adventure. Starting the game in the middle o
 
 ## Keep the action in motion
 
-A game in Loner is a succession of scenes. A scene is a unit of time in which a certain action takes place in pursuit of a certain short-term goal. In a traditional role-playing game, it is the Game Master who proposes the scene and moves the world and NPCs. In a solo role-playing game, on the other hand, the player asks questions to an Oracle (as he would to a GM) who will provide a closed answer. It is therefore necessary to formulate questions whose answer is binary (Yes, No).
+A game in *Loner* is a succession of scenes. A scene is a unit of time in which a certain action takes place in pursuit of a certain short-term goal. In a traditional role-playing game, it is the Game Master who proposes the scene and moves the world and NPCs. In a solo role-playing game, on the other hand, the player asks questions to an Oracle (as he would to a GM) who will provide a closed answer. It is therefore necessary to formulate questions whose answer is binary (Yes, No).
 
 You’ll need 2d6 in one color (**Chance Dice**), and 2d6 in another (**Risk Dice**).
 
