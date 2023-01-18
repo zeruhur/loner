@@ -29,6 +29,14 @@
 
 ## Frailties
 
+|   | 1 | 2 | 3 | 4 | 5 | 6 |
+|---|---|---|---|---|---|---|
+| 1 | Claustrophobia | Fear of flying | PTSD | Arrogance | Xenophobia | Greed |
+| 2 | Addiction | Genetic disorder | Mechanical malfunction | PTSD | Compassion fatigue | Obsessive compulsive disorder |
+| 3 | Fear of the unknown | Fear of failure | Fear of death | Fear of responsibility | Fear of change | Fear of rejection |
+| 4 | Fear of the unknown | Fear of failure | Fear of death | Fear of responsibility | Fear of change | Fear of rejection |
+| 5 | Fear of the unknown | Fear of failure | Fear of death | Fear of responsibility | Fear of change | Fear of rejection |
+| 6 | Fear of the unknown | Fear of failure | Fear of death | Fear of responsibility | Fear of change | Fear of rejection |
 
 
 - Special rules:
