@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:ital,wght@0,400;0,700;1,400;1,700');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@900&display=swap');
+
+@font-face {
+  font-family: 'lilmrkr';
+  src: url('../fonts/lilmrkr-open-regular-webfont.woff2') format('woff2'),
+       url('../fonts/lilmrkr-open-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+body {
+    font-family: 'Raleway', sans-serif !important;
+    font-size: 1.2em !important;
+    /* color: black !important; */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Fira Sans', cursive !important;
+    font-weight: bold;
+    /* color: black !important; */
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    display: block;
+    margin-bottom: 1rem;
+    overflow: auto;
+    width: 100%
+}
+
+th {
+    font-weight: 700
+}
+
+td, th {
+    border: 1px solid #ddd;
+    padding: 6px 13px
+}
+
+tr {
+    border-top: 1px solid #ccc
+}
