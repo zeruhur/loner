@@ -40,17 +40,17 @@ Il tuo protagonista (o eroe se preferisci) è descritto da alcune caratteristich
 - **Fortuna**: 6
 
 **Esempio**
-> **Zahra Nakajima** Randagia Sagace. Scaltra, Agile, Compassionevole. 
-> Coltello, Pillole Antisoffocamento.
-> Vuole ottenere tecnologie sconosciute per salvare il suo pianeta dal collasso dell'atmosfera.
-> **Nemesi**: L'Ordine Naturalista
+> **Zahra Nakajima** Randagia Sagace. Scaltra, Agile, Compassionevole.  
+> Coltello, Pillole Antisoffocamento.  
+> Vuole ottenere tecnologie sconosciute per salvare il suo pianeta dal collasso dell'atmosfera.  
+> **Nemesi**: L'Ordine Naturalista  
 > **Fortuna**: 6
 
 Tutto il resto del gioco è un "personaggio". Ci sono personaggi viventi (i personaggi non giocanti) e personaggi inanimati (come veicoli e navi). I personaggi inanimati non hanno obiettivi, motivazioni o nemici.
 
 **Esempio**
-> **The Century Skylark** Nave spaziale in cattive condizioni. Motore di Salto, Circuiti Camaleonti, Nave Corriere in male arnese. 
-> Scudi, Torrette. 
+> **The Century Skylark** Nave spaziale in cattive condizioni. Motore di Salto, Circuiti Camaleonti, Nave Corriere in male arnese.  
+> Scudi, Torrette.  
 > **Fortuna**: 6.
 
 **Nota**  
@@ -61,12 +61,12 @@ Decidi una scena iniziale per la tua avventura. Iniziare il gioco in mezzo a una
 
 |  D6 |  Chi?<br>Il proponitore  | Cosa?<br>La missione | Perché?<br>Il incentivo | Dove?<br>La destinazione |  Come?<br>Il seme  | Ostacolo?<br>La complicazione |
 |:---:|:------------------------:|:--------------------:|:-----------------------:|:------------------------:|:------------------:|:-----------------------------:|
-|  1  |         Autorità         |      Salvataggio     |          Aiuto          |          Persona         |  Incontro casuale  |          Opposizione          |
-|  2  |      Organizzazione      |      Protezione      |         Fortuna         |          Gruppo          | Vecchia conoscenza |            Inganno            |
-|  3  | Alleato (amico, parente) |     Sfruttamento     |       Costrizione       |          Tesoro          |        Voci        |            Ambiente           |
-|  4  |          Mentore         |       Recupero       |          Dovere         |         McGuffin         | Ricerca e indagine |             Tempo             |
-|  5  |        Sconosciuto       |      Sabotaggio      |         Vendetta        |         Posizione        |    Infiltrazione   |          Sorveglianza         |
-|  6  |         Te stesso        |       Scoperta       |        Curiosità        |          Evento          |    Esplorazione    |             Natura            |
+|  **1**  |         Autorità         |      Salvataggio     |          Aiuto          |          Persona         |  Incontro casuale  |          Opposizione          |
+|  **2**  |      Organizzazione      |      Protezione      |         Fortuna         |          Gruppo          | Vecchia conoscenza |            Inganno            |
+|  **3**  | Alleato (amico, parente) |     Sfruttamento     |       Costrizione       |          Tesoro          |        Voci        |            Ambiente           |
+|  **4**  |          Mentore         |       Recupero       |          Dovere         |         McGuffin         | Ricerca e indagine |             Tempo             |
+|  **5**  |        Sconosciuto       |      Sabotaggio      |         Vendetta        |         Posizione        |    Infiltrazione   |          Sorveglianza         |
+|  **6**  |         Te stesso        |       Scoperta       |        Curiosità        |          Evento          |    Esplorazione    |             Natura            |
 
 **Esempio**
 > **Chi?** Mentore
@@ -91,9 +91,9 @@ Per risolvere una domanda chiusa, tira un **Dado Chance** e un **Dado Rischio**:
 
 | Valore dei dadi | Dado Chance > Dado Rischio | Dado Rischio > Dado Chance |
 | --------------- | -------------------------- | -------------------------- |
-| Entrambi < 4    | Sì, ma...                  | No, ma...                  |
-| Entrambi > 3    | Sì, e...                   | No, e...                   |
-| Diversi         | Sì                         | No                         |
+| **Entrambi < 4**    | Sì, ma...                  | No, ma...                  |
+| **Entrambi > 3**    | Sì, e...                   | No, e...                   |
+| **Diversi**         | Sì                         | No                         |
 
 **Esempio**
 > Chiedi: "Zahra riesce a forzare il portello?" Tiri un Dado Chance e un Dado Rischio e ottieni (5) [4]). La risposta è **Sì**, perché il Dado Chance è più alto. Aggiungi anche **e...**, perché entrambi i tiri sono 4 o più. Se il Dado Rischio fosse stato [3], sarebbe stato un semplice **Sì** invece.
@@ -143,12 +143,12 @@ Tirate 2d6 e consultate la seguente Tabella dei colpi di scena per determinare i
 
 |  D6 |      Soggetto     |        Azione       |
 |:---:|:-----------------:|:-------------------:|
-|  1  |  Una terza parte  |        Appare       |
-|  2  |       L'eroe      | Cambia la posizione |
-|  3  |    Un incontro    |     Aiuta l'eroe    |
-|  4  |  Un evento fisico |   Ostacola l'eroe   |
-|  5  | Un evento emotivo |  Cambia l'obiettivo |
-|  6  |     Un oggetto    |   Termina la scena  |
+|  **1**  |  Una terza parte  |        Appare       |
+|  **2**  |       L'eroe      | Cambia la posizione |
+|  **3**  |    Un incontro    |     Aiuta l'eroe    |
+|  **4**  |  Un evento fisico |   Ostacola l'eroe   |
+|  **5**  | Un evento emotivo |  Cambia l'obiettivo |
+|  **6**  |     Un oggetto    |   Termina la scena  |
 
 Interpreta la frase di due parole nel contesto della scena corrente. I colpi di scena faranno evolvere la trama e gli eventi in modo inaspettato.
 
@@ -158,11 +158,11 @@ Interpreta la frase di due parole nel contesto della scena corrente. I colpi di 
 
 Alla fine della scena in corso, potrebbe essere necessario determinare l'umore generale della scena successiva. In questo caso tira 1d6 e consulta la seguente tabella:
 
-|  D6 | Scena successiva |
-|:---:|:----------------:|
-| 1-3 | Scena drammatica |
-| 4-5 | Scena tranquilla |
-|  6  | Nel frattempo... |
+|    D6   | Scena successiva |
+|:-------:|:----------------:|
+| **1-3** | Scena drammatica |
+| **4-5** | Scena tranquilla |
+|  **6**  | Nel frattempo... |
 
 - Una **scena drammatica** non interrompe la tensione della scena precedente, ma la porta avanti, introducendo ulteriori ostacoli o difficoltà.
 - Durante una **scena tranquilla** c'è tempo per prendere fiato, per guarire, per fare progetti per i passi successivi e per approfondire le relazioni.
@@ -180,30 +180,30 @@ Per rispondere a una domanda aperta, tira 1d6 una volta su ciascuna delle seguen
 
 | Verbi |      1      |      2      |      3     |       4      |      5      |           6          |
 |:-----:|:-----------:|:-----------:|:----------:|:------------:|:-----------:|:--------------------:|
-|   1   |  iniettare  |   passare   |  possedere |   dividere   |  seppellire | prendere in prestito |
-|   2   |   continua  |   imparare  |  chiedere  | moltiplicare |   ricevere  |      immaginare      |
-|   3   |  sviluppare | comportarsi | sostituire |  danneggiare | raccogliere |      trasformare     |
-|   4   | condividere |   porgere   |   suonare  |   spiegare   |  migliorare |        tossire       |
-|   5   |  affrontare |  espandere  |   trovare  |   radunare   |  preferire  |      appartenere     |
-|   6   |  viaggiare  |    volere   |   mancare  |   asciugare  |  impiegare  |      distruggere     |
+| **1** |  iniettare  |   passare   |  possedere |   dividere   |  seppellire | prendere in prestito |
+| **2** |   continua  |   imparare  |  chiedere  | moltiplicare |   ricevere  |      immaginare      |
+| **3** |  sviluppare | comportarsi | sostituire |  danneggiare | raccogliere |      trasformare     |
+| **4** | condividere |   porgere   |   suonare  |   spiegare   |  migliorare |        tossire       |
+| **5** |  affrontare |  espandere  |   trovare  |   radunare   |  preferire  |      appartenere     |
+| **6** |  viaggiare  |    volere   |   mancare  |   asciugare  |  impiegare  |      distruggere     |
 
 | Sostantivi |     1     |     2     |      3      |     4    |       5      |        6       |
 |:----------:|:---------:|:---------:|:-----------:|:--------:|:------------:|:--------------:|
-|      1     |   causa   |   stadio  | cambiamento |   verso  |    brivido   |      luogo     |
-|      2     |   fronte  |   evento  |     casa    |   borsa  |    misura    |     nascita    |
-|      3     |   prosa   | movimento |  commercio  |  memoria |     caso     |     goccia     |
-|      4     | strumento |   amico   |   discorso  |  liquido |     fatto    |     prezzo     |
-|      5     |   parola  |  mattina  |    bordo    |  stanza  |    sistema   |      campo     |
-|      6     |   chiave  |  reddito  |     uso     | umorismo | affermazione | argomentazione |
+|    **1**   |   causa   |   stadio  | cambiamento |   verso  |    brivido   |      luogo     |
+|    **2**   |   fronte  |   evento  |     casa    |   borsa  |    misura    |     nascita    |
+|    **3**   |   prosa   | movimento |  commercio  |  memoria |     caso     |     goccia     |
+|    **4**   | strumento |   amico   |   discorso  |  liquido |     fatto    |     prezzo     |
+|    **5**   |   parola  |  mattina  |    bordo    |  stanza  |    sistema   |      campo     |
+|    **6**   |   chiave  |  reddito  |     uso     | umorismo | affermazione | argomentazione |
 
 | Aggettivi |      1      |      2      |     3     |      4      |       5      |       6      |
 |:---------:|:-----------:|:-----------:|:---------:|:-----------:|:------------:|:------------:|
-|     1     |  frequente  |  difettoso  |   osceno  |    scarso   |    rigido    |  prolungato  |
-|     2     |    etereo   | sofisticato |   giusto  | consapevole | stupefacente |   ordinario  |
-|     3     | descrittivo |  insidioso  |   povero  |  orgoglioso |  riflessivo  |  divertente  |
-|     4     |    setoso   |   inutile   |   fisso   |   sciolto   |  volenteroso |    freddo    |
-|     5     |  tranquillo |  tempestoso | spettrale |  delirante  |    innato    |    tardivo   |
-|     6     |  magnifico  |  arrogante  |  malsano  |    enorme   |  truculento  | affascinante |
+|   **1**   |  frequente  |  difettoso  |   osceno  |    scarso   |    rigido    |  prolungato  |
+|   **2**   |    etereo   | sofisticato |   giusto  | consapevole | stupefacente |   ordinario  |
+|   **3**   | descrittivo |  insidioso  |   povero  |  orgoglioso |  riflessivo  |  divertente  |
+|   **4**   |    setoso   |   inutile   |   fisso   |   sciolto   |  volenteroso |    freddo    |
+|   **5**   |  tranquillo |  tempestoso | spettrale |  delirante  |    innato    |    tardivo   |
+|   **6**   |  magnifico  |  arrogante  |  malsano  |    enorme   |  truculento  | affascinante |
 
 **Esempio**
 > Chiedi all'Oracolo: "Zahra ha amici a cui chiedere aiuto contro il sicario?". Tiri 24 e 32: "moltiplicare movimento". Zahra deve muoversi rapidamente per raggiungere Melina Reade, un'hacker con contatti nella malavita che potrebbe aiutarla!
