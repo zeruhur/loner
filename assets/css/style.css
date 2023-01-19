@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:ital,wght@0,400;0,700;1,400;1,700');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy');
+
+body {
+    font-family: 'Raleway', sans-serif !important;
+    font-size: 1.2em !important;
+    /* color: black !important; */
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Luckiest Guy', cursive !important;
+    /* color: black !important; */
+}
+
+.search a:hover, 
+.search .search-keyword, 
+.app-nav a:hover, 
+.app-nav a:active,
+.sidebar ul li.active > a, 
+.markdown-section a, 
+.token.attr-value, 
+.token.control, 
+.token.directive, 
+.token.string, 
+.token.unit, 
+section.cover .cover-main > p:last-child a,
+section.cover blockquote > p > a:hover
+{ color: #013a7c }  
+
+.github-corner svg {
+  fill: #013a7c;
+}
+
+section.cover .cover-main>p:last-child a {
+    border: 1px solid #013a7c;
+  }
+  
+section.cover .cover-main>p:last-child a:last-child {
+   background-color: #013a7c;
