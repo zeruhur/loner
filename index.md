@@ -12,8 +12,8 @@ To play it, it is assumed that you are already familiar with the world of role-p
 
 You can play online with the [Loner Assistant](https://zeruhur.space/loner-assistant/)!
 
-## Genre Packs
-If you need inspiration to build your games in Loner, Genre Packs with additional options are available here:
+## Adventure Packs
+If you need inspiration to build your games in Loner, Adventure Packs with additional options are available here:
 
 - [Fantasy](AP01_fantasy.md)
 - [Space Sci-Fi](AP02_Space_SciFi.md)
