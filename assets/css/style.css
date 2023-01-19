@@ -1,14 +1,30 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:ital,wght@0,400;0,700;1,400;1,700');
 @import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy');
 
+@font-face {
+  font-family: 'lilmrkr';
+  src: url('../fonts/lilmrkr-open-regular-webfont.woff2') format('woff2'),
+       url('../fonts/lilmrkr-open-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
 body {
     font-family: 'Raleway', sans-serif !important;
     font-size: 1.2em !important;
     /* color: black !important; */
 }
+
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Luckiest Guy', cursive !important;
     /* color: black !important; */
+}
+
+#loner , h1.app-name {
+  font-family: 'lilmrkr' !important;
+  font-size: 4em;
+  color:black;
 }
 
 .search a:hover, 
@@ -24,15 +40,16 @@ h1, h2, h3, h4, h5, h6 {
 .token.unit, 
 section.cover .cover-main > p:last-child a,
 section.cover blockquote > p > a:hover
-{ color: #013a7c }  
+{ color: black }  
 
 .github-corner svg {
-  fill: #013a7c;
+  fill: black;
 }
 
 section.cover .cover-main>p:last-child a {
-    border: 1px solid #013a7c;
+    border: 1px solid black;
   }
   
 section.cover .cover-main>p:last-child a:last-child {
-   background-color: #013a7c;
+   background-color: black;
+}
