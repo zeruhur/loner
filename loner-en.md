@@ -55,6 +55,9 @@ Everything else in the game is a "character". The are the living (the Non-Playin
 > Shields, Turrets.  
 > **Luck**: 6.
 
+**Note**  
+Traits are used to give depth and frame to the character. They are a qualitative representation of character traits. **They are not quantitative measures**.
+
 ## Start your game
 Decide on an initial scene for your adventure. Starting the game in the middle of an action scene is a good way to set events in motion. If nothing comes to mind, roll on each of the following questions to generate a random adventure seed.
 
@@ -103,12 +106,20 @@ To resolve a closed question, roll one **Chance Die** and one **Risk Die**:
 
 If circumstances or positive traits grant an advantage, add a **Chance Die** to the roll. Otherwise, when hindrances or negative traits cause a disadvantage, add a **Risk Die**. In both cases keep only the higher die of the added type when you check the roll.
 
+Consider traits **intuitively and not quantitatively**, using the context of the situation at play. It is important to keep the flow of play fast and not accounting for advantages and disadvantages numerically!
+
 **Example**
 > You ask, "Does Zahra hack the datapad?" You roll one Chance Die and two Risk Die, as Zahra does not have any advantage in hacking and the datapad is the mission goal, compromising it would cause the mission to fail. You get (4) [4] [5]. You discard the lower Risk Die [4] and keep (4) and [5]. You obtain a **No** and add a **And** since they are both 4 or higher. This hacking has gone really bad...
 
+## Conflicts
+Conflicts can be resolved in different ways depending on preferences and context:
+1. Ask a single closed question. The Oracle's answer determines the outcome of the conflict.
+2. Ask a series of closed questions to resolve current single actions.
+3. Use he mechanic of Harm & Luck below.
+
 ## Harm & Luck
 
-When you are in conflict the game is played in turns alternating between the player and NPCs. When you fail your defense, reduce your current Luck according to the table below. NPCs also have a Luck trait. If you attack in any form, reduce the targets Luck according to the table below. When your Luck runs out you face mortal danger and the next attack will take you out of the conflict.
+The conflict is resolved in turns alternating between the player and NPCs. When you fail your defense, reduce your current Luck according to the table below. NPCs also have a Luck trait. If you attack in any form, reduce the targets Luck according to the table below. When your Luck runs out you face mortal danger and the next attack will take you out of the conflict.
 
 The final outcome depends on the context. Do you get caught? Are you seriously injured? You may even die if that fits the narrative.
 
