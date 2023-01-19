@@ -232,7 +232,7 @@ A character may use is Fortune to cast spells. Each spell or magic ability has a
 * **Motive:** A desire to aid and protect the innocent
 * **Nemesis:** Dark cults and practitioners of dark magic
 
-## Enemies
+## Monsters
 
 ### Dragon
 
