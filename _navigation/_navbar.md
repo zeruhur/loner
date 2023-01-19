@@ -7,3 +7,4 @@
   - [Space Sci-Fi Adventure Pack](AP02_Space_SciFi.md)
 - **Versione Italiana**
   - [Regolamento](loner-ita.md)
+- [Loner Assistant](https://zeruhur.space/loner-assistant/)
