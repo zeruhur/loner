@@ -10,7 +10,7 @@
 - The kingdom is plagued by various threats, including invasions from neighboring kingdoms, banditry, and the threat of dark magic.
 - The kingdom is also home to several factions vying for power, including the ruling monarchy, the powerful noble houses, the College of Wizards, and secret societies.
 
-## Character Options
+## Character Traits
 
 ### Concepts
 
