@@ -9,6 +9,7 @@
 ## Character Traits
 
 ### Concepts
+
 |     | 1                  | 2                | 3                               | 4                | 5               | 6                    |
 | --- | ------------------ | ---------------- | ------------------------------- | ---------------- | --------------- | -------------------- |
 | 1   | Space Captain      | Ace Pilot        | Cybernetically enhanced Soldier | Alien Ambassador | Space Explorer  | Space Pirate         |
