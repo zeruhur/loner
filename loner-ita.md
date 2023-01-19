@@ -53,6 +53,9 @@ Tutto il resto del gioco è un "personaggio". Ci sono personaggi viventi (i pers
 > Scudi, Torrette. 
 > **Fortuna**: 6.
 
+**Nota**  
+I tratti sono utilizzati per dare corpo e spessore al personaggio. Sono una rappresentazione qualitativa dei tratti del personaggio. **Non sono misure quantitative**.
+
 ## Inizia l'avventura
 Decidi una scena iniziale per la tua avventura. Iniziare il gioco in mezzo a una scena d'azione è un buon modo per mettere in moto gli eventi. Se non ti viene in mente nulla, tira i dadi su ciascuna delle seguenti domande per generare un seme di avventura casuale.
 
@@ -99,8 +102,16 @@ Per risolvere una domanda chiusa, tira un **Dado Chance** e un **Dado Rischio**:
 
 Se le circostanze o i tratti positivi garantiscono un vantaggio, aggiungere un **Dado Chance** al tiro. Altrimenti, quando ostacoli o tratti negativi causano uno svantaggio, aggiungere un **Dado Rischio**. In entrambi i casi, quando si verifica l'esito del tiro si considera solo il dado del tipo aggiunto con valore più alto.
 
+Considerare i tratti in gioco **intuitivamente e non quantitativamente**, utilizzando il contesto. È importante mantenere il flusso di gioco veloce e non "contabilizzare" vantaggi e svantaggi in modo preciso!
+
 **Esempio**
 > Chiedi all'Oracolo: "Zahra riesce ad hackerare il datapad?". Tiri un dado Chance e due dadi Rischio, poiché Zahra non ha alcun vantaggio nell'hacking e il datapad è l'obiettivo della missione, comprometterlo la farebbe fallire. Si ottiene (4) [4] [5]. Si scarta il dado rischio più basso [4] e si tengono (4) e [5]. Si ottiene un **No** e si aggiunge un **e...** dato che sono entrambi 4 o superiori. Questo hacking è andato davvero male...
+
+## Conflitti
+I conflitti possono essere risolti in modi diversi, a seconda delle preferenze e del contesto:
+1. Porre una singola domanda chiusa. La risposta dell'Oracolo determina l'esito del conflitto.
+2. Porre una serie di domande chiuse per risolvere le singole azioni in corso.
+3. Utilizzare la meccanica di Danno e Fortuna di seguito riportata.
 
 ## Danno e Fortuna
 
