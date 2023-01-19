@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:ital,wght@0,400;0,700;1,400;1,700');
 @import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@900&display=swap');
 
 @font-face {
   font-family: 'lilmrkr';
@@ -17,7 +18,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Luckiest Guy', cursive !important;
+    font-family: 'Fira Sans', cursive !important;
+    font-weight: bold;
     /* color: black !important; */
 }
 
