@@ -1,6 +1,7 @@
 # Loner
+Another Solo RPG
 
-CC BY 4.0 by Roberto Bisceglie
+(CC) 2023 Roberto Bisceglie
 
 <iframe frameborder="0" src="https://itch.io/embed/1182289?linkback=true" width="552" height="167"><a href="https://zeruhur.itch.io/loner">Loner by Zotiquest Games</a></iframe>
 
