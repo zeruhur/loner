@@ -1,11 +1,10 @@
 # Loner
 Un altro GDR Solitario
 
-CC BY 4.0 Roberto Bisceglie  
-
 ***Loner*** è un gioco di ruolo solitario minimalista progettato per giocare con un solo personaggio in modalità "narrativa". Lo guiderai attraverso la storia che si svilupperà durante il gioco, ponendo domande chiuse a un oracolo che assumerà il ruolo di Game Master. Ogni tanto il gioco ti sorprenderà quando succederà un colpo di scena inaspettato!
 
 ## Che cos'è un gioco di ruolo (GDR)?
+
 Un gioco di ruolo (GDR) è un tipo di gioco in cui i giocatori assumono il ruolo di personaggi immaginari e agiscono e prendono decisioni all'interno di un'ambientazione immaginaria. L'esito di queste azioni e decisioni è spesso determinato da un insieme di regole e meccaniche di gioco, come il tiro di dadi o di attributi misurabili dei personaggi. I giocatori possono anche collaborare per creare una storia o una narrazione condivisa attraverso le azioni e le interazioni dei loro personaggi.
 
 ## Che cos'è un gioco di ruolo in solitario?
@@ -16,18 +15,20 @@ A differenza di un librogioco (come le serie Fighting Fantasy, Lone Wolf e Tunne
 Attraverso l'interazione tra giocatore, oracolo, strumenti e suggerimenti, le azioni del personaggio costruiranno una narrazione emergente entro i cui confini si può tentare qualsiasi cosa, senza limiti predeterminati.
 
 ## Strumenti di sicurezza
+
 Giocherai da solo, ma sii certo di giocare in un ambiente per te confortevole, senza affaticarti eccessivamente e riservati l'opzione di interrompere appena dovessi sentirti a disagio per qualcuno motivo, fisico o emozionale. Non avere timore di affrontare temi nuovi, ma fallo nella piena consapevolezza dei tuoi limiti.
 
 ## Requisiti minimi
+
 Per giocare a *Loner* avrai bisogno di:
 - **4 dadi a sei facce** (noti anche come d6): due coppie di colori diversi.
 - **Carta e strumenti per scrivere**: almeno un foglio di carta straccia e una matita, ma schedine o foglietti adesivi sono un'ottima aggiunta.
 - **Scheda del personaggio**: puoi utilizzare la scheda fornita in fondo al libretto o una semplice scheda.
 - **Quaderno**: *Loner* non è un gioco solitario diaristico, puoi facilmente giocarlo nel "teatro della mente". Ma se ne senti la necessità puoi ovviamente tenere appunti durante la tua sessione!
 
-## Crea un personaggio
+## Crea il Protagonista
 
-Il tuo protagonista (o eroe se preferisci) è descritto da alcune caratteristiche:
+Il tuo Protagonista è descritto da alcune caratteristiche:
 
 - **Nome**: il nome dovrebbe essere iconico e consistente con il tono e l'ambientazione della storia.
 - **Concetto**: una descrizione concisa della professione, del background e delle abilità del personaggio. I migliori sono i binomi aggettivo-nome, come "Contrabbandiere audace" o "Bambino prodigio".
@@ -46,18 +47,30 @@ Il tuo protagonista (o eroe se preferisci) è descritto da alcune caratteristich
 > **Nemesi**: L'Ordine Naturalista  
 > **Fortuna**: 6
 
-Tutto il resto del gioco è un "personaggio". Ci sono personaggi viventi (i personaggi non giocanti) e personaggi inanimati (come veicoli e navi). I personaggi inanimati non hanno obiettivi, motivazioni o nemici.
+**NOTA**  
+
+I tratti sono utilizzati per dare corpo e spessore al personaggio. Sono una rappresentazione qualitativa dei tratti del personaggio. **Non sono misure quantitative**.
+
+## Tutto è un personaggio!
+
+In *Loner* anche i Personaggi Non Giocanti (PNG), i Nemici, le Organizzazioni, i Mostri e persino gli oggetti rilevanti come i veicoli sono personaggi!
+
+Un **Personaggio Vivente** segue le stesse regole di generazione del Protagonista.
+I **Personaggi Non Viventi**, invece, non hanno uno scopo, un movente, né una nemesi.
 
 **Esempio**
 > **The Century Skylark** Nave spaziale in cattive condizioni. Motore di Salto, Circuiti Camaleonti, Nave Corriere in male arnese.  
 > Scudi, Torrette.  
 > **Fortuna**: 6.
 
-**Nota**  
-I tratti sono utilizzati per dare corpo e spessore al personaggio. Sono una rappresentazione qualitativa dei tratti del personaggio. **Non sono misure quantitative**.
-
 ## Inizia l'avventura
-Decidi una scena iniziale per la tua avventura. Iniziare il gioco in mezzo a una scena d'azione è un buon modo per mettere in moto gli eventi. Se non ti viene in mente nulla, tira i dadi su ciascuna delle seguenti domande per generare un seme di avventura casuale.
+
+Per iniziare un'avventura in Loner dovrai determinare la scena iniziale:
+
+1. Potresti pensare a una situazione drammatica e iniziare il gioco nel bel mezzo di una scena d'azione. Questo spingerà gli eventi in avanti, permettendoti di costruire la storia mentre procedi.
+2. Altrimenti, se preferisci definire una cornice per l'avventura puoi rispondere alle classiche domande: Chi? Cosa, perché? Dove? Come? Aggiungi anche un Ostacolo da superare.
+
+Se trovi difficile rispondere a una o tutte le domande, la tabella seguente fornisce spunti sui quali costruire la tua avventura.
 
 |  D6 |  Chi?<br>Il proponitore  | Cosa?<br>La missione | Perché?<br>Il incentivo | Dove?<br>La destinazione |  Come?<br>Il seme  | Ostacolo?<br>La complicazione |
 |:---:|:------------------------:|:--------------------:|:-----------------------:|:------------------------:|:------------------:|:-----------------------------:|
@@ -89,11 +102,11 @@ Per risolvere una domanda chiusa, tira un **Dado Chance** e un **Dado Rischio**:
 - Se entrambi sono bassi (3 o meno), aggiungi **ma...**. 
 - Se entrambi sono alti (4 o più), aggiungi **e...**.
 
-| Valore dei dadi | Dado Chance > Dado Rischio | Dado Rischio > Dado Chance |
-| --------------- | -------------------------- | -------------------------- |
-| **Entrambi < 4**    | Sì, ma...                  | No, ma...                  |
-| **Entrambi > 3**    | Sì, e...                   | No, e...                   |
-| **Diversi**         | Sì                         | No                         |
+| Valore dei dadi  | Dado Chance > Dado Rischio | Dado Rischio > Dado Chance |
+| ---------------- | -------------------------- | -------------------------- |
+| **Entrambi < 4** | Sì, ma...                  | No, ma...                  |
+| **Entrambi > 3** | Sì, e...                   | No, e...                   |
+| **Diversi**      | Sì                         | No                         |
 
 **Esempio**
 > Chiedi: "Zahra riesce a forzare il portello?" Tiri un Dado Chance e un Dado Rischio e ottieni (5) [4]). La risposta è **Sì**, perché il Dado Chance è più alto. Aggiungi anche **e...**, perché entrambi i tiri sono 4 o più. Se il Dado Rischio fosse stato [3], sarebbe stato un semplice **Sì** invece.
@@ -108,6 +121,7 @@ Considerare i tratti in gioco **intuitivamente e non quantitativamente**, utiliz
 > Chiedi all'Oracolo: "Zahra riesce ad hackerare il datapad?". Tiri un dado Chance e due dadi Rischio, poiché Zahra non ha alcun vantaggio nell'hacking e il datapad è l'obiettivo della missione, comprometterlo la farebbe fallire. Si ottiene (4) [4] [5]. Si scarta il dado rischio più basso [4] e si tengono (4) e [5]. Si ottiene un **No** e si aggiunge un **e...** dato che sono entrambi 4 o superiori. Questo hacking è andato davvero male...
 
 ## Conflitti
+
 I conflitti possono essere risolti in modi diversi, a seconda delle preferenze e del contesto:
 1. Porre una singola domanda chiusa. La risposta dell'Oracolo determina l'esito del conflitto.
 2. Porre una serie di domande chiuse per risolvere le singole azioni in corso.
@@ -131,26 +145,31 @@ L'esito finale dipende dal contesto. Si viene catturati? Si viene gravemente fer
 **Esempio**
 > Zahra affronta un delinquente in un vicolo. È "Artista marziale", "Combattente corpo a corpo", "Felino" e "Basso". Zahra cerca di colpirlo con il coltello, tu tiri (5) (6) [4] ("Sì, e...", causando una perdita di Fortuna di 3 al teppista). Il teppista tira un calcio circolare a Zahra (tiro (3) (2) [2], "Sì, ma...", causando una perdita di Fortuna di 1 a Zahra). Chi vincerà? 
 
-## Raddoppi e il Contatore di colpi di scena
+## Raddoppi e il Contatore di Colpi di Scena
+
 Il **Contatore dei colpi di scena** è una misura della tensione crescente nella narrazione. All'inizio è fissato a 0. Ogni volta che avviene un **raddoppio** (i dadi sono uguali), si aggiunge 1 al Contatore. Se il Contatore è inferiore a tre, la risposta è "**Sì, ma...**". Altrimenti si verifica anche un **Colpo di scena** che azzera il contatore.
 
 **Esempio**
-> Chiedi all'Oracolo se il datapad contiene dati sensati sulle attività illecite di Wethern. Il tiro è (4) [4]. La risposta è "Sì, ma...". Aggiungete 1 al contatore di colpi di scena. Ma il contatore era già a 2, quindi si verifica un colpo di scena! Il contatore si azzera a 0.
+> Chiedi all'Oracolo se il datapad contiene dati sensati sulle attività illecite di Wethern. Il tiro è (4) [4]. La risposta è "Sì, ma...". Aggiungete 1 al Contatore di Colpi di Scena. Ma il contatore era già a 2, quindi si verifica un colpo di scena! Il contatore si azzera a 0.
+
+**NOTA**
+
+Il Contatore di Colpi di Scena non si applica ai Conflitti risolti dalle regole Danno e Fortuna. Viene invece utilizzato regolarmente se il Conflitto è gestito con domande chiuse.
 
 ## Determinare il colpo di scena
 
 Tirate 2d6 e consultate la seguente Tabella dei colpi di scena per determinare il tipo di colpo di scena. 
 
-|  D6 |      Soggetto     |        Azione       |
-|:---:|:-----------------:|:-------------------:|
-|  **1**  |  Una terza parte  |        Appare       |
-|  **2**  |       L'eroe      | Cambia la posizione |
-|  **3**  |    Un incontro    |     Aiuta l'eroe    |
-|  **4**  |  Un evento fisico |   Ostacola l'eroe   |
-|  **5**  | Un evento emotivo |  Cambia l'obiettivo |
-|  **6**  |     Un oggetto    |   Termina la scena  |
+|   D6  |      Soggetto     |        Azione       |
+|:-----:|:-----------------:|:-------------------:|
+| **1** |  Una terza parte  |        Appare       |
+| **2** |       L'eroe      | Cambia la posizione |
+| **3** |    Un incontro    |     Aiuta l'eroe    |
+| **4** |  Un evento fisico |   Ostacola l'eroe   |
+| **5** | Un evento emotivo |  Cambia l'obiettivo |
+| **6** |     Un oggetto    |   Termina la scena  |
 
-Interpreta la frase di due parole nel contesto della scena corrente. I colpi di scena faranno evolvere la trama e gli eventi in modo inaspettato.
+Interpreta la frase di due parole nel contesto della scena corrente. I Colpi di Scena faranno evolvere la trama e gli eventi in modo inaspettato.
 
 > Ora che Zahra conosce il contenuto del datapad, ma si tirano 1 e 5 sulla Tabella dei colpi di scena: "Un terzo", "Cambia l'obiettivo". Un agente della Corporazione Leton appare davanti a Zahra con una proposta...
 
@@ -209,6 +228,7 @@ Per rispondere a una domanda aperta, tira 1d6 una volta su ciascuna delle seguen
 > Chiedi all'Oracolo: "Zahra ha amici a cui chiedere aiuto contro il sicario?". Tiri 24 e 32: "moltiplicare movimento". Zahra deve muoversi rapidamente per raggiungere Melina Reade, un'hacker con contatti nella malavita che potrebbe aiutarla!
 
 ## Quando la storia finisce
+
 Alla fine dell'avventura si possono aggiungere un nuovo tratto al personaggio. È meglio che questo sia legato alla storia appena conclusa e può essere un'Abilità, un Equipaggiamento o una nuova Fragilità o addirittura una nuova Nemesi! È anche possibile modificare un tratto esistente per rappresentare meglio un'abilità potenziata.
 
 Annota anche l'elenco dei contatti, dei nemici e di tutti gli eventi, le persone o gli oggetti che potrebbero ripresentarsi nelle avventure future.
@@ -217,8 +237,17 @@ Annota anche l'elenco dei contatti, dei nemici e di tutti gli eventi, le persone
 > Zahra mette al sicuro il datapad nelle mani delle autorità, incastrando sia Wethern che la Corporazione Leton. Wethern viene arrestato, ma ha ottenuto un potente nemico che lavora contro la Corporazione. Alle sue abilità si aggiunge la qualifica di "Aspirante Hacker". Forse Melina può farle da mentore!
 
 ## Riconoscimenti
+
 Recluse Oracle (CC BY 4.0) di Graven Utterance e Tiny Solitary Soldier Oracle per la risoluzione principale e le meccaniche di scena.
 
 Freeform Universal Roleplaying Game (CC BY 4.0) di Nathan Russell come ispirazione dell'intero gioco e dei tratti dei personaggi.
 
 Le meccaniche di Danno sono tratte da 6Q System (CC BY 4.0) di Marcus Burggraf.
+
+## Licenza
+
+Loner v.1.1
+
+(CC) 2023 Roberto Bisceglie
+
+Quest'opera è stata rilasciata con licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale. Per leggere una copia della licenza visita il sito web http://creativecommons.org/licenses/by-sa/4.0/ o spedisci una lettera a Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.

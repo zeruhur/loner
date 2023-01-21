@@ -1,8 +1,6 @@
 # Loner
 Another Solo RPG Game
 
-CC BY 4.0 by Roberto Bisceglie
-
 ***Loner*** is a freeform Solo RPG designed to play with a solitaire character in "narrative" mode. 
 You'll guide your character through the story that will unravel during the game, asking closed questions to an oracle who will assume the role of Game Master. 
 Every now and then the game will surprise you when an unexpected plot twist happens!
@@ -27,9 +25,9 @@ To play *Loner* you will need:
 - **Character sheet**: you may use the provided sheet at the back or a simple index card.
 - **Notebook**: *Loner* is not a solo journaling game, you can easily play it in the "theater of mind". But you can keep track of you game if you feel the need!
 
-## Make a Character
+## Make Your Protagonist
 
-Your protagonist (or hero if you wish so) is described by some fixed traits:
+Your Protagonist is described by some fixed traits:
 
 - **Name**: the name should be iconic and consistent with the tone and setting of the story
 - **Concept**: A concise description of the character's profession, background, and abilities. The best are adjective-name pairings, like *"Venturous Smuggler"* or *"Child Prodigy"*.
@@ -48,18 +46,30 @@ Your protagonist (or hero if you wish so) is described by some fixed traits:
 > **Nemesis**: The Naturalist Order  
 > **Luck**: 6
 
-Everything else in the game is a "character". The are the living (the Non-Playing Characters aka NPCs, and foes), and inanimate characters (such as vehicles and crafts). Inanimate characters do not have goal, motive or a nemesis.
+**NOTE**
+
+Traits are used to give depth and frame to the character. They are a qualitative representation of character traits. **They are not quantitative measures**.
+
+## Everything is a Character!
+
+In *Loner* Non-Playing Characters (NPCs), Foes, Organizations, Monsters, and even relevant objects like vehicles are characters too!
+
+A **Living Character** follows the same rules of generation as the Protagonist.
+**Non-Living Characters**, instead, do not have a goal, a motive, nor a nemesis.
 
 **Example**
 > **The Century Skylark** Spacecraft in bad shape. Hyperjump Drive, Camouflage Circuits, Midlife Courier.  
 > Shields, Turrets.  
 > **Luck**: 6.
 
-**Note**  
-Traits are used to give depth and frame to the character. They are a qualitative representation of character traits. **They are not quantitative measures**.
+## Start Your Game
 
-## Start your game
-Decide on an initial scene for your adventure. Starting the game in the middle of an action scene is a good way to set events in motion. If nothing comes to mind, roll on each of the following questions to generate a random adventure seed.
+To begin an adventure in Loner you will need to determine the initial scene: 
+
+1. You might think of a dramatic situation and start the game in the middle of an action scene. This will push events forward, allowing you to build the story as you go.
+2. Otherwise, if you prefer to define a framework for the adventure you can answer the classic questions, Who? What, Why? Where? How? Add also an Obstacle to overcome.
+
+If you find it difficult to answer any or all of the questions, the following table provides prompts on which to build your adventure.
 
 | D6 |  Who?<br>The proposer   | What?<br>The mission | Why?<br>The incentive | Where?<br>The target |        How?<br>The seed       | Obstacle?<br>The complication |
 |:--:|:-----------------------:|:--------------------:|:---------------------:|:--------------------:|:-----------------------------:|:-----------------------------:|
@@ -79,9 +89,9 @@ Decide on an initial scene for your adventure. Starting the game in the middle o
 > **Obstacle?** Time  
 > Tobias Wethern took Zahra under his wing when her parents died. That's why she can't say no to him now. Tobias wants Zahra to steal a datapad from the Leton Corporation's subsidiary. He doesn't know precisely where it is stored, but that in 24 hours it will be taken from the company's security corps to be transferred to another location. 
 
-## Keep the action in motion
+## Keep The Action In Motion
 
-A game in *Loner* is a succession of scenes. A scene is a unit of time in which a certain action takes place in pursuit of a certain short-term goal. In a traditional role-playing game, it is the Game Master who proposes the scene and moves the world and NPCs. In a solo role-playing game, on the other hand, the player asks questions to an Oracle (as he would to a GM) who will provide a closed answer. It is therefore necessary to formulate questions whose answer is binary (Yes, No).
+A game in *Loner* is a succession of scenes. A scene is a unit of time in which a certain action takes place in pursuit of a certain short-term goal. In a traditional role-playing game, it is the Game Master who proposes the scene and moves the world and NPCs. In *Loner*, on the other hand, the player asks questions to an Oracle (as he would to a GM) who will provide a closed answer. It is therefore necessary to formulate questions whose answer is binary (Yes, No).
 
 You’ll need 2d6 in one color (**Chance Dice**), and 2d6 in another (**Risk Dice**).
 
@@ -115,7 +125,7 @@ Consider traits **intuitively and not quantitatively**, using the context of the
 Conflicts can be resolved in different ways depending on preferences and context:
 1. Ask a single closed question. The Oracle's answer determines the outcome of the conflict.
 2. Ask a series of closed questions to resolve current single actions.
-3. Use he mechanic of Harm & Luck below.
+3. Use the rules of Harm & Luck below.
 
 ## Harm & Luck
 
@@ -136,10 +146,15 @@ The final outcome depends on the context. Do you get caught? Are you seriously i
 > Zahra confronts a thug in an alley. He is "Martial Artist", "Hand-to-Hand Combat", "Feline" and "Short". Zahra tries to hit him with the knife, you throw (5) (6) [4] ("**Yes, And...**", causing a Luck loss of 3 to the thug). The thug throws a roundhouse kick at Zahra (roll (3) (2) [2], "**Yes, but...**", causing a Luck loss of 1 to Zahra). Who will win? 
 
 ## Doubles and the Twist Counter
+
 The Twist Counter is a measure of the rising tension in the narrative. At the beginning is set to 0. Every time a double throw (dice are equal) happens, add 1 to the Counter. If the Counter is below three, consider the answer as "**Yes, but...**". Otherwise a **Twist** happens and resets the Counter.
 
 **Example**
 > You ask if the datapad contains sensitive data about Wethern's illicit activities. You roll (4) [4]. The answers is "Yes, but...". You add 1 to the Twist Counter. But you were already at 2 on the counter, so also a twist happens! The counter resets to 0.
+
+**NOTE**
+
+The Twist Counter does not apply to Conflicts resolved by Harm & Luck rules. Instead, it is used regularly if the Conflict is handled with closed questions.
 
 ## Determine the Twist
 
@@ -176,6 +191,7 @@ At the end of the current scene, you may need to determine the general mood of t
 > Zahra accepts the proposal, you now roll for the next scene: 6, *Meanwhile scene*. In the following scene, Tobias Wethern hires a hit man to kill Zahra...
 
 ## Sibylline Responses
+
 The Oracle might sometimes give answers that don't make sense in the context of the scene. Don't be tempted to detail the answer with too many questions in sequence. Three questions should be sufficient. If you're still stuck, try using an open-ended question to unlock yourself or interpret the answer as "Yes, But..." and move the story forward. 
 
 ## Open-Ended Question or Get Inspired
@@ -216,6 +232,7 @@ To answer an Open-Ended question, roll 1d6 once on each of the following tables 
 > You ask: "Does Zahra have friends to ask for help against the hit man?". You roll 24 and 32: *multiply motion*. Zahra needs to move quickly to reach Melina Reade, a hacker with contacts in the underworld who might be able to help her!
 
 ## When the story ends
+
 At the end of the adventure you may add another trait to the character. It is better that this is related to how the story just ended and can be either a Skill, Gear, a new Frailty, or even a new Nemesis! You can also modify an existing trait to better represent an enhanced expertise.
 
 Also note the list of contacts, enemies and any events, people or objects that may show up again in future adventures.
@@ -224,6 +241,7 @@ Also note the list of contacts, enemies and any events, people or objects that m
 > Zahra secures the datapad in the hands of the authorities, framing both Wethern and the Leton Corporation. Wethern is arrested, but she has gained a powerful enemy working against the Corporation. She gains "Wannabe Hacker" to her skills. Maybe Melina can mentor her!
 
 ## Credits
+
 [Recluse Engine](https://gravenutterance.itch.io/recluse) (CC BY 4.0) by Graven Utterance and Tiny Solitary Soldier Oracle for the main resolution and scene mechanics.
 
 [Freeform Universal Roleplaying Game](https://www.perilplanet.com/freeform-universal/) (CC BY 4.0) by Nathan Russell as an inspiration of the whole game and the character traits.
@@ -231,3 +249,11 @@ Also note the list of contacts, enemies and any events, people or objects that m
 Harm mechanics are from [6Q System](https://chaosmeister.itch.io/6-q-system) (CC BY 4.0) by Marcus Burggraf.
 
 With deepest thanks to Shane Conner for proof reading and revision of the text.
+
+## License
+
+Loner v.1.1
+
+(CC) 2023 Roberto Bisceglie
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
