@@ -16,7 +16,7 @@ Attraverso l'interazione tra giocatore, oracolo, strumenti e suggerimenti, le az
 
 ## Strumenti di sicurezza
 
-Giocherai da solo, ma sii certo di giocare in un ambiente per te confortevole, senza affaticarti eccessivamente e riservati l'opzione di interrompere appena dovessi sentirti a disagio per qualcuno motivo, fisico o emozionale. Non avere timore di affrontare temi nuovi, ma fallo nella piena consapevolezza dei tuoi limiti.
+Giocherai da solo, ma sii certo di giocare in un ambiente per te confortevole, senza affaticarti eccessivamente e riservati l'opzione di interrompere appena dovessi sentirti a disagio per qualche motivo, fisico o emozionale. Non avere timore di affrontare temi nuovi, ma fallo nella piena consapevolezza dei tuoi limiti.
 
 ## Requisiti minimi
 
@@ -150,7 +150,7 @@ L'esito finale dipende dal contesto. Si viene catturati? Si viene gravemente fer
 Il **Contatore dei colpi di scena** è una misura della tensione crescente nella narrazione. All'inizio è fissato a 0. Ogni volta che avviene un **raddoppio** (i dadi sono uguali), si aggiunge 1 al Contatore. Se il Contatore è inferiore a tre, la risposta è "**Sì, ma...**". Altrimenti si verifica anche un **Colpo di scena** che azzera il contatore.
 
 **Esempio**
-> Chiedi all'Oracolo se il datapad contiene dati sensati sulle attività illecite di Wethern. Il tiro è (4) [4]. La risposta è "Sì, ma...". Aggiungete 1 al Contatore di Colpi di Scena. Ma il contatore era già a 2, quindi si verifica un colpo di scena! Il contatore si azzera a 0.
+> Chiedi all'Oracolo se il datapad contiene dati sensati sulle attività illecite di Wethern. Il tiro è (4) [4]. La risposta è "Sì, ma...". Aggiungete 1 al Contatore di Colpi di Scena. Ma il contatore era già a 2, quindi si verifica un colpo di scena! Il contatore scende a 0.
 
 **NOTA**
 
