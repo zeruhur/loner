@@ -8,5 +8,8 @@
         "latex",
         "plaintext"
     ],
-    "commentTranslate.targetLanguage": "it"
+    "commentTranslate.targetLanguage": "it",
+    "cSpell.words": [
+        "datapad"
+    ]
 }
