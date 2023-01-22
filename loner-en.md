@@ -25,7 +25,7 @@ To play *Loner* you will need:
 - **Character sheet**: you may use the provided sheet at the back or a simple index card.
 - **Notebook**: *Loner* is not a solo journaling game, you can easily play it in the "theater of mind". But you can keep track of you game if you feel the need!
 
-<!-- choose a genre, setting or trope -->
+<!-- TODO: choose a genre, setting or trope -->
 
 ## Make Your Protagonist
 
@@ -64,6 +64,8 @@ A **Living Character** follows the same rules of generation as the Protagonist.
 > Shields, Turrets.  
 > **Luck**: 6.
 
+<!-- TODO: ## Before the Adventure - list of NPCs, events, etc. -->
+
 ## Start Your Game
 
 To begin an adventure in Loner you will need to determine the initial scene: 
@@ -93,9 +95,12 @@ If you find it difficult to answer any or all of the questions, the following ta
 
 ## Keep The Action In Motion
 
-<!-- how to build scenes and set expectations -->
+<!-- TODO: how to build scenes and set expectations -->
+
 
 A game in *Loner* is a succession of scenes. A scene is a unit of time in which a certain action takes place in pursuit of a certain short-term goal. In a traditional role-playing game, it is the Game Master who proposes the scene and moves the world and NPCs. In *Loner*, on the other hand, the player asks questions to an Oracle (as he would to a GM) who will provide a closed answer. It is therefore necessary to formulate questions whose answer is binary (Yes, No).
+
+<!-- TODO: ## Consulting the Oracle -->
 
 You’ll need 2d6 in one color (**Chance Dice**), and 2d6 in another (**Risk Dice**).
 
@@ -104,17 +109,22 @@ To resolve a closed question, roll one **Chance Die** and one **Risk Die**:
 - If the Risk Die is highest, the answer is **No**.
 - If both are low (3 or less), add a **but...**. 
 - If both are high (4 or more), add an **and...**.
+- If both are equal, add a point to the **Twist Counter** (see below).
 
 
-| Dice Value | Chance Die > Risk Die | Risk Die > Chance Die |
-| :--------: |:---------------------:|:---------------------:|
-| Both < 4   |      Yes, but...      |       No, but...      |
-| Both > 3   |      Yes, and...      |       No, and...      |
-| Mismatched |          Yes          |           No          |
+| Dice Value |    Chance Die > Risk Die   | Risk Die > Chance Die |
+|:----------:|:--------------------------:|:---------------------:|
+|  Both < 4  |         Yes, but...        |       No, but...      |
+|  Both > 3  |         Yes, and...        |       No, and...      |
+| Mismatched |             Yes            |           No          |
+|            |                            |                       |
+|    Equal   | Add 1 to the Twist Counter |                       |
 
 
 **Example**
 > You ask, “Does Zahra manage to force the hatch?” You roll one Chance Die and one Risk Die and get (5) [4]). The answer is **Yes**, because the Chance Die is higher. You also add **And**, because both rolls are 4 or higher. If the Risk Die had come up as [3], it would have been a plain **Yes** instead.
+
+<!-- TODO: how to interpret the oracle -->
 
 ## Advantage and Disadvantage
 
