@@ -25,6 +25,8 @@ To play *Loner* you will need:
 - **Character sheet**: you may use the provided sheet at the back or a simple index card.
 - **Notebook**: *Loner* is not a solo journaling game, you can easily play it in the "theater of mind". But you can keep track of you game if you feel the need!
 
+<!-- choose a genre, setting or trope -->
+
 ## Make Your Protagonist
 
 Your Protagonist is described by some fixed traits:
@@ -90,6 +92,8 @@ If you find it difficult to answer any or all of the questions, the following ta
 > Tobias Wethern took Zahra under his wing when her parents died. That's why she can't say no to him now. Tobias wants Zahra to steal a datapad from the Leton Corporation's subsidiary. He doesn't know precisely where it is stored, but that in 24 hours it will be taken from the company's security corps to be transferred to another location. 
 
 ## Keep The Action In Motion
+
+<!-- how to build scenes and set expectations -->
 
 A game in *Loner* is a succession of scenes. A scene is a unit of time in which a certain action takes place in pursuit of a certain short-term goal. In a traditional role-playing game, it is the Game Master who proposes the scene and moves the world and NPCs. In *Loner*, on the other hand, the player asks questions to an Oracle (as he would to a GM) who will provide a closed answer. It is therefore necessary to formulate questions whose answer is binary (Yes, No).
 
