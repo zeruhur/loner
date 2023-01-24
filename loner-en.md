@@ -25,9 +25,17 @@ To play *Loner* you will need:
 - **Character sheet**: you may use the provided sheet at the back or a simple index card.
 - **Notebook**: *Loner* is not a solo journaling game, you can easily play it in the "theater of mind". But you can keep track of you game if you feel the need!
 
-<!-- TODO: choose a genre, setting or trope -->
+## Choose a genre or setting
+A Loner adventure takes place in a well-defined imagery that you will have to choose from: your favorite TV series, a book saga you are reading, an RPG setting you like, a genre you are familiar with or instead want to start exploring.
+
+You can also consult lists of tropes (google them) to generate randomly and then choose!
+
+Or you can use the Adventure Packs found in the second part of the volume.
+
+You can also generate the character first, based on randomly chosen tropes, and once it is defined, you can follow the genre that emerged at this stage.
 
 ## Make Your Protagonist
+Once the setting is established, now is the time to create your Protagonist.
 
 Your Protagonist is described by some fixed traits:
 
@@ -64,7 +72,16 @@ A **Living Character** follows the same rules of generation as the Protagonist.
 > Shields, Turrets.  
 > **Luck**: 6.
 
-<!-- TODO: ## Before the Adventure - list of NPCs, events, etc. -->
+## Before the Adventure
+You can start directly to play your adventure, but it may be worthwhile to make an extra effort.
+
+By defining your Protagonist's Nemesis you have already identified an **NPC**! Write down their sheet and keep it aside.
+
+Think about whether your Protagonist has allies or friends and throw down their sheets as well.
+
+Jot down these NPCs in a list, which you will consult when they need to be recalled as a result of a [Twist](#determine-the-twist).
+
+Also, it might be useful to jot down interesting **Locations** that serve as settings for your Protagonist and keep a list of major **Events** that happen during the game.
 
 ## Start Your Game
 
@@ -266,7 +283,7 @@ With deepest thanks to Shane Conner for proof reading and revision of the text.
 
 ## License
 
-Loner v.1.1
+Loner v.1.2
 
 (CC) 2023 Roberto Bisceglie
 

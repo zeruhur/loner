@@ -26,7 +26,17 @@ Per giocare a *Loner* avrai bisogno di:
 - **Scheda del personaggio**: puoi utilizzare la scheda fornita in fondo al libretto o una semplice scheda.
 - **Quaderno**: *Loner* non è un gioco solitario diaristico, puoi facilmente giocarlo nel "teatro della mente". Ma se ne senti la necessità puoi ovviamente tenere appunti durante la tua sessione!
 
+## Scegli un genere o un'ambientazione
+Un'avventura di Loner si svolge in un immaginario ben definito che dovrai scegliere: la tua serie TV preferita, una saga di libri che stai leggendo, un'ambientazione per RPG che ti piace, un genere che conosci bene o che invece vuoi iniziare ad esplorare.
+
+Puoi anche consultare delle liste di tropi (cerca su google!) da generare casualmente per poi decidere!
+
+Oppure puoi usare gli Adventure Packs che trovi nella seconda parte del volume.
+
+Puoi anche generare il personaggio per primo, sulla base di tropi scelti casualmente e una volta che l'hai definito, puoi seguire il genere emerso in questa fase.
+
 ## Crea il Protagonista
+Stabilita l'ambientazione, è il momento di generare il tuo Protagonista.
 
 Il tuo Protagonista è descritto da alcune caratteristiche:
 
@@ -62,6 +72,18 @@ I **Personaggi Non Viventi**, invece, non hanno uno scopo, un movente, né una n
 > **The Century Skylark** Nave spaziale in cattive condizioni. Motore di Salto, Circuiti Camaleonti, Nave Corriere in male arnese.  
 > Scudi, Torrette.  
 > **Fortuna**: 6.
+
+
+## Prima di iniziare
+Puoi iniziare direttamente a giocare la tua avventura, ma può essere utile fare uno sforzo in più.
+
+Definendo la Nemesi del tuo Protagonista hai già identificato un **PNG**! Scrivi la sua scheda e tienila da parte.
+
+Pensa se il tuo protagonista ha degli alleati o amici e butta giù anche le loro schede.
+
+Annota questi PNG in una lista, che consulterai quando sarà necessario richiamarli per effetto di un [Colpo di scena](#determinare-il-colpo-di-scena).
+
+Inoltre potrebbe essere utile annotare **Luoghi** interessanti che fanno da cornice al tuo Protagonista e mantenere una lista degli **Eventi** principali che accadono durante il gioco.
 
 ## Inizia l'avventura
 
@@ -246,7 +268,7 @@ Le meccaniche di Danno sono tratte da 6Q System (CC BY 4.0) di Marcus Burggraf.
 
 ## Licenza
 
-Loner v.1.1
+Loner v.1.2
 
 (CC) 2023 Roberto Bisceglie
 
