@@ -91,17 +91,3 @@ Format the answer in raw markdown code in a snippet box
 Give a list of 36 adventure seeds, ordered list in raw markdown code in a snippet box. Keep in mind **also** the setting, the NPCs, the creature, the factions and the location above. 
 
 Format the answer in raw markdown code in a snippet box
----
-- [X] Fantasy
-- [X] Space Sci-Fi
-- [] Post-Apocalyptic
-- [] Horror
-- [] Crime
-- [] Action Adventure
-- [] Pirates
-- [] Western
-- [] Spies
-- [] Superheroes
-- [] Sword & Sorcery
-- [] Cyberpunk
-- [] Mecha
