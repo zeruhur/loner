@@ -1,0 +1,13 @@
+- [X] Fantasy
+- [X] Space Sci-Fi
+- [] Post-Apocalyptic
+- [] Horror
+- [] Crime
+- [] Action Adventure
+- [] Pirates
+- [] Western
+- [] Spies
+- [X] Superheroes
+- [] Sword & Sorcery
+- [] Cyberpunk
+- [] Mecha
