@@ -1,5 +1,5 @@
 # Loner
-Another Solo RPG Game
+Another Solo RPG
 
 ***Loner*** is a freeform Solo RPG designed to play with a solitaire character in "narrative" mode. 
 You'll guide your character through the story that will unravel during the game, asking closed questions to an oracle who will assume the role of Game Master. 
@@ -112,12 +112,29 @@ If you find it difficult to answer any or all of the questions, the following ta
 
 ## Keep The Action In Motion
 
-<!-- TODO: how to build scenes and set expectations -->
+A game in *Loner* is a succession of scenes. 
+A scene is a unit of time in which a certain action takes place in pursuit of a certain short-term goal. 
 
+In *Loner* at each scene:
+1. **Identify what you expect from the scene**. Compared to traits, goal, and motivation determine the Protagonist's action. What might be the reaction of the game world?
+2. **Test your expectations**. When you are uncertain (or overconfident) about the reaction to your actions, [ask the Oracle](#consulting-the-oracle) a closed question (answer is Yes or No), considering the factors involved to determine if there is an [Advantage or Disadvantage](#advantage-and-disadvantage).
+3. **Interpret the result**. Is the Oracle's answer in line with your expectations? If not, in the context in which the scene takes place, how should an answer that subverts them be considered?
 
-A game in *Loner* is a succession of scenes. A scene is a unit of time in which a certain action takes place in pursuit of a certain short-term goal. In a traditional role-playing game, it is the Game Master who proposes the scene and moves the world and NPCs. In *Loner*, on the other hand, the player asks questions to an Oracle (as he would to a GM) who will provide a closed answer. It is therefore necessary to formulate questions whose answer is binary (Yes, No).
+This sequence will come to you naturally after some practice. Use it as a guideline the first few times.
 
-<!-- TODO: ## Consulting the Oracle -->
+## Identify expectations
+The Protagonist's traits characterize their behavior within the fictional world and suggest the possible actions they takes in the situational context of the scene.
+
+Based on this, you can expect the world to react in the most logical way, and you will formulate a question that tests this expectation.
+
+An expectation does not necessarily automatically lead to a question, which you need to ask only when there are concrete risks or you want to be amazed. In other cases, simply let events happen.
+
+**Example**  
+> Zahra sneaks into the Leton Corporation subsidiary. The expectation is that the place will be well guarded during the day and less so at night. To escape an inevitable head-on collision, Zahra decides to act at night and enter through the ventilation ductsYou don't expect there to be an alarm but maybe it's worth asking the question!
+
+## Consulting the Oracle
+
+When you need to test your expectations you'll ask the Oracle a closed question.
 
 You’ll need 2d6 in one color (**Chance Dice**), and 2d6 in another (**Risk Dice**).
 
@@ -141,8 +158,6 @@ To resolve a closed question, roll one **Chance Die** and one **Risk Die**:
 **Example**
 > You ask, “Does Zahra manage to force the hatch?” You roll one Chance Die and one Risk Die and get (5) [4]). The answer is **Yes**, because the Chance Die is higher. You also add **And**, because both rolls are 4 or higher. If the Risk Die had come up as [3], it would have been a plain **Yes** instead.
 
-<!-- TODO: how to interpret the oracle -->
-
 ## Advantage and Disadvantage
 
 If circumstances or positive traits grant an advantage, add a **Chance Die** to the roll. Otherwise, when hindrances or negative traits cause a disadvantage, add a **Risk Die**. In both cases keep only the higher die of the added type when you check the roll.
@@ -150,7 +165,50 @@ If circumstances or positive traits grant an advantage, add a **Chance Die** to 
 Consider traits **intuitively and not quantitatively**, using the context of the situation at play. It is important to keep the flow of play fast and not accounting for advantages and disadvantages numerically!
 
 **Example**
-> You ask, "Does Zahra hack the datapad?" You roll one Chance Die and two Risk Die, as Zahra does not have any advantage in hacking and the datapad is the mission goal, compromising it would cause the mission to fail. You get (4) [4] [5]. You discard the lower Risk Die [4] and keep (4) and [5]. You obtain a **No** and add a **And** since they are both 4 or higher. This hacking has gone really bad...
+> You ask, "Does Zahra hack the datapad?" You roll one Chance Die and two Risk Die, as Zahra does not have any advantage in hacking and the datapad is the mission goal, compromising it would cause the mission to fail. You get (5) [3] [4]. You discard the lower Risk Die [3] and keep (5) and [4]. You obtain a **Yes** and add a **And** since they are both 4 or higher.
+
+## Interpreting the Oracle
+
+Always interpret the Oracle's answer in relation to the context of the game situation:
+
+- Answers without modifiers are straightforward answers without uncertainty. They are also the least interesting to continue the story.
+- Answers with modifiers (but.../and...), on the other hand, require you to make the effort to identify what new situation triggered the consultation.
+
+**Example**  
+> The datapad is hacked *and...* the information contained is not just about illicit activities of the Leton Corporation... There is more!
+
+## Sibylline Responses
+
+The Oracle might sometimes give answers that don't make sense in the context of the scene. Don't be tempted to detail the answer with too many questions in sequence. Three questions should be sufficient. If you're still stuck, try using an open-ended question to unlock yourself or interpret the answer as "Yes, But..." and move the story forward.
+
+## Doubles and the Twist Counter
+
+The Twist Counter is a measure of the rising tension in the narrative. At the beginning is set to 0. Every time a double throw (dice are equal) happens, add 1 to the Counter. If the Counter is below three, consider the answer as "**Yes, but...**". Otherwise a **Twist** happens and resets the Counter.
+
+**Example**
+> You ask if the datapad contains sensitive data about Wethern's illicit activities. You roll (4) [4]. The answers is "Yes, but...". Zahra finds a note about a scapegoat to frame for the theft. Could it be her?
+> You also add 1 to the Twist Counter. But the counter was already at 2, so also a twist happens! The counter resets to 0.
+
+**NOTE**
+
+The Twist Counter does not apply to Conflicts resolved by Harm & Luck rules. Instead, it is used regularly if the Conflict is handled with closed questions.
+
+## Determine the Twist
+
+Roll 2d6 and consult the following Twist Table to determine what kind of twist happens. 
+
+| D6 |      Subject       |        Action       |
+|:--:|:------------------:|:-------------------:|
+|  1 |    A third party   |       Appears       |
+|  2 |      The hero      | Alters the location |
+|  3 |    An encounter    |    Helps the hero   |
+|  4 |  A physical event  |   Hinders the hero  |
+|  5 | An emotional event |   Changes the goal  |
+|  6 |      An object     |    Ends the scene   |
+
+Interpret the two-word sentence in the context of the current scene. Twists will keep the plot and events going in unexpected ways.
+
+> Now Zahra knows the content of the datapad, but you roll 1 and 5 on the Twist Table "*A third party*", "*Changes the goal*". An agent of the Leton Corporation appears before Zahra with a proposal....
 
 ## Conflicts
 Conflicts can be resolved in different ways depending on preferences and context:
@@ -176,37 +234,9 @@ The final outcome depends on the context. Do you get caught? Are you seriously i
 **Example**
 > Zahra confronts a thug in an alley. He is "Martial Artist", "Hand-to-Hand Combat", "Feline" and "Short". Zahra tries to hit him with the knife, you throw (5) (6) [4] ("**Yes, And...**", causing a Luck loss of 3 to the thug). The thug throws a roundhouse kick at Zahra (roll (3) (2) [2], "**Yes, but...**", causing a Luck loss of 1 to Zahra). Who will win? 
 
-## Doubles and the Twist Counter
-
-The Twist Counter is a measure of the rising tension in the narrative. At the beginning is set to 0. Every time a double throw (dice are equal) happens, add 1 to the Counter. If the Counter is below three, consider the answer as "**Yes, but...**". Otherwise a **Twist** happens and resets the Counter.
-
-**Example**
-> You ask if the datapad contains sensitive data about Wethern's illicit activities. You roll (4) [4]. The answers is "Yes, but...". You add 1 to the Twist Counter. But you were already at 2 on the counter, so also a twist happens! The counter resets to 0.
-
-**NOTE**
-
-The Twist Counter does not apply to Conflicts resolved by Harm & Luck rules. Instead, it is used regularly if the Conflict is handled with closed questions.
-
-## Determine the Twist
-
-Roll 2d6 and consult the following Twist Table to determine what kind of twist happens. 
-
-| D6 |      Subject       |        Action       |
-|:--:|:------------------:|:-------------------:|
-|  1 |    A third party   |       Appears       |
-|  2 |      The hero      | Alters the location |
-|  3 |    An encounter    |    Helps the hero   |
-|  4 |  A physical event  |   Hinders the hero  |
-|  5 | An emotional event |   Changes the goal  |
-|  6 |      An object     |    Ends the scene   |
-
-Interpret the two-word sentence in the context of the current scene. Twists will keep the plot and events going in unexpected ways.
-
-> Now Zahra knows the content of the datapad, but you roll 1 and 5 on the Twist Table "*A third party*", "*Changes the goal*". An agent of the Leton Corporation appears before Zahra with a proposal....
-
 ## Determine the mood of the next scene
 
-At the end of the current scene, you may need to determine the general mood of the next one. In this case roll 1d6 and consult the following table:
+At the end of the current scene sometimes you will be clear about the direction to take, other times you may need to determine the general mood of the next one. In this case roll 1d6 and consult the following table:
 
 |  D6 |   Next Scene   |
 |:---:|:--------------:|
@@ -220,10 +250,6 @@ At the end of the current scene, you may need to determine the general mood of t
 
 **Example**
 > Zahra accepts the proposal, you now roll for the next scene: 6, *Meanwhile scene*. In the following scene, Tobias Wethern hires a hit man to kill Zahra...
-
-## Sibylline Responses
-
-The Oracle might sometimes give answers that don't make sense in the context of the scene. Don't be tempted to detail the answer with too many questions in sequence. Three questions should be sufficient. If you're still stuck, try using an open-ended question to unlock yourself or interpret the answer as "Yes, But..." and move the story forward. 
 
 ## Open-Ended Question or Get Inspired
 
@@ -273,17 +299,16 @@ Also note the list of contacts, enemies and any events, people or objects that m
 
 ## Credits
 
-[Recluse Engine](https://gravenutterance.itch.io/recluse) (CC BY 4.0) by Graven Utterance and Tiny Solitary Soldier Oracle for the main resolution and scene mechanics.
+- [Recluse Engine](https://gravenutterance.itch.io/recluse) (CC BY 4.0) by Graven Utterance and Tiny Solitary Soldier Oracle for the main resolution and scene mechanics.
+- [Freeform Universal Roleplaying Game](https://www.perilplanet.com/freeform-universal/) (CC BY 4.0) by Nathan Russell as an inspiration of the whole game and the character traits.
+- Harm mechanics are from [6Q System](https://chaosmeister.itch.io/6-q-system) (CC BY 4.0) by Marcus Burggraf.
+- Tana Pigeon for Mythic and clarifying for me the mechanisms of expectation and testing.
 
-[Freeform Universal Roleplaying Game](https://www.perilplanet.com/freeform-universal/) (CC BY 4.0) by Nathan Russell as an inspiration of the whole game and the character traits.
-
-Harm mechanics are from [6Q System](https://chaosmeister.itch.io/6-q-system) (CC BY 4.0) by Marcus Burggraf.
-
-With deepest thanks to Shane Conner for proof reading and revision of the text.
+With deepest thanks to Shane Conner for proof reading and revision of the text and to the Italian solo player community for their constant support and drive to improve the game.
 
 ## License
 
-Loner v.1.2
+Loner v.1.5
 
 (CC) 2023 Roberto Bisceglie
 
