@@ -59,13 +59,15 @@
 | 6   | Magic Scimitar | Magic battle axe | Magic greatsword | Magic morningstar | Magic warhammer | Magic mace      |
 
 ## Genre Rules: Magic
-A character may use is Fortune to cast spells. Each spell or magic ability has a Fortune cost associated with it. The cost can be different depending on the spell or ability. When a player character wants to use a spell or magic ability, they must spend Fortune from their pool. Then rolls the dice to determine the outcome of the action:
+A character may use their Luck to cast spells. Each spell or magic ability has a Luck cost associated with it. The cost can be different depending on the spell or ability. When a player character wants to use a spell or magic ability, they must spend Luck from their pool. Then rolls the dice to determine the outcome of the action:
   - **No and**: the spell fails and the character suffers some other negative effect.
   - **No**: the spell fails and the character loses the mana spent.
   - **No but**: the spell fails but the character doesn't lose the mana spent.
   - **Yes but**: the spell succeeds but with some negative effect or drawback.
   - **Yes**: the spell succeeds.
   - **Yes and**: the spell succeeds and the character gains additional benefits or advantages.
+
+Luck consumed for casting spells recharges after a rest in a safe area. If a Conflict takes place, Luck points will be based on the current value and reset when the Conflict is over according to the basic rules.
 
 ### Spells
 
