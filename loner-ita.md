@@ -48,7 +48,7 @@ Il tuo Protagonista è descritto da alcune caratteristiche:
 - **Obiettivo**: l'obiettivo a lungo termine.
 - **Motivazione**: ciò che spinge alla persecuzione dell'obiettivo.
 - **Nemesi**: una persona o organizzazione che ostacola il protagonista. Può emergere durante le prime sessioni di gioco o non essere l'antagonista diretto della storia, pronto a spuntare per rendere la vita dell'eroe ancora più difficile.
-- **Fortuna**: 6
+- **Fortuna**: la misura della capacità di evitare la malasorte o un esito infausto da parte di un personaggio . Si applica solo nei Conflitti e si ricarica automaticamente al loro termine. I punti Fortuna sono sempre 6 quando non consumati.
 
 **Esempio**
 > **Zahra Nakajima** Randagia Sagace. Scaltra, Agile, Compassionevole.  
@@ -152,7 +152,7 @@ Per risolvere una domanda chiusa, tira un **Dado Chance** e un **Dado Rischio**:
 | **Entrambi > 3** | Sì, e...                                   | No, e...                   |
 | **Diversi**      | Sì                                         | No                         |
 |                  |                                            |                            |
-| Eguali           | Aggiungi 1 al Contatore dei colpi di Scena |                            |
+| Uguali           | "Sì, ma..." e aggiungi 1 al Contatore dei Colpi di Scena |                            |
 
 **Esempio**
 > Chiedi: "Zahra riesce a forzare il portello?" Tiri un Dado Chance e un Dado Rischio e ottieni (5) [4]). La risposta è **Sì**, perché il Dado Chance è più alto. Aggiungi anche **e...**, perché entrambi i tiri sono 4 o più. Se il Dado Rischio fosse stato [3], sarebbe stato un semplice **Sì** invece.
@@ -305,7 +305,7 @@ Un sincero ringraziamento al gruppo dei Ruolatori Solitari per il continuo suppo
 
 ## Licenza
 
-Loner v.1.5
+Loner v.1.6
 
 (CC) 2023 Roberto Bisceglie
 

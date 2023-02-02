@@ -47,7 +47,7 @@ Your Protagonist is described by some fixed traits:
 - **Goal**: the long-term objective.
 - **Motive**: what drives the pursuit of the goal.
 - **Nemesis**: a person or organization that hinders the protagonist. It can emerge during the first game sessions, it may or may or not be the direct antagonist of the story, ready to appear to make life even more difficult
-- **Luck**: 6
+- **Luck**: The measure of a character's ability to avoid ill fortune or an inauspicious outcome . It applies only in Conflicts and automatically recharges when they end. Luck points are always 6 when not consumed.
 
 **Example**
 > **Zahra Nakajima** Witty Street Cat. Streetwise, Nimble, Merciful.  
@@ -308,7 +308,7 @@ With deepest thanks to Shane Conner for proof reading and revision of the text a
 
 ## License
 
-Loner v.1.5
+Loner v.1.6
 
 (CC) 2023 Roberto Bisceglie
 
