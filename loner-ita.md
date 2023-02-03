@@ -57,10 +57,6 @@ Il tuo Protagonista è descritto da alcune caratteristiche:
 > **Nemesi**: L'Ordine Naturalista  
 > **Fortuna**: 6
 
-**NOTA**  
-
-I tratti sono utilizzati per dare corpo e spessore al personaggio. Sono una rappresentazione qualitativa dei tratti del personaggio. **Non sono misure quantitative**.
-
 ## Tutto è un personaggio!
 
 In *Loner* anche i Personaggi Non Giocanti (PNG), i Nemici, le Organizzazioni, i Mostri e persino gli oggetti rilevanti come i veicoli sono personaggi!
@@ -73,6 +69,14 @@ I **Personaggi Non Viventi**, invece, non hanno uno scopo, un movente, né una n
 > Scudi, Torrette.  
 > **Fortuna**: 6.
 
+## Tag descrittivi
+
+I tag sono parole o frasi descrittive che possono identificare qualsiasi cosa nel mondo di gioco. Si suddividono grosso modo nelle seguenti categorie:
+- **Tratti del personaggio**: come visto sopra, descrivono le abilità e i difetti di un personaggio, il suo obiettivo e la sua motivazione.
+- **Dettagli**: caratteristiche di un ambiente o di una scena che possono cambiare in seguito a un'azione.
+- **Condizioni**: effetti fisici, mentali o sociali che influenzano il modo in cui un personaggio si comporta o tenta di compiere azioni. 
+
+I tag determinano se nella scena ci sono prerequisiti sufficienti per ottenere [Vantaggio o Svantaggio](#vantaggio-e-svantaggio). Sono rappresentazioni qualitative. **Non sono misure quantitative**.
 
 ## Prima di iniziare
 Puoi iniziare direttamente a giocare la tua avventura, ma può essere utile fare uno sforzo in più.
@@ -160,9 +164,9 @@ Per risolvere una domanda chiusa, tira un **Dado Chance** e un **Dado Rischio**:
 
 ## Vantaggio e Svantaggio
 
-Se le circostanze o i tratti positivi garantiscono un vantaggio, aggiungere un **Dado Chance** al tiro. Altrimenti, quando ostacoli o tratti negativi causano uno svantaggio, aggiungere un **Dado Rischio**. In entrambi i casi, quando si verifica l'esito del tiro si considera solo il dado del tipo aggiunto con valore più alto.
+Se le circostanze o i tag positivi garantiscono un vantaggio, aggiungere un **Dado Chance** al tiro. Altrimenti, quando ostacoli o tag negativi causano uno svantaggio, aggiungere un **Dado Rischio**. In entrambi i casi, quando si verifica l'esito del tiro si considera solo il dado del tipo aggiunto con valore più alto.
 
-Considerare i tratti in gioco **intuitivamente e non quantitativamente**, utilizzando il contesto. È importante mantenere il flusso di gioco veloce e non "contabilizzare" vantaggi e svantaggi in modo preciso!
+Considera i tag in gioco **intuitivamente e non quantitativamente**, utilizzando il contesto. È importante mantenere il flusso di gioco veloce e non "contabilizzare" vantaggi e svantaggi in modo preciso!
 
 **Esempio**
 > Chiedi all'Oracolo: "Zahra riesce ad hackerare il datapad?". Tiri un dado Chance e due dadi Rischio, poiché Zahra non ha alcun vantaggio nell'hacking e il datapad è l'obiettivo della missione, comprometterlo la farebbe fallire. Si ottiene (5) [3] [4]. Si scarta il dado rischio più basso [3] e si tengono (5) e [4]. Si ottiene un **Sì** e si aggiunge un **e...** dato che sono entrambi 4 o superiori.
