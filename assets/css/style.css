@@ -11,6 +11,15 @@
 
 }
 
+@font-face {
+  font-family: 'takota';
+  src: url('takota-bra8-webfont.woff2') format('woff2'),
+       url('takota-bra8-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
 body {
     font-family: 'Raleway', sans-serif !important;
     font-size: 1.2em !important;
@@ -18,13 +27,13 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Fira Sans', cursive !important;
+    font-family: 'takota', cursive !important;
     font-weight: bold;
     /* color: black !important; */
 }
 
 #loner , h1.app-name {
-  font-family: 'lilmrkr' !important;
+  font-family: 'takota' !important;
   font-size: 4em;
   color:black;
 }
