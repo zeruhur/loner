@@ -217,7 +217,7 @@ I conflitti possono essere risolti in modi diversi, a seconda delle preferenze e
 2. Porre una serie di domande chiuse per risolvere le singole azioni in corso.
 3. Utilizzare la meccanica di Danno e Fortuna di seguito riportata.
 
-Il Contatore di Colpi di Scena non si applica ai Conflitti. Viene invece utilizzato regolarmente se il Conflitto è gestito con domande chiuse.
+Il Contatore di Colpi di Scena non si applica a Danno e Fortuna. Viene invece utilizzato regolarmente se il Conflitto è gestito con domande chiuse.
 
 ![](diagrammi/conflitti.png)
 
