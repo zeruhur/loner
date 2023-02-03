@@ -188,10 +188,6 @@ Il **Contatore dei colpi di scena** è una misura della tensione crescente nella
 > Chiedi all'Oracolo se il datapad contiene dati sensati sulle attività illecite di Wethern. Il tiro è (4) [4]. La risposta è "Sì, ma...". Zahra trova una nota su un capro espiatorio da incastrare per il furto. Che sia lei?
 > Aggiungi anche 1 al Contatore di Colpi di Scena. Ma il contatore era già a 2, quindi si verifica un colpo di scena! Il contatore scende a 0.
 
-**NOTA**
-
-Il Contatore di Colpi di Scena non si applica ai Conflitti risolti dalle regole Danno e Fortuna. Viene invece utilizzato regolarmente se il Conflitto è gestito con domande chiuse.
-
 ## Determinare il colpo di scena
 
 Tirate 2d6 e consultate la seguente Tabella dei colpi di scena per determinare il tipo di colpo di scena. 
@@ -215,6 +211,8 @@ I conflitti possono essere risolti in modi diversi, a seconda delle preferenze e
 1. Porre una singola domanda chiusa. La risposta dell'Oracolo determina l'esito del conflitto.
 2. Porre una serie di domande chiuse per risolvere le singole azioni in corso.
 3. Utilizzare la meccanica di Danno e Fortuna di seguito riportata.
+
+Il Contatore di Colpi di Scena non si applica ai Conflitti. Viene invece utilizzato regolarmente se il Conflitto è gestito con domande chiuse.
 
 ## Danno e Fortuna
 
@@ -296,16 +294,17 @@ Annota anche l'elenco dei contatti, dei nemici e di tutti gli eventi, le persone
 
 ## Riconoscimenti
 
-- Recluse Oracle (CC BY 4.0) di Graven Utterance e Tiny Solitary Soldier Oracle per la risoluzione principale e le meccaniche di scena.
-- Freeform Universal Roleplaying Game (CC BY 4.0) di Nathan Russell come ispirazione dell'intero gioco e dei tratti dei personaggi.
-- Le meccaniche di Danno sono tratte da 6Q System (CC BY 4.0) di Marcus Burggraf.
-- Tana Pigeon per Mythic e avermi chiarito i meccanismi di aspettatativa e messa alla prova.
+- [Recluse Engine](https://gravenutterance.itch.io/recluse) (CC BY 4.0) di Graven Utterance e Tiny Solitary Soldier Oracle per la risoluzione principale e le meccaniche di scena.
+- [Freeform Universal Roleplaying Game](https://www.perilplanet.com/freeform-universal/) (CC BY 4.0) di Nathan Russell come ispirazione dell'intero gioco e dei tratti dei personaggi.
+- Le meccaniche di Danno sono tratte da [6Q System](https://chaosmeister.itch.io/6-q-system) (CC BY 4.0) di Marcus Burggraf.
+- Tana Pigeon per [Mythic](https://www.wordmillgames.com/mythic.html) e avermi chiarito i meccanismi di aspettativa e messa alla prova.
+- S. John Ross per [Risus](https://www.risusrpg.com/) e per avermi insegnato la bellezza dei cliché e che non tutti i conflitti sono combattimenti.
 
-Un sincero ringraziamento al gruppo dei Ruolatori Solitari per il continuo supporto e la spinta a migliorare il gioco.
+Un sincero ringraziamento al gruppo dei [Ruolatori Solitari](https://t.me/ruolatorisolitari) per il continuo supporto e la spinta a migliorare il gioco.
 
 ## Licenza
 
-Loner v.1.6
+Loner v.1.6.5
 
 (CC) 2023 Roberto Bisceglie
 
