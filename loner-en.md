@@ -211,14 +211,17 @@ Interpret the two-word sentence in the context of the current scene. Twists will
 
 ## Conflicts
 
-<!-- TODO: specify better what is a conflict i.e. not only combat and brawling. -->
+A *Conflict* is any situation in which opponents clash, attacking, defending, or wearing each other down in order to win.
+This applies both in a practical and metaphorical sense. 
+
+So, a Conflict is not only limited to combat (or fighting) in the strict sense but also to competitive situations (such as contests, duels, verbal confrontations, etc.) in which two or more characters (including vehicles, of course!) compete.
 
 Conflicts can be resolved in different ways depending on preferences and context:
 1. Ask a single closed question. The Oracle's answer determines the outcome of the conflict.
 2. Ask a series of closed questions to resolve current single actions.
 3. Use the rules of Harm & Luck below.
 
-<!-- TODO: Make a diagram about choosing different resolutions -->
+![](diagrams/conflicts.png)
 
 Note that the Twist Counter **does not apply** to Conflicts. Instead, it is used regularly if the Conflict is handled with closed questions.
 
@@ -318,7 +321,7 @@ With deepest thanks to :
 
 ## License
 
-Loner v.1.6.5
+Loner v.1.7
 
 (CC) 2023 Roberto Bisceglie
 

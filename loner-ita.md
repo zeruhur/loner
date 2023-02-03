@@ -207,12 +207,19 @@ Interpreta la frase di due parole nel contesto della scena corrente. I Colpi di 
 
 ## Conflitti
 
+Un *conflitto* è una qualsiasi situazione in cui degli avversari si scontrano, attaccandosi, difendendosi o logorandosi a vicenda per vincere.
+Questo vale sia in senso concreto che metaforico. 
+
+Pertanto, un Conflitto non si limita solo al combattimento (o lotta) in senso stretto, ma anche a situazioni competitive (come gare, duelli, scontri verbali, ecc.) in cui due o più personaggi (compresi i veicoli, ovviamente!) si sfidano.
+
 I conflitti possono essere risolti in modi diversi, a seconda delle preferenze e del contesto:
 1. Porre una singola domanda chiusa. La risposta dell'Oracolo determina l'esito del conflitto.
 2. Porre una serie di domande chiuse per risolvere le singole azioni in corso.
 3. Utilizzare la meccanica di Danno e Fortuna di seguito riportata.
 
 Il Contatore di Colpi di Scena non si applica ai Conflitti. Viene invece utilizzato regolarmente se il Conflitto è gestito con domande chiuse.
+
+![](diagrammi/conflitti.png)
 
 ## Danno e Fortuna
 
@@ -304,7 +311,7 @@ Un sincero ringraziamento al gruppo dei [Ruolatori Solitari](https://t.me/ruolat
 
 ## Licenza
 
-Loner v.1.6.5
+Loner v.1.7
 
 (CC) 2023 Roberto Bisceglie
 
