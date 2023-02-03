@@ -223,7 +223,7 @@ Conflicts can be resolved in different ways depending on preferences and context
 
 ![](diagrams/conflicts.png)
 
-Note that the Twist Counter **does not apply** to Conflicts. Instead, it is used regularly if the Conflict is handled with closed questions.
+Note that the Twist Counter **does not apply** to Harm & Luck. Instead, it is used regularly if the Conflict is handled with closed questions.
 
 ## Harm & Luck
 
