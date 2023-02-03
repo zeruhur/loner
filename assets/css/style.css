@@ -27,13 +27,13 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'takota', cursive !important;
+    font-family: 'takota', sans-serif !important;
     font-weight: bold;
     /* color: black !important; */
 }
 
 #loner , h1.app-name {
-  font-family: 'takota' !important;
+  font-family: 'takota', sans-serif !important;
   font-size: 4em;
   color:black;
 }
