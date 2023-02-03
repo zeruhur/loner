@@ -56,11 +56,6 @@ Your Protagonist is described by some fixed traits:
 > **Nemesis**: The Naturalist Order  
 > **Luck**: 6
 
-**NOTE**
-<!-- ## Tags & Conditions -->
-<!-- TODO: this note must be expanded into a paragraph about tags and conditions. Then move it below the NPC section-->
-Traits are used to give depth and frame to the character. They are a qualitative representation of character traits. **They are not quantitative measures**.
-
 ## Everything is a Character!
 
 In *Loner* Non-Playing Characters (NPCs), Foes, Organizations, Monsters, and even relevant objects like vehicles are characters too!
@@ -72,6 +67,15 @@ A **Living Character** follows the same rules of generation as the Protagonist.
 > **The Century Skylark** Spacecraft in bad shape. Hyperjump Drive, Camouflage Circuits, Midlife Courier.  
 > Shields, Turrets.  
 > **Luck**: 6.
+
+## Descriptive Tags
+
+Tags are descriptive words or phrases that could be identify anything in the game world. They fall roughly into the following categories:
+- **Character Traits**: as seen above, they describe a character's skills and flaws, their goal and motive.
+- **Details**: features of an environment or scene that might change as a result of an action.
+- **Conditions**: are physical, mental or social effects that impact the way a character behaves or attempts actions. 
+
+Tags determine if there are sufficient prerequisites in the scene for [Advantage or Disadvantage](#advantage-and-disadvantage). They arqualitative representations. **They are not quantitative measures**.
 
 ## Before the Adventure
 You can start directly to play your adventure, but it may be worthwhile to make an extra effort.
@@ -163,9 +167,9 @@ To resolve a closed question, roll one **Chance Die** and one **Risk Die**:
 
 ## Advantage and Disadvantage
 
-If circumstances or positive traits grant an advantage, add a **Chance Die** to the roll. Otherwise, when hindrances or negative traits cause a disadvantage, add a **Risk Die**. In both cases keep only the higher die of the added type when you check the roll.
+If circumstances or positive tags grant an advantage, add a **Chance Die** to the roll. Otherwise, when hindrances or negative tag cause a disadvantage, add a **Risk Die**. In both cases keep only the higher die of the added type when you check the roll.
 
-Consider traits **intuitively and not quantitatively**, using the context of the situation at play. It is important to keep the flow of play fast and not accounting for advantages and disadvantages numerically!
+Consider tags **intuitively and not quantitatively**, using the context of the situation at play. It is important to keep the flow of play fast and not accounting for advantages and disadvantages numerically!
 
 **Example**
 > You ask, "Does Zahra hack the datapad?" You roll one Chance Die and two Risk Die, as Zahra does not have any advantage in hacking and the datapad is the mission goal, compromising it would cause the mission to fail. You get (5) [3] [4]. You discard the lower Risk Die [3] and keep (5) and [4]. You obtain a **Yes** and add a **And** since they are both 4 or higher.
