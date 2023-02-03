@@ -48,7 +48,7 @@ Il tuo Protagonista è descritto da alcune caratteristiche:
 - **Obiettivo**: l'obiettivo a lungo termine.
 - **Motivazione**: ciò che spinge alla persecuzione dell'obiettivo.
 - **Nemesi**: una persona o organizzazione che ostacola il protagonista. Può emergere durante le prime sessioni di gioco o non essere l'antagonista diretto della storia, pronto a spuntare per rendere la vita dell'eroe ancora più difficile.
-- **Fortuna**: la misura della capacità di evitare la malasorte o un esito infausto da parte di un personaggio . Si applica solo nei Conflitti e si ricarica automaticamente al loro termine. I punti Fortuna sono sempre 6 quando non consumati.
+- **Fortuna**: la misura della capacità di evitare la malasorte o un esito infausto da parte di un personaggio . Si applica solo nei Conflitti e si ricarica automaticamente al loro termine. La Fortuna parte da (e ha un tetto massimo di) 6 punti.
 
 **Esempio**
 > **Zahra Nakajima** Randagia Sagace. Scaltra, Agile, Compassionevole.  
