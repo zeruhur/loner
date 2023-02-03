@@ -16,7 +16,7 @@
 give me the outline for the X genre pack
 
 ---
-Give me 36 Character Concepts for this setting, in a 7x7 matrix. Header and first column are numbers from 1 to 6. Format the answer in raw markdown code in a snippet box
+Give me 36 Character Concepts (adjective + noun) for this setting, in a 7x7 matrix. Header and first column are numbers from 1 to 6. Format the answer in raw markdown code in a snippet box
 ---
 Give me 36 Character Skills for this setting, in a 7x7 matrix. Header and first column are numbers from 1 to 6. Format the answer in raw markdown code in a snippet box
 ---
