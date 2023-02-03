@@ -54,13 +54,13 @@ Format the answer in raw markdown code in a snippet box
 Give me 6 NPCs coherent with the setting in this format:
 
 ### Name
-- Concept (adjective+noun)
-- 2x Skills
-- Frailty
-- 2x Gear
-- Goal
-- Motive
-- Nemesis
+- Concept (adjective+noun):
+- 2x Skills:
+- Frailty:
+- 2x Gear:
+- Goal:
+- Motive:
+- Nemesis:
 
 Format the answer in raw markdown code in a snippet box
 

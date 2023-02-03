@@ -2,7 +2,8 @@
 - [X] Space Sci-Fi
 - [] Post-Apocalyptic
 - [] Horror
-- [] Crime
+- [X] Crime
+- [] Mystery
 - [] Action Adventure
 - [] Pirates
 - [] Western

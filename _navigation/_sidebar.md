@@ -2,4 +2,6 @@
     - [Adventure Packs](adventure-packs.md)
       - [Fantasy Adventure Pack](AP01_fantasy.md)
       - [Space Sci-Fi Adventure Pack](AP02_Space_SciFi.md)
+      - [Superheroes Adventure Pack](AP03_superheroes.md.md)
+      - [Crime Adventure Pack](AP04_crime.md)
 - [Versione Italiana](loner-ita.md)
