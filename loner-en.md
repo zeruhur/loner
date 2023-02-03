@@ -57,7 +57,8 @@ Your Protagonist is described by some fixed traits:
 > **Luck**: 6
 
 **NOTE**
-
+<!-- ## Tags & Conditions -->
+<!-- TODO: this note must be expanded into a paragraph about tags and conditions. Then move it below the NPC section-->
 Traits are used to give depth and frame to the character. They are a qualitative representation of character traits. **They are not quantitative measures**.
 
 ## Everything is a Character!
@@ -191,10 +192,6 @@ The Twist Counter is a measure of the rising tension in the narrative. At the be
 > You ask if the datapad contains sensitive data about Wethern's illicit activities. You roll (4) [4]. The answers is "Yes, but...". Zahra finds a note about a scapegoat to frame for the theft. Could it be her?
 > You also add 1 to the Twist Counter. But the counter was already at 2, so also a twist happens! The counter resets to 0.
 
-**NOTE**
-
-The Twist Counter does not apply to Conflicts resolved by Harm & Luck rules. Instead, it is used regularly if the Conflict is handled with closed questions.
-
 ## Determine the Twist
 
 Roll 2d6 and consult the following Twist Table to determine what kind of twist happens. 
@@ -213,16 +210,24 @@ Interpret the two-word sentence in the context of the current scene. Twists will
 > Now Zahra knows the content of the datapad, but you roll 1 and 5 on the Twist Table "*A third party*", "*Changes the goal*". An agent of the Leton Corporation appears before Zahra with a proposal....
 
 ## Conflicts
+
+<!-- TODO: specify better what is a conflict i.e. not only combat and brawling. -->
+
 Conflicts can be resolved in different ways depending on preferences and context:
 1. Ask a single closed question. The Oracle's answer determines the outcome of the conflict.
 2. Ask a series of closed questions to resolve current single actions.
 3. Use the rules of Harm & Luck below.
+
+<!-- TODO: Make a diagram about choosing different resolutions -->
+
+Note that the Twist Counter **does not apply** to Conflicts. Instead, it is used regularly if the Conflict is handled with closed questions.
 
 ## Harm & Luck
 
 The conflict is resolved in turns alternating between the player and NPCs. When you fail your defense, reduce your current Luck according to the table below. NPCs also have a Luck trait. If you attack in any form, reduce the targets Luck according to the table below. When your Luck runs out you face mortal danger and the next attack will take you out of the conflict.
 
 The final outcome depends on the context. Do you get caught? Are you seriously injured? You may even die if that fits the narrative.
+
 
 | Answer      | Do you get what you want?                               | Harm    |
 | ----------- | ------------------------------------------------------- | ------- |
@@ -234,7 +239,7 @@ The final outcome depends on the context. Do you get caught? Are you seriously i
 | No, and...  | You don’t get what you want, and things get worse.      | Take 3  |
 
 **Example**
-> Zahra confronts a thug in an alley. He is "Martial Artist", "Hand-to-Hand Combat", "Feline" and "Short". Zahra tries to hit him with the knife, you throw (5) (6) [4] ("**Yes, And...**", causing a Luck loss of 3 to the thug). The thug throws a roundhouse kick at Zahra (roll (3) (2) [2], "**Yes, but...**", causing a Luck loss of 1 to Zahra). Who will win? 
+> Zahra confronts a thug in an alley. He is "Martial Artist", "Hand-to-Hand Combat", "Feline" and "Short". Zahra tries to hit him with the knife, you throw (5) (6) [4] ("**Yes, And...**", causing a Luck loss of 3 to the thug). The thug throws a roundhouse kick at Zahra (roll (3) (2) [2], "**Yes, but...**", causing a Luck loss of 1 to Zahra). Who will win?
 
 ## Determine the mood of the next scene
 
@@ -304,13 +309,16 @@ Also note the list of contacts, enemies and any events, people or objects that m
 - [Recluse Engine](https://gravenutterance.itch.io/recluse) (CC BY 4.0) by Graven Utterance and Tiny Solitary Soldier Oracle for the main resolution and scene mechanics.
 - [Freeform Universal Roleplaying Game](https://www.perilplanet.com/freeform-universal/) (CC BY 4.0) by Nathan Russell as an inspiration of the whole game and the character traits.
 - Harm mechanics are from [6Q System](https://chaosmeister.itch.io/6-q-system) (CC BY 4.0) by Marcus Burggraf.
-- Tana Pigeon for Mythic and clarifying for me the mechanisms of expectation and testing.
+- Tana Pigeon for [Mythic](https://www.wordmillgames.com/mythic.html) and clarifying for me the mechanisms of expectation and testing.
+- S. John Ross for [Risus](https://www.risusrpg.com/) and to have taught me the beauty of clichés and that not all conflicts are combat.
 
-With deepest thanks to Shane Conner for proof reading and revision of the text and to the Italian solo player community for their constant support and drive to improve the game.
+With deepest thanks to :
+- Shane Conner for proof reading and revision of the text of the First Edition.
+- the Italian solo player community for their constant support and drive to improve the game.
 
 ## License
 
-Loner v.1.6
+Loner v.1.6.5
 
 (CC) 2023 Roberto Bisceglie
 
