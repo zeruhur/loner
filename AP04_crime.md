@@ -28,7 +28,7 @@
 | --- | ------------------- | ------------- | -------------- | ---------------------- | ------------------ | ---------------- |
 | 1   | Sneaking            | Firearms      | Intimidation   | Streetwise             | Driving            | Computer Hacking |
 | 2   | Interrogation       | Con Artist    | Pickpocketing  | Brawling               | Weapon proficiency | Seduction        |
-| 3   | Breaking & Entering | Demolition    | Torture        | Deception              | Parkour            | Carpentry        |
+| 3   | Breaking & Entering | Demolition    | Torture        | Deception              | Parkour            | Martial Arts     |
 | 4   | Forgery             | Poisoning     | Knife Fighting | Surveillance           | Lockpicking        | Disguise         |
 | 5   | Climbing            | Escape Artist | Sharpshooting  | Underworld Connections | Piloting           | Criminology      |
 | 6   | Infiltration        | Hacking       | Combat         | Fraud                  | Accounting         | Stealth          |
