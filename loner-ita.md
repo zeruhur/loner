@@ -19,7 +19,7 @@ Un gioco di ruolo (GDR) è un tipo di gioco in cui i giocatori assumono il ruolo
 In un gioco di ruolo solitario (GDRS) un singolo giocatore assume il ruolo di uno o più personaggi, gestendo contemporaneamente anche alcuni elementi del mondo di gioco. Questi giochi prevedono in genere l'uso di un sistema di regole e di meccaniche di gioco per determinare l'esito delle azioni compiute dai personaggi controllati dal giocatore. 
 A differenza di un librogioco (come le serie Fighting Fantasy, Lone Wolf e Tunnels & Trolls), un GDRS non è una forma di narrazione interattiva a bivi in cui i risultati sono predeterminati e limitati dalle scelte dell'autore.
 
-Attraverso l'interazione tra giocatore, oracolo, strumenti e suggerimenti, le azioni del personaggio costruiranno una narrazione emergente entro i cui confini si può tentare qualsiasi cosa, senza limiti predeterminati.
+Attraverso l'interazione tra giocatore, oracolo, strumenti e suggerimenti, le azioni del personaggio costruiranno una **narrazione emergente** entro i cui confini si può tentare qualsiasi cosa, senza limiti predeterminati.
 
 ## Strumenti di sicurezza
 
@@ -68,8 +68,8 @@ Il tuo Protagonista è descritto da alcune caratteristiche:
 
 In *Loner* anche i Personaggi Non Giocanti (PNG), i Nemici, le Organizzazioni, i Mostri e persino gli oggetti rilevanti come i veicoli sono personaggi!
 
-Un **Personaggio Vivente** segue le stesse regole di generazione del Protagonista.
-I **Personaggi Non Viventi**, invece, non hanno uno scopo, un movente, né una nemesi.
+- I**Personaggi Viventi** seguono le stesse regole di generazione del Protagonista.
+- I **Personaggi Non Viventi**, invece, non hanno uno scopo, un movente, né una nemesi.
 
 **Esempio**
 > **The Century Skylark** Nave spaziale in cattive condizioni. Motore di Salto, Circuiti Camaleonti, Nave Corriere in male arnese.  
@@ -305,7 +305,7 @@ Per rispondere a una domanda aperta, tira 1d6 una volta su ciascuna delle seguen
 
 Alla fine dell'avventura si possono aggiungere un nuovo tratto al personaggio. È meglio che questo sia legato alla storia appena conclusa e può essere un'Abilità, un Equipaggiamento o una nuova Fragilità o addirittura una nuova Nemesi! È anche possibile modificare un tratto esistente per rappresentare meglio un'abilità potenziata.
 
-Annota anche l'elenco dei contatti, dei nemici e di tutti gli eventi, le persone o gli oggetti che potrebbero ripresentarsi nelle avventure future.
+Aggiorna anche l'elenco di **PNG**, **Luoghi** ed **Eventi** che potrebbero ripresentarsi in avventure future.
 
 **Esempio**
 > Zahra mette al sicuro il datapad nelle mani delle autorità, incastrando sia Wethern che la Corporazione Leton. Wethern viene arrestato, ma ha ottenuto un potente nemico che lavora contro la Corporazione. Alle sue abilità si aggiunge la qualifica di "Aspirante Hacker". Forse Melina può farle da mentore!
@@ -322,7 +322,7 @@ Un sincero ringraziamento al gruppo dei [Ruolatori Solitari](https://t.me/ruolat
 
 ## Licenza
 
-Loner v.1.7
+Loner v.1.7.5
 
 (CC) 2023 Roberto Bisceglie
 
