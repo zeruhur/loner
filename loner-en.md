@@ -1,9 +1,14 @@
 # Loner
 Another Solo RPG
 
-***Loner*** is a freeform Solo RPG designed to play with a solitaire character in "narrative" mode. 
-You'll guide your character through the story that will unravel during the game, asking closed questions to an oracle who will assume the role of Game Master. 
-Every now and then the game will surprise you when an unexpected plot twist happens!
+***Loner*** is a minimalist Solo Role Playing Game designed to be played with only one character (the Protagonist). You'll guide them through the story that will unravel during the game, asking closed questions to an Oracle which will help you overturn your expectations. 
+Every now and then you will be surprised with an unexpected twist!
+
+*Loner* follows the following design principles:
+1. **Portable**: to play you will need a few common (six-sided) dice and writing materials. Anything else is optional and not essential.
+2. **Rules-Light**: the game relies on a few rules and only one solving mechanic, easy to learn and eventually to memorize.
+3. **Tag-based**: characters and situations are defined only by qualitative descriptors and no quantitative characteristics.
+4. **Generic**: you can play anything, yet the game is not universal. It is designed for quick resolutions, without tactical depth or simulationist ambitions.
 
 ## What is a Role Playing Game (RPG)?
 A role-playing game (RPG) is a type of game in which players assume the roles of fictional characters and act out their actions and decisions within a narrative or imaginary setting. The outcome of these actions and decisions is often determined by a set of rules and game mechanics, such as dice rolls or statistical attributes of the characters. Players may also collaborate to create a shared story or narrative through their characters' actions and interactions.
