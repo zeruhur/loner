@@ -10,9 +10,9 @@ digraph scene_breakdown {
         label = "1. IDENTIFY YOUR EXPECTATIONS";
         cs01 [label = "CONSIDER CHARACTER'S TRAITS"];
         cs02 [label = "DETERMINE CHARATER'S ACTION"];
-        cs03 [label = "DETERMINE WORLD'S REACTION"];
+        cs03 [label = "PREDICT WORLD'S REACTION"];
         cs04 [style = "invis"];
-        
+
         cs01 -> cs02 -> cs03;
         cs03 -> cs04 [style="invis"];
 
@@ -22,7 +22,7 @@ digraph scene_breakdown {
         cs11 [label = "UNCERTAIN OR OVERCONFIDENT?"];
         cs12 [label = "ASK THE ORACLE"];
         cs13 [label = "RESOLVE DIEGETICALLY"];
-        cs14 [label = "CONSIDER INVOLED TAGS"];
+        cs14 [label = "CONSIDER INVOLVED TAGS"];
         cs15 [label = "ADVANTAGE"];
         cs16 [label = "DISADVANTAGE"];
 
