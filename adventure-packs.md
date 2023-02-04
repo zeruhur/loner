@@ -8,3 +8,4 @@ Use them as non-binding guidelines and inspiration, let your imagination run wil
 - [Space Sci-Fi Adventure Pack](/AP02_Space_SciFi.md)
 - [Superheroes Adventure Pack](AP03_superheroes.md.md)
 - [Crime Adventure Pack](AP04_crime.md)
+- [Mystery Adventure Pack](AP05_mystery.md)

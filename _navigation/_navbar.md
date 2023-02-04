@@ -7,6 +7,7 @@
   - [Space Sci-Fi Adventure Pack](AP02_Space_SciFi.md)
   - [Superheroes Adventure Pack](AP03_superheroes.md)
   - [Crime Adventure Pack](AP04_crime.md)
+  - [Mystery Adventure Pack](AP05_mystery.md)
 - **Versione Italiana**
   - [Regolamento](loner-ita.md)
 - [Loner Assistant](https://zeruhur.space/loner-assistant/)

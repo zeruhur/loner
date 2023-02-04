@@ -2,11 +2,11 @@
 
 ## Setting Information
 
-- Time Period: The Crime Adventure Pack can be set in modern times or in any time period that supports a criminal underworld.
-- Location: The location could be a sprawling metropolis with a thriving criminal underworld or a smaller city with a more contained criminal element. The setting could also be a rural area with a history of organized crime.
-- Cultural and Historical Details: The cultural and historical details could reflect the criminal activity and the state of law enforcement in the area. For example, the setting could be influenced by the prohibition era, organized crime in the 1920s and 1930s, or the rise of street gangs in the late 20th century.
-- Criminal Underground: The criminal underworld could be made up of various organized crime syndicates, street gangs, and individual criminals. These groups could be in competition with one another or could be working together towards a common goal.
-- Law Enforcement: The state of law enforcement in the setting is an important aspect to consider. Are the police overworked and underfunded, struggling to keep up with the criminal element? Or are they well-equipped and well-trained, making it difficult for criminals to operate without getting caught?
+- The Crime Adventure Pack can be set in modern times or in any time period that supports a criminal underworld.
+- The location could be a sprawling metropolis with a thriving criminal underworld or a smaller city with a more contained criminal element. The setting could also be a rural area with a history of organized crime.
+- The cultural and historical details could reflect the criminal activity and the state of law enforcement in the area. For example, the setting could be influenced by the prohibition era, organized crime in the 1920s and 1930s, or the rise of street gangs in the late 20th century.
+- The criminal underworld could be made up of various organized crime syndicates, street gangs, and individual criminals. These groups could be in competition with one another or could be working together towards a common goal.
+- The state of law enforcement in the setting is an important aspect to consider. Are the police overworked and underfunded, struggling to keep up with the criminal element? Or are they well-equipped and well-trained, making it difficult for criminals to operate without getting caught?
 
 ## Character Traits
 
