@@ -1,5 +1,5 @@
-digraph take_action {
-    label = "TAKE ACTION";
+digraph consulting_oracle {
+    label = "CONSULTING THE ORACLE";
     labelloc="t";
     fontname="Takota";
     node [shape="rect", style = "", 
@@ -18,9 +18,9 @@ digraph take_action {
     id9[label = "ASK AGAIN \n (Max 3)"];
     id10[label = "OPEN-ENDED QUESTION"];
 
-    id1 -> id2 [label = "Certain Outcome"] ;
+    id1 -> id2 [label = "Certaint"] ;
     id2 -> id1 [label = "Next action"];
-    id1 -> id3 [label = "Uncertain Outcome"];
+    id1 -> id3 [label = "Uncertain/\nOverconfident"];
     id3 -> id4 [label = "Advantage"];
     {rank=same;id4 -> id6 -> id5 [style="invis"]};
     id3 -> id6;
