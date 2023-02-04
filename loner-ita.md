@@ -156,6 +156,7 @@ Per risolvere una domanda chiusa, tira un **Dado Chance** e un **Dado Rischio**:
 - Se il Dado Rischio è il più alto, la risposta è **No**.
 - Se entrambi sono bassi (3 o meno), aggiungi **ma...**. 
 - Se entrambi sono alti (4 o più), aggiungi **e...**.
+- Se entrambi sono uguali, la risposta è **Sì, e...**. Aggiungere un punto al **[Contatore dei Colpi di Scena](#contatore-dei-colpi-di-scena)**.
 
 | Valore dei dadi  | Dado Chance > Dado Rischio                 | Dado Rischio > Dado Chance |
 | ---------------- | ------------------------------------------ | -------------------------- |
@@ -191,7 +192,7 @@ Interpreta la risposta dell'Oracolo sempre in relazione al contesto della situaz
 ## Risposte sibilline
 A volte l'Oracolo può dare risposte che non hanno senso nel contesto della scena. Non essere tentato di dettagliare la risposta con troppe domande in sequenza. Tre domande dovrebbero essere sufficienti. Se sei ancora bloccato, prova a usare una domanda aperta per sbloccarti o interpretare la risposta come "Sì, ma..." e portare avanti la storia. 
 
-## Raddoppi e il Contatore di Colpi di Scena
+## Contatore dei Colpi di Scena
 
 Il **Contatore dei colpi di scena** è una misura della tensione crescente nella narrazione. All'inizio è fissato a 0. Ogni volta che avviene un **raddoppio** (i dadi sono uguali), si aggiunge 1 al Contatore. Se il Contatore è inferiore a tre, la risposta è "**Sì, ma...**". Altrimenti si verifica anche un **Colpo di scena** che azzera il contatore.
 
