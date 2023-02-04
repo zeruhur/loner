@@ -5,7 +5,7 @@ Un altro GDR Solitario
 Di tanto in tanto sarete sorpresi con un colpo di scena inaspettato!
 
 *Loner* segue i seguenti principi di progettazione:
-1. **Portatile**: per giocare avrete bisogno di alcuni dadi comuni (a sei facce) e di materiale da scrittura. Tutto il resto è opzionale e non essenziale.
+1. **Portatile**: per giocare avrai bisogno di alcuni dadi comuni (a sei facce) e di materiale da scrittura. Tutto il resto è opzionale e non essenziale.
 2. **Regole leggere**: il gioco si basa su poche regole e su un'unica meccanica di risoluzione, facile da imparare ed volendo anche da memorizzare.
 3. **Basato su tag**: i personaggi e le situazioni sono definiti solo da descrittori qualitativi e non da caratteristiche quantitative.
 4. **Generico**: puoi giocare a qualsiasi cosa, ma il gioco **non è universale**. È progettato per risoluzioni rapide, senza profondità tattica o velleità simulazionistiche.
