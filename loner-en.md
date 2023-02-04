@@ -18,7 +18,7 @@ A role-playing game (RPG) is a type of game in which players assume the roles of
 In a solo RPG a single player takes on the roles of one or more characters, while also simultaneously managing some elements of the game world. These games typically involve the use of a rule system and game mechanics to determine the outcome of actions taken by the player-controlled characters. 
 Unlike a gamebook (such as the Fighting Fantasy, Lone Wolf, and Tunnels & Trolls series) a solo RPG is not a form of interactive, forked narrative in which outcomes are pre-determined and limited by the author's choices.
 
-Through the interaction of player, oracle, tools, and prompts, the character's actions will build an emergent narrative within whose boundaries anything can be attempted, without predetermined limits.
+Through the interaction of player, oracle, tools, and prompts, the character's actions will build an **emergent narrative** within whose boundaries anything can be attempted, without predetermined limits.
 
 ## Safety Tools
 You will play alone, but be sure to play in an environment that is comfortable for you, without overexerting yourself, and reserve the option to stop as soon as you feel uncomfortable for any reason, physical or emotional. Don't be afraid to tackle new themes, but do so in full awareness of your boundaries.
@@ -65,8 +65,8 @@ Your Protagonist is described by some fixed traits:
 
 In *Loner* Non-Playing Characters (NPCs), Foes, Organizations, Monsters, and even relevant objects like vehicles are characters too!
 
-A **Living Character** follows the same rules of generation as the Protagonist.
-**Non-Living Characters**, instead, do not have a goal, a motive, nor a nemesis.
+- **Living Character** follow the same rules of generation as the Protagonist.
+- **Non-Living Characters**, instead, do not have a goal, a motive, nor a nemesis.
 
 **Example**
 > **The Century Skylark** Spacecraft in bad shape. Hyperjump Drive, Camouflage Circuits, Midlife Courier.  
@@ -80,7 +80,7 @@ Tags are descriptive words or phrases that could be identify anything in the gam
 - **Details**: features of an environment or scene that might change as a result of an action.
 - **Conditions**: are physical, mental or social effects that impact the way a character behaves or attempts actions. 
 
-Tags determine if there are sufficient prerequisites in the scene for [Advantage or Disadvantage](#advantage-and-disadvantage). They arqualitative representations. **They are not quantitative measures**.
+Tags determine if there are sufficient prerequisites in the scene for [Advantage or Disadvantage](#advantage-and-disadvantage). They are qualitative representations. **They are not quantitative measures**.
 
 ## Before the Adventure
 You can start directly to play your adventure, but it may be worthwhile to make an extra effort.
@@ -111,7 +111,7 @@ If you find it difficult to answer any or all of the questions, the following ta
 |  5 |       Help-seeker       |        Escape        |        Ambition       |       McGuffin       |             Mishap            |              Time             |
 |  6 |       Blackmailer       |        Pursuit       |        Revenge        |      Confession      | Object (map, journal, letter) |             Space             |
 
-**Example**
+**Example**  
 > **Who?** Mentor  
 > **What?** Exploit  
 > **Why?** Help  
@@ -129,10 +129,12 @@ A scene is a unit of time in which a certain action takes place in pursuit of a 
 
 In *Loner* at each scene:
 1. **Identify what you expect from the scene**. Compared to traits, goal, and motivation determine the Protagonist's action. What might be the reaction of the game world?
-2. **Test your expectations**. When you are uncertain (or overconfident) about the reaction to your actions, [ask the Oracle](#consulting-the-oracle) a closed question (answer is Yes or No), considering the factors involved to determine if there is an [Advantage or Disadvantage](#advantage-and-disadvantage).
+2. **Test your expectations**. When you are uncertain (or overconfident) about the reaction to your actions, [ask the Oracle](#consulting-the-oracle) a closed question (answer is Yes or No), considering the tags involved to determine if there is an [Advantage or Disadvantage](#advantage-and-disadvantage).
 3. **Interpret the result**. Is the Oracle's answer in line with your expectations? If not, in the context in which the scene takes place, how should an answer that subverts them be considered?
 
 This sequence will come to you naturally after some practice. Use it as a guideline the first few times.
+
+![](diagrams/scene_breakdown.png)
 
 ## Identify expectations
 The Protagonist's traits characterize their behavior within the fictional world and suggest the possible actions they takes in the situational context of the scene.
@@ -178,6 +180,8 @@ Consider tags **intuitively and not quantitatively**, using the context of the s
 
 **Example**
 > You ask, "Does Zahra hack the datapad?" You roll one Chance Die and two Risk Die, as Zahra does not have any advantage in hacking and the datapad is the mission goal, compromising it would cause the mission to fail. You get (5) [3] [4]. You discard the lower Risk Die [3] and keep (5) and [4]. You obtain a **Yes** and add a **And** since they are both 4 or higher.
+
+![](diagrams/consulting_oracle.png)
 
 ## Interpreting the Oracle
 
@@ -311,7 +315,7 @@ To answer an Open-Ended question, roll 1d6 once on each of the following tables 
 
 At the end of the adventure you may add another trait to the character. It is better that this is related to how the story just ended and can be either a Skill, Gear, a new Frailty, or even a new Nemesis! You can also modify an existing trait to better represent an enhanced expertise.
 
-Also note the list of contacts, enemies and any events, people or objects that may show up again in future adventures.
+Also update the list of **NPCs**, **Locations**, and **Events** that may show up again in future adventures.
 
 **Example**
 > Zahra secures the datapad in the hands of the authorities, framing both Wethern and the Leton Corporation. Wethern is arrested, but she has gained a powerful enemy working against the Corporation. She gains "Wannabe Hacker" to her skills. Maybe Melina can mentor her!
@@ -330,7 +334,7 @@ With deepest thanks to :
 
 ## License
 
-Loner v.1.7
+Loner v.1.8
 
 (CC) 2023 Roberto Bisceglie
 
