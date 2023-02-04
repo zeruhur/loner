@@ -157,7 +157,7 @@ To resolve a closed question, roll one **Chance Die** and one **Risk Die**:
 - If the Risk Die is highest, the answer is **No**.
 - If both are low (3 or less), add a **but...**. 
 - If both are high (4 or more), add an **and...**.
-- If both are equal, add a point to the **Twist Counter** (see below).
+- If both are equal, the answer is **Yes, and...**. Add a point to the **[Twist Counter](#twist-counter)**.
 
 
 | Dice Value |    Chance Die > Risk Die   | Risk Die > Chance Die |
@@ -197,7 +197,7 @@ Always interpret the Oracle's answer in relation to the context of the game situ
 
 The Oracle might sometimes give answers that don't make sense in the context of the scene. Don't be tempted to detail the answer with too many questions in sequence. Three questions should be sufficient. If you're still stuck, try using an open-ended question to unlock yourself or interpret the answer as "Yes, But..." and move the story forward.
 
-## Doubles and the Twist Counter
+## Twist Counter
 
 The Twist Counter is a measure of the rising tension in the narrative. At the beginning is set to 0. Every time a double throw (dice are equal) happens, add 1 to the Counter. If the Counter is below three, consider the answer as "**Yes, but...**". Otherwise a **Twist** happens and resets the Counter.
 
