@@ -11,8 +11,10 @@ digraph scene_breakdown {
         cs01 [label = "CONSIDER CHARACTER'S TRAITS"];
         cs02 [label = "DETERMINE CHARATER'S ACTION"];
         cs03 [label = "DETERMINE WORLD'S REACTION"];
-
+        cs04 [style = "invis"];
+        
         cs01 -> cs02 -> cs03;
+        cs03 -> cs04 [style="invis"];
 
     }
     subgraph cluster_1 {
