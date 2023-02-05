@@ -1,0 +1,21 @@
+digraph conflitti { 
+    label = "CONFLICTS";
+    labelloc="t";
+    fontname="Takota";
+    node [shape="rect", fontname="Takota", fontsize=12];
+    edge [fontname="Takota", fontsize=12];
+
+    nd1 [label = "IS THERE ANY \n CHARACTER OPPOSING \n THE PROTAGONIST?"];
+    nd2 [label = "ASK A CLOSED QUESTION"];
+    nd3 [label = "DO YOU WANT TO \n MAKE IT FAST?"];
+    nd4 [label = "DO YOU WANT TO \n SPECIFY EVERT ACTION?"];
+    nd5 [label = "ASK A CLOSED QUESTION \n TO RESOLVE EVERY ACTION"];
+    nd6 [label = "USE HARM & LUCK"];
+
+    nd1 -> nd2 [label = "No"];
+    nd1 -> nd3 [label = "Yes"];
+    nd3 -> nd2 [label = "Yes"];
+    nd3 -> nd4 [label = "No"];
+    nd4 -> nd5 [label = "Yes"];
+    nd4 -> nd6 [label = "No"];
+}

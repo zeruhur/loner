@@ -123,6 +123,8 @@ Se trovi difficile rispondere a una o tutte le domande, la tabella seguente forn
 > **Ostacolo?** Tempo  
 > Tobias Wethern ha preso Zahra sotto la sua ala quando i suoi genitori sono morti. Ecco perché lei non può dirgli di no ora. Tobias vuole che Zahra rubi un datapad dalla filiale della Leton Corporation. Non sa esattamente dove sia conservato, ma che in 24 ore sarà preso dal corpo di sicurezza dell'azienda per essere trasferito in un'altra posizione.
 
+![](diagrammi/per_iniziare.png)
+
 ## Mantieni l'azione in movimento
 
 Una partita a *Loner* è una successione di scene. 
@@ -134,6 +136,8 @@ In *Loner* ad ogni scena:
 3. **Interpreti il risultato**. La risposta dell'Oracolo è in linea con le tue aspettative? Altrimenti nel contesto nel quale si svolge la scena, come va considerata una risposta che le sovverte?
 
 Questa sequenza ti verrà spontanea dopo un po' di pratica. Le prime volte utilizzala come linea guida.
+
+![](diagrammi/scomponi_scena.png)
 
 ## Identificare le aspettative
 I tratti del Protagonista caratterizzano il suo comportamento all'interno del mondo di gioco e suggeriscono le possibile azioni che compie nel contesto situazionale della scena.
@@ -178,6 +182,8 @@ Considera i tag in gioco **intuitivamente e non quantitativamente**, utilizzando
 
 **Esempio**
 > Chiedi all'Oracolo: "Zahra riesce ad hackerare il datapad?". Tiri un dado Chance e due dadi Rischio, poiché Zahra non ha alcun vantaggio nell'hacking e il datapad è l'obiettivo della missione, comprometterlo la farebbe fallire. Si ottiene (5) [3] [4]. Si scarta il dado rischio più basso [3] e si tengono (5) e [4]. Si ottiene un **Sì** e si aggiunge un **e...** dato che sono entrambi 4 o superiori.
+
+![](diagrammi/consultare_oracolo.png)
 
 ## Interpretare l'Oracolo
 
@@ -323,7 +329,7 @@ Un sincero ringraziamento al gruppo dei [Ruolatori Solitari](https://t.me/ruolat
 
 ## Licenza
 
-Loner v.1.7.5
+Loner v.1.8
 
 (CC) 2023 Roberto Bisceglie
 

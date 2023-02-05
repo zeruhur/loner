@@ -8,8 +8,8 @@ digraph scene_breakdown {
 
     subgraph cluster_0 {
         label = "1. IDENTIFY YOUR EXPECTATIONS";
-        cs01 [label = "CONSIDER CHARACTER'S TRAITS"];
-        cs02 [label = "DETERMINE CHARATER'S ACTION"];
+        cs01 [label = "CONSIDER PROTAGONIST'S TRAITS"];
+        cs02 [label = "DETERMINE PROTAGONIST'S ACTION"];
         cs03 [label = "PREDICT WORLD'S REACTION"];
         cs04 [style = "invis"];
 
@@ -21,7 +21,7 @@ digraph scene_breakdown {
         label = "2. TEST YOUR EXPECTATIONS";
         cs11 [label = "UNCERTAIN OR OVERCONFIDENT?"];
         cs12 [label = "ASK THE ORACLE"];
-        cs13 [label = "RESOLVE DIEGETICALLY"];
+        cs13 [label = "RESOLVE CONTEXTUALLY"];
         cs14 [label = "CONSIDER INVOLVED TAGS"];
         cs15 [label = "ADVANTAGE"];
         cs16 [label = "DISADVANTAGE"];

@@ -120,7 +120,7 @@ If you find it difficult to answer any or all of the questions, the following ta
 > **Obstacle?** Time  
 > Tobias Wethern took Zahra under his wing when her parents died. That's why she can't say no to him now. Tobias wants Zahra to steal a datapad from the Leton Corporation's subsidiary. He doesn't know precisely where it is stored, but that in 24 hours it will be taken from the company's security corps to be transferred to another location.
 
-![](get_started.png)
+![](diagrams/get_started.png)
 
 ## Keep The Action In Motion
 
