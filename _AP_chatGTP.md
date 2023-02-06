@@ -88,6 +88,6 @@ Brief Description in two or three bullet point
 Format the answer in raw markdown code in a snippet box
 ---
 
-Give a list of 36 adventure seeds, in raw markdown code in a snippet box. Keep in mind **also** the setting, the NPCs, the creature, the factions and the location above. 
+Give a list of 36 adventure seeds coherent with the setting, in raw markdown code in a snippet box. Keep in mind **also** the setting, the NPCs, the creature, the factions and the location above generated for this Pack.
 
 Format the answer in raw markdown code in a snippet box
