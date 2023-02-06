@@ -20,7 +20,7 @@ Give me 36 Character Concepts (adjective + noun) for this setting, in a 7x7 matr
 ---
 Give me 36 Character Skills for this setting, in a 7x7 matrix. Header and first column are numbers from 1 to 6. Format the answer in raw markdown code in a snippet box
 ---
-Give me 36 Character Frailties for this setting, in a 7x7 matrix. Header and first column are numbers from 1 to 6. Format the answer in raw markdown code in a snippet box
+Give me 36 Character Frailties, flaws and Disadvantages for this setting, in a 7x7 matrix. Header and first column are numbers from 1 to 6. Format the answer in raw markdown code in a snippet box
 ---
 Give me 36 Character Equipment Items for this setting, in a 7x7 matrix. Header and first column are numbers from 1 to 6. Format the answer in raw markdown code in a snippet box
 ---
@@ -88,6 +88,6 @@ Brief Description
 Format the answer in raw markdown code in a snippet box
 ---
 
-Give a list of 36 adventure seeds, ordered list in raw markdown code in a snippet box. Keep in mind **also** the setting, the NPCs, the creature, the factions and the location above. 
+Give a list of 36 adventure seeds, in raw markdown code in a snippet box. Keep in mind **also** the setting, the NPCs, the creature, the factions and the location above. 
 
 Format the answer in raw markdown code in a snippet box
