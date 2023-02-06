@@ -137,7 +137,7 @@ In *Loner* ad ogni scena:
 
 Questa sequenza ti verrà spontanea dopo un po' di pratica. Le prime volte utilizzala come linea guida.
 
-![](diagrammi/scomponi_scena.png)
+<img id="scomponi_scena" src="diagrammi/scomponi_scena.png">
 
 ## Identificare le aspettative
 I tratti del Protagonista caratterizzano il suo comportamento all'interno del mondo di gioco e suggeriscono le possibile azioni che compie nel contesto situazionale della scena.
