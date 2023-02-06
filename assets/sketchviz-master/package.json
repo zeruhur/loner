@@ -1,0 +1,12 @@
+{
+  "name": "sketchviz-like",
+  "version": "0.0.1",
+  "bin": {
+    "sketchviz": "./sketch.js"
+  },
+  "dependencies": {
+    "jsdom": "^18.1.1",
+    "rouge": "^1.0.3",
+    "roughjs": "^4.5.2"
+  }
+}
