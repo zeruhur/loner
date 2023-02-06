@@ -334,3 +334,110 @@ Loner v.1.8
 (CC) 2023 Roberto Bisceglie
 
 Quest'opera è stata rilasciata con licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale. Per leggere una copia della licenza visita il sito web http://creativecommons.org/licenses/by-sa/4.0/ o spedisci una lettera a Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+# Appendice: Regole Opzionali
+
+## Loner Insieme
+Le regole di Loner sono state pensate per un giocatore singolo che controlla un solo personaggio.
+Tuttavia essendo derivato di un gioco multi-giocatore (Freeform Universal) nessuno impedisce di utilizzarle anche per giocare in gruppo, se insisti per farlo.
+
+È quindi possibile giocare nelle seguenti modalità:
+1. **senza un game master**: si gioca come in modalità solitaria: ogni persona controlla il proprio personaggio e pone domande all'Oracolo. Le risposte dell'Oracolo e le reazioni del mondo di gioco vengono interpretate dal giocatore che pone la domanda corrente. Le funzioni di facilitatore (moderare il flusso di gioco ed eventualmente risolvere le controversie tra i giocatori, oltre a ricordare ai giocatori le regole) possono essere assunte da un singolo giocatore al tavolo, oppure possono essere ruotate. Le domande che riguardano l'intero gruppo di personaggi possono essere concordate.
+2. **con un game master**: tirano sempre e solo i giocatori che interrogano l'Oracolo come nella modalità solitaria, senza master. Il master si occupa di interpretare la risposta e di presentare le reazioni del mondo di gioco. Assume anche le funzioni di facilitatore.
+
+Tenete presente che, per quanto Loner possa essere giocato in gruppo, vi consiglio vivamente di utilizzare Freeform Universal per questa esigenza.
+
+## Generatore di Avventure
+A volte potrebbe mancarti l'ispirazione per pensare a un'ambientazione di gioco, oppure vuoi sperimentarne uno mai pensato.
+Le tabelle che seguono sono pensate per generare istantaneamente un setting imprevedibile da esplorare con una partita.
+
+Per generare un'ambientazione:
+1. Tira sulla tabella Ambientazioni
+2. Tira sulla tabella Toni
+3. Tira due volte su una tabella Cose a tua scelta.
+
+Per generare una premessa di avventura:
+1. Tira sulla tabella Opposizioni
+2. Tira due volte sulla tabella Azioni e su una delle tabelle Cose.
+
+Nota che la premessa dell'avventura non è lo spunto della scena iniziale, ma solo la cornice all'interno della quale essa si svolge.
+
+### Tabella 1: Ambientazioni
+
+|     | 1                                   | 2                               | 3                            | 4                                | 5                                            | 6                                    |     |
+| --- | ----------------------------------- | ------------------------------- | ---------------------------- | -------------------------------- | -------------------------------------------- | ------------------------------------ | --- |
+| 1   | Terra desolata post-apocalittica    | Regno high fantasy              | Guerra e intrighi medievali  | Megacorporazione cyberpunk       | Colonia spaziale futuristica                 | Città noir soprannaturale            |     |
+| 2   | Storia alternativa                  | Mari pieni di pirati            | Frontiera del selvaggio West | Regno dark fantasy               | Città distopica futuristica                  | Antica mitologia greca               |     |
+| 3   | Avventura Space Opera               | Giappone dell'era Samurai       | Sopravvivenza agli Zombie    | Metropoli di Supereroi           | Spionaggio della Guerra Fredda               | Sindacato del crimine moderno        |     |
+| 4   | Scuola di magia per giovani maghi   | Manicomio pieno di orrore       | Ricerca fantasy epica        | Organismi cibernetici e androidi | Orrori cosmici lovecraftiani                 | Avventura con spada e stregoneria    |     |
+| 5   | Urban Fantasy Underworld            | Stazione spaziale abbandonata   | America coloniale            | Creature mitiche e leggende      | Azione di arti marziali                      | Carnevale orrorifico                 |     |
+| 6   | Avventura ed esplorazione subacquea | Pianeta ricoperto dalla giungla | Era vittoriana steampunk     | Paradossi del viaggio nel tempo  | Battaglie intergalattiche di caccia stellari | Sopravvivenza in una terra selvaggia |     |
+
+### Tabella 2: Toni
+
+|     | 1-2                                   | 3-4                     | 5-6                       |
+| --- | ------------------------------------- | ----------------------- | ------------------------- |
+| 1   | Cupo e cupo                           | Scanzonato e umoristico | Grintoso e realistico     |
+| 2   | Epico e grandioso                     | Suspense ed emozionante | Misterioso ed enigmatico  |
+| 3   | Ricco di azione e avventuroso         | Romantico e stravagante | Orrorifico e terrificante |
+| 4   | Tecnologicamente avanzato ed elegante | Grunge e zozzo         | Gotico e minaccioso       |
+| 5   | Surreale e onirico                    | Futuristico e distopico | Nostalgico e senza tempo  |
+| 6   | Inquietante e paranormale             | Marziale e disciplinato | Grazioso ed elegante      |
+
+
+### Tabella 3: Cose
+
+| | 1 | 2 | 3 | 4 | 5 | 6 |
+|:---:|:---------------------:|:-------------------:|:--------------------:|:--------------------:|:---------------------:|:-------------------:|
+| 1 | Magia | Mostri | Antiche reliquie | Castello medioevale | Tecnologia futuristica | Astronave |
+| 2 | Antiche rovine | Conoscenze proibite | Società segreta | Ricerca pericolosa | Banda di avventurieri | Forze invisibili |
+| 3 | Tesoro nascosto | Magia nera | Creature mistiche | Poteri soprannaturali | Battaglia epica | Trama intrigante |
+| 4 | Personaggi sospetti | Terra devastata dalla guerra | Pericolose terre selvagge | Intrighi politici | Dominazione del mondo | Viaggio ricco di suspense |
+| 5 | Segreti oscuri | Amore proibito | Intenso conflitto | Acrobazie che sfidano la morte | Potenti artefatti | Viaggi epici |
+| 6 | Colpi di scena imprevedibili | Personaggi dinamici | Fazioni diverse | Imperi vasti | Eroi epici | Creature leggendarie |
+
+
+| | 1 | 2 | 3 | 4 | 5 | 6 |
+|:---:|:--------------------------:|:-----------------------:|:----------------------:|:---------------------:|:---------------------:|:--------------------------:|
+| 1 | Terra desolata post-apocalittica | Paesaggio urbano steampunk | Cieli infestati dai draghi | Magione infestata | Metropoli futuristica | Rotte commerciali intergalattiche |
+| 2 | Città d'oro perduta | Intelligenza artificiale | Baia dei pirati | Paradosso del viaggio nel tempo | Spionaggio | Esseri extraterrestri |
+| 3 | Regno sottomarino | Viaggio epico in mare | Poteri supereroistici | Loop temporali | Realtà alternative | Simulazione di realtà virtuale |
+| 4 | Mistero intrigante | Rivolta dei mutanti | Biotecnologia avanzata | Società futuristica | Storia alternativa | Distopia cyberpunk |
+| 5 | Ampio lore | Virus inarrestabile | Foresta incantata | Frontiere sconosciute | Robotica avanzata | Segreti dell'universo |
+| 6 | Scenari da fine del mondo | Capacità telecinetiche | Armi futuristiche | Salto di dimensione | Tecno-sorveglianza | Conflitto con superpoteri |
+
+
+| | 1 | 2 | 3 | 4 | 5 | 6 |
+|:---:|:------------------------:|:--------------------:|:-------------------------:|:-------------------------:|:-----------------------:|:-------------------------:|
+| 1 | Civiltà perduta | Metropoli in decadenza | Orrore gotico | Frontiera del selvaggio west | Guerra informatica futuristica | Esplorazione spaziale |
+| 2 | Rivolta politica | Forme di vita artificiali | Mercenari e assassini | Avventure nel tempo | Missione di spionaggio | Invasione aliena |
+| 3 | Avventura subacquea | Assedio epico | Capacità magiche | Anomalie temporali | Linea temporale alternativa | Incubo della realtà virtuale |
+| 4 | Cospirazione intrigante | Insurrezione mutante | Potenziamento cibernetico | Utopia futuristica | Rivisitazione storica | Ribellione cyberpunk |
+| 5 | Ampio world-building | Mostro inarrestabile | Regno incantato | Ultima frontiera | Rivoluzione robotica | Segreti degli antichi |
+| 6 | Scenari da fine dell'era | Capacità psioniche | Campi di battaglia futuristici | Portali interdimensionali | Tecnomanzia | Diplomazia con i superpoteri |
+
+
+### Tabella 4: Azioni
+
+| | 1 | 2 | 3 | 4 | 5 | 6 |
+|:---:|:-----------:|:--------:|:----------:|:---------:|:---------:|:-------:|
+| 1 | Incantare | Combattere | Liberare | Esplorare | Potenziare | Pilotare |
+| 2 | Decifra | Cerca | Infiltrati | Completare | Unirsi| Svelare |
+| 3 | Trovare | Dominare | Domare | Imbrigliare | Vincere | Scoprire |
+| 4 | Interrogare | Navigare | Sopravvivere | Influenzare | Rovesciare | Sopportare |
+| 5 | Intuire | Perseguire | Risolvere | Eseguire | Acquisire | Imbarcarsi |
+| 6 | Anticipare | Sviluppare | Alleare | Espandere | Diventare | Uccidere |
+
+
+### Tabella 5: Opposizioni
+
+| | 1 | 2 | 3 | 4 | 5 | 6 |
+|:---:|:--------------------:|:-------------------:|:------------------------:|:---------------------:|:-------------------:|:--------------------:|
+| 1 | Maghi oscuri | Bestie selvagge | Spiriti maligni | Nobili arroganti | Trappole pericolose | Banditi spietati |
+| 2 | Eserciti di non morti | Politici corrotti | Organizzazioni sinistre | Mostri feroci | Terreni infidi | Governanti dispotici |
+| 3 | Potenti artefatti | Assassini spietati | Creature pericolose | Antiche maledizioni | Enigmi complessi | Potenti incantesimi |
+| 4 | Mercenari spietati | Forze oscure | Terribili segreti | Trame insidiose | Predatori feroci | Elementi inesorabili |
+| 5 | Veleno letale | Antiche profezie | Tentazioni irresistibili | Potenti incantesimi | Signori della guerra spietati | Pericoli invisibili |
+| 6 | Terribili maledizioni | Subdole trappole | Sinistre cospirazioni | Pericolose illusioni | Entità maligne | Fazioni spietate |
+
+L'impostazione generale di questo supplemento è tratta da *The Instant Game* di Animalball Partners (2007). Nessuno dei suoi contenuti è utilizzato qui.

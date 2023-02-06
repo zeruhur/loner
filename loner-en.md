@@ -339,3 +339,108 @@ Loner v.1.8
 (CC) 2023 Roberto Bisceglie
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+# Appendix 1 - Loner Together
+Loner's rules are designed for a single player controlling one character.
+However being derivative of a multiplayer game (Freeform Universal) no one prevents you from using them for group play as well, if you insist on doing so.
+
+It is then possible to play in the following modes:
+1. **without a game master**: you play as in solo mode, each person controls their own character and asks questions to the Oracle in solo play. The Oracle's answers and the game world's reactions are interpreted by the player who asks the current question. Facilitator functions (moderating the flow of play and possibly settling disputes between players, as well as reminding players of the rules) can be taken on by a single player at the table, or they can be rotated. Questions pertaining to the entire group of character can be concerted.
+2. **with a game master**: they always pull only the players questioning the Oracle as in the solitary, no-master mode. The master takes charge of interpreting the answer and presenting the reactions of the game world. He also assumes the functions of a facilitator.
+
+Keep in mind that as much as Loner can be played in groups, I strongly recommend that you use Freeform Universal for this need.
+
+# Appendix 2 - The Adventure Maker
+Sometimes you may lack the inspiration to think of a game setting, or you want to experiment with one you have never thought of.
+The tables below are designed to instantly generate an unpredictable setting for you to explore with a game.
+
+To generate a setting:
+1. Roll on the Settings table
+2. Roll on the Tones table
+3. Roll two times on one Things table of your choice
+
+To generate a premise of adventure:
+1. Roll on the Opposition table
+2. Roll two times on Actions table and on a Things tables
+
+Note that the adventure premise is not the initial scene prompt, only the framework within which it takes place.
+
+### Table 1: Settings
+
+|     | 1                                    | 2                       | 3                         | 4                                 | 5                                 | 6                           |     |
+| --- | ------------------------------------ | ----------------------- | ------------------------- | --------------------------------- | --------------------------------- | --------------------------- | --- |
+| 1   | Post-Apocalyptic Wasteland           | High Fantasy Kingdom    | Medieval War and Intrigue | Cyberpunk Megacorporation         | Futuristic Space Colony           | Supernatural Noir City      |     |
+| 2   | Alternate History                    | Pirate-Filled Seas      | Wild West Frontier        | Dark Fantasy Realm                | Futuristic Dystopian City         | Ancient Greek Mythology     |     |
+| 3   | Space Opera Adventure                | Samurai-Era Japan       | Zombie Survival           | Superhero Metropolis              | Cold War Espionage                | Modern Crime Syndicate      |     |
+| 4   | Magic School for Young Mages         | Horror-Filled Asylum    | Epic Fantasy Quest        | Cybernetic Organisms and Androids | Lovecraftian Cosmic Horrors       | Sword and Sorcery Adventure |     |
+| 5   | Urban Fantasy Underworld             | Abandoned Space Station | Colonial America          | Mythical Creatures and Legends    | Martial Arts Action               | Horror-Stricken Carnival    |     |
+| 6   | Underwater Adventure and Exploration | Jungle-Covered Planet   | Steampunk Victorian Era   | Time Travel Paradoxes             | Intergalactic Starfighter Battles | Survival in a Savage Land   |     |
+|     |                                      |                         |                           |                                   |                                   |                             |     |
+
+### Table 2: Tones
+
+|     | 1-2                                | 3-4                       | 5-6                          |
+| --- | ---------------------------------- | ------------------------- | ---------------------------- |
+| 1   | Dark and brooding                  | Lighthearted and humorous | Gritty and realistic         |
+| 2   | Epic and grandiose                 | Suspenseful and thrilling | Mysterious and enigmatic     |
+| 3   | Action-packed and adventurous      | Romantic and whimsical    | Horror-filled and terrifying |
+| 4   | Technologically advanced and sleek | Grungy and dirty          | Gothic and ominous           |
+| 5   | Surreal and dreamlike              | Futuristic and dystopian  | Nostalgic and timeless       |
+| 6   | Eerie and paranormal               | Martial and disciplined   | Gracious and elegant         |
+
+
+### Table 3: Things
+
+|     |           1           |          2          |           3          |           4          |           5           |          6          |
+|:---:|:---------------------:|:-------------------:|:--------------------:|:--------------------:|:---------------------:|:-------------------:|
+|  1  |         Magic         |       Monsters      |    Ancient relics    |    Medieval castle   | Futuristic technology |      Spaceship      |
+|  2  |     Ancient ruins     | Forbidden knowledge |    Secret society    |    Dangerous quest   |  Band of adventurers  |    Unseen forces    |
+|  3  |    Hidden treasure    |      Dark magic     |  Mystical creatures  |  Supernatural powers |      Epic battle      |   Intriguing plot   |
+|  4  | Suspicious characters |    War-torn land    | Dangerous wilderness |  Political intrigue  |    World domination   | Suspenseful journey |
+|  5  |      Dark secrets     |    Forbidden love   |   Intense conflict   | Death-defying stunts |   Powerful artifacts  |    Epic journeys    |
+|  6  |  Unpredictable twists |  Dynamic characters |  Different factions  |     Vast empires     |      Epic heroes      | Legendary creatures |
+
+
+|     |              1             |            2            |            3           |           4           |           5           |              6             |
+|:---:|:--------------------------:|:-----------------------:|:----------------------:|:---------------------:|:---------------------:|:--------------------------:|
+|  1  | Post-apocalyptic wasteland |   Steampunk cityscape   |  Dragon-infested skies |    Haunted mansion    | Futuristic metropolis | Intergalactic trade routes |
+|  2  |      Lost city of gold     | Artificial intelligence |      Pirate's cove     |  Time-travel paradox  |       Espionage       |   Extraterrestrial beings  |
+|  3  |     Underwater kingdom     |     Epic sea voyage     |   Superheroic powers   |       Time loops      |  Alternate realities  | Virtual reality simulation |
+|  4  |     Intriguing mystery     |     Mutant uprising     | Advanced biotechnology |   Futuristic society  |   Alternate history   |     Cyberpunk dystopia     |
+|  5  |       Extensive lore       |    Unstoppable virus    |    Enchanted forest    | The unknown frontiers |   Advanced robotics   |   Secrets of the universe  |
+|  6  | End of the world scenarios |  Telekinetic abilities  |   Futuristic weapons   |   Dimension hopping   |     Techno-sorcery    |    Superpowered conflict   |
+
+
+|     |             1            |           2          |             3             |             4             |            5            |             6             |
+|:---:|:------------------------:|:--------------------:|:-------------------------:|:-------------------------:|:-----------------------:|:-------------------------:|
+|  1  |     Lost civilization    |  Decaying metropolis |       Gothic horror       |     Wild west frontier    | Futuristic cyberwarfare |     Space exploration     |
+|  2  |    Political uprising    | Artificial lifeforms | Mercenaries and assassins | Time-traveling adventures |    Espionage mission    |       Alien invasion      |
+|  3  |   Underwater adventure   |      Epic siege      |     Magical abilities     |       Time anomalies      |    Alternate timeline   | Virtual reality nightmare |
+|  4  |   Intriguing conspiracy  |   Mutant insurgency  |  Cybernetic enhancements  |     Futuristic utopia     |  Historical reimagining |    Cyberpunk rebellion    |
+|  5  | Extensive world-building |  Unstoppable monster |     Enchanted kingdom     |     The final frontier    |    Robotic revolution   |  Secrets of the ancients  |
+|  6  | End of the era scenarios |   Psionic abilities  |  Futuristic battlefields  |  Interdimensional portals |       Technomancy       |   Superpowered diplomacy  |
+
+### Table 4: Actions
+
+|     |      1      |     2    |      3     |     4     |     5     |    6    |
+|:---:|:-----------:|:--------:|:----------:|:---------:|:---------:|:-------:|
+|  1  |     Cast    |  Battle  |   Free  |  Explore  |  Upgrade  |  Pilot  |
+|  2  |   Decipher  |   Seek   | Infiltrate |  Complete |    Join   | Uncover |
+|  3  |     Find    |  Master  |    Tame    |  Harness  |    Win    | Unravel |
+|  4  | Interrogate | Navigate |   Survive  | Influence | Overthrow |  Endure |
+|  5  |   Guess   |  Pursue  |   Resolve  |  Perform  |  Acquire  |  Embark |
+|  6  |  Anticipate |  Develop |    Ally    |   Expand  |   Become  |   Slay  |
+
+
+### Table 5: Oppositions
+
+|     |           1          |          2          |             3            |           4           |          5          |           6          |
+|:---:|:--------------------:|:-------------------:|:------------------------:|:---------------------:|:-------------------:|:--------------------:|
+|  1  |     Dark wizards     |    Savage beasts    |    Malevolent spirits    |   Arrogant noblemen   |   Dangerous traps   |   Ruthless bandits   |
+|  2  |     Undead armies    | Corrupt politicians |  Sinister organizations  |    Vicious monsters   | Treacherous terrain |    Despotic rulers   |
+|  3  |  Powerful artifacts  | Merciless assassins |    Dangerous creatures   |     Ancient curses    |   Complex puzzles   |    Powerful spells   |
+|  4  | Ruthless mercenaries |     Dark forces     |     Terrible secrets     |    Insidious plots    |  Vicious predators  | Unforgiving elements |
+|  5  |     Lethal poison    |  Ancient prophecies | Irresistible temptations | Powerful enchantments |  Ruthless warlords  |    Unseen dangers    |
+|  6  |    Terrible curses   |    Devious traps    |   Sinister conspiracies  |  Dangerous illusions  | Malevolent entities |   Ruthless factions  |
+
+The general setup of this supplement is taken from *The Instant Game* by Animalball Partners (2007). None of its content is used here.
