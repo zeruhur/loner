@@ -230,28 +230,34 @@
 
 ## Locations
 ### The Haunted Hotel
-Brief Description: A once luxurious hotel that has fallen into disrepair. The rooms are filled with the remnants of the past, and the air is thick with an eerie energy.
-- Possible encounters or NPCs: Specter, Cultist, Reclusive Millionaire, Caretaker with a dark past, Guest with a haunted legacy, Bellhop with a sinister motive
+- A once luxurious hotel that has fallen into disrepair. 
+- The rooms are filled with the remnants of the past, and the air is thick with an eerie energy.
+- Possible encounters: Specter, Cultist, Reclusive Millionaire, Caretaker with a dark past, Guest with a haunted legacy, Bellhop with a sinister motive
 
 ### The Cursed Woods
-Brief Description: A dense forest known for strange occurrences and disappearances. The trees are twisted and the air is thick with an eerie energy. 
-- Possible encounters or NPCs: Werebeast, Shadow Fiend, Witch, Lost Hiker, Hermit with dark knowledge, Park Ranger with a hidden agenda
+- A dense forest known for strange occurrences and disappearances. 
+- The trees are twisted and the air is thick with an eerie energy. 
+- Possible encounters: Werebeast, Shadow Fiend, Witch, Lost Hiker, Hermit with dark knowledge, Park Ranger with a hidden agenda
 
 ### The Old Mansion
-Brief Description: A grand and sprawling estate that has fallen into disrepair. The rooms are filled with antique furnishings and the air is heavy with the scent of decay. 
-- Possible encounters or NPCs: Vampiric Noble, Specter, Cultist, Reclusive Millionaire, Caretaker with a dark past, Inheritor with a haunted legacy
+- A grand and sprawling estate that has fallen into disrepair. 
+- The rooms are filled with antique furnishings and the air is heavy with the scent of decay. 
+- Possible encounters: Vampiric Noble, Specter, Cultist, Reclusive Millionaire, Caretaker with a dark past, Inheritor with a haunted legacy
 
 ### The Dilapidated Cemetery
-Brief Description: A sprawling graveyard filled with crumbling headstones and overgrown with weeds. The air is heavy with the scent of decay and the wind whispers through the trees. 
-- Possible encounters or NPCs: Specter, Cultist, Grave Robber, Caretaker with a dark secret, Mourner with a sinister motive, Priest with a haunted past
+- A sprawling graveyard filled with crumbling headstones and overgrown with weeds. 
+- The air is heavy with the scent of decay and the wind whispers through the trees. 
+- Possible encounters: Specter, Cultist, Grave Robber, Caretaker with a dark secret, Mourner with a sinister motive, Priest with a haunted past
 
 ### The Isolated Research Facility
-Brief Description: A top-secret laboratory hidden deep in the wilderness. The halls are sterile and the air is thick with the smell of chemicals. 
-- Possible encounters or NPCs: Infected, Mad Scientist, Security Guard with a hidden agenda, Janitor who knows too much, Researcher with a dark past, Technician with a haunted conscience
+- A top-secret laboratory hidden deep in the wilderness. 
+- The halls are sterile and the air is thick with the smell of chemicals. 
+- Possible encounters: Infected, Mad Scientist, Security Guard with a hidden agenda, Janitor who knows too much, Researcher with a dark past, Technician with a haunted conscience
 
 ### The Abandoned Asylum
-Brief Description: A once grand institution that has been left to decay. The halls are dark and filled with the sounds of ghostly whispers. 
-- Possible encounters or NPCs: Specter, Cultist, Mad Doctor, Nurse with a dark secret, Patient with a haunted past, Janitor who knows too much
+- A once grand institution that has been left to decay. 
+- The halls are dark and filled with the sounds of ghostly whispers. 
+- Possible encounters: Specter, Cultist, Mad Doctor, Nurse with a dark secret, Patient with a haunted past, Janitor who knows too much
 
 ## Adventure Seeds
 

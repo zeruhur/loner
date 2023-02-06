@@ -83,7 +83,7 @@ Format the answer in raw markdown code in a snippet box
 Give me the description of 6 notable location in the setting, with this format
 
 ### Name
-Brief Description
+Brief Description in two or three bullet point
 - list of possible encounters or NPCs (from above)
 Format the answer in raw markdown code in a snippet box
 ---

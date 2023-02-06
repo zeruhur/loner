@@ -284,28 +284,28 @@ The player must build and maintain relationships with other criminals, politicia
 
 ## Locations
 ### The Abandoned Warehouse
-A decrepit, sprawling complex of crumbling brick and rusted metal that once served as a storage facility for a long-defunct shipping company.
-- Encounters: Homeless Squatters, Scrappers, Smugglers, Criminal Gangs
+- A decrepit, sprawling complex of crumbling brick and rusted metal that once served as a storage facility for a long-defunct shipping company.
+- Possible encounters: Homeless Squatters, Scrappers, Smugglers, Criminal Gangs
 
 ### The Docks
-A bustling hub of cargo ships, fishing boats, and other vessels that line the piers and loading docks.
-- Encounters: Dock Workers, Seafarers, Smugglers, Police Patrols
+- A bustling hub of cargo ships, fishing boats, and other vessels that line the piers and loading docks.
+- Possible encounters: Dock Workers, Seafarers, Smugglers, Police Patrols
 
 ### The Slums
-A sprawling network of shoddy, makeshift housing structures that are home to the poorest and most desperate members of society.
-- Encounters: Homeless Squatters, Junkies, Thugs, Outlaws
+- A sprawling network of shoddy, makeshift housing structures that are home to the poorest and most desperate members of society.
+- Possible encounters: Homeless Squatters, Junkies, Thugs, Outlaws
 
 ### The Underworld
-A secret network of underground tunnels, hideouts, and criminal lairs where the most dangerous elements of society operate.
-- Encounters: Smugglers, Criminal Gangs, Human Traffickers, Assassin's Guilds
+- A secret network of underground tunnels, hideouts, and criminal lairs where the most dangerous elements of society operate.
+- Possible encounters: Smugglers, Criminal Gangs, Human Traffickers, Assassin's Guilds
 
 ### The Government Building
-A imposing, skyscraping edifice that serves as the seat of political power in the city.
-- Encounters: Bureaucrats, Police Officers, Politicians, Spies
+- A imposing, skyscraping edifice that serves as the seat of political power in the city.
+- Possible encounters: Bureaucrats, Police Officers, Politicians, Spies
 
 ### The High-Rise District
-A network of luxurious, towering skyscrapers where the wealthy and influential members of society reside.
-- Encounters: Business Tycoons, Socialites, Politicians, Private Security Forces
+- A network of luxurious, towering skyscrapers where the wealthy and influential members of society reside.
+- Possible encounters: Business Tycoons, Socialites, Politicians, Private Security Forces
 
 
 ## Adventure Seeds

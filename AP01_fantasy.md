@@ -114,219 +114,224 @@ Luck consumed for casting spells recharges after a rest in a safe area. If a Con
 
 ### The Royal Monarchy
 
-* **Concept:** Regal Ruler
-* **Skills:** Leadership, Diplomacy
-* **Frailty:** Fear of Assassination
-* **Gear:** Royal Crown, Scepter
-* **Goal:** To maintain the stability and prosperity of the kingdom
-* **Motive:** A desire for power and control
-* **Nemesis:** Powerful noble houses and secret societies seeking to overthrow the monarchy
+- **Concept:** Regal Ruler
+- **Skills:** Leadership, Diplomacy
+- **Frailty:** Fear of Assassination
+- **Gear:** Royal Crown, Scepter
+- **Goal:** To maintain the stability and prosperity of the kingdom
+- **Motive:** A desire for power and control
+- **Nemesis:** Powerful noble houses and secret societies seeking to overthrow the monarchy
 
 ### The College of Wizards
 
-* **Concept:** Learned Mage
-* **Skills:** Spellcasting, Knowledge (arcana)
-* **Frailty:** Fear of losing control over their magic
-* **Gear:** Wizard robes, spellbook
-* **Goal:** To regulate and control the use of magic in the kingdom
-* **Motive:** Protection of the kingdom and the people from the dangers of unchecked magic
-* **Nemesis:** rogue sorcerers and dark wizards who seek to use magic for their own gain
+- **Concept:** Learned Mage
+- **Skills:** Spellcasting, Knowledge (arcana)
+- **Frailty:** Fear of losing control over their magic
+- **Gear:** Wizard robes, spellbook
+- **Goal:** To regulate and control the use of magic in the kingdom
+- **Motive:** Protection of the kingdom and the people from the dangers of unchecked magic
+- **Nemesis:** rogue sorcerers and dark wizards who seek to use magic for their own gain
 
 ### The Noble Houses
 
-* **Concept:** Wealthy Aristocrat
-* **Skills:** Persuasion, Intimidation
-* **Frailty:** Fear of losing their wealth and status
-* **Gear:** Fine clothing, jewels
-* **Goal:** To increase their wealth and power
-* **Motive:** greed and a desire for more power and influence
-* **Nemesis:** The Royal Monarchy and other powerful noble houses
+- **Concept:** Wealthy Aristocrat
+- **Skills:** Persuasion, Intimidation
+- **Frailty:** Fear of losing their wealth and status
+- **Gear:** Fine clothing, jewels
+- **Goal:** To increase their wealth and power
+- **Motive:** greed and a desire for more power and influence
+- **Nemesis:** The Royal Monarchy and other powerful noble houses
 
 ### The Merchants Guild
 
-* **Concept:** Wealthy Trader
-* **Skills:** Negotiation, Appraisal
-* **Frailty:** Fear of losing business and wealth
-* **Gear:** Ledger, gold coins
-* **Goal:** To increase their wealth and power through trade
-* **Motive:** Greed and a desire for more wealth and influence
-* **Nemesis:** Bandits and other groups that disrupt trade routes
+- **Concept:** Wealthy Trader
+- **Skills:** Negotiation, Appraisal
+- **Frailty:** Fear of losing business and wealth
+- **Gear:** Ledger, gold coins
+- **Goal:** To increase their wealth and power through trade
+- **Motive:** Greed and a desire for more wealth and influence
+- **Nemesis:** Bandits and other groups that disrupt trade routes
 
 ### The Adventurers Guild
 
-* **Concept:** Brave Explorer
-* **Skills:** Survival, Athletics
-* **Frailty:** Fear of the unknown
-* **Gear:** Backpack, bedroll
-* **Goal:** To explore new places and discover ancient treasures
-* **Motive:** Adventure and a desire for fame and fortune
-* **Nemesis:** Dangerous creatures and treacherous terrain
+- **Concept:** Brave Explorer
+- **Skills:** Survival, Athletics
+- **Frailty:** Fear of the unknown
+- **Gear:** Backpack, bedroll
+- **Goal:** To explore new places and discover ancient treasures
+- **Motive:** Adventure and a desire for fame and fortune
+- **Nemesis:** Dangerous creatures and treacherous terrain
 
 ### The Secret Societies
 
-* **Concept:** Mysterious Cultist
-* **Skills:** Stealth, Deception
-* **Frailty:** Fear of being discovered
-* **Gear:** Secret symbol, hidden blade
-* **Goal:** To gain power and influence through secret means
-* **Motive:** A desire for power and control
-* **Nemesis:** The Royal Monarchy and the College of Wizards
+- **Concept:** Mysterious Cultist
+- **Skills:** Stealth, Deception
+- **Frailty:** Fear of being discovered
+- **Gear:** Secret symbol, hidden blade
+- **Goal:** To gain power and influence through secret means
+- **Motive:** A desire for power and control
+- **Nemesis:** The Royal Monarchy and the College of Wizards
 
 ## NPCs
 
 ### King Harold
 
-* **Concept:** Wise Ruler
-* **Skills:** Leadership, History
-* **Frailty:** Fear of being overthrown
-* **Gear:** Royal crown, scepter
-* **Goal:** To maintain the stability and prosperity of the kingdom
-* **Motive:** A desire to protect and care for his people
-* **Nemesis:** Powerful noble houses and secret societies seeking to overthrow the monarchy
+- **Concept:** Wise Ruler
+- **Skills:** Leadership, History
+- **Frailty:** Fear of being overthrown
+- **Gear:** Royal crown, scepter
+- **Goal:** To maintain the stability and prosperity of the kingdom
+- **Motive:** A desire to protect and care for his people
+- **Nemesis:** Powerful noble houses and secret societies seeking to overthrow the monarchy
 
 ### Queen Isabella
 
-* **Concept:** Beautiful Sovereign
-* **Skills:** Persuasion, Intimidation
-* **Frailty:** Fear of losing her beauty
-* **Gear:** Royal crown, scepter
-* **Goal:** To maintain the stability and prosperity of the kingdom
-* **Motive:** A desire to protect and care for her people
-* **Nemesis:** Powerful noble houses and secret societies seeking to overthrow the monarchy
+- **Concept:** Beautiful Sovereign
+- **Skills:** Persuasion, Intimidation
+- **Frailty:** Fear of losing her beauty
+- **Gear:** Royal crown, scepter
+- **Goal:** To maintain the stability and prosperity of the kingdom
+- **Motive:** A desire to protect and care for her people
+- **Nemesis:** Powerful noble houses and secret societies seeking to overthrow the monarchy
 
 ### Lord Blackwood
 
-* **Concept:** Arrogant Aristocrat
-* **Skills:** Persuasion, Intimidation
-* **Frailty:** Fear of losing his wealth and status
-* **Gear:** Fine clothing, jewels
-* **Goal:** To increase his wealth and power
-* **Motive:** Greed and a desire for more power and influence
-* **Nemesis:** The Royal Monarchy and other powerful noble houses
+- **Concept:** Arrogant Aristocrat
+- **Skills:** Persuasion, Intimidation
+- **Frailty:** Fear of losing his wealth and status
+- **Gear:** Fine clothing, jewels
+- **Goal:** To increase his wealth and power
+- **Motive:** Greed and a desire for more power and influence
+- **Nemesis:** The Royal Monarchy and other powerful noble houses
 
 ### Archmage Alaric
 
-* **Concept:** Powerful Wizard
-* **Skills:** Spellcasting, Knowledge (arcana)
-* **Frailty:** Fear of losing control over his magic
-* **Gear:** Wizard robes, spellbook
-* **Goal:** To regulate and control the use of magic in the kingdom
-* **Motive:** Protection of the kingdom and the people from the dangers of unchecked magic
-* **Nemesis:** Rogue sorcerers and dark wizards who seek to use magic for their own gain
+- **Concept:** Powerful Wizard
+- **Skills:** Spellcasting, Knowledge (arcana)
+- **Frailty:** Fear of losing control over his magic
+- **Gear:** Wizard robes, spellbook
+- **Goal:** To regulate and control the use of magic in the kingdom
+- **Motive:** Protection of the kingdom and the people from the dangers of unchecked magic
+- **Nemesis:** Rogue sorcerers and dark wizards who seek to use magic for their own gain
 
 ### Captain Marcus
 
-* **Concept:** Brave Soldier
-* **Skills:** Swordsmanship, Leadership
-* **Frailty:** Fear of death
-* **Gear:** Plate armor, sword
-* **Goal:** To protect and serve the kingdom
-* **Motive:** A sense of duty and loyalty to the kingdom
-* **Nemesis:** Invading armies and powerful monsters
+- **Concept:** Brave Soldier
+- **Skills:** Swordsmanship, Leadership
+- **Frailty:** Fear of death
+- **Gear:** Plate armor, sword
+- **Goal:** To protect and serve the kingdom
+- **Motive:** A sense of duty and loyalty to the kingdom
+- **Nemesis:** Invading armies and powerful monsters
 
 ### Sister Maria
 
-* **Concept:** Benevolent Priest
-* **Skills:** Healing, Persuasion
-* **Frailty:** Fear of death
-* **Gear:** Holy symbol, healing potions
-* **Goal:** To help and heal the people of the kingdom
-* **Motive:** A desire to aid and protect the innocent
-* **Nemesis:** Dark cults and practitioners of dark magic
+- **Concept:** Benevolent Priest
+- **Skills:** Healing, Persuasion
+- **Frailty:** Fear of death
+- **Gear:** Holy symbol, healing potions
+- **Goal:** To help and heal the people of the kingdom
+- **Motive:** A desire to aid and protect the innocent
+- **Nemesis:** Dark cults and practitioners of dark magic
 
 ## Monsters
 
 ### Dragon
 
-* **Concept:** Fearsome Beast
-* **Skills:** Fire breath, Flight
-* **Frailty:** Fear of cold-based attacks
-* **Gear:** Scales, hoard of treasure
-* **Goal:** To defend its hoard and territory
-* **Motive:** Survival and protection of its hoard
-* **Nemesis:** Adventurers and powerful wizards
+- **Concept:** Fearsome Beast
+- **Skills:** Fire breath, Flight
+- **Frailty:** Fear of cold-based attacks
+- **Gear:** Scales, hoard of treasure
+- **Goal:** To defend its hoard and territory
+- **Motive:** Survival and protection of its hoard
+- **Nemesis:** Adventurers and powerful wizards
 
 ### Orc
 
-* **Concept:** Brutal Warrior
-* **Skills:** Axes, endurance
-* **Frailty:** Fear of defeat
-* **Gear:** Orcish armor, axes
-* **Goal:** To conquer and pillage
-* **Motive:** A desire for power and wealth
-* **Nemesis:** The kingdom's army and powerful adventurers
+- **Concept:** Brutal Warrior
+- **Skills:** Axes, endurance
+- **Frailty:** Fear of defeat
+- **Gear:** Orcish armor, axes
+- **Goal:** To conquer and pillage
+- **Motive:** A desire for power and wealth
+- **Nemesis:** The kingdom's army and powerful adventurers
 
 ### Goblin
 
-* **Concept:** Mischievous Thief
-* **Skills:** Stealth, traps
-* **Frailty:** Fear of bright lights
-* **Gear:** Goblin-made weapons, traps
-* **Goal:** To steal and cause mischief
-* **Motive:** A desire for wealth and power
-* **Nemesis:** Adventurers and guards
+- **Concept:** Mischievous Thief
+- **Skills:** Stealth, traps
+- **Frailty:** Fear of bright lights
+- **Gear:** Goblin-made weapons, traps
+- **Goal:** To steal and cause mischief
+- **Motive:** A desire for wealth and power
+- **Nemesis:** Adventurers and guards
 
 ### Zombie
 
-* **Concept:** Shambling Horror
-* **Skills:** Unliving, Disease
-* **Frailty:** Fire, holy energy
-* **Gear:** None
-* **Goal:** To spread the disease, or as controlled by a necromancer
-* **Motive:** Survival, or as controlled by a necromancer
-* **Nemesis:** Adventurers, holy warriors, fire.
+- **Concept:** Shambling Horror
+- **Skills:** Unliving, Disease
+- **Frailty:** Fire, holy energy
+- **Gear:** None
+- **Goal:** To spread the disease, or as controlled by a necromancer
+- **Motive:** Survival, or as controlled by a necromancer
+- **Nemesis:** Adventurers, holy warriors, fire.
 
 ### Medusa
 
-* **Concept:** Deadly Gorgon
-* **Skills:** Petrifying gaze, speed
-* **Frailty:** Bright lights
-* **Gear:** Snakes, stone statue
-* **Goal:** To turn her victims into stone
-* **Motive:** A desire to be feared and worshiped
-* **Nemesis:** Adventurers and powerful wizards
+- **Concept:** Deadly Gorgon
+- **Skills:** Petrifying gaze, speed
+- **Frailty:** Bright lights
+- **Gear:** Snakes, stone statue
+- **Goal:** To turn her victims into stone
+- **Motive:** A desire to be feared and worshiped
+- **Nemesis:** Adventurers and powerful wizards
 
 ### Wraith
 
-* **Concept:** Ethereal Horror
-* **Skills:** Invisibility, Drain life
-* **Frailty:** Sunlight, holy energy
-* **Gear:** None
-* **Goal:** To drain the life energy of living beings
-* **Motive:** Survival, or as controlled by a necromancer
-* **Nemesis:** Adventurers, holy warriors, sunlight.
+- **Concept:** Ethereal Horror
+- **Skills:** Invisibility, Drain life
+- **Frailty:** Sunlight, holy energy
+- **Gear:** None
+- **Goal:** To drain the life energy of living beings
+- **Motive:** Survival, or as controlled by a necromancer
+- **Nemesis:** Adventurers, holy warriors, sunlight.
 
 ## Locations
 
 ### Eldrida (The Capital City)
 
-The capital city of Aldorath, home to the royal palace and the seat of government. The city is bustling with activity, with markets, shops, taverns, and temples. The city is also home to the College of Wizards and many powerful noble houses.
-* Possible encounters or NPCs: King Harold, Queen Isabella, Lord Blackwood, Archmage Alaric, Captain Marcus
+- The capital city of Aldorath, home to the royal palace and the seat of government. The city is bustling with activity, with markets, shops, taverns, and temples. 
+- The city is also home to the College of Wizards and many powerful noble houses.
+- Possible encounters or NPCs: King Harold, Queen Isabella, Lord Blackwood, Archmage Alaric, Captain Marcus
 
 ### The Dragon's Lair
 
-A treacherous mountain cave that serves as the home of a powerful dragon. The dragon guards a hoard of treasure and will fiercely defend it against intruders.
-* Possible encounters: Dragon, Adventurers seeking treasure
+- A treacherous mountain cave that serves as the home of a powerful dragon. 
+- The dragon guards a hoard of treasure and will fiercely defend it against intruders.
+- Possible encounters: Dragon, Adventurers seeking treasure
 
 ### The Forest of Shadows
 
-A dense and dark forest said to be home to many dangerous creatures and ancient ruins. Many stories and legends surround the forest, some say it is home to a powerful druid, others say it is cursed by dark magic.
-* Possible encounters: Goblins, Medusa, Wraith, Sister Maria
+- A dense and dark forest said to be home to many dangerous creatures and ancient ruins. 
+- Many stories and legends surround the forest, some say it is home to a powerful druid, others say it is cursed by dark magic.
+- Possible encounters: Goblins, Medusa, Wraith, Sister Maria
 
 ### The Castle of Blackwood
 
-An imposing castle belonging to one of the powerful noble houses of Aldorath. The castle is said to be haunted by the spirits of the previous lords of Blackwood.
-* Possible encounters: Lord Blackwood, Wraith, Ghosts, Adventurers seeking treasure
+- An imposing castle belonging to one of the powerful noble houses of Aldorath. 
+- The castle is said to be haunted by the spirits of the previous lords of Blackwood.
+- Possible encounters: Lord Blackwood, Wraith, Ghosts, Adventurers seeking treasure
 
 ### The College of Wizards
 
-A grand and ancient building located in the capital city of Eldrida, where the powerful wizards of the kingdom gather to study and regulate the use of magic. The college is said to hold many powerful artifacts and secrets.
-* Possible encounters: Archmage Alaric, Wizards, Adventurers seeking ancient knowledge
+- A grand and ancient building located in the capital city of Eldrida, where the powerful wizards of the kingdom gather to study and regulate the use of magic. 
+- The college is said to hold many powerful artifacts and secrets.
+- Possible encounters: Archmage Alaric, Wizards, Adventurers seeking ancient knowledge
 
 ### The Ancient Ruin
 
 A crumbling and overgrown ruin, said to be the remains of a powerful and ancient civilization. Many stories and legends surround the ruin, some say it holds powerful magical artifacts, others say it is cursed by dark magic.
-* Possible encounters: Orcs, Zombies, Adventurers seeking treasure and ancient knowledge
+- Possible encounters: Orcs, Zombies, Adventurers seeking treasure and ancient knowledge
 
 ## Adventure Seeds
 

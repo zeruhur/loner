@@ -68,204 +68,204 @@
 ## Factions
 
 ### The Truth Coalition
-* **Concept:** Legendary Superheroes
-* **Skills:** Leadership, Superpower Control
-* **Frailty:** Public Pressure
-* **Gear:** Utility Belt, Justice League Communicator
-* **Goal:** Protect the Earth from all threats
-* **Motive:** To uphold justice and peace
-* **Nemesis:** Voluptuous, Exterminator
+- **Concept:** Legendary Superheroes
+- **Skills:** Leadership, Superpower Control
+- **Frailty:** Public Pressure
+- **Gear:** Utility Belt, Justice League Communicator
+- **Goal:** Protect the Earth from all threats
+- **Motive:** To uphold justice and peace
+- **Nemesis:** Voluptuous, Exterminator
 
 
 ### The Vindicators
-* **Concept:** Earth's Mightiest Heroes
-* **Skills:** Teamwork, Combat Training
-* **Frailty:** Infighting
-* **Gear:** Shield, Utility Belt
-* **Goal:** Defend the Earth from all threats
-* **Motive:** To protect innocent lives
-* **Nemesis:** Timber, Captain Darkness
+- **Concept:** Earth's Mightiest Heroes
+- **Skills:** Teamwork, Combat Training
+- **Frailty:** Infighting
+- **Gear:** Shield, Utility Belt
+- **Goal:** Defend the Earth from all threats
+- **Motive:** To protect innocent lives
+- **Nemesis:** Timber, Captain Darkness
 
 
 ### The Marvelous
-* **Concept:** Mutants Fighting for Equality
-* **Skills:** Superpower Control, Combat Training
-* **Frailty:** Discrimination
-* **Gear:** X-Men Uniform, Cerebro
-* **Goal:** To create a world where mutants and humans can live together in peace
-* **Motive:** To fight for the rights of mutants
-* **Nemesis:** Micros, Meltdown
+- **Concept:** Mutants Fighting for Equality
+- **Skills:** Superpower Control, Combat Training
+- **Frailty:** Discrimination
+- **Gear:** X-Men Uniform, Cerebro
+- **Goal:** To create a world where mutants and humans can live together in peace
+- **Motive:** To fight for the rights of mutants
+- **Nemesis:** Micros, Meltdown
 
 
 ### Blooming Champions
-* **Concept:** Young Heroes in Training
-* **Skills:** Leadership, Superpower Control
-* **Frailty:** Lack of Experience
-* **Gear:** Utility Belt, Titans Communicator
-* **Goal:** To protect the Earth from all threats
-* **Motive:** To become the next generation of heroes
-* **Nemesis:** Blackstriker, The Annihilator
+- **Concept:** Young Heroes in Training
+- **Skills:** Leadership, Superpower Control
+- **Frailty:** Lack of Experience
+- **Gear:** Utility Belt, Titans Communicator
+- **Goal:** To protect the Earth from all threats
+- **Motive:** To become the next generation of heroes
+- **Nemesis:** Blackstriker, The Annihilator
 
 
 ### The Annihilators
-* **Concept:** Supervillains united
-* **Skills:** Leadership, Superpower Control
-* **Frailty:** In-fighting
-* **Gear:** Utility Belt, Legion Communicator
-* **Goal:** To conquer the world
-* **Motive:** Power and control
-* **Nemesis:** The Truth Coalition, Blooming Champions
+- **Concept:** Supervillains united
+- **Skills:** Leadership, Superpower Control
+- **Frailty:** In-fighting
+- **Gear:** Utility Belt, Legion Communicator
+- **Goal:** To conquer the world
+- **Motive:** Power and control
+- **Nemesis:** The Truth Coalition, Blooming Champions
 
 
 ### Supervillains United
-* **Concept:** Criminal Masterminds
-* **Skills:** Leadership, Superpower Control
-* **Frailty:** Secret Identities
-* **Gear:** Utility Belt, Secret Society Communicator
-* **Goal:** To conquer the world
-* **Motive:** Power and control
-* **Nemesis:** The Vindicators, The Marvelous
+- **Concept:** Criminal Masterminds
+- **Skills:** Leadership, Superpower Control
+- **Frailty:** Secret Identities
+- **Gear:** Utility Belt, Secret Society Communicator
+- **Goal:** To conquer the world
+- **Motive:** Power and control
+- **Nemesis:** The Vindicators, The Marvelous
 
 ## NPCs
 
 ### Captain Nova
-* **Concept:** Cosmic Superhero
-* **Skills:** Superpower Control, Leadership
-* **Frailty:** Loneliness
-* **Gear:** Nova Helmet, Starblaster
-* **Goal:** To protect the galaxy from threats
-* **Motive:** To serve and protect all life
-* **Nemesis:** Starblight, The Conqueror
+- **Concept:** Cosmic Superhero
+- **Skills:** Superpower Control, Leadership
+- **Frailty:** Loneliness
+- **Gear:** Nova Helmet, Starblaster
+- **Goal:** To protect the galaxy from threats
+- **Motive:** To serve and protect all life
+- **Nemesis:** Starblight, The Conqueror
 
 ### The Crimson Crusader
-* **Concept:** Wealthy Superhero
-* **Skills:** Wealth Management, Leadership
-* **Frailty:** Arrogance
-* **Gear:** Crimson Crusader Suit, Utility Belt
-* **Goal:** To fight crime and protect the innocent
-* **Motive:** To use his wealth and resources to make a difference
-* **Nemesis:** The Baron, Blackout
+- **Concept:** Wealthy Superhero
+- **Skills:** Wealth Management, Leadership
+- **Frailty:** Arrogance
+- **Gear:** Crimson Crusader Suit, Utility Belt
+- **Goal:** To fight crime and protect the innocent
+- **Motive:** To use his wealth and resources to make a difference
+- **Nemesis:** The Baron, Blackout
 
 ### The Shadow
-* **Concept:** Stealthy Superhero
-* **Skills:** Stealth, Combat Training
-* **Frailty:** Secret Identity
-* **Gear:** Shadow Suit, Smoke Pellets
-* **Goal:** To bring criminals to justice
-* **Motive:** To use his abilities to make a difference
-* **Nemesis:** The Wraith, The Specter
+- **Concept:** Stealthy Superhero
+- **Skills:** Stealth, Combat Training
+- **Frailty:** Secret Identity
+- **Gear:** Shadow Suit, Smoke Pellets
+- **Goal:** To bring criminals to justice
+- **Motive:** To use his abilities to make a difference
+- **Nemesis:** The Wraith, The Specter
 
 ### The Brainiac
-* **Concept:** Genius Superhero
-* **Skills:** Intelligence, Technology
-* **Frailty:** Emotional Detachment
-* **Gear:** Utility Belt, Brainiac's Helmet
-* **Goal:** To use his intelligence for the betterment of mankind
-* **Motive:** To use his intelligence to solve problems
-* **Nemesis:** The Mad Scientist, The Thinker
+- **Concept:** Genius Superhero
+- **Skills:** Intelligence, Technology
+- **Frailty:** Emotional Detachment
+- **Gear:** Utility Belt, Brainiac's Helmet
+- **Goal:** To use his intelligence for the betterment of mankind
+- **Motive:** To use his intelligence to solve problems
+- **Nemesis:** The Mad Scientist, The Thinker
 
 ### The Tempest
-* **Concept:** Weather-based Superhero
-* **Skills:** Weather Control, Combat Training
-* **Frailty:** Temperament
-* **Gear:** Tempest Suit, Stormbringer
-* **Goal:** To protect the Earth from natural disasters
-* **Motive:** To use his abilities to make a difference
-* **Nemesis:** The Storm King, The Tempestuous
+- **Concept:** Weather-based Superhero
+- **Skills:** Weather Control, Combat Training
+- **Frailty:** Temperament
+- **Gear:** Tempest Suit, Stormbringer
+- **Goal:** To protect the Earth from natural disasters
+- **Motive:** To use his abilities to make a difference
+- **Nemesis:** The Storm King, The Tempestuous
 
 ### The Phoenix
-* **Concept:** Fire-based Superhero
-* **Skills:** Fire Control, Combat Training
-* **Frailty:** Arrogance
-* **Gear:** Phoenix Suit, Firebird
-* **Goal:** To protect the Earth from threats
-* **Motive:** To use his abilities to make a difference
-* **Nemesis:** The Inferno, The Blaze
+- **Concept:** Fire-based Superhero
+- **Skills:** Fire Control, Combat Training
+- **Frailty:** Arrogance
+- **Gear:** Phoenix Suit, Firebird
+- **Goal:** To protect the Earth from threats
+- **Motive:** To use his abilities to make a difference
+- **Nemesis:** The Inferno, The Blaze
 
 
 ## Enemies
 
 ### The Disintegrator
-* **Concept:** Superpowered Criminal
-* **Skills:** Superpower Control, Combat Training
-* **Frailty:** Arrogance
-* **Gear:** Energy Blaster, Force Field Generator
-* **Goal:** To become the most powerful criminal in the world
-* **Motive:** Power and wealth
-* **Nemesis:** The Truth Coalition
+- **Concept:** Superpowered Criminal
+- **Skills:** Superpower Control, Combat Training
+- **Frailty:** Arrogance
+- **Gear:** Energy Blaster, Force Field Generator
+- **Goal:** To become the most powerful criminal in the world
+- **Motive:** Power and wealth
+- **Nemesis:** The Truth Coalition
 
 ### The Mindbender
-* **Concept:** Psychic Supervillain
-* **Skills:** Telepathy, Illusion Casting
-* **Frailty:** Mental Instability
-* **Gear:** Psychic Amplifier, Illusion Generator
-* **Goal:** To control the minds of the entire world
-* **Motive:** Power and control
-* **Nemesis:** The Vindicators
+- **Concept:** Psychic Supervillain
+- **Skills:** Telepathy, Illusion Casting
+- **Frailty:** Mental Instability
+- **Gear:** Psychic Amplifier, Illusion Generator
+- **Goal:** To control the minds of the entire world
+- **Motive:** Power and control
+- **Nemesis:** The Vindicators
 
 ### The Storm
-* **Concept:** Weather-Controlling Supervillain
-* **Skills:** Weather Control, Combat Training
-* **Frailty:** Dependence on technology
-* **Gear:** Weather Control Device, Energy Blaster
-* **Goal:** To become the ruler of the world's weather
-* **Motive:** Power and control
-* **Nemesis:** The Marvelous
+- **Concept:** Weather-Controlling Supervillain
+- **Skills:** Weather Control, Combat Training
+- **Frailty:** Dependence on technology
+- **Gear:** Weather Control Device, Energy Blaster
+- **Goal:** To become the ruler of the world's weather
+- **Motive:** Power and control
+- **Nemesis:** The Marvelous
 
 ### The Mechanic
-* **Concept:** Technologically-Enhanced Supervillain
-* **Skills:** Robotics, Cybernetics
-* **Frailty:** Overreliance on technology
-* **Gear:** Exo-Suit, Energy Blaster
-* **Goal:** To become the most powerful being in the world
-* **Motive:** Power and control
-* **Nemesis:** Blooming Champions
+- **Concept:** Technologically-Enhanced Supervillain
+- **Skills:** Robotics, Cybernetics
+- **Frailty:** Overreliance on technology
+- **Gear:** Exo-Suit, Energy Blaster
+- **Goal:** To become the most powerful being in the world
+- **Motive:** Power and control
+- **Nemesis:** Blooming Champions
 
 ### The Devourer
-* **Concept:** Superpowered Alien
-* **Skills:** Superpower Control, Combat Training
-* **Frailty:** Hunger for energy
-* **Gear:** Energy Absorption Device, Force Field Generator
-* **Goal:** To consume all energy in the world
-* **Motive:** Survival
-* **Nemesis:** The Annihilators
+- **Concept:** Superpowered Alien
+- **Skills:** Superpower Control, Combat Training
+- **Frailty:** Hunger for energy
+- **Gear:** Energy Absorption Device, Force Field Generator
+- **Goal:** To consume all energy in the world
+- **Motive:** Survival
+- **Nemesis:** The Annihilators
 
 ### The Infector
-* **Concept:** Superpowered Parasite
-* **Skills:** Superpower Control, Infection
-* **Frailty:** Dependence on hosts
-* **Gear:** Infection Glands, Camouflage
-* **Goal:** To infect and control all life on Earth
-* **Motive:** Survival
-* **Nemesis:** Supervillains United
+- **Concept:** Superpowered Parasite
+- **Skills:** Superpower Control, Infection
+- **Frailty:** Dependence on hosts
+- **Gear:** Infection Glands, Camouflage
+- **Goal:** To infect and control all life on Earth
+- **Motive:** Survival
+- **Nemesis:** Supervillains United
 
 ## Locations
 
 ### Metropia
-* A bustling metropolis that serves as the main hub of activity in the game's setting. 
-* It is home to a diverse population of humans and mutants, as well as a variety of businesses and organizations.
+- A bustling metropolis that serves as the main hub of activity in the game's setting. 
+- It is home to a diverse population of humans and mutants, as well as a variety of businesses and organizations.
 
 ### Jiston City
-* A gritty and crime-ridden city, known for its corrupt government and powerful criminal underworld. 
-* It is home to a number of notorious super villains.
+- A gritty and crime-ridden city, known for its corrupt government and powerful criminal underworld. 
+- It is home to a number of notorious super villains.
 
-### Central City
-* The most famous city in the world, known for its iconic skyline and cultural diversity. 
-* It is a major center of commerce and industry, as well as a hotbed of superhero activity.
+## Central City
+- The most famous city in the world, known for its iconic skyline and cultural diversity. 
+- It is a major center of commerce and industry, as well as a hotbed of superhero activity.
 
 
 ### The Harmony Post
-* A major newspaper and media conglomerate, known for its in-depth coverage of the world of superheroes and super villains. 
-* It serves as a hub of information and intelligence for the heroes of the game's setting.
+- A major newspaper and media conglomerate, known for its in-depth coverage of the world of superheroes and super villains. 
+- It serves as a hub of information and intelligence for the heroes of the game's setting.
 
 ### The Vortex Island
-* The headquarters of the Truth Coalition, it is a state-of-the-art facility that serves as a base of operations for the world's greatest heroes. 
-* It is equipped with advanced technology and resources to aid in the fight against crime and evil.
+- The headquarters of the Truth Coalition, it is a state-of-the-art facility that serves as a base of operations for the world's greatest heroes. 
+- It is equipped with advanced technology and resources to aid in the fight against crime and evil.
 
 
 ### The Crimson Castle
-* A school for young mutants, founded by Agent Red Crane. 
-* It serves as a sanctuary and training ground for the next generation of mutants, and is also home to the Marvelous, a team of mutant heroes.
+- A school for young mutants, founded by Agent Red Crane. 
+- It serves as a sanctuary and training ground for the next generation of mutants, and is also home to the Marvelous, a team of mutant heroes.
 
 
 ## Adventure Seeds

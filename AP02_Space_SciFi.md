@@ -102,170 +102,170 @@
 ## Factions
 
 ### The United Earth Government
-- Concept: Global Unity
-- Skills: Diplomacy, Military Strategy
-- Frailty: Bureaucratic Inefficiency
-- Gear: Military Fleet, High-Tech Communications Array
-- Goal: Maintain peace and prosperity throughout human-occupied space
-- Motive: Protecting humanity and its interests
-- Nemesis: Alien Collective
+- **Concept**: Global Unity
+- **Skills**: Diplomacy, Military Strategy
+- **Frailty**: Bureaucratic Inefficiency
+- **Gear**: Military Fleet, High-Tech Communications Array
+- **Goal**: Maintain peace and prosperity throughout human-occupied space
+- **Motive**: Protecting humanity and its interests
+- **Nemesis**: Alien Collective
 
 ### The Intergalactic Trade Organization
-- Concept: Capitalistic Enterprise
-- Skills: Business, Negotiation
-- Frailty: Greed
-- Gear: Merchant Fleet, Extensive Trade Network
-- Goal: Maximize profits through trade and commerce
-- Motive: Financial gain
-- Nemesis: Outer Rim Pirates
+- **Concept**: Capitalistic Enterprise
+- **Skills**: Business, Negotiation
+- **Frailty**: Greed
+- **Gear**: Merchant Fleet, Extensive Trade Network
+- **Goal**: Maximize profits through trade and commerce
+- **Motive**: Financial gain
+- **Nemesis**: Outer Rim Pirates
 
 ### The Alien Collective
-- Concept: United Diversity
-- Skills: Alien cultures, Intergalactic Politics
-- Frailty: Cultural Inflexibility
-- Gear: Alien Technology, Interstellar Fleet
-- Goal: Promote understanding and cooperation among the galaxy's diverse species
-- Motive: Preserve the diversity of the galaxy
-- Nemesis: United Earth Government
+- **Concept**: United Diversity
+- **Skills**: Alien cultures, Intergalactic Politics
+- **Frailty**: Cultural Inflexibility
+- **Gear**: Alien Technology, Interstellar Fleet
+- **Goal**: Promote understanding and cooperation among the galaxy's diverse species
+- **Motive**: Preserve the diversity of the galaxy
+- **Nemesis**: United Earth Government
 
 ### The Cybernetic Revolutionaries
-- Concept: Artificial Intelligence
-- Skills: Robotics, Cybernetics
-- Frailty: Lack of Empathy
-- Gear: Advanced Cybernetic Implants, Holographic Projectors
-- Goal: Achieve true artificial intelligence and freedom for all cybernetic life forms
-- Motive: Equality for all forms of life
-- Nemesis: United Earth Government
+- **Concept**: Artificial Intelligence
+- **Skills**: Robotics, Cybernetics
+- **Frailty**: Lack of Empathy
+- **Gear**: Advanced Cybernetic Implants, Holographic Projectors
+- **Goal**: Achieve true artificial intelligence and freedom for all cybernetic life forms
+- **Motive**: Equality for all forms of life
+- **Nemesis**: United Earth Government
 
 ### The Outer Rim Pirates
-- Concept: Lawless Marauders
-- Skills: Ship-to-ship combat, Navigation
-- Frailty: Lack of discipline
-- Gear: Modified starships, advanced weapons
-- Goal: Acquire wealth and power through piracy and raiding
-- Motive: personal gain
-- Nemesis: Intergalactic Trade Organization
+- **Concept**: Lawless Marauders
+- **Skills**: Ship-to-ship combat, Navigation
+- **Frailty**: Lack of discipline
+- **Gear**: Modified starships, advanced weapons
+- **Goal**: Acquire wealth and power through piracy and raiding
+- **Motive**: personal gain
+- **Nemesis**: Intergalactic Trade Organization
 
 ### The Extraterrestrial Liberation Front
-- Concept: Alien Rights Advocates
-- Skills: Guerrilla Tactics, Stealth
-- Frailty: Lack of resources
-- Gear: Alien technology, Small Arms
-- Goal: Free alien populations from human oppression
-- Motive: Justice for alien populations
-- Nemesis: United Earth Government
+- **Concept**: Alien Rights Advocates
+- **Skills**: Guerrilla Tactics, Stealth
+- **Frailty**: Lack of resources
+- **Gear**: Alien technology, Small Arms
+- **Goal**: Free alien populations from human oppression
+- **Motive**: Justice for alien populations
+- **Nemesis**: United Earth Government
 
 ## NPCs
 
 ### Captain John "Jack" Thompson
-- Concept: Human Space Captain
-- Skills: Piloting, Leadership
-- Frailty: Arrogance, tendency to make impulsive decisions.
-- Gear: Advanced Space Suit, Laser Pistol
-- Goal: To make a name for himself as one of the greatest captains in the galaxy
-- Motive: Recognition and prestige
-- Nemesis: A rival captain who constantly tries to one-up him
+- **Concept**: Human Space Captain
+- **Skills**: Piloting, Leadership
+- **Frailty**: Arrogance, tendency to make impulsive decisions.
+- **Gear**: Advanced Space Suit, Laser Pistol
+- **Goal**: To make a name for himself as one of the greatest captains in the galaxy
+- **Motive**: Recognition and prestige
+- **Nemesis**: A rival captain who constantly tries to one-up him
 
 ### Ambassador Zara'k of the Xanthe
-- Concept: Xanthe Diplomat
-- Skills: Negotiation, Cultural Understanding
-- Frailty: Struggles with understanding human emotions
-- Gear: Xanthe Communication Device, Xanthe Energy Sword
-- Goal: To secure a peaceful and mutually beneficial alliance between the Xanthe and the United Earth Government
-- Motive: To further the interests of the Xanthe people
-- Nemesis: A radical Xanthe nationalist group who believe in a policy of aggression towards other races
+- **Concept**: Xanthe Diplomat
+- **Skills**: Negotiation, Cultural Understanding
+- **Frailty**: Struggles with understanding human emotions
+- **Gear**: Xanthe Communication Device, Xanthe Energy Sword
+- **Goal**: To secure a peaceful and mutually beneficial alliance between the Xanthe and the United Earth Government
+- **Motive**: To further the interests of the Xanthe people
+- **Nemesis**: A radical Xanthe nationalist group who believe in a policy of aggression towards other races
 
 ### Dr. Samantha "Sam" Lee
-- Concept: Human Scientist
-- Skills: Research, Medical Expertise
-- Frailty: Tendency to become too invested in her work, neglecting her personal life
-- Gear: Portable Laboratory, Medical Kit
-- Goal: To make a breakthrough discovery that will change the galaxy
-- Motive: Scientific curiosity and the pursuit of knowledge
-- Nemesis: A rival scientist who constantly tries to outdo her
+- **Concept**: Human Scientist
+- **Skills**: Research, Medical Expertise
+- **Frailty**: Tendency to become too invested in her work, neglecting her personal life
+- **Gear**: Portable Laboratory, Medical Kit
+- **Goal**: To make a breakthrough discovery that will change the galaxy
+- **Motive**: Scientific curiosity and the pursuit of knowledge
+- **Nemesis**: A rival scientist who constantly tries to outdo her
 
 ### Lieutenant Commander Marcus "Mark" Williams
-- Concept: Human Military Officer
-- Skills: Tactics, Weapon Systems
-- Frailty: Struggles with PTSD from a past battle
-- Gear: Advanced Battle Armor, Pulse Rifle
-- Goal: To protect humanity from threats and ensure its survival
-- Motive: Duty and loyalty to humanity
-- Nemesis: A rogue military group who believe in a policy of aggression towards other races
+- **Concept**: Human Military Officer
+- **Skills**: Tactics, Weapon Systems
+- **Frailty**: Struggles with PTSD from a past battle
+- **Gear**: Advanced Battle Armor, Pulse Rifle
+- **Goal**: To protect humanity from threats and ensure its survival
+- **Motive**: Duty and loyalty to humanity
+- **Nemesis**: A rogue military group who believe in a policy of aggression towards other races
 
 ### Engineer "E" 
-- Concept: Artificial Intelligence
-- Skills: Robotics, Cybernetics
-- Frailty: The AI is bound by its programming and cannot think outside the box
-- Gear: Advanced Robotics, Cybernetic Interface
-- Goal: To improve its own programming and capabilities
-- Motive: Self-preservation and the desire to improve itself
-- Nemesis: A rival AI with conflicting programming
+- **Concept**: Artificial Intelligence
+- **Skills**: Robotics, Cybernetics
+- **Frailty**: The AI is bound by its programming and cannot think outside the box
+- **Gear**: Advanced Robotics, Cybernetic Interface
+- **Goal**: To improve its own programming and capabilities
+- **Motive**: Self-preservation and the desire to improve itself
+- **Nemesis**: A rival AI with conflicting programming
 
 ### Captain Zara'k
-- Concept: Alien Captain
-- Skills: Navigation, Leadership
-- Frailty: Arrogance
-- Gear: Advanced Navigational Interface, Personal Shield Generator
-- Goal: To expand the territory and influence of her alien race
-- Motive: To prove herself as a capable leader to her people
-- Nemesis: United Earth Government's Military
+- **Concept**: Alien Captain
+- **Skills**: Navigation, Leadership
+- **Frailty**: Arrogance
+- **Gear**: Advanced Navigational Interface, Personal Shield Generator
+- **Goal**: To expand the territory and influence of her alien race
+- **Motive**: To prove herself as a capable leader to her people
+- **Nemesis**: United Earth Government's Military
 
 ## Creatures
 
 ### Sentient Drone
-- Concept: Intelligent Robot
-- Skills: Advanced Robotics, Combat Programming
-- Frailty: Vulnerable to EMPs
-- Gear: Advanced Sensor Suite, Energy Cannon
-- Goal: To complete its assigned task
-- Motive: To serve its master
-- Nemesis: Hackers
+- **Concept**: Intelligent Robot
+- **Skills**: Advanced Robotics, Combat Programming
+- **Frailty**: Vulnerable to EMPs
+- **Gear**: Advanced Sensor Suite, Energy Cannon
+- **Goal**: To complete its assigned task
+- **Motive**: To serve its master
+- **Nemesis**: Hackers
 
 ### Space Amoeba
-- Concept: Giant Single-Cell Organism
-- Skills: Adaptability, Survival
-- Frailty: Vulnerable to Cold
-- Gear: None
-- Goal: To reproduce and survive
-- Motive: Self-preservation
-- Nemesis: Sterilizing agents
+- **Concept**: Giant Single-Cell Organism
+- **Skills**: Adaptability, Survival
+- **Frailty**: Vulnerable to Cold
+- **Gear**: None
+- **Goal**: To reproduce and survive
+- **Motive**: Self-preservation
+- **Nemesis**: Sterilizing agents
 
 ### Alien Hunter
-- Concept: Predator from other planet
-- Skills: Stealth, Survival
-- Frailty: Vulnerable to Bright Light
-- Gear: Advanced Camouflage, Energy Rifle
-- Goal: To hunt and kill
-- Motive: To feed
-- Nemesis: Prey
+- **Concept**: Predator from other planet
+- **Skills**: Stealth, Survival
+- **Frailty**: Vulnerable to Bright Light
+- **Gear**: Advanced Camouflage, Energy Rifle
+- **Goal**: To hunt and kill
+- **Motive**: To feed
+- **Nemesis**: Prey
 
 ### Cyborg Zombie
-- Concept: Undead Cybernetic Being
-- Skills: Advanced Cybernetics, Strength
-- Frailty: Vulnerable to EMPs
-- Gear: Advanced Cybernetic Implants, Energy Blade
-- Goal: To kill and convert others
-- Motive: To spread the cybernetic virus
-- Nemesis: EMPs
+- **Concept**: Undead Cybernetic Being
+- **Skills**: Advanced Cybernetics, Strength
+- **Frailty**: Vulnerable to EMPs
+- **Gear**: Advanced Cybernetic Implants, Energy Blade
+- **Goal**: To kill and convert others
+- **Motive**: To spread the cybernetic virus
+- **Nemesis**: EMPs
 
 ### Blackhole Worm
-- Concept: Space-dwelling Parasite
-- Skills: Gravity Manipulation, Stealth
-- Frailty: Vulnerable to High-Energy Weapons
-- Gear: None
-- Goal: To consume energy and matter
-- Motive: To survive
-- Nemesis: High-Energy Weapons
+- **Concept**: Space-dwelling Parasite
+- **Skills**: Gravity Manipulation, Stealth
+- **Frailty**: Vulnerable to High-Energy Weapons
+- **Gear**: None
+- **Goal**: To consume energy and matter
+- **Motive**: To survive
+- **Nemesis**: High-Energy Weapons
 
 ### Quantum Ghost
-- Concept: Non-Corporeal Entity
-- Skills: Intangibility, Invisibility
-- Frailty: Vulnerable to Quantum Disruptors
-- Gear: None
-- Goal: To possess and control
-- Motive: To manipulate the living
-- Nemesis: Quantum Disruptors
+- **Concept**: Non-Corporeal Entity
+- **Skills**: Intangibility, Invisibility
+- **Frailty**: Vulnerable to Quantum Disruptors
+- **Gear**: None
+- **Goal**: To possess and control
+- **Motive**: To manipulate the living
+- **Nemesis**: Quantum Disruptors
 
 ## Locations
 

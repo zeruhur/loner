@@ -265,29 +265,28 @@ To uncover the truth, characters will need to gather and examine physical eviden
 
 ## Locations
 ### Name: The Rusty Anchor
-Brief Description: A run-down tavern near the docks, known for its rough clientele and seedy reputation.
-- Possible encounters or NPCs: Drunken Sailor, Smuggler, Undercover Detective
+- A run-down tavern near the docks, known for its rough clientele and seedy reputation.
+- Possible encounters: Drunken Sailor, Smuggler, Undercover Detective
 
 ### Name: The Grand Opera House
-Brief Description: A grand, opulent theater that is the pride of the city. It hosts a variety of plays, operas, and ballets.
-- Possible encounters or NPCs: Egotistical Actor, Wealthy Benefactor, Opera Singer
+- A grand, opulent theater that is the pride of the city. It hosts a variety of plays, operas, and ballets.
+- Possible encounters: Egotistical Actor, Wealthy Benefactor, Opera Singer
 
 ### Name: The Black Rose Club
-Brief Description: A notorious speakeasy, located in the heart of the city's red light district.
-- Possible encounters or NPCs: Bootlegger, Jazz Musician, Flapper
+- A notorious speakeasy, located in the heart of the city's red light district.
+- Possible encounters: Bootlegger, Jazz Musician, Flapper
 
 ### Name: The Ironworks Factory
-Brief Description: A large, industrial factory that produces various metal goods. It is known for its long hours, low pay, and dangerous working conditions.
-- Possible encounters or NPCs: Labor Union Organizer, Factory Manager, Injured Worker
+- A large, industrial factory that produces various metal goods. It is known for its long hours, low pay, and dangerous working conditions.
+- Possible encounters: Labor Union Organizer, Factory Manager, Injured Worker
 
 ### Name: The University
-Brief Description: A prestigious institution of higher learning, with a focus on science, medicine, and the arts.
-- Possible encounters or NPCs: Professor, Graduate Student, Nobel Prize Winner
+- A prestigious institution of higher learning, with a focus on science, medicine, and the arts.
+- Possible encounters: Professor, Graduate Student, Nobel Prize Winner
 
 ### Name: The Majestic Hotel
-Brief Description: A luxurious hotel that caters to the wealthy and famous. It is known for its opulent decor and excellent service.
-- Possible encounters or NPCs: Hotel Manager, Rich Tourist, Society Matron
-
+- A luxurious hotel that caters to the wealthy and famous. It is known for its opulent decor and excellent service.
+- Possible encounters: Hotel Manager, Rich Tourist, Society Matron
 
 ## Adventure Seeds
 
