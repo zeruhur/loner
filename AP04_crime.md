@@ -1,4 +1,5 @@
 # Crime Adventure Pack
+editing and contributions by Alessio Serini
 
 ## Setting Information
 
@@ -12,53 +13,53 @@
 
 ### Concepts
 
-|     | 1                | 2            | 3                   | 4           | 5                          | 6          |
-| --- | ---------------- | ------------ | ------------------- | ----------- | -------------------------- | ---------- |
-| 1   | Crooked Cop      | Smuggler     | Criminal Mastermind | Hired Gun   | Mafia Boss                 | Con Artist |
-| 2   | Detective        | Robber       | Drug Lord           | Hitman      | Enforcer                   | Thief      |
-| 3   | Private Eye      | Forger       | Witty Swindler      | Assassin    | Money Launderer            | Con Man    |
-| 4   | Undercover Agent | Burglar      | Arms Dealer         | Mercenary   | Smuggling Kingpin          | Pickpocket |
-| 5   | Bail Bondsman    | Bank Robber  | Counterfeiter       | Sniper      | Smuggling Syndicate Leader | Grifter    |
-| 6   | Corrupt Judge    | Safe Cracker | Human Trafficker    | Survivalist | Mob Boss                   | Con Woman  |
+|     | 1                | 2            | 3                   | 4             | 5                          | 6              |
+| --- | ---------------- | ------------ | ------------------- | ------------- | -------------------------- | -------------- |
+| 1   | Crooked Cop      | Smuggler     | Criminal Mastermind | Hired Gun     | Mafia Boss                 | Con Artist     |
+| 2   | Detective        | Terrorist    | Drug Lord           | Hitman        | Enforcer                   | Thief          |
+| 3   | Private Eye      | Forger       | Witty Swindler      | Witness       | Money Launderer            | Police Officer |
+| 4   | Undercover Agent | Burglar      | Arms Dealer         | Mercenary     | Vigilante                  | Pickpocket     |
+| 5   | Bail Bondsman    | Bank Robber  | Counterfeiter       | Veteran       | Smuggling Syndicate Leader | Harlot         |
+| 6   | Corrupt Judge    | Safe Cracker | Human Trafficker    | Serial Killer | Gang Leader                | Drug Addict    |
 
 
 ### Skills
 
-|     | 1                   | 2             | 3              | 4                      | 5                  | 6                |
-| --- | ------------------- | ------------- | -------------- | ---------------------- | ------------------ | ---------------- |
-| 1   | Sneaking            | Firearms      | Intimidation   | Streetwise             | Driving            | Computer Hacking |
-| 2   | Interrogation       | Con Artist    | Pickpocketing  | Brawling               | Weapon proficiency | Seduction        |
-| 3   | Breaking & Entering | Demolition    | Torture        | Deception              | Parkour            | Martial Arts     |
-| 4   | Forgery             | Poisoning     | Knife Fighting | Surveillance           | Lockpicking        | Disguise         |
-| 5   | Climbing            | Escape Artist | Sharpshooting  | Underworld Connections | Piloting           | Criminology      |
-| 6   | Infiltration        | Hacking       | Combat         | Fraud                  | Accounting         | Stealth          |
+|     | 1             | 2             | 3              | 4                      | 5                       | 6            |
+| --- | ------------- | ------------- | -------------- | ---------------------- | ----------------------- | ------------ |
+| 1   | Sneaking      | Firearms      | Intimidation   | Streetwise             | Driving                 | Tactics      |
+| 2   | Interrogation | Forensics     | Pickpocketing  | Tracking               | Deep Knowledge (choose) | Seduction    |
+| 3   | Law           | Demolition    | Paramedics     | Deception              | Parkour                 | Martial Arts |
+| 4   | Forgery       | Poisoning     | Knife Fighting | Surveillance           | Lockpicking             | Disguise     |
+| 5   | Climbing      | Escape Artist | Sharpshooting  | Underworld Connections | Piloting                | Criminology  |
+| 6   | Infiltration  | Hacking       | Web Surfing    | Fraud                  | Accounting              | Stealth      |
 
 
 
 ### Frailties
 
-|     | 1             | 2             | 3            | 4            | 5              | 6                |
-|:---:| ------------- | ------------- | ------------ | ------------ | -------------- | ---------------- |
-|  1  | Paranoia      | Greed         | Short Temper | Cowardice    | Impulsiveness  | Addiction        |
-|  2  | Obsessiveness | Dishonesty    | Arrogance    | Vengefulness | Naiveness      | Jealousy         |
-|  3  | Self-Doubt    | Secretiveness | Egoism       | Deception    | Hypochondria   | Betrayal         |
-|  4  | Egomania      | FOMO          | Sadism       | Envy         | Overconfidence | Irresponsibility |
-|  5  | Intolerance   | Sociopathy    | Nervousness  | Violent      | Sadism         | Xenophobia       |
-|  6  | Naiveness     | Instable      | Greediness   | Fearfulness  | Arrogance      | Possessiveness   |
+|     | 1                   | 2               | 3                    | 4            | 5                  | 6                       |
+|:---:| ------------------- | --------------- | -------------------- | ------------ | ------------------ | ----------------------- |
+|  1  | Paranoia            | Greed           | Short Temper         | Cowardice    | Impulsiveness      | Thrillseeker            |
+|  2  | Obsessiveness       | Dishonesty      | Arrogance            | Vengefulness | Devoted to Justice | Bad Reputation (why)    |
+|  3  | Self-Doubt          | Secretiveness   | Egoism               | Deception    | Hypochondria       | Betrayal                |
+|  4  | Egomania            | Phobia (choose) | Sadism               | Envy         | Overconfidence     | Irresponsibility        |
+|  5  | Intolerance         | Sociopathy      | Nervousness          | Violent      | Casual Killer      | Mental Illness (choose) |
+|  6  | Dependence (choose) | Instable        | Code against Killing | Fearfulness  | Arrogance          | Idiosyncracy (choose)   |
 
 
 ### **Gear**:
 
 Equipment Items
 
-|     | 1                   | 2              | 3                 | 4                    | 5                 | 6              |
-|:---:| ------------------- | -------------- | ----------------- | -------------------- | ----------------- | -------------- |
-|  1  | Lockpicking set     | Handgun        | Grappling hook    | Night-vision goggles | Silenced pistol   | Cash           |
-|  2  | Fake ID             | Cigars         | Grappling gun     | Binoculars           | Stun gun          | Hidden blade   |
-|  3  | Tactical flashlight | Shotgun        | Bulletproof vest  | First aid kit        | Explosive charges | Taser          |
-|  4  | Wire cutters        | Submachine gun | Fire extinguisher | Rope                 | Fake police badge | Pepper spray   |
-|  5  | Fake passport       | Whistle        | Smoke bomb        | Firecracker          | Razor wire        | Club           |
-|  6  | Car jacking kit     | Sniper rifle   | Handcuffs         | Knife                | Steel-toed boots  | Brass knuckles |
+|     | 1                   | 2              | 3                       | 4                           | 5                 | 6                     |
+|:---:| ------------------- | -------------- | ----------------------- | --------------------------- | ----------------- | --------------------- |
+|  1  | Lockpicking set     | Handgun        | Rope and Grappling hook | Night-vision goggles        | Silenced pistol   | Cash                  |
+|  2  | Fake ID             | Bugs           | Utility Belt            | Binoculars                  | Assault Rifle     | Illegal Drug (choose) |
+|  3  | Tactical flashlight | Shotgun        | Bulletproof vest        | First aid kit               | Demolition Kit    | Taser                 |
+|  4  | Wire cutters        | Submachine gun | Microcamera             | Long-Range Listening Device | Fake police badge | Pepper spray          |
+|  5  | Fake passport       | Disguise Kit   | Hand Grenade (choose)   | Bug Detector                | Mini-Recorder     | Billy                 |
+|  6  | Car jacking kit     | Sniper rifle   | Handcuffs               | Sharp Weapon (choose)       | Crime Scene Kit   | Brass knuckles        |
 
 ## Special Rules: 
 
@@ -309,41 +310,41 @@ A network of luxurious, towering skyscrapers where the wealthy and influential m
 
 ## Adventure Seeds
 
-| D66 | Adventure                                                                                                                                 |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 11  | The theft of a valuable artifact leads the player to the Museum of History and Antiquities. |
-| 12  | The players must infiltrate a high-security prison to rescue a valuable informant. |
-| 13  | A powerful criminal organization hires the player to sabotage a rival gang's operations. |
-| 14  | The player is hired to protect a wealthy businessman during a dangerous trade negotiation. |
-| 15  | A mysterious figure offers the player a large sum of money to retrieve a stolen briefcase from a rival gang. |
-| 16  | The player is tasked with retrieving valuable information from a corrupt government official. |
-| 21  | The players must rescue a kidnapped scientist from a dangerous research facility. |
-| 22  | The player is hired to retrieve a valuable piece of technology from a rival corporation. |
-| 23  | The players must infiltrate a rival gang's secret headquarters to gather intelligence. |
-| 24  | A wealthy collector hires the player to retrieve a rare and valuable piece of art. |
-| 25  | The player is hired to escort a high-value target through a dangerous war-torn city. |
-| 26  | A powerful criminal organization hires the player to disrupt a rival gang's arms deal. |
-| 31  | The players must track down a rogue agent who has stolen sensitive information. |
-| 32  | The player is hired to escort a witness to a important trial. |
-| 33  | The players must infiltrate a secret government facility to retrieve classified information. |
-| 34  | A wealthy collector hires the player to retrieve a valuable and dangerous artifact. |
-| 35  | The player is hired to retrieve a stolen package from a rival gang's hideout. |
-| 36  | The players must rescue a valuable asset from a hostile and dangerous jungle environment. |
-| 41  | The players must retrieve a stolen piece of technology from a rival corporation's research facility. |
-| 42  | The player is hired to escort a valuable shipment through a dangerous mountain pass. |
-| 43  | The players must infiltrate a rival gang's base of operations to rescue a captive ally. |
-| 44  | A wealthy collector hires the player to retrieve a rare and valuable artifact from a dangerous temple. |
-| 45  | The player is hired to track down and capture a dangerous criminal who has escaped from prison. |
-| 46  | The players must retrieve a stolen shipment of valuable weapons before it falls into the wrong hands. |
-| 51  | The player is hired to protect a wealthy philanthropist during a dangerous public event. |
-| 52  | The players must retrieve a stolen piece of technology from a rival corporation's research facility. |
-| 53  | The player is hired to rescue a valuable hostage from a dangerous and hostile urban environment. |
-| 54  | The players must retrieve a valuable shipment of goods from a rival gang's hideout. |
-| 55  | A wealthy collector hires the player to retrieve a rare and valuable piece of jewelry from a dangerous cartel. |
-| 56  | The players must infiltrate a rival gang's headquarters to retrieve valuable information. |
-| 61  | The player is hired to escort a valuable and high-profile target through a dangerous city. |
-| 62  | The players must retrieve a valuable artifact from a dangerous ruin before it falls into the wrong hands. |
-| 63  | The player is hired to retrieve a valuable shipment of weapons from a rival gang's hideout. |
-| 64  | The players must retrieve a valuable piece of technology from a rival corporation's secret laboratory. |
-| 65  | A wealthy collector hires the player to retrieve a rare and valuable book from a dangerous cult. |
-| 66  | The players must rescue a valuable informant from a dangerous rival gang's hideout. |
+| D66 | Adventure                                                                                                                                                                                |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 11  | The player involuntarily witnesses a gangland execution.                                                                                                                                 |
+| 12  | The players must infiltrate a high-security prison to rescue a valuable informant.                                                                                                       |
+| 13  | A powerful criminal organization hires the player to sabotage a rival gang's operations.                                                                                                 |
+| 14  | The player is hired to protect a wealthy businessman during a dangerous trade negotiation.                                                                                               |
+| 15  | The Player is on the trail of a notorious serial killer.                                                                                                                                 |
+| 16  | The player is tasked with retrieving valuable information from a corrupt government official.                                                                                            |
+| 21  | The player is accused of a murder he didn’t commit.                                                                                                                                      |
+| 22  | The player is hired to retrieve a valuable piece of technology from a rival corporation.                                                                                                 |
+| 23  | The players must infiltrate a rival gang's secret headquarters to gather intelligence.                                                                                                   |
+| 24  | A wealthy collector hires the player to retrieve a rare and valuable piece of art.                                                                                                       |
+| 25  | The player is hired to escort a high-value target through a dangerous war-torn city.                                                                                                     |
+| 26  | A powerful criminal organization hires the player to disrupt a rival gang's arms deal.                                                                                                   |
+| 31  | The players must track down a rogue agent who has stolen sensitive information.                                                                                                          |
+| 32  | The player is hired to escort a witness to a important trial.                                                                                                                            |
+| 33  | The players must infiltrate a secret government facility to retrieve classified information.                                                                                             |
+| 34  | A wealthy collector hires the player to retrieve a valuable and dangerous artifact.                                                                                                      |
+| 35  | The player is hired to retrieve a stolen package from a rival gang's hideout.                                                                                                            |
+| 36  | The player finds evidence accusing a crooked cop at the crime scene.                                                                                                                     |
+| 41  | The character finds himself hostage in a bank robbery.                                                                                                                                   |
+| 42  | The player is chasing a terrorist: time is running out, the bomb will explode soon.                                                                                                      |
+| 43  | The players must infiltrate a rival gang's base of operations to rescue a captive ally.                                                                                                  |
+| 44  | An assassin in on player’s trail: does the prey become the hunter before it’s too late?                                                                                                  |
+| 45  | The player is hired to track down and capture a dangerous criminal who has escaped from prison.                                                                                          |
+| 46  | The players must retrieve a stolen shipment of valuable weapons before it falls into the wrong hands.                                                                                    |
+| 51  | The player is hired to protect a wealthy philanthropist during a dangerous public event.                                                                                                 |
+| 52  | The player wakes up in an unknown apartment with no memory of recent events and his hands covered in blood. Someone is knocking on the door…                                             |
+| 53  | The player is hired to rescue a valuable hostage from a dangerous and hostile urban environment.                                                                                         |
+| 54  | The players must retrieve a valuable shipment of goods from a rival gang's hideout.                                                                                                      |
+| 55  | One of the team members has been captured/threatened/ransomed/held hostage/used as leverage.                                                                                             |
+| 56  | The players must infiltrate a rival gang's headquarters to retrieve valuable information.                                                                                                |
+| 61  | The player is hired to escort a valuable and high-profile target through a dangerous city.                                                                                               |
+| 62  | While you are returning home at the end of your night shift a woman in tears, injured and with ragged clothes blocks your road asking you to save her because someone wants to kill her. |
+| 63  | A valuable shipment of drugs(or weapons) will arrive at the port tonight. The underworld is in turmoil, the police too.                                                                  |
+| 64  | The players must find evidence of a notorious crime boss's involvement in the murder of a judge.                                                                                         |
+| 65  | You are undercover agent in a large criminal organization: you’re about to conclude your mission when you discover that a mole has betrayed you.                                         |
+| 66  | The players must rescue a valuable informant from a dangerous rival gang's hideout.                                                                                                      |
