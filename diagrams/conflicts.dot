@@ -1,9 +1,11 @@
-digraph conflitti { 
+digraph conflicts { 
     label = "CONFLICTS";
     labelloc="t";
     fontname="Takota";
     node [shape="rect", fontname="Takota", fontsize=12];
     edge [fontname="Takota", fontsize=12];
+    dpi=300;
+    bgcolor=white;
 
     nd1 [label = "IS THERE ANY \n CHARACTER OPPOSING \n THE PROTAGONIST?"];
     nd2 [label = "ASK A CLOSED QUESTION"];
