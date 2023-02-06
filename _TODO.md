@@ -1,7 +1,7 @@
 - [X] Fantasy
 - [X] Space Sci-Fi
 - [] Post-Apocalyptic
-- [] Horror
+- [X] Horror
 - [X] Crime
 - [X] Mystery
 - [] Action Adventure
