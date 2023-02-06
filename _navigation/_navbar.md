@@ -8,6 +8,8 @@
   - [Superheroes Adventure Pack](AP03_superheroes.md)
   - [Crime Adventure Pack](AP04_crime.md)
   - [Mystery Adventure Pack](AP05_mystery.md)
+  - [Horror Adventure Pack](AP06_horror.md)
+  - [Action Adventure Pack](AP07_action_adventure.md)
 - **Versione Italiana**
   - [Regolamento](loner-ita.md)
 - [Loner Assistant](https://zeruhur.space/loner-assistant/)

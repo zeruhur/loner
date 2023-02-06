@@ -9,3 +9,5 @@ Use them as non-binding guidelines and inspiration, let your imagination run wil
 - [Superheroes Adventure Pack](AP03_superheroes.md.md)
 - [Crime Adventure Pack](AP04_crime.md)
 - [Mystery Adventure Pack](AP05_mystery.md)
+- [Horror Adventure Pack](AP06_horror.md)
+- [Action Adventure Pack](AP07_action_adventure.md)
