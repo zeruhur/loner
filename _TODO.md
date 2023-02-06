@@ -3,7 +3,7 @@
 - [] Post-Apocalyptic
 - [] Horror
 - [X] Crime
-- [] Mystery
+- [X] Mystery
 - [] Action Adventure
 - [] Pirates
 - [] Western
