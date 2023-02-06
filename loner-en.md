@@ -340,7 +340,9 @@ Loner v.1.8
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
-# Appendix 1 - Loner Together
+# Appendix: Optional Rules & Tools
+
+## Loner Together
 Loner's rules are designed for a single player controlling one character.
 However being derivative of a multiplayer game (Freeform Universal) no one prevents you from using them for group play as well, if you insist on doing so.
 
@@ -350,7 +352,7 @@ It is then possible to play in the following modes:
 
 Keep in mind that as much as Loner can be played in groups, I strongly recommend that you use Freeform Universal for this need.
 
-# Appendix 2 - The Adventure Maker
+## The Adventure Maker
 Sometimes you may lack the inspiration to think of a game setting, or you want to experiment with one you have never thought of.
 The tables below are designed to instantly generate an unpredictable setting for you to explore with a game.
 
