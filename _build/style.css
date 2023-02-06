@@ -1,46 +1,230 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:ital,wght@0,400;0,700;1,400;1,700');
-@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy');
-@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@900&display=swap');
 
 @font-face {
-  font-family: 'lilmrkr';
-  src: url('../fonts/lilmrkr-open-regular-webfont.woff2') format('woff2'),
-       url('../fonts/lilmrkr-open-regular-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
+    font-family: 'takota';
+    src: url('takota-bra8-webfont.woff2') format('woff2'),
+         url('takota-bra8-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  
+}
+
+@page {
+size: 5.5in 8.5in; /* Change from the default size of A4 */
+margin: 0.5in; /* Set margin on each page */
+}
+
+@page :left {
+    @bottom-left {
+        content: counter(page);
+        font-family: 'Orbitron';
+        font-weight: bold;
+        position: absolute;
+        z-index: -1;
+    }
+    @bottom-right {
+        content: string(heading);
+        font-family: 'Orbitron';
+        text-transform: uppercase;
+        font-weight: bold;
+        position: absolute;
+        z-index: -1;
+    }
+}
+
+@page :right {
+    @bottom-left {
+        content: string(heading);
+        font-family: 'Orbitron';
+        text-transform: uppercase;
+        font-weight: bold;
+        position: absolute;
+        z-index: -1;
+    }
+    @bottom-right {
+        content: counter(page);
+        font-family: 'Orbitron';
+        font-weight: bold;
+        position: absolute;
+        z-index: -1;
+    }
+}
+
+@page full {
+    @bottom-right {
+        content: none;
+    }
+
+    @bottom-left {
+        content: none;
+    }
+
+    background: black;
+    margin: 0;
+}
+
+@page :blank {
+    @bottom-right {
+        content: none;
+
+    }
+
+    @bottom-left {
+        content: none;
+    }
+}
+
+@page clean {
+    @bottom-right {
+        content: none;
+    }
+
+    @bottom-left {
+        content: none;
+    }
 
 }
 
-body {
+html {
+    counter-reset: h1-counter;
     font-family: 'Raleway', sans-serif !important;
-    font-size: 1.2em !important;
-    /* color: black !important; */
+    font-size: 0.9em !important;
+}
+  
+body {
+    margin: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Fira Sans', cursive !important;
+    font-family: 'takota', sans-serif !important;
     font-weight: bold;
+    text-transform: uppercase;
     /* color: black !important; */
 }
 
+h1 {
+    counter-increment: h1-counter;
+    font-family: 'takota', sans-serif !important;
+    string-set: heading content();
+    text-align: center;
+    page-break-before: always;
+  }
+  
+#separator {
+height: 1in;
+}
+
+#version {
+text-align: center;
+font-size: 9pt;
+text-transform: uppercase;
+}
+
 table {
+    width: 100%;
+    overflow: auto;
     border-collapse: collapse;
     border-spacing: 0;
+    margin: 0 auto;
+}
+
+table thead :empty{
+display: none;
+}
+
+table th {
+font-weight: bold;
+background: #000;
+color: #fff;
+}
+
+table th, table td {
+padding: 3px 5px;
+border: 1px solid #ddd;
+}
+
+table tr {
+background-color: #fff;
+border-top: 1px solid #dcdcdc;
+font-size: 7pt;
+}
+
+table tr:nth-child(2n) {
+background-color: #f8f8f8;
+}
+
+th em {
+    font-family: 'Lexend';
+}
+p, ul, ol, dl, table, pre {
+margin-top: 0;
+margin-bottom: 1em;
+}
+
+a, a:hover {
+    color: #000;
+}
+
+img { 
+    max-width: 100%;
     display: block;
-    margin-bottom: 1rem;
-    overflow: auto;
-    width: 100%
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    /*height: 4.2in;*/
+  }
+
+.cover img {
+  bottom: 0;
+  height: 8.5in;
+  left: 0;
+  margin: 0;
+  max-width: none;
+  object-fit: cover;
+  page: full;
+  position: absolute;
+  width: 5.5in;
+  z-index: 1;
 }
 
-th {
-    font-weight: 700
+.cover:last-child {
+  break-before: left;
 }
 
-td, th {
-    border: 1px solid #ddd;
-    padding: 6px 13px
+/* character sheet */
+
+h2 {
+  text-align: center;
+  text-transform:capitalize;
 }
 
-tr {
-    border-top: 1px solid #ccc
+.section {
+  width: 100%;
+  display: block;
+  page-break-before: always;
 }
+
+.cover img {
+  bottom: 0;
+  height: 8.5in;
+  left: 0;
+  margin: 0;
+  max-width: none;
+  object-fit: cover;
+  page: full;
+  position: absolute;
+  width: 5.5in;
+  z-index: 1;
+}
+
+.cover:last-child {
+  break-before: left;
+}
+
+#domanda-aperta-o-ispirazione, #determinare-il-colpo-di-scena {
+    page-break-before: always;
+  }
+
+#scomponi_scena {
+    height: 7.5in;
+  }
