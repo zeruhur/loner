@@ -11,6 +11,8 @@
   - [Horror Adventure Pack](AP06_horror.md)
   - [Action Adventure Pack](AP07_action_adventure.md)
   - [Spy Adventure Pack](AP08_spy.md)
+  - [Post-Apocalyptic Adventure Pack](AP09_postapoc.md)
+  - [Pirates Adventure Pack](AP10_pirates.md) 
 - **Versione Italiana**
   - [Regolamento](loner-ita.md)
 - [Loner Assistant](https://zeruhur.space/loner-assistant/)
