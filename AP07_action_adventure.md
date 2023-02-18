@@ -266,40 +266,41 @@ Action points can be spent to increase the chances of success or to reduce the c
 
 | D66 | Adventure                                                                                                                                 |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 11  | A mysterious signal is coming from the ruins of the Old Observatory, attracting the attention of all factions. |
-| 12  | A dangerous artifact is stolen from the Temple of the Sun, and all clues lead to the Lost City. |
-| 13  | The Cult of the Moon is performing a ritual in the Abandoned Lighthouse to summon an ancient deity. |
-| 14  | The Enchanted Forest is plagued by a strange illness that is affecting the local wildlife and the player must find a cure. |
-| 15  | The Iron Mine is experiencing strange supernatural occurrences, and the miners are disappearing one by one. |
-| 16  | The player is hired by the Mercenaries to retrieve a valuable artifact from the Haunted Mansion. |
-| 21  | The player must protect the valuable crops in the Oasis from raiders and dangerous creatures. |
-| 22  | The player is hired by the Scholars to investigate strange happenings in the Ancient Library. |
-| 23  | The player must escort a convoy of valuable goods across the dangerous Badlands, through bandit territory. |
-| 24  | The player must help the Nomads find a new source of water in the Dried Riverbed, before their tribe dies of thirst. |
-| 25  | The player is hired by the Merchants to defend their trading post from a group of raiders. |
-| 26  | The player is caught in the middle of a power struggle between the rulers of the Floating City. |
-| 31  | The player is sent to retrieve a lost research team from the depths of the Jungle Temple. |
-| 32  | The player must investigate a series of strange disappearances in the fishing village on the shores of the Sunken Lagoon. |
-| 33  | The player is hired by the Royal Guard to protect the prince during his diplomatic mission to the neighboring kingdom. |
-| 34  | The player is sent to explore the underground ruins of the Lost Civilization, searching for ancient relics. |
-| 35  | The player must retrieve a stolen artifact from the raiders hiding in the Mountain Fortress. |
-| 36  | The player is hired by the rebels to sabotage the enemy's war effort by infiltrating their Military Base. |
-| 41  | The player must survive the dangers of the Poisonous Swamp to reach the rumored treasure hidden within. |
-| 42  | The player is hired by the smugglers to retrieve a shipment of valuable goods from the Wreck of the old ship. |
-| 43  | The player is sent to find the source of strange occurrences in the Abandoned Cemetery. |
-| 44  | The player must stop the Cult of the Dead from raising an army of the undead in the Haunted Cemetery. |
-| 45  | The player is hired by the Explorers' Guild to map the uncharted territory of the Wilds. |
-| 46  | The player must find the source of the strange noises coming from the depths of the Deep Caves. |
-| 51  | The player is hired by the Magician to retrieve a powerful spellbook from the Enchanted Tower. |
-| 52  | The player must defend the peaceful village from the attacks of the Savage Tribe. |
-| 53  | The player is sent to retrieve a valuable relic from the ancient ruins of the Temple of the Gods. |
-| 54  | The player is hired by the Thieves' Guild to steal a valuable artifact from the heavily guarded Museum. |
-| 55  | The player must survive the dangers of the Crystal Caverns to retrieve valuable crystals for the miners. |
-| 56  | The player is hired by the traders to escort a valuable caravan across the dangerous Sand Dunes. |
-| 61  | The player is sent to find a missing explorer in the uncharted territory of the frozen Tundra. |
-| 62  | The player must find and rescue the prince who has been kidnapped by the bandits and taken to their hideout in the Canyon. |
-| 63  | The player is hired by the locals to find the source of strange occurrences in the Abandoned |
-| 64  | The daughter of a wealthy merchant has been kidnapped, and the players are hired to rescue her. The kidnappers are said to be a powerful criminal organization with ties to the Shadow Syndicate. |
-| 65  | A group of adventurers went missing while exploring a treacherous mountain range. The players are hired to find out what happened to the missing adventurers and to recover any valuable items they may have discovered. |
-| 66  | A legendary sea serpent is said to guard a treasure trove of untold riches. The players must brave the treacherous waters and outwit the sea serpent to claim the treasure. |
+| 11  | The discovery of an ancient artifact leads to a race against time to prevent it from falling into the wrong hands. |
+| 12  | An expedition to a remote jungle uncovers a lost civilization, but also attracts the attention of dangerous mercenaries. |
+| 13  | A desperate search for a cure to a deadly disease leads the protagonist to a hidden lab in a remote desert. |
+| 14  | The hunt for a legendary pirate treasure takes the protagonist on a dangerous journey across the ocean. |
+| 15  | A heist on a high-security museum leads to the discovery of a secret passage to an underground city. |
+| 16  | A scientist hires the protagonist to retrieve a stolen formula from a rival research team in a dangerous city. |
+| 21  | An assassination attempt on a world leader leads the protagonist on a globe-trotting mission to uncover a dangerous conspiracy. |
+| 22  | A lost city in the middle of the Amazon jungle is discovered, but it's protected by deadly traps and ancient guardians. |
+| 23  | The protagonist must race against time to stop a mad scientist from unleashing a dangerous virus on a major city. |
+| 24  | A wealthy business magnate hires the protagonist to recover a stolen prototype from a rival company. |
+| 25  | The search for a missing colleague leads the protagonist to a secret research facility hidden in the Himalayan Mountains. |
+| 26  | An old map leads the protagonist to an island in the Pacific Ocean, but they soon discover they're not the only ones searching for treasure. |
+| 31  | The protagonist must sneak into a heavily fortified compound to rescue a captive scientist before they're executed. |
+| 32  | A mysterious object found at a crash site leads the protagonist on a journey to discover its extraterrestrial origins. |
+| 33  | A wealthy collector hires the protagonist to retrieve a rare artifact from a heavily guarded castle. |
+| 34  | A routine survey mission in the Antarctic leads to the discovery of a massive underground cave system. |
+| 35  | The protagonist must navigate a dangerous labyrinth to reach the hidden temple of an ancient deity. |
+| 36  | A desperate search for a missing heirloom leads the protagonist on a globe-trotting adventure through dangerous territory. |
+| 41  | A routine archaeological dig turns deadly when the protagonist uncovers a cursed artifact. |
+| 42  | The protagonist is hired to retrieve a powerful weapon from a heavily guarded military base. |
+| 43  | A long-lost manuscript leads the protagonist to a hidden library guarded by deadly traps. |
+| 44  | The protagonist must infiltrate a secret underground bunker to recover valuable research data. |
+| 45  | A rogue agent with knowledge of top-secret information goes missing, and the protagonist is tasked with finding them before they're caught. |
+| 46  | The protagonist must navigate a maze of tunnels to reach an underground city hidden beneath the desert. |
+| 51  | A dangerous rogue operative with access to sensitive information must be captured before they can sell it to the highest bidder. |
+| 52  | The protagonist is hired to escort a VIP through dangerous territory, but they soon discover that the VIP is a wanted criminal. |
+| 53  | A hidden temple guarded by dangerous cultists must be infiltrated to recover a valuable artifact. |
+| 54  | A heist to steal a rare gem from a heavily guarded museum goes wrong, and the protagonist must fight their way out. |
+| 55  | The protagonist must navigate a dangerous minefield to reach a hidden laboratory in the mountains. |
+| 56  | A wealthy recluse hires the protagonist to retrieve a lost artifact from a dangerous island. |
+| 61  | The protagonist must infiltrate a dangerous crime syndicate to rescue a hostage. |
+| 62  | A routine exploration of a remote island turns deadly when the protagonist is attacked by a giant monster. |
+| 63  | A terrorist plot to blow up a major city must be stopped before it's too late. |
+| 64  | The protagonist is hired to retrieve a stolen prototype from a heavily guarded research facility. |
+| 65  | Discover a lost temple in the jungle, but beware of the traps and guardians within. |
+| 66  | Race against time to recover a powerful artifact before it falls into the wrong hands. |
+
 

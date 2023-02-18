@@ -64,7 +64,7 @@ Equipment Items
 ## Special Rules: 
 
 ### Heat
-- The player must manage the heat they generate from their criminal activities, which can attract the attention of law enforcement and rival criminal organizations.
+- The protagonist must manage the heat they generate from their criminal activities, which can attract the attention of law enforcement and rival criminal organizations.
 - Ask a closed question based on the roll result to determine the outcome of the interaction:
 1. "No and": You fail to avoid the attention of law enforcement and your criminal activities become known to a rival organization. 
 2. "No": You fail to keep your criminal activities a secret, attracting the attention of law enforcement.
@@ -74,7 +74,7 @@ Equipment Items
 6. "Yes and": You are able to keep your criminal activities a secret and gain the favor of both law enforcement and rival organizations.
 
 ### Influence
-The player must build and maintain relationships with other criminals, politicians, and law enforcement officials to gain information, favors, and protection.
+The protagonist must build and maintain relationships with other criminals, politicians, and law enforcement officials to gain information, favors, and protection.
 
 #### Building Relationships
 - When trying to build a relationship with a criminal organization, ask a closed question. On a result of:
@@ -105,7 +105,7 @@ The player must build and maintain relationships with other criminals, politicia
 
 
 ### Interrogation 
-- When attempting to extract information from a suspect, witness, or informant, the player must make a roll using their negotiation, intimidation, or investigation skills. 
+- When attempting to extract information from a suspect, witness, or informant, the protagonist must make a roll using their negotiation, intimidation, or investigation skills. 
 - Then ask a closed question based on the roll result to determine the outcome of the interaction:
   1. "No and": The target refuses to cooperate and their resolve is strengthened. 
   2. "No": The target refuses to cooperate. 
@@ -312,39 +312,39 @@ The player must build and maintain relationships with other criminals, politicia
 
 | D66 | Adventure                                                                                                                                                                                |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 11  | The player involuntarily witnesses a gangland execution.                                                                                                                                 |
-| 12  | The players must infiltrate a high-security prison to rescue a valuable informant.                                                                                                       |
-| 13  | A powerful criminal organization hires the player to sabotage a rival gang's operations.                                                                                                 |
-| 14  | The player is hired to protect a wealthy businessman during a dangerous trade negotiation.                                                                                               |
-| 15  | The Player is on the trail of a notorious serial killer.                                                                                                                                 |
-| 16  | The player is tasked with retrieving valuable information from a corrupt government official.                                                                                            |
-| 21  | The player is accused of a murder he didn’t commit.                                                                                                                                      |
-| 22  | The player is hired to retrieve a valuable piece of technology from a rival corporation.                                                                                                 |
-| 23  | The players must infiltrate a rival gang's secret headquarters to gather intelligence.                                                                                                   |
-| 24  | A wealthy collector hires the player to retrieve a rare and valuable piece of art.                                                                                                       |
-| 25  | The player is hired to escort a high-value target through a dangerous war-torn city.                                                                                                     |
-| 26  | A powerful criminal organization hires the player to disrupt a rival gang's arms deal.                                                                                                   |
-| 31  | The players must track down a rogue agent who has stolen sensitive information.                                                                                                          |
-| 32  | The player is hired to escort a witness to a important trial.                                                                                                                            |
-| 33  | The players must infiltrate a secret government facility to retrieve classified information.                                                                                             |
-| 34  | A wealthy collector hires the player to retrieve a valuable and dangerous artifact.                                                                                                      |
-| 35  | The player is hired to retrieve a stolen package from a rival gang's hideout.                                                                                                            |
-| 36  | The player finds evidence accusing a crooked cop at the crime scene.                                                                                                                     |
+| 11  | The protagonist involuntarily witnesses a gangland execution.                                                                                                                                 |
+| 12  | The protagonists must infiltrate a high-security prison to rescue a valuable informant.                                                                                                       |
+| 13  | A powerful criminal organization hires the protagonist to sabotage a rival gang's operations.                                                                                                 |
+| 14  | The protagonist is hired to protect a wealthy businessman during a dangerous trade negotiation.                                                                                               |
+| 15  | The protagonist is on the trail of a notorious serial killer.                                                                                                                                 |
+| 16  | The protagonist is tasked with retrieving valuable information from a corrupt government official.                                                                                            |
+| 21  | The protagonist is accused of a murder he didn’t commit.                                                                                                                                      |
+| 22  | The protagonist is hired to retrieve a valuable piece of technology from a rival corporation.                                                                                                 |
+| 23  | The protagonists must infiltrate a rival gang's secret headquarters to gather intelligence.                                                                                                   |
+| 24  | A wealthy collector hires the protagonist to retrieve a rare and valuable piece of art.                                                                                                       |
+| 25  | The protagonist is hired to escort a high-value target through a dangerous war-torn city.                                                                                                     |
+| 26  | A powerful criminal organization hires the protagonist to disrupt a rival gang's arms deal.                                                                                                   |
+| 31  | The protagonists must track down a rogue agent who has stolen sensitive information.                                                                                                          |
+| 32  | The protagonist is hired to escort a witness to a important trial.                                                                                                                            |
+| 33  | The protagonists must infiltrate a secret government facility to retrieve classified information.                                                                                             |
+| 34  | A wealthy collector hires the protagonist to retrieve a valuable and dangerous artifact.                                                                                                      |
+| 35  | The protagonist is hired to retrieve a stolen package from a rival gang's hideout.                                                                                                            |
+| 36  | The protagonist finds evidence accusing a crooked cop at the crime scene.                                                                                                                     |
 | 41  | The character finds himself hostage in a bank robbery.                                                                                                                                   |
-| 42  | The player is chasing a terrorist: time is running out, the bomb will explode soon.                                                                                                      |
-| 43  | The players must infiltrate a rival gang's base of operations to rescue a captive ally.                                                                                                  |
-| 44  | An assassin in on player’s trail: does the prey become the hunter before it’s too late?                                                                                                  |
-| 45  | The player is hired to track down and capture a dangerous criminal who has escaped from prison.                                                                                          |
-| 46  | The players must retrieve a stolen shipment of valuable weapons before it falls into the wrong hands.                                                                                    |
-| 51  | The player is hired to protect a wealthy philanthropist during a dangerous public event.                                                                                                 |
-| 52  | The player wakes up in an unknown apartment with no memory of recent events and his hands covered in blood. Someone is knocking on the door…                                             |
-| 53  | The player is hired to rescue a valuable hostage from a dangerous and hostile urban environment.                                                                                         |
-| 54  | The players must retrieve a valuable shipment of goods from a rival gang's hideout.                                                                                                      |
+| 42  | The protagonist is chasing a terrorist: time is running out, the bomb will explode soon.                                                                                                      |
+| 43  | The protagonists must infiltrate a rival gang's base of operations to rescue a captive ally.                                                                                                  |
+| 44  | An assassin in on protagonist’s trail: does the prey become the hunter before it’s too late?                                                                                                  |
+| 45  | The protagonist is hired to track down and capture a dangerous criminal who has escaped from prison.                                                                                          |
+| 46  | The protagonists must retrieve a stolen shipment of valuable weapons before it falls into the wrong hands.                                                                                    |
+| 51  | The protagonist is hired to protect a wealthy philanthropist during a dangerous public event.                                                                                                 |
+| 52  | The protagonist wakes up in an unknown apartment with no memory of recent events and his hands covered in blood. Someone is knocking on the door…                                             |
+| 53  | The protagonist is hired to rescue a valuable hostage from a dangerous and hostile urban environment.                                                                                         |
+| 54  | The protagonists must retrieve a valuable shipment of goods from a rival gang's hideout.                                                                                                      |
 | 55  | One of the team members has been captured/threatened/ransomed/held hostage/used as leverage.                                                                                             |
-| 56  | The players must infiltrate a rival gang's headquarters to retrieve valuable information.                                                                                                |
-| 61  | The player is hired to escort a valuable and high-profile target through a dangerous city.                                                                                               |
+| 56  | The protagonists must infiltrate a rival gang's headquarters to retrieve valuable information.                                                                                                |
+| 61  | The protagonist is hired to escort a valuable and high-profile target through a dangerous city.                                                                                               |
 | 62  | While you are returning home at the end of your night shift a woman in tears, injured and with ragged clothes blocks your road asking you to save her because someone wants to kill her. |
 | 63  | A valuable shipment of drugs(or weapons) will arrive at the port tonight. The underworld is in turmoil, the police too.                                                                  |
-| 64  | The players must find evidence of a notorious crime boss's involvement in the murder of a judge.                                                                                         |
+| 64  | The protagonists must find evidence of a notorious crime boss's involvement in the murder of a judge.                                                                                         |
 | 65  | You are undercover agent in a large criminal organization: you’re about to conclude your mission when you discover that a mole has betrayed you.                                         |
-| 66  | The players must rescue a valuable informant from a dangerous rival gang's hideout.                                                                                                      |
+| 66  | The protagonists must rescue a valuable informant from a dangerous rival gang's hideout.                                                                                                      |

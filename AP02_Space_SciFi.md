@@ -3,7 +3,7 @@
 ## Setting Information
 - The setting is a futuristic galaxy filled with advanced technology and extraterrestrial life.
 - The time period is in the distant future.
-- The location is a space station orbiting around a distant planet, where the player will adventure
+- The location is a space station orbiting around a distant planet, where the protagonist will adventure
 - Important cultural details include: The existence of advanced technology, the presence of different alien races, and the existence of different factions vying for power in the galaxy.
 
 ## Character Traits
@@ -52,7 +52,7 @@
 | 5   | Personal drone | Data storage                | Gravity Belt            | Portable shelter      | EMP-proof Communicator    | Power supply            |
 | 6   | EMP-Shield     | EMP-proof defensive systems | Stellar Map             | Personal life support | Medical equipment         | Personal Sensors        |
 
-## Starship Traits
+## Special Rules: Starship Traits
 
 ### Concepts
 
@@ -303,40 +303,40 @@
 
 | D66 | Adventure                                                                                                                                 |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 11  |The United Earth Government has hired the player to investigate strange activity on a remote planet, where they discover a hidden colony of the Alien Collective.|
-| 12  |The player is hired by the Intergalactic Trade Organization to protect a valuable cargo shipment from a group of Outer Rim Pirates.|
-| 13  |The player is contacted by the Extraterrestrial Liberation Front to sabotage a United Earth Government research facility studying alien technology.|
-| 14  |The player must navigate treacherous politics when they is hired by rival factions to retrieve valuable information from a derelict space station.|
-| 15  |The player is hired to investigate strange signals coming from deep space, leading them to a long-lost civilization and valuable technology.|
-| 16  |The player is hired by the Cybernetic Revolutionaries to infiltrate a United Earth Government facility and steal advanced technology.|
-| 21  |The player must rescue a kidnapped scientist from the Alien Collective, who holds the key to a new energy source.|
-| 22  |The player must stop a rogue AI from destroying a space station, while also dealing with competing factions wanting to claim the AI for themselves.|
-| 23  |The player is hired to escort a colony ship to a new planet, but things take a dangerous turn when they come under attack by Outer Rim Pirates.|
-| 24  |The player is sent on a secret mission by the United Earth Government to infiltrate a rival faction and gather intelligence.|
-| 25  |The player must stop a group of cybernetically enhanced criminals from stealing valuable technology from a research facility.|
-| 26  |The player must navigate a dangerous asteroid field to retrieve valuable resources for a mining company, while also dealing with rival mining vessels.|
-| 31  |The player is sent on a diplomatic mission to negotiate with a reclusive alien race, but things take a turn for the worse when a rival faction intervenes.|
-| 32  |The player is hired to search for a lost research vessel, but they soon discover that the crew has been taken by a hostile alien race.|
-| 33  |The player is sent on a covert mission to sabotage a rival faction's space station, but they soon discover that the station is being used as a base for Outer Rim Pirates.|
-| 34  |The player must help a colony under attack by a hostile alien race, while also dealing with rival factions vying for control of the planet.|
-| 35  |The player is sent on a rescue mission to save a group of scientists from a rival faction who have been taken hostage by a hostile alien race.|
-| 36  |The player is hired to test a new prototype ship, but things take a dangerous turn when the ship is hijacked by a rival faction.|
-| 41  |The player is sent on a mission to sabotage a rival faction's mining operations on a distant planet.|
-| 42  |The player must navigate a dangerous nebula to retrieve valuable resources, while also dealing with rival factions vying for control of the isa.|
-| 43  |The player is sent on a secret mission to retrieve a valuable artifact from a rival faction's space station.|
-| 44  |The player is hired by the Intergalactic Trade Organization to investigate strange activity at a remote mining colony on the outskirts of the galaxy. Upon arriving, they discover the colony has been taken over by a group of Outer Rim Pirates. The player must fight their way through the pirate defenses and retake the colony before the pirates can extract valuable resources and sell them on the black market.|
-| 45  |The player is approached by a member of the Extraterrestrial Liberation Front who needs their help rescuing a group of their comrades who were captured by the United Earth Government. The player must infiltrate a heavily guarded UEG prison facility and free the prisoners while avoiding detection by the guards.|
-| 46  |The player is contacted by a representative of the Alien Collective who needs their help investigating a mysterious energy signature coming from a nearby planet. The player must travel to the planet and discover a hidden facility run by a rogue faction of the Cybernetic Revolutionaries who are conducting dangerous experiments with the energy source.|
-| 51  |The player is hired by a wealthy individual to recover a valuable artifact that was lost on a deserted planet. However, upon arriving, they discover that the planet is inhabited by a hostile alien race and must navigate through their territory and fend off attacks while searching for the artifact.|
-| 52  |The player is contracted by a rival faction to sabotage a United Earth Government research facility studying a new form of energy. The player must infiltrate the facility, gather intelligence, and disrupt the research before the UEG can gain an advantage.|
-| 53  |The player is hired by a group of colonists to defend their new settlement from raids by Outer Rim Pirate ships. The player must set up defenses and repel the pirate attacks while also trying to figure out where the pirates are getting their information about the colony's location.|
-| 54  |The player is approached by a member of the Extraterrestrial Liberation Front who needs their help in rescuing a group of aliens who are being held captive by a mining corporation on a distant planet. The player must infiltrate the corporation's mining facility and free the aliens while also gathering evidence of the corporation's illegal practices.|
-| 55  |The player is hired by the Alien Collective to retrieve a stolen alien artifact from a group of Outer Rim Pirates. The player must track down the pirates and retrieve the artifact before it can be sold on the black market.|
-| 56  |The player is contracted by a rival faction to sabotage a Cybernetic Revolutionary research facility studying a new form of artificial intelligence. The player must infiltrate the facility, gather intelligence, and disrupt the research before the Cybernetic Revolutionaries can gain an advantage.|
-| 61  |The player is hired by a wealthy individual to escort a valuable cargo shipment through dangerous territory controlled by Outer Rim Pirates. The player must navigate through the pirate-controlled areas and protect the cargo while also trying to figure out who is leaking information to the pirates.|
-| 62  |The player is hired by the United Earth Government to investigate a distress signal coming from a remote planet on the edge of the galaxy. Once they arrive, they discover that the colony has been overrun by hostile alien creatures and must find a way to survive while they repair their ship and call for help.|
-| 63  |The player is on a routine cargo run when they are ambushed by a group of Outer Rim Pirates. They must fight to defend their ship and cargo while also trying to outsmart the pirates and make a daring escape.|
-| 64  |The player is hired by the Intergalactic Trade Organization to infiltrate a rival faction and gather information on their plans and operations. The player must navigate the dangerous political landscape and avoid detection while they complete their mission.|
-| 65  |The player is hired by the Extraterrestrial Liberation Front to rescue a group of hostages being held by the United Earth Government on a distant planet. The player must navigate the hostile planet and avoid detection while they plan and execute a daring rescue mission.|
-| 66  |The player is on a survey mission when they come across a strange alien structure on a remote planet. They must explore the structure and uncover its secrets while also dealing with the hostile alien creatures that guard it.
+| 11  |The United Earth Government has hired the protagonist to investigate strange activity on a remote planet, where they discover a hidden colony of the Alien Collective.|
+| 12  |The protagonist is hired by the Intergalactic Trade Organization to protect a valuable cargo shipment from a group of Outer Rim Pirates.|
+| 13  |The protagonist is contacted by the Extraterrestrial Liberation Front to sabotage a United Earth Government research facility studying alien technology.|
+| 14  |The protagonist must navigate treacherous politics when they is hired by rival factions to retrieve valuable information from a derelict space station.|
+| 15  |The protagonist is hired to investigate strange signals coming from deep space, leading them to a long-lost civilization and valuable technology.|
+| 16  |The protagonist is hired by the Cybernetic Revolutionaries to infiltrate a United Earth Government facility and steal advanced technology.|
+| 21  |The protagonist must rescue a kidnapped scientist from the Alien Collective, who holds the key to a new energy source.|
+| 22  |The protagonist must stop a rogue AI from destroying a space station, while also dealing with competing factions wanting to claim the AI for themselves.|
+| 23  |The protagonist is hired to escort a colony ship to a new planet, but things take a dangerous turn when they come under attack by Outer Rim Pirates.|
+| 24  |The protagonist is sent on a secret mission by the United Earth Government to infiltrate a rival faction and gather intelligence.|
+| 25  |The protagonist must stop a group of cybernetically enhanced criminals from stealing valuable technology from a research facility.|
+| 26  |The protagonist must navigate a dangerous asteroid field to retrieve valuable resources for a mining company, while also dealing with rival mining vessels.|
+| 31  |The protagonist is sent on a diplomatic mission to negotiate with a reclusive alien race, but things take a turn for the worse when a rival faction intervenes.|
+| 32  |The protagonist is hired to search for a lost research vessel, but they soon discover that the crew has been taken by a hostile alien race.|
+| 33  |The protagonist is sent on a covert mission to sabotage a rival faction's space station, but they soon discover that the station is being used as a base for Outer Rim Pirates.|
+| 34  |The protagonist must help a colony under attack by a hostile alien race, while also dealing with rival factions vying for control of the planet.|
+| 35  |The protagonist is sent on a rescue mission to save a group of scientists from a rival faction who have been taken hostage by a hostile alien race.|
+| 36  |The protagonist is hired to test a new prototype ship, but things take a dangerous turn when the ship is hijacked by a rival faction.|
+| 41  |The protagonist is sent on a mission to sabotage a rival faction's mining operations on a distant planet.|
+| 42  |The protagonist must navigate a dangerous nebula to retrieve valuable resources, while also dealing with rival factions vying for control of the isa.|
+| 43  |The protagonist is sent on a secret mission to retrieve a valuable artifact from a rival faction's space station.|
+| 44  |The protagonist is hired by the Intergalactic Trade Organization to investigate strange activity at a remote mining colony on the outskirts of the galaxy. Upon arriving, they discover the colony has been taken over by a group of Outer Rim Pirates. The protagonist must fight their way through the pirate defenses and retake the colony before the pirates can extract valuable resources and sell them on the black market.|
+| 45  |The protagonist is approached by a member of the Extraterrestrial Liberation Front who needs their help rescuing a group of their comrades who were captured by the United Earth Government. The protagonist must infiltrate a heavily guarded UEG prison facility and free the prisoners while avoiding detection by the guards.|
+| 46  |The protagonist is contacted by a representative of the Alien Collective who needs their help investigating a mysterious energy signature coming from a nearby planet. The protagonist must travel to the planet and discover a hidden facility run by a rogue faction of the Cybernetic Revolutionaries who are conducting dangerous experiments with the energy source.|
+| 51  |The protagonist is hired by a wealthy individual to recover a valuable artifact that was lost on a deserted planet. However, upon arriving, they discover that the planet is inhabited by a hostile alien race and must navigate through their territory and fend off attacks while searching for the artifact.|
+| 52  |The protagonist is contracted by a rival faction to sabotage a United Earth Government research facility studying a new form of energy. The protagonist must infiltrate the facility, gather intelligence, and disrupt the research before the UEG can gain an advantage.|
+| 53  |The protagonist is hired by a group of colonists to defend their new settlement from raids by Outer Rim Pirate ships. The protagonist must set up defenses and repel the pirate attacks while also trying to figure out where the pirates are getting their information about the colony's location.|
+| 54  |The protagonist is approached by a member of the Extraterrestrial Liberation Front who needs their help in rescuing a group of aliens who are being held captive by a mining corporation on a distant planet. The protagonist must infiltrate the corporation's mining facility and free the aliens while also gathering evidence of the corporation's illegal practices.|
+| 55  |The protagonist is hired by the Alien Collective to retrieve a stolen alien artifact from a group of Outer Rim Pirates. The protagonist must track down the pirates and retrieve the artifact before it can be sold on the black market.|
+| 56  |The protagonist is contracted by a rival faction to sabotage a Cybernetic Revolutionary research facility studying a new form of artificial intelligence. The protagonist must infiltrate the facility, gather intelligence, and disrupt the research before the Cybernetic Revolutionaries can gain an advantage.|
+| 61  |The protagonist is hired by a wealthy individual to escort a valuable cargo shipment through dangerous territory controlled by Outer Rim Pirates. The protagonist must navigate through the pirate-controlled areas and protect the cargo while also trying to figure out who is leaking information to the pirates.|
+| 62  |The protagonist is hired by the United Earth Government to investigate a distress signal coming from a remote planet on the edge of the galaxy. Once they arrive, they discover that the colony has been overrun by hostile alien creatures and must find a way to survive while they repair their ship and call for help.|
+| 63  |The protagonist is on a routine cargo run when they are ambushed by a group of Outer Rim Pirates. They must fight to defend their ship and cargo while also trying to outsmart the pirates and make a daring escape.|
+| 64  |The protagonist is hired by the Intergalactic Trade Organization to infiltrate a rival faction and gather information on their plans and operations. The protagonist must navigate the dangerous political landscape and avoid detection while they complete their mission.|
+| 65  |The protagonist is hired by the Extraterrestrial Liberation Front to rescue a group of hostages being held by the United Earth Government on a distant planet. The protagonist must navigate the hostile planet and avoid detection while they plan and execute a daring rescue mission.|
+| 66  |The protagonist is on a survey mission when they come across a strange alien structure on a remote planet. They must explore the structure and uncover its secrets while also dealing with the hostile alien creatures that guard it.
 

@@ -62,39 +62,39 @@
 
 ### Clues
 To uncover the mystery, characters will need to gather information and piece together clues. The resolution of actions related to discovering clues will be through a closed question with the following range of possible answers:
-- **"No, and.."**: The player fails to discover any information or clues.
-- **"No"**: The player discovers a small piece of information or clue, but it's not particularly useful.
-- **"No, but..."**: The player discovers a piece of information or clue, but it reveals a misleading or false lead.
-- **"Yes, but..."**: The player discovers a piece of information or clue, but it requires further investigation or verification.
-- **"Yes"**: The player discovers a useful piece of information or clue that helps to progress the investigation.
-- **"Yes, and..."**: The player discovers multiple pieces of information or clues that significantly advance the investigation.
+- **"No, and.."**: The protagonist fails to discover any information or clues.
+- **"No"**: The protagonist discovers a small piece of information or clue, but it's not particularly useful.
+- **"No, but..."**: The protagonist discovers a piece of information or clue, but it reveals a misleading or false lead.
+- **"Yes, but..."**: The protagonist discovers a piece of information or clue, but it requires further investigation or verification.
+- **"Yes"**: The protagonist discovers a useful piece of information or clue that helps to progress the investigation.
+- **"Yes, and..."**: The protagonist discovers multiple pieces of information or clues that significantly advance the investigation.
 
 ### Interrogation
 To gather information from suspects and witnesses, characters will engage in interrogations. The resolution of actions related to questioning individuals will be through a closed question with the following range of possible answers:
-- **"No, and.."**: The player's line of questioning is ineffective and the suspect or witness refuses to cooperate.
-- **"No"**: The player's line of questioning is ineffective and the suspect or witness provides limited or unhelpful information.
-- **"No, but..."**: The player's line of questioning reveals a misleading or false lead.
-- **"Yes, but..."**: The player's line of questioning elicits useful information, but the suspect or witness is evasive or uncooperative.
-- **"Yes"**: The player's line of questioning elicits useful information from the suspect or witness.
-- **"Yes, and..."**: The player's line of questioning elicits multiple pieces of useful information from the suspect or witness.
+- **"No, and.."**: The protagonist's line of questioning is ineffective and the suspect or witness refuses to cooperate.
+- **"No"**: The protagonist's line of questioning is ineffective and the suspect or witness provides limited or unhelpful information.
+- **"No, but..."**: The protagonist's line of questioning reveals a misleading or false lead.
+- **"Yes, but..."**: The protagonist's line of questioning elicits useful information, but the suspect or witness is evasive or uncooperative.
+- **"Yes"**: The protagonist's line of questioning elicits useful information from the suspect or witness.
+- **"Yes, and..."**: The protagonist's line of questioning elicits multiple pieces of useful information from the suspect or witness.
 
 ### Alibis
 To determine the whereabouts of suspects, characters will need to verify and question their alibis. The resolution of actions related to verifying alibis will be through a closed question with the following range of possible answers:
-- **"No, and.."**: The player is unable to verify or question the alibi and it remains unconfirmed.
-- **"No"**: The player is unable to verify or question the alibi, but it doesn't appear to be significant.
-- **"No, but..."**: The player is unable to verify or question the alibi, but it leads to a false lead.
-- **"Yes, but..."**: The player is able to verify or question the alibi, but it raises additional questions or suspicions.
-- **"Yes"**: The player is able to verify or question the alibi and it appears to be credible.
-- **"Yes, and..."**: The player is able to verify or question the alibi and it provides additional information that helps to advance the investigation.
+- **"No, and.."**: The protagonist is unable to verify or question the alibi and it remains unconfirmed.
+- **"No"**: The protagonist is unable to verify or question the alibi, but it doesn't appear to be significant.
+- **"No, but..."**: The protagonist is unable to verify or question the alibi, but it leads to a false lead.
+- **"Yes, but..."**: The protagonist is able to verify or question the alibi, but it raises additional questions or suspicions.
+- **"Yes"**: The protagonist is able to verify or question the alibi and it appears to be credible.
+- **"Yes, and..."**: The protagonist is able to verify or question the alibi and it provides additional information that helps to advance the investigation.
 
 ### Evidence
 To uncover the truth, characters will need to gather and examine physical evidence. The resolution of actions related to discovering and examining evidence will be through a closed question with the following range of possible answers:
-- **"No, and.."**: The player fails to gather or examine any physical evidence.
-- **"No"**: The player gathers or examines a small piece of physical evidence, but it's not particularly useful.
-- **"No, but..."**: The player gathers or examines a piece of physical evidence, but it reveals a misleading or false lead.
-- **"Yes, but..."**: The player gathers or examines a piece of physical evidence, but it requires further analysis or verification.
-- **"Yes"**: The player gathers or examines a useful piece of physical evidence that helps to progress the investigation.
-- **"Yes, and..."**: The player gathers or examines multiple pieces of physical evidence that significantly advance the investigation.
+- **"No, and.."**: The protagonist fails to gather or examine any physical evidence.
+- **"No"**: The protagonist gathers or examines a small piece of physical evidence, but it's not particularly useful.
+- **"No, but..."**: The protagonist gathers or examines a piece of physical evidence, but it reveals a misleading or false lead.
+- **"Yes, but..."**: The protagonist gathers or examines a piece of physical evidence, but it requires further analysis or verification.
+- **"Yes"**: The protagonist gathers or examines a useful piece of physical evidence that helps to progress the investigation.
+- **"Yes, and..."**: The protagonist gathers or examines multiple pieces of physical evidence that significantly advance the investigation.
 
 ## Factions
 ### The Detectives
@@ -292,39 +292,39 @@ To uncover the truth, characters will need to gather and examine physical eviden
 
 | D66 | Adventure                                                                                                                                                                       |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 11  | A mysterious death occurs in a prominent gentleman's club, and the player must interview members and search for clues to uncover the truth.                                     |
-| 12  | The player is hired by a wealthy industrialist to retrieve a valuable artifact that was stolen from his home.                                                                   |
-| 13  | A series of bizarre burglaries have taken place across the city, and the player must track down the culprit before they strike again.                                           |
-| 14  | A young woman has disappeared from a prestigious boarding school, and the player must navigate the school's hierarchy to uncover the truth behind her disappearance.            |
-| 15  | A wealthy socialite is being blackmailed, and the player is hired to discover who is behind the threats and put a stop to them.                                                 |
-| 16  | A string of deadly fires have broken out across the city, and the player must work with the fire department to determine the cause and prevent any further destruction.         |
-| 21  | A priceless painting has gone missing from a local museum, and the player must navigate the complex web of collectors, curators, and art dealers to recover the stolen artwork. |
-| 22  | A corrupt police officer is suspected of taking bribes and covering up crimes, and the player must gather evidence to bring the truth to light.                                 |
-| 23  | A wealthy businessman is receiving threatening letters, and the player must determine who is behind the threats and why.                                                        |
-| 24  | A string of murders has taken place in a high-end neighborhood, and the player must work with the police to track down the killer.                                              |
-| 25  | A powerful politician is being blackmailed, and the player is hired to uncover the truth and put a stop to the extortion.                                                       |
-| 26  | A wealthy heiress has gone missing, and the player must search for clues and follow leads to find her before it's too late.                                                     |
-| 31  | A string of jewel thefts have taken place at high-society events, and the player must work with the local authorities to track down the thief.                                  |
-| 32  | A wealthy philanthropist is being threatened, and the player is hired to discover who is behind the threats and protect their client.                                           |
-| 33  | A serial killer is on the loose, and the player must work with the police to track down the murderer and bring them to justice.                                                 |
-| 34  | A group of wealthy investors are being targeted by a clever con artist, and the player must expose the fraud and protect their clients.                                         |
-| 35  | A wealthy collector is being blackmailed over a valuable artifact, and the player must uncover the truth behind the extortion and protect their client.                         |
-| 36  | A powerful judge is receiving threatening letters, and the player must determine who is behind the threats and why.                                                             |
-| 41  | A wealthy shipping magnate is being extorted over a valuable shipment, and the player must work with the shipping company to uncover the truth and put a stop to the crime.     |
-| 42  | A prominent scientist is being threatened, and the player must determine who is behind the threats and why.                                                                     |
-| 43  | A wealthy banker is being blackmailed, and the player must work with the bank to uncover the truth behind the extortion.                                                        |
-| 44  | A string of diamond thefts have taken place across the city, and the player must track down the thief and recover the stolen gems.                                              |
-| 45  | A wealthy politician is being threatened, and the player must determine who is behind the threats and why.                                                                      |
-| 46  | A wealthy industrialist is being extorted over a valuable patent, and the player must uncover the truth behind the crime and protect their client.                              |
-| 51  | A string of art thefts have taken place across the city, and the player must work with the local authorities to track down the thief and recover the stolen artwork.            |
+| 11  | A mysterious death occurs in a prominent gentleman's club, and the protagonist must interview members and search for clues to uncover the truth.                                     |
+| 12  | The protagonist is hired by a wealthy industrialist to retrieve a valuable artifact that was stolen from his home.                                                                   |
+| 13  | A series of bizarre burglaries have taken place across the city, and the protagonist must track down the culprit before they strike again.                                           |
+| 14  | A young woman has disappeared from a prestigious boarding school, and the protagonist must navigate the school's hierarchy to uncover the truth behind her disappearance.            |
+| 15  | A wealthy socialite is being blackmailed, and the protagonist is hired to discover who is behind the threats and put a stop to them.                                                 |
+| 16  | A string of deadly fires have broken out across the city, and the protagonist must work with the fire department to determine the cause and prevent any further destruction.         |
+| 21  | A priceless painting has gone missing from a local museum, and the protagonist must navigate the complex web of collectors, curators, and art dealers to recover the stolen artwork. |
+| 22  | A corrupt police officer is suspected of taking bribes and covering up crimes, and the protagonist must gather evidence to bring the truth to light.                                 |
+| 23  | A wealthy businessman is receiving threatening letters, and the protagonist must determine who is behind the threats and why.                                                        |
+| 24  | A string of murders has taken place in a high-end neighborhood, and the protagonist must work with the police to track down the killer.                                              |
+| 25  | A powerful politician is being blackmailed, and the protagonist is hired to uncover the truth and put a stop to the extortion.                                                       |
+| 26  | A wealthy heiress has gone missing, and the protagonist must search for clues and follow leads to find her before it's too late.                                                     |
+| 31  | A string of jewel thefts have taken place at high-society events, and the protagonist must work with the local authorities to track down the thief.                                  |
+| 32  | A wealthy philanthropist is being threatened, and the protagonist is hired to discover who is behind the threats and protect their client.                                           |
+| 33  | A serial killer is on the loose, and the protagonist must work with the police to track down the murderer and bring them to justice.                                                 |
+| 34  | A group of wealthy investors are being targeted by a clever con artist, and the protagonist must expose the fraud and protect their clients.                                         |
+| 35  | A wealthy collector is being blackmailed over a valuable artifact, and the protagonist must uncover the truth behind the extortion and protect their client.                         |
+| 36  | A powerful judge is receiving threatening letters, and the protagonist must determine who is behind the threats and why.                                                             |
+| 41  | A wealthy shipping magnate is being extorted over a valuable shipment, and the protagonist must work with the shipping company to uncover the truth and put a stop to the crime.     |
+| 42  | A prominent scientist is being threatened, and the protagonist must determine who is behind the threats and why.                                                                     |
+| 43  | A wealthy banker is being blackmailed, and the protagonist must work with the bank to uncover the truth behind the extortion.                                                        |
+| 44  | A string of diamond thefts have taken place across the city, and the protagonist must track down the thief and recover the stolen gems.                                              |
+| 45  | A wealthy politician is being threatened, and the protagonist must determine who is behind the threats and why.                                                                      |
+| 46  | A wealthy industrialist is being extorted over a valuable patent, and the protagonist must uncover the truth behind the crime and protect their client.                              |
+| 51  | A string of art thefts have taken place across the city, and the protagonist must work with the local authorities to track down the thief and recover the stolen artwork.            |
 | 52  | A wealthy socialite is found murdered in their penthouse apartment and the investigation leads the detectives to an underground gambling ring.                                  |
 | 53  | A string of burglaries hits the city's wealthy residents, and the detectives must track down the elusive thief before they strike again.                                        |
 | 54  | A series of strange disappearances in the city's poorest neighborhood prompts the detectives to dig deeper into the area's criminal underworld.                                 |
 | 55  | A young woman is found dead in the park and the detectives must navigate the conflicting testimonies of her friends and family to find the killer.                              |
 | 56  | A famous painter's latest work is stolen from a prestigious art museum, and the detectives must navigate the treacherous world of art theft to retrieve it.                     |
-| 61  | The player is called to a remote estate to investigate a mysterious death, and discover a web of secrets and deceit among the wealthy and powerful residents.                   |
+| 61  | The protagonist is called to a remote estate to investigate a mysterious death, and discover a web of secrets and deceit among the wealthy and powerful residents.                   |
 | 62  | A scientist's groundbreaking discovery is stolen and the detectives must race against time to retrieve it before it falls into the wrong hands.                                 |
-| 63  | The player is tasked with investigating a series of strange disappearances at a prestigious university, and uncover a sinister plot to exploit students.                        |
-| 64  | The player is called to a wealthy neighborhood to investigate a break-in at a high-security mansion, and find themselves in the middle of a dangerous power struggle.           |
+| 63  | The protagonist is tasked with investigating a series of strange disappearances at a prestigious university, and uncover a sinister plot to exploit students.                        |
+| 64  | The protagonist is called to a wealthy neighborhood to investigate a break-in at a high-security mansion, and find themselves in the middle of a dangerous power struggle.           |
 | 65  | A notorious gang leader is murdered in prison and the detectives must navigate the treacherous world of organized crime to find the killer.                                     |
 | 66  | A young woman is found dead in the city's harbor, and the detectives must follow the trail of evidence to uncover the truth about                                               |

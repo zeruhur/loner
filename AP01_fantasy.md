@@ -58,14 +58,14 @@
 | 5   | Magic Quiver   | Magic Arrows     | Magic Bow        | Magic Crossbow    | Magic Bolts     | Magic Handgun   |
 | 6   | Magic Scimitar | Magic battle axe | Magic greatsword | Magic morningstar | Magic warhammer | Magic mace      |
 
-## Genre Rules: Magic
-A character may use their Luck to cast spells. Each spell or magic ability has a Luck cost associated with it. The cost can be different depending on the spell or ability. When a player character wants to use a spell or magic ability, they must spend Luck from their pool. Then rolls the dice to determine the outcome of the action:
-  - **No and**: the spell fails and the character suffers some other negative effect.
-  - **No**: the spell fails and the character loses the mana spent.
-  - **No but**: the spell fails but the character doesn't lose the mana spent.
-  - **Yes but**: the spell succeeds but with some negative effect or drawback.
-  - **Yes**: the spell succeeds.
-  - **Yes and**: the spell succeeds and the character gains additional benefits or advantages.
+## Special Rule: Magic
+A character may use their Luck to cast spells. Each spell or magic ability has a Luck cost associated with it. The cost can be different depending on the spell or ability. When a protagonist wants to use a spell or magic ability, they must spend Luck from their pool. Then rolls the dice to determine the outcome of the action:
+- **No and**: the spell fails and the character suffers some other negative effect.
+- **No**: the spell fails and the character loses the mana spent.
+- **No but**: the spell fails but the character doesn't lose the mana spent.
+- **Yes but**: the spell succeeds but with some negative effect or drawback.
+- **Yes**: the spell succeeds.
+- **Yes and**: the spell succeeds and the character gains additional benefits or advantages.
 
 Luck consumed for casting spells recharges after a rest in a safe area. If a Conflict takes place, Luck points will be based on the current value and reset when the Conflict is over according to the basic rules.
 
@@ -73,37 +73,37 @@ Luck consumed for casting spells recharges after a rest in a safe area. If a Con
 
 | D66 | Spell                                                                                                                              |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| 11  | Heal (1 mana point) - allows the player to restore a small amount of health to a target.                                           |
+| 11  | Heal (1 mana point) - allows the protagonist to restore a small amount of health to a target.                                           |
 | 12  | Light (1 mana point) - creates a small light source that illuminates the surrounding area.                                         |
-| 13  | Identify (1 mana point) - allows the player to determine the properties of an item.                                                |
+| 13  | Identify (1 mana point) - allows the protagonist to determine the properties of an item.                                                |
 | 14  | Bolt (1 mana point) - creates a small bolt of energy that deals damage to a single target.                                         |
-| 15  | Detect Magic (1 mana point) - allows the player to detect the presence of magic in the surrounding area.                           |
-| 16  | Mage Armor (2 mana points) - creates a magical barrier around the player, providing temporary protection against physical attacks. |
-| 21  | Levitate (2 mana points) - allows the player to levitate for a short period of time.                                               |
+| 15  | Detect Magic (1 mana point) - allows the protagonist to detect the presence of magic in the surrounding area.                           |
+| 16  | Mage Armor (2 mana points) - creates a magical barrier around the protagonist, providing temporary protection against physical attacks. |
+| 21  | Levitate (2 mana points) - allows the protagonist to levitate for a short period of time.                                               |
 | 22  | Fear (2 mana points) - causes an enemy to become frightened and run away.                                                          |
 | 23  | Illusion (2 mana points) - creates an illusory image or sound.                                                                     |
-| 24  | Charm (2 mana points) - allows the player to charm an enemy, making them more friendly and cooperative.                            |
-| 25  | Invisibility (3 mana points) - makes the player invisible to enemies for a short period of time.                                   |
-| 26  | Teleport (4 mana points) - allows the player to instantly transport to a nearby location.                                          |
+| 24  | Charm (2 mana points) - allows the protagonist to charm an enemy, making them more friendly and cooperative.                            |
+| 25  | Invisibility (3 mana points) - makes the protagonist invisible to enemies for a short period of time.                                   |
+| 26  | Teleport (4 mana points) - allows the protagonist to instantly transport to a nearby location.                                          |
 | 31  | Fireball (3 mana points) - creates a ball of fire, dealing damage to enemies in a small area.                                      |
-| 32  | Summon (3 mana points) - allows the player to summon a small creature to aid them in combat.                                       |
-| 33  | Enchantment (2 mana points) - allows the player to imbue an item with a temporary magical effect.                                  |
-| 34  | Divination (2 mana points) - allows the player to gain insight or information about a specific person or situation.                |
-| 35  | Abjuration (3 mana points) - allows the player to protect themselves or an ally from harmful magic.                                |
-| 36  | Conjuration (4 mana points) - allows the player to summon a small object or non-living matter.                                     |
-| 41  | Necromancy (4 mana points) - allows the player to manipulate the dead or the undead.                                               |
-| 42  | Transmutation (4 mana points) - allows the player to change the form or properties of an object or creature.                       |
-| 43  | Evocation (4 mana points) - allows the player to create a burst of energy or element to damage enemies or illuminate an area.      |
-| 44  | Illusion (4 mana points) - allows the player to create an illusion to mislead or deceive enemies.                                  |
-| 45  | Alteration (4 mana points) - allows the player to change their own form or properties.                                             |
-| 46  | Restoration (4 mana points) - allows the player to restore or repair an object or creature.                                        |
+| 32  | Summon (3 mana points) - allows the protagonist to summon a small creature to aid them in combat.                                       |
+| 33  | Enchantment (2 mana points) - allows the protagonist to imbue an item with a temporary magical effect.                                  |
+| 34  | Divination (2 mana points) - allows the protagonist to gain insight or information about a specific person or situation.                |
+| 35  | Abjuration (3 mana points) - allows the protagonist to protect themselves or an ally from harmful magic.                                |
+| 36  | Conjuration (4 mana points) - allows the protagonist to summon a small object or non-living matter.                                     |
+| 41  | Necromancy (4 mana points) - allows the protagonist to manipulate the dead or the undead.                                               |
+| 42  | Transmutation (4 mana points) - allows the protagonist to change the form or properties of an object or creature.                       |
+| 43  | Evocation (4 mana points) - allows the protagonist to create a burst of energy or element to damage enemies or illuminate an area.      |
+| 44  | Illusion (4 mana points) - allows the protagonist to create an illusion to mislead or deceive enemies.                                  |
+| 45  | Alteration (4 mana points) - allows the protagonist to change their own form or properties.                                             |
+| 46  | Restoration (4 mana points) - allows the protagonist to restore or repair an object or creature.                                        |
 | 51  | Leap (2 mana points) - target can make a single jump to any place they can see.                                                    |
 | 52  | Circle of Protection (3 mana points)	- magical or godly beings cannot enter a 10ft circle.                                         |
 | 53  | Darksight (1 mana points) - target can see 60 ft. in total darkness.                                                               |
 | 54  | Deafining (2 mana points) - anyone within earshot is deafened.                                                                     |
-| 55  | Latch (1 mana points) - an unlocked box, cabinet or door opens or closes at player's command.                                      |
-| 56  | Disguise (3 mana points) - player assumes the likeness of a similar creature you have seen.                                        |
-| 61  | Mirage (3 mana points) - player summons a noiseless & simple illusion of your choice.                                              |
+| 55  | Latch (1 mana points) - an unlocked box, cabinet or door opens or closes at protagonist's command.                                      |
+| 56  | Disguise (3 mana points) - protagonist assumes the likeness of a similar creature you have seen.                                        |
+| 61  | Mirage (3 mana points) - protagonist summons a noiseless & simple illusion of your choice.                                              |
 | 62  | Purge Text (2 mana points) - Mundane or magical writing vanishes at your touch.                                                    |
 | 63  | Shelter (4 mana points) - creates a standing edifice that can shelter up to 10 creatures, disappearing after 24 hours.             |
 | 64  | Gravity Domain (4 mana points) - target moves up or down according to your whims.                                                  |
