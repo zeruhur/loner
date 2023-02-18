@@ -53,7 +53,7 @@
 | 5   |     |     |     |     |     |     |
 | 6   |     |     |     |     |     |     |
 
-## Genre Rules: 
+## Special Rules
 
 
 ## Factions
@@ -62,8 +62,7 @@
 ## NPCs
 
 
-## Monsters
-
+## Creatures
 
 
 ## Locations
