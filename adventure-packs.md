@@ -11,3 +11,4 @@ Use them as non-binding guidelines and inspiration, let your imagination run wil
 - [Mystery Adventure Pack](AP05_mystery.md)
 - [Horror Adventure Pack](AP06_horror.md)
 - [Action Adventure Pack](AP07_action_adventure.md)
+- [Spy Adventure Pack](AP08_spy.md)
