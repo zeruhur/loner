@@ -10,6 +10,7 @@
   - [Mystery Adventure Pack](AP05_mystery.md)
   - [Horror Adventure Pack](AP06_horror.md)
   - [Action Adventure Pack](AP07_action_adventure.md)
+  - [Spy Adventure Pack](AP08_spy.md)
 - **Versione Italiana**
   - [Regolamento](loner-ita.md)
 - [Loner Assistant](https://zeruhur.space/loner-assistant/)
