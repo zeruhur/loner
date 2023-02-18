@@ -12,3 +12,5 @@ Use them as non-binding guidelines and inspiration, let your imagination run wil
 - [Horror Adventure Pack](AP06_horror.md)
 - [Action Adventure Pack](AP07_action_adventure.md)
 - [Spy Adventure Pack](AP08_spy.md)
+- [Post-Apocalyptic Adventure Pack](AP09_postapoc.md)
+- [Pirates Adventure Pack](AP10_pirates.md) 
