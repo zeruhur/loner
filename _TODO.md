@@ -4,10 +4,10 @@
 - [X] Horror
 - [X] Crime
 - [X] Mystery
-- [] Action Adventure
+- [X] Action Adventure
 - [] Pirates
 - [] Western
-- [] Spies
+- [X] Spies
 - [X] Superheroes
 - [] Sword & Sorcery
 - [] Cyberpunk
