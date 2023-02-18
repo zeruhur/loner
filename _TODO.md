@@ -1,15 +1,15 @@
 - [X] Fantasy
 - [X] Space Sci-Fi
-- [] Post-Apocalyptic
 - [X] Horror
 - [X] Crime
 - [X] Mystery
 - [X] Action Adventure
-- [] Pirates
-- [] Western
 - [X] Spies
 - [X] Superheroes
+- [X] Post-Apocalyptic
+- [X] Pirates
+- [] Western
+- [] Cyberpunk 
 - [] Sword & Sorcery
-- [] Cyberpunk
 - [] Mecha
 - [] Ancient Rome
