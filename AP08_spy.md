@@ -23,14 +23,14 @@
 
 ### Skills
 
-|     | 1               | 2           | 3            | 4             | 5            | 6         |            |
-| --- | --------------- | ----------- | ------------ | ------------- | ------------ | --------- | ---------- |
-| 1   | Acrobatics      | Brawling    | Computers    | Demolitions   | Driving      | Firearms  |            |
-| 2   | Hacking         | History     | Intimidation | Investigation | Language     | Medicine  |            |
-| 3   | Navigation      | Networking  | Stealth      | Persuasion    | Pilot        | Science   |            |
-| 4   | Survival        | Swimming    | Technology   | Thievery      | Tracking     | Diplomacy |            |
-| 5   | Animal Handling | Archaeology | Artistry     | Athletics     | Cryptography | Espionage | Leadership |
-| 6   | Lockpicking     | Mechanics   | Photography  | Seduction     | Streetwise   | Strategy  | Traps      |
+|     | 1               | 2           | 3            | 4             | 5            | 6         |
+| --- | --------------- | ----------- | ------------ | ------------- | ------------ | --------- |
+| 1   | Acrobatics      | Brawling    | Computers    | Demolitions   | Driving      | Firearms  |
+| 2   | Hacking         | History     | Intimidation | Investigation | Language     | Medicine  |
+| 3   | Navigation      | Networking  | Stealth      | Persuasion    | Pilot        | Science   |
+| 4   | Survival        | Swimming    | Technology   | Thievery      | Tracking     | Diplomacy |
+| 5   | Animal Handling | Archaeology | Artistry     | Athletics     | Cryptography | Espionage |
+| 6   | Lockpicking     | Mechanics   | Photography  | Seduction     | Streetwise   | Strategy  |
 
 
 ### Frailties
@@ -197,7 +197,7 @@
 - **Motive**: Revenge
 - **Nemesis**: A high-ranking member of North Korea's intelligence agency.
 
-## Monsters
+## Foes
 
 ### Blackmailers
 
