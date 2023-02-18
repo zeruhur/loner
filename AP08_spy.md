@@ -59,7 +59,7 @@
 
 ## Genre Rules
 
-- **Cover identities**: The player must maintain their cover identity while on missions, and risk exposure if they act out of character. To maintain their cover, players must describe their actions in a way that is consistent with their character's identity, and the Oracle will determine whether or not they succeed. If a player acts out of character, the Oracle may rule that their cover is compromised, and they will face consequences.
+- **Cover identities**: The player must maintain their cover identity while on missions, and risk exposure if they act out of character. To maintain their cover, protagonist must describe their actions in a way that is consistent with their character's identity, and the Oracle will determine whether or not they succeed. If a player acts out of character, the Oracle may rule that their cover is compromised, and they will face consequences.
 - **Interrogation**: The player may be captured and interrogated, and must resist giving up important information. When a player is captured and interrogated, they must resist giving up important information by answering questions in a way that is vague or misleading. The Oracle will determine whether or not they are successful in resisting interrogation based on their answer.
 - **Political tensions**: The political climate is always shifting, and the player may find themselves caught up in the middle of a larger conflict. The player must navigate these political tensions carefully, as their actions may have consequences that extend beyond their immediate mission. When the player takes actions that affect the larger political situation, the Oracle will determine the consequences of their actions based on the range of possible answers.
 
@@ -305,29 +305,29 @@
 
 | D66 | Adventure                                                                                                                                 |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 11  | A high-profile politician has been kidnapped, and the players are hired to rescue them. However, they soon discover that the kidnappers are members of a rival faction trying to undermine the politician’s authority. |
-| 12  | The players are tasked with stealing a powerful artifact from a rival faction’s headquarters. However, they soon discover that the artifact is cursed and must find a way to neutralize its effects before it’s too late. |
-| 13  | A mysterious creature has been spotted in the city, attacking citizens and causing chaos. The players are hired to track down the creature and eliminate it before it causes more damage. |
-| 14  | A member of one of the factions approaches the players with information about a secret meeting between rival factions. They offer to pay the players to attend the meeting and gather information for them. |
-| 15  | A group of rogue operatives from another organization are causing trouble in the city, and the players are tasked with putting a stop to their activities. |
-| 16  | The players are hired to escort a high-value target across the city to a safe location, but they soon discover that the target is not who they seem and has a hidden agenda. |
-| 21  | A faction leader has gone missing, and the players are tasked with finding them before their absence causes chaos within the organization. |
-| 22  | The players are hired to infiltrate a rival faction’s headquarters and plant false information to disrupt their operations. |
-| 23  | A powerful sorcerer has taken up residence in the city and is causing trouble. The players are hired to find and eliminate them, but soon discover that the sorcerer is being controlled by an even more powerful entity. |
-| 24  | The players are tasked with stealing a prototype weapon from a rival faction’s research facility. However, they soon discover that the weapon has dangerous and unpredictable side effects. |
-| 25  | The players are hired to track down a rogue agent who has gone rogue and is selling information to the highest bidder. |
-| 26  | A mysterious disease is spreading throughout the city, and the players are tasked with finding the source and developing a cure before it’s too late. |
-| 31  | A group of terrorists have taken over a major landmark in the city and are threatening to destroy it unless their demands are met. The players are hired to infiltrate the building and neutralize the threat. |
-| 32  | The players are hired to provide security for a high-profile event, but soon discover that there is a plot to assassinate one of the attendees. |
-| 33  | A group of criminals has taken over the city’s water supply and is threatening to poison it unless their demands are met. The players are tasked with stopping them before it’s too late. |
-| 34  | A powerful artifact has been discovered in the city, and rival factions are all vying to claim it for themselves. The players are hired to retrieve the artifact for their faction. |
-| 35  | A high-ranking member of a rival faction has defected to the players’ organization and is providing valuable information. However, they soon discover that the defector has ulterior motives. |
-| 36  | The players are hired to rescue a group of hostages from a rival faction’s stronghold. However, they soon discover that the hostages are not who they seem and have their own agenda. |
-| 41  | A group of mercenaries has been hired to disrupt a major event in the city, and the players are tasked with stopping them. |
-| 42  | A powerful artifact has been stolen from the players’ faction, and they are tasked with tracking down the thieves and retrieving it. |
-| 43  | The players are hired to provide security for a VIP visiting the city, but soon discover that the VIP is being targeted by a rival faction. |
-| 44  | A rogue agent has gone missing, and the players are tasked with finding them before they can do any damage. |
-| 45  | A powerful creature is attacking the city, and the players are hired to eliminate it before it causes |
+| 11  | A high-profile politician has been kidnapped, and the protagonist is hired to rescue them. However, they soon discover that the kidnappers are members of a rival faction trying to undermine the politician’s authority. |
+| 12  | The protagonist is tasked with stealing a powerful artifact from a rival faction’s headquarters. However, they soon discover that the artifact is cursed and must find a way to neutralize its effects before it’s too late. |
+| 13  | A mysterious creature has been spotted in the city, attacking citizens and causing chaos. The protagonist is hired to track down the creature and eliminate it before it causes more damage. |
+| 14  | A member of one of the factions approaches the protagonist with information about a secret meeting between rival factions. They offer to pay the protagonist to attend the meeting and gather information for them. |
+| 15  | A group of rogue operatives from another organization are causing trouble in the city, and the protagonist is tasked with putting a stop to their activities. |
+| 16  | The protagonist is hired to escort a high-value target across the city to a safe location, but they soon discover that the target is not who they seem and has a hidden agenda. |
+| 21  | A faction leader has gone missing, and the protagonist is tasked with finding them before their absence causes chaos within the organization. |
+| 22  | The protagonist is hired to infiltrate a rival faction’s headquarters and plant false information to disrupt their operations. |
+| 23  | A powerful sorcerer has taken up residence in the city and is causing trouble. The protagonist is hired to find and eliminate them, but soon discover that the sorcerer is being controlled by an even more powerful entity. |
+| 24  | The protagonist is tasked with stealing a prototype weapon from a rival faction’s research facility. However, they soon discover that the weapon has dangerous and unpredictable side effects. |
+| 25  | The protagonist is hired to track down a rogue agent who has gone rogue and is selling information to the highest bidder. |
+| 26  | A mysterious disease is spreading throughout the city, and the protagonist is tasked with finding the source and developing a cure before it’s too late. |
+| 31  | A group of terrorists have taken over a major landmark in the city and are threatening to destroy it unless their demands are met. The protagonist is hired to infiltrate the building and neutralize the threat. |
+| 32  | The protagonist is hired to provide security for a high-profile event, but soon discover that there is a plot to assassinate one of the attendees. |
+| 33  | A group of criminals has taken over the city’s water supply and is threatening to poison it unless their demands are met. The protagonist is tasked with stopping them before it’s too late. |
+| 34  | A powerful artifact has been discovered in the city, and rival factions are all vying to claim it for themselves. The protagonist is hired to retrieve the artifact for their faction. |
+| 35  | A high-ranking member of a rival faction has defected to the protagonist’ organization and is providing valuable information. However, they soon discover that the defector has ulterior motives. |
+| 36  | The protagonist is hired to rescue a group of hostages from a rival faction’s stronghold. However, they soon discover that the hostages are not who they seem and have their own agenda. |
+| 41  | A group of mercenaries has been hired to disrupt a major event in the city, and the protagonist is tasked with stopping them. |
+| 42  | A powerful artifact has been stolen from the protagonist’ faction, and they are tasked with tracking down the thieves and retrieving it. |
+| 43  | The protagonist is hired to provide security for a VIP visiting the city, but soon discover that the VIP is being targeted by a rival faction. |
+| 44  | A rogue agent has gone missing, and the protagonist is tasked with finding them before they can do any damage. |
+| 45  | A powerful creature is attacking the city, and the protagonist is hired to eliminate it before it causes |
 | 46  | A valuable asset has gone missing, and the team is hired to track it down. However, they soon discover that it’s not a simple case of theft, and they must navigate a web of deceit and betrayal to find the truth. |
 | 51  | A new faction has emerged in the city, and they’re looking to take over. The team must decide whether to join forces with them, or to try and take them down before it’s too late. |
 | 52  | A member of one of the factions is kidnapped, and the team is tasked with finding and rescuing them. But when they arrive at the location, they find that things are not as they seem. |
