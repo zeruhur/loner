@@ -68,168 +68,168 @@ Action points can be spent to increase the chances of success or to reduce the c
 
 ## Factions
 ### The Adventurers' Guild
-- Concept: Fearless Explorers
-- Skills: Archaeology, Athletics
-- Frailty: Arrogance
-- Gear: Ancient Map, Adventurer's Kit
-- Goal: To uncover the secrets of history
-- Motive: To gain wealth, fame, and prestige
-- Nemesis: The Cult of the Mummy
+- **Concept**: Fearless Explorers
+- **Skills**: Archaeology, Athletics
+- **Frailty**: Arrogance
+- **Gear**: Ancient Map, Adventurer's Kit
+- **Goal**: To uncover the secrets of history
+- **Motive**: To gain wealth, fame, and prestige
+- **Nemesis**: The Cult of the Mummy
 
 ### The Cult of the Mummy
-- Concept: Mystical Fanatics
-- Skills: Religion, Stealth
-- Frailty: Fanaticism
-- Gear: Holy Symbol, Ancient Scroll
-- Goal: To worship and bring back to life a powerful ancient ruler
-- Motive: To gain power and control
-- Nemesis: The Adventurers' Guild
+- **Concept**: Mystical Fanatics
+- **Skills**: Religion, Stealth
+- **Frailty**: Fanaticism
+- **Gear**: Holy Symbol, Ancient Scroll
+- **Goal**: To worship and bring back to life a powerful ancient ruler
+- **Motive**: To gain power and control
+- **Nemesis**: The Adventurers' Guild
 
 ### The Military Expedition
-- Concept: Trained Soldiers
-- Skills: Warfare, Survival
-- Frailty: Brutality
-- Gear: Military Rations, Tent
-- Goal: To claim the ancient artifacts for their country
-- Motive: To gain power and prestige for their nation
-- Nemesis: The Archaeologists' Society
+- **Concept**: Trained Soldiers
+- **Skills**: Warfare, Survival
+- **Frailty**: Brutality
+- **Gear**: Military Rations, Tent
+- **Goal**: To claim the ancient artifacts for their country
+- **Motive**: To gain power and prestige for their nation
+- **Nemesis**: The Archaeologists' Society
 
 ### The Archaeologists' Society
-- Concept: Scholarly Researchers
-- Skills: Archaeology, History
-- Frailty: Greed
-- Gear: Research Equipment, Rare Book
-- Goal: To uncover and preserve the history and artifacts of the past
-- Motive: To gain knowledge and recognition in the academic world
-- Nemesis: The Military Expedition
+- **Concept**: Scholarly Researchers
+- **Skills**: Archaeology, History
+- **Frailty**: Greed
+- **Gear**: Research Equipment, Rare Book
+- **Goal**: To uncover and preserve the history and artifacts of the past
+- **Motive**: To gain knowledge and recognition in the academic world
+- **Nemesis**: The Military Expedition
 
 ### The Treasure Hunters
-- Concept: Risk-Taking Mercenaries
-- Skills: Traps, Climbing
-- Frailty: Greed
-- Gear: Pickaxe, Grappling Hook
-- Goal: To find and claim valuable treasures
-- Motive: To gain wealth and fame
-- Nemesis: The Guardians of the Temple
+- **Concept**: Risk-Taking Mercenaries
+- **Skills**: Traps, Climbing
+- **Frailty**: Greed
+- **Gear**: Pickaxe, Grappling Hook
+- **Goal**: To find and claim valuable treasures
+- **Motive**: To gain wealth and fame
+- **Nemesis**: The Guardians of the Temple
 
 ### The Guardians of the Temple
-- Concept: Devout Protectors
-- Skills: Religion, Defense
-- Frailty: Zealotry
-- Gear: Holy Water, Temple Key
-- Goal: To protect the sacred temple and its secrets
-- Motive: To uphold their religious beliefs
-- Nemesis: The Treasure Hunters
+- **Concept**: Devout Protectors
+- **Skills**: Religion, Defense
+- **Frailty**: Zealotry
+- **Gear**: Holy Water, Temple Key
+- **Goal**: To protect the sacred temple and its secrets
+- **Motive**: To uphold their religious beliefs
+- **Nemesis**: The Treasure Hunters
 
 ## NPCs
 ### Professor Archibald Smith
-- Concept: Eccentric Archaeologist
-- Skills: History, Survival
-- Frailty: Impulsive
-- Gear: Ancient Map, Worn Out Satchel
-- Goal: Discover the Lost City of Gold
-- Motive: Fame and Fortune
-- Nemesis: Treasure Hunters
+- **Concept**: Eccentric Archaeologist
+- **Skills**: History, Survival
+- **Frailty**: Impulsive
+- **Gear**: Ancient Map, Worn Out Satchel
+- **Goal**: Discover the Lost City of Gold
+- **Motive**: Fame and Fortune
+- **Nemesis**: Treasure Hunters
 
 ### Captain Rafael Rodriguez
-- Concept: Smuggler Captain
-- Skills: Navigation, Stealth
-- Frailty: Greed
-- Gear: Old Compass, Pistol
-- Goal: Find the Hidden Treasure
-- Motive: Wealth
-- Nemesis: Police, Treasure Hunters
+- **Concept**: Smuggler Captain
+- **Skills**: Navigation, Stealth
+- **Frailty**: Greed
+- **Gear**: Old Compass, Pistol
+- **Goal**: Find the Hidden Treasure
+- **Motive**: Wealth
+- **Nemesis**: Police, Treasure Hunters
 
 ### Dr. Victoria Jones
-- Concept: Adventurer Doctor
-- Skills: Medicine, Survival
-- Frailty: Brave to a Fault
-- Gear: First Aid Kit, Machete
-- Goal: Find the Lost Temple of Healing
-- Motive: Discovery and Adventure
-- Nemesis: Local Bandits
+- **Concept**: Adventurer Doctor
+- **Skills**: Medicine, Survival
+- **Frailty**: Brave to a Fault
+- **Gear**: First Aid Kit, Machete
+- **Goal**: Find the Lost Temple of Healing
+- **Motive**: Discovery and Adventure
+- **Nemesis**: Local Bandits
 
 ### Ahmed Al-Faris
-- Concept: Wealthy Art Collector
-- Skills: Appraisal, Persuasion
-- Frailty: Arrogant
-- Gear: Art Catalogue, Pocket Watch
-- Goal: Acquire the Rarest Artifacts
-- Motive: Prestige
-- Nemesis: Archaeologists, Art Thieves
+- **Concept**: Wealthy Art Collector
+- **Skills**: Appraisal, Persuasion
+- **Frailty**: Arrogant
+- **Gear**: Art Catalogue, Pocket Watch
+- **Goal**: Acquire the Rarest Artifacts
+- **Motive**: Prestige
+- **Nemesis**: Archaeologists, Art Thieves
 
 ### Agent X
-- Concept: Secret Agent
-- Skills: Espionage, Marksmanship
-- Frailty: Paranoid
-- Gear: Disguise Kit, Pistol
-- Goal: Stop the evil organization from obtaining the artifact
-- Motive: Duty
-- Nemesis: Evil Organization
+- **Concept**: Secret Agent
+- **Skills**: Espionage, Marksmanship
+- **Frailty**: Paranoid
+- **Gear**: Disguise Kit, Pistol
+- **Goal**: Stop the evil organization from obtaining the artifact
+- **Motive**: Duty
+- **Nemesis**: Evil Organization
 
 ### Jacques Marceau
-- Concept: Art Thief
-- Skills: Pickpocketing, Stealth
-- Frailty: Coward
-- Gear: Grappling Hook, Lockpicks
-- Goal: Steal the Priceless Artifacts
-- Motive: Wealth
-- Nemesis: Police, Art Collectors
+- **Concept**: Art Thief
+- **Skills**: Pickpocketing, Stealth
+- **Frailty**: Coward
+- **Gear**: Grappling Hook, Lockpicks
+- **Goal**: Steal the Priceless Artifacts
+- **Motive**: Wealth
+- **Nemesis**: Police, Art Collectors
 
 ## Creatures & Foes
 ### Mummy Lord
-- Concept: Ancient Ruler
-- Skills: Unnatural Durability, Knowledge of Ancient Relics
-- Frailty: Weakened by Holy Water
-- Gear: Hieroglyphic-covered Scepter, Mummy Wrappings
-- Goal: Reclaim Lost Kingdom
-- Motive: Unwavering Loyalty to Pharaoh
-- Nemesis: Archaeologists, Treasure Hunters
+- **Concept**: Ancient Ruler
+- **Skills**: Unnatural Durability, Knowledge of Ancient Relics
+- **Frailty**: Weakened by Holy Water
+- **Gear**: Hieroglyphic-covered Scepter, Mummy Wrappings
+- **Goal**: Reclaim Lost Kingdom
+- **Motive**: Unwavering Loyalty to Pharaoh
+- **Nemesis**: Archaeologists, Treasure Hunters
 
 ### Savage Gorilla
-- Concept: Brutal Primates
-- Skills: Superhuman Strength, Animal Instincts
-- Frailty: Easily Enraged
-- Gear: Razor-Sharp Claws, Strong Teeth
-- Goal: Protect Terrain and Mate
-- Motive: Instinctual Preservation
-- Nemesis: Intruders, Poachers
+- **Concept**: Brutal Primates
+- **Skills**: Superhuman Strength, Animal Instincts
+- **Frailty**: Easily Enraged
+- **Gear**: Razor-Sharp Claws, Strong Teeth
+- **Goal**: Protect Terrain and Mate
+- **Motive**: Instinctual Preservation
+- **Nemesis**: Intruders, Poachers
 
 ### Ravenous Crocodile
-- Concept: Voracious Reptile
-- Skills: Ambush, Endurance
-- Frailty: Slow Movement on Land
-- Gear: Powerful Jaws, Scaly Armor
-- Goal: Satisfy Hunger
-- Motive: Pure Carnivorous Nature
-- Nemesis: Prey, Hunters
+- **Concept**: Voracious Reptile
+- **Skills**: Ambush, Endurance
+- **Frailty**: Slow Movement on Land
+- **Gear**: Powerful Jaws, Scaly Armor
+- **Goal**: Satisfy Hunger
+- **Motive**: Pure Carnivorous Nature
+- **Nemesis**: Prey, Hunters
 
 ### Shadow Hitman
-- Concept: Stealthy Assassin
-- Skills: Stealth, Precision
-- Frailty: Afraid of Light
-- Gear: Poisoned Daggers, Shadow Cloak
-- Goal: Complete Contracts
-- Motive: Financial Gain
-- Nemesis: Targets, Authorities
+- **Concept**: Stealthy Assassin
+- **Skills**: Stealth, Precision
+- **Frailty**: Afraid of Light
+- **Gear**: Poisoned Daggers, Shadow Cloak
+- **Goal**: Complete Contracts
+- **Motive**: Financial Gain
+- **Nemesis**: Targets, Authorities
 
 ### Fire Elemental
-- Concept: Fiery Elementals
-- Skills: Pyrotechnics, Immunity to Fire
-- Frailty: Weak to Water
-- Gear: Flaming Sword, Ignition Ring
-- Goal: Spread Fire
-- Motive: Instinctual Desire for Chaos
-- Nemesis: Water Elementals, Firefighters
+- **Concept**: Fiery Elementals
+- **Skills**: Pyrotechnics, Immunity to Fire
+- **Frailty**: Weak to Water
+- **Gear**: Flaming Sword, Ignition Ring
+- **Goal**: Spread Fire
+- **Motive**: Instinctual Desire for Chaos
+- **Nemesis**: Water Elementals, Firefighters
 
 ### Ice Golem
-- Concept: Frosty Construct
-- Skills: Immense Strength, Immune to Cold
-- Frailty: Weak to Heat
-- Gear: Frozen Club, Frosty Chain
-- Goal: Guard Ice Caves
-- Motive: Created to Serve
-- Nemesis: Adventurers, Fire Elementals
+- **Concept**: Frosty Construct
+- **Skills**: Immense Strength, Immune to Cold
+- **Frailty**: Weak to Heat
+- **Gear**: Frozen Club, Frosty Chain
+- **Goal**: Guard Ice Caves
+- **Motive**: Created to Serve
+- **Nemesis**: Adventurers, Fire Elementals
 
 ## Locations
 ### Temple of the Sun
