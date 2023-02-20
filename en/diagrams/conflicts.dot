@@ -1,9 +1,9 @@
 digraph conflicts { 
     label = "CONFLICTS";
     labelloc="t";
-    fontname="Takota";
-    node [shape="rect", fontname="Takota", fontsize=12];
-    edge [fontname="Takota", fontsize=12];
+    fontname="Permanent Marker";
+    node [shape="rect", fontname="Permanent Marker", fontsize=12];
+    edge [fontname="Permanent Marker", fontsize=12];
     dpi=300;
     bgcolor=white;
 

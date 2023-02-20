@@ -1,10 +1,10 @@
 digraph scene_breakdown {
     label = "SCENE BREAKDOWN";
     labelloc="t";
-    fontname="Takota";
+    fontname="Permanent Marker";
     node [shape="rect", style = "", 
-    fontname="Takota", fontsize=12];
-    edge [shape="rect", fontname="Takota", fontsize=12];
+    fontname="Permanent Marker", fontsize=12];
+    edge [shape="rect", fontname="Permanent Marker", fontsize=12];
 
     subgraph cluster_0 {
         label = "1. IDENTIFY YOUR EXPECTATIONS";

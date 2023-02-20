@@ -1,15 +1,15 @@
 #read -p "Enter filename : " file
-if [ ! -f ~/.fonts/Takota-BRa8.ttf ]
+if [ ! -f ~/.fonts/PermanentMarker-Regular.ttf ]
 then
-    cp assets/fonts/Takota-BRa8.ttf ~/.fonts
+    cp ../../assets/fonts/PermanentMarker-Regular.ttf ~/.fonts
 fi
 dir=$(pwd)
 for file in *.dot
 do
     filename=$(basename "$file")
     f=${filename%.*}
-    cd ../assets/sketchviz-master/
-    node sketch.js ../../$dir/$f.dot ../../$dir/$f.svg
+    cd ../../assets/sketchviz-master/
+    node sketch.js $dir/$f.dot $dir/$f.svg
     cd ..
     cd ..
     cd $dir/

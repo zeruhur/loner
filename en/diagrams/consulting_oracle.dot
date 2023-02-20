@@ -1,10 +1,10 @@
 digraph consulting_oracle {
     label = "CONSULTING THE ORACLE";
     labelloc="t";
-    fontname="Takota";
+    fontname="Permanent Marker";
     node [shape="rect", style = "", 
-    fontname="Takota", fontsize=12];
-    edge [shape="rect", fontname="Takota", fontsize=12];
+    fontname="Permanent Marker", fontsize=12];
+    edge [shape="rect", fontname="Permanent Marker", fontsize=12];
     //splines=false;
 
     id1[label = "PROTAGONIST TAKES ACTION"];

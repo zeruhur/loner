@@ -1,12 +1,12 @@
 digraph get_started {
     label = "GET STARTED";
     labelloc="t";
-    fontname="Takota";
+    fontname="Permanent Marker";
     node [shape="plain", style = "rounded", 
-    fontname="Takota", fontsize=12]
+    fontname="Permanent Marker", fontsize=12]
     st1 [label = "CHOOSE A THEME, \n GENRE, OR SETTING"];
     st2 [label = "SEARCH FOR \n RELEVANT TROPES"];
-    id1 [label = "SET STARTING SCENE"];
+    id1 [label = "SET INITIAL SCENE"];
     pg1 [label = "MAKE A PROTAGONIST"];
     pg2 [label = "LOOK AT PROTAGONIST'S \n GOAL AND NEMESIS"];
     id2 [label = "PLAY THE SCENE"];
