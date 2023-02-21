@@ -1,8 +1,8 @@
 digraph per_iniziare {
     label = "PER INIZIARE";
     labelloc="t";
-    fontname="Takota";
-    node [shape="rect", fontname="Takota", fontsize=12]
+    fontname="Permanent Marker";
+    node [shape="rect", fontname="Permanent Marker", fontsize=12]
     st1 [label = "SCEGLI UN TEMA, \n GENERE, O AMBIENTAZIONE"];
     st2 [label = "CERCA \n TROPI RILEVANTI"];
     id1 [label = "IMPOSTA LA SCENA INIZIALE"];
