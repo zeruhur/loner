@@ -25,7 +25,7 @@ Explore them with your Protagonist through the Oracle-led emergent narrative and
 
 I strongly support the open source ethos.
 
-Loner is based on some materials released under a Creative Commons license and likewise is distributed under a **CC-BY-SA-4.0** license: use it, hack it, make your own edition! 
+**Loner** is based on some materials released under a Creative Commons license and likewise is distributed under a **CC-BY-SA-4.0** license: use it, hack it, make your own edition! 
 
 The more we spread this logic of sharing and reciprocity the more widespread and free our hobby will become.
 
