@@ -1,7 +1,7 @@
 <!-- _navbar.md -->
 
 - **English Version**
-  - [Rules](en/loner-en.md)
+  - [Core Rules](en/loner-en.md)
   - [Adventure Packs](en/adventure-packs.md)
   - [Fantasy Adventure Pack](en/AP01_fantasy.md)
   - [Space Sci-Fi Adventure Pack](en/AP02_Space_SciFi.md)

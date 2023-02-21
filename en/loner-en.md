@@ -1,5 +1,4 @@
-# Loner
-Another Solo RPG
+# Loner - Core Rules
 
 ***Loner*** is a minimalist Solo Role Playing Game designed to be played with only one character (the Protagonist). You'll guide them through the story that will unravel during the game, asking closed questions to an Oracle which will help you overturn your expectations. 
 Every now and then you will be surprised with an unexpected twist!
@@ -136,7 +135,7 @@ This sequence will come to you naturally after some practice. Use it as a guidel
 
 ![](diagrams/scene_breakdown.png)
 
-## Identify expectations
+## Identify Your Expectations
 The Protagonist's traits characterize their behavior within the fictional world and suggest the possible actions they takes in the situational context of the scene.
 
 Based on this, you can expect the world to react in the most logical way, and you will formulate a question that tests this expectation.
@@ -320,28 +319,6 @@ Also update the list of **NPCs**, **Locations**, and **Events** that may show up
 **Example**
 > Zahra secures the datapad in the hands of the authorities, framing both Wethern and the Leton Corporation. Wethern is arrested, but she has gained a powerful enemy working against the Corporation. She gains "Wannabe Hacker" to her skills. Maybe Melina can mentor her!
 
-## Credits
-
-- [Recluse Engine](https://gravenutterance.itch.io/recluse) (CC BY 4.0) by Graven Utterance and Tiny Solitary Soldier Oracle for the main resolution and scene mechanics.
-- [Freeform Universal Roleplaying Game](https://www.perilplanet.com/freeform-universal/) (CC BY 4.0) by Nathan Russell as an inspiration of the whole game and the character traits.
-- Harm mechanics are from [6Q System](https://chaosmeister.itch.io/6-q-system) (CC BY 4.0) by Marcus Burggraf.
-- Tana Pigeon for [Mythic](https://www.wordmillgames.com/mythic.html) and clarifying for me the mechanisms of expectation and testing.
-- S. John Ross for [Risus](https://www.risusrpg.com/) and to have taught me the beauty of clichés and that not all conflicts are combat.
-
-With deepest thanks to :
-- Shane Conner for proof reading and revision of the text of the First Edition.
-- the Italian solo player community for their constant support and drive to improve the game.
-
-## License
-
-Loner v.1.8
-
-(CC) 2023 Roberto Bisceglie
-
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
-
-# Appendix: Optional Rules & Tools
-
 ## Loner Together
 Loner's rules are designed for a single player controlling one character.
 However being derivative of a multiplayer game (Freeform Universal) no one prevents you from using them for group play as well, if you insist on doing so.
@@ -445,4 +422,24 @@ Note that the adventure premise is not the initial scene prompt, only the framew
 |  5  |     Lethal poison    |  Ancient prophecies | Irresistible temptations | Powerful enchantments |  Ruthless warlords  |    Unseen dangers    |
 |  6  |    Terrible curses   |    Devious traps    |   Sinister conspiracies  |  Dangerous illusions  | Malevolent entities |   Ruthless factions  |
 
-The general setup of this supplement is taken from *The Instant Game* by Animalball Partners (2007). None of its content is used here.
+
+## Credits
+
+- [Recluse Engine](https://gravenutterance.itch.io/recluse) (CC BY 4.0) by Graven Utterance and Tiny Solitary Soldier Oracle for the main resolution and scene mechanics.
+- [Freeform Universal Roleplaying Game](https://www.perilplanet.com/freeform-universal/) (CC BY 4.0) by Nathan Russell as an inspiration of the whole game and the character traits.
+- Harm mechanics are from [6Q System](https://chaosmeister.itch.io/6-q-system) (CC BY 4.0) by Marcus Burggraf.
+- Tana Pigeon for [Mythic](https://www.wordmillgames.com/mythic.html) and clarifying for me the mechanisms of expectation and testing.
+- S. John Ross for [Risus](https://www.risusrpg.com/) and to have taught me the beauty of clichés and that not all conflicts are combat.
+- The Adventure Maker setup is inspired from *The Instant Game* by Animalball Partners (2007). None of its content is used here.
+
+With deepest thanks to :
+- Shane Conner for proof reading and revision of the text of the First Edition.
+- the Italian solo player community for their constant support and drive to improve the game.
+
+## License
+
+Loner v.2.0
+
+(CC) 2023 Roberto Bisceglie
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.

@@ -3,7 +3,7 @@ Another Solo RPG
 
 (CC) 2023 Roberto Bisceglie
 
-<iframe frameborder="0" src="https://itch.io/embed/1182289?linkback=true" width="552" height="167"><a href="https://zeruhur.itch.io/loner">Loner by Zotiquest Games</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/1908947" width="552" height="167"><a href="https://zeruhur.itch.io/loner-2nd-edition">Loner (2nd Edition) by Zotiquest Games</a></iframe>
 
 # English
 
