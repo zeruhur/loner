@@ -14,5 +14,5 @@
   - [Post-Apocalyptic Adventure Pack](en/AP09_postapoc.md)
   - [Pirates Adventure Pack](en/AP10_pirates.md) 
 - **Versione Italiana**
-  - [Regolamento](loner-ita.md)
+  - [Regolamento](it/loner-ita.md)
 - [Loner Assistant](https://zeruhur.space/loner-assistant/)

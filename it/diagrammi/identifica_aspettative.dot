@@ -1,0 +1,16 @@
+digraph identifica_aspettative {
+    label = "IDENTIFICA LE TUE ASPETTATIVE";
+    labelloc="t";
+    fontname="Permanent Marker";
+    node [shape="rect", style = "", 
+    fontname="Permanent Marker", fontsize=12, width=3];
+    edge [shape="rect", fontname="Permanent Marker", fontsize=12];
+
+    cs01 [label = "CONSIDERA I TRATTI DEL PROTAGONISTA"];
+    cs02 [label = "DETERMINA L'AZIONE DEL PROTAGONISTA"];
+    cs03 [label = "PREDICI LA REAZIONE DEL MONDO"];
+    cs04 [style = "invis"];
+
+    cs01 -> cs02 -> cs03;
+    cs03 -> cs04 [style="invis"];
+}

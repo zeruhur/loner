@@ -1,5 +1,7 @@
 # Loner - Core Rules
 
+## What is Loner?
+
 ***Loner*** is a minimalist Solo Role Playing Game designed to be played with only one character (the Protagonist). You'll guide them through the story that will unravel during the game, asking closed questions to an Oracle which will help you overturn your expectations. 
 Every now and then you will be surprised with an unexpected twist!
 

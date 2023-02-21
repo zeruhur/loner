@@ -1,5 +1,6 @@
-# Loner
-Un altro GDR Solitario
+# Loner - Regole Base
+
+## Che cos'è Loner?
 
 ***Loner*** è un gioco di ruolo solitario minimalista pensato per essere giocato con un solo personaggio (il Protagonista). Lo guiderete attraverso la storia che si dipanerà nel corso del gioco, ponendo domande chiuse a un Oracolo che vi aiuterà a ribaltare le vostre aspettative. 
 Di tanto in tanto sarete sorpresi con un colpo di scena inaspettato!
@@ -317,26 +318,6 @@ Aggiorna anche l'elenco di **PNG**, **Luoghi** ed **Eventi** che potrebbero ripr
 **Esempio**
 > Zahra mette al sicuro il datapad nelle mani delle autorità, incastrando sia Wethern che la Corporazione Leton. Wethern viene arrestato, ma ha ottenuto un potente nemico che lavora contro la Corporazione. Alle sue abilità si aggiunge la qualifica di "Aspirante Hacker". Forse Melina può farle da mentore!
 
-## Riconoscimenti
-
-- [Recluse Engine](https://gravenutterance.itch.io/recluse) (CC BY 4.0) di Graven Utterance e Tiny Solitary Soldier Oracle per la risoluzione principale e le meccaniche di scena.
-- [Freeform Universal Roleplaying Game](https://www.perilplanet.com/freeform-universal/) (CC BY 4.0) di Nathan Russell come ispirazione dell'intero gioco e dei tratti dei personaggi.
-- Le meccaniche di Danno sono tratte da [6Q System](https://chaosmeister.itch.io/6-q-system) (CC BY 4.0) di Marcus Burggraf.
-- Tana Pigeon per [Mythic](https://www.wordmillgames.com/mythic.html) e avermi chiarito i meccanismi di aspettativa e messa alla prova.
-- S. John Ross per [Risus](https://www.risusrpg.com/) e per avermi insegnato la bellezza dei cliché e che non tutti i conflitti sono combattimenti.
-
-Un sincero ringraziamento al gruppo dei [Ruolatori Solitari](https://t.me/ruolatorisolitari) per il continuo supporto e la spinta a migliorare il gioco.
-
-## Licenza
-
-Loner v.1.8
-
-(CC) 2023 Roberto Bisceglie
-
-Quest'opera è stata rilasciata con licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale. Per leggere una copia della licenza visita il sito web http://creativecommons.org/licenses/by-sa/4.0/ o spedisci una lettera a Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
-
-# Appendice: Regole e Strumenti Opzionali
-
 ## Loner Insieme
 Le regole di Loner sono state pensate per un giocatore singolo che controlla un solo personaggio.
 Tuttavia essendo derivato di un gioco multi-giocatore (Freeform Universal) nessuno impedisce di utilizzarle anche per giocare in gruppo, se insisti per farlo.
@@ -440,4 +421,22 @@ Nota che la premessa dell'avventura non è lo spunto della scena iniziale, ma so
 | 5 | Veleno letale | Antiche profezie | Tentazioni irresistibili | Potenti incantesimi | Signori della guerra spietati | Pericoli invisibili |
 | 6 | Terribili maledizioni | Subdole trappole | Sinistre cospirazioni | Pericolose illusioni | Entità maligne | Fazioni spietate |
 
-L'impostazione generale di questo supplemento è tratta da *The Instant Game* di Animalball Partners (2007). Nessuno dei suoi contenuti è utilizzato qui.
+## Riconoscimenti
+
+- [Recluse Engine](https://gravenutterance.itch.io/recluse) (CC BY 4.0) di Graven Utterance e Tiny Solitary Soldier Oracle per la risoluzione principale e le meccaniche di scena.
+- [Freeform Universal Roleplaying Game](https://www.perilplanet.com/freeform-universal/) (CC BY 4.0) di Nathan Russell come ispirazione dell'intero gioco e dei tratti dei personaggi.
+- Le meccaniche di Danno sono tratte da [6Q System](https://chaosmeister.itch.io/6-q-system) (CC BY 4.0) di Marcus Burggraf.
+- Tana Pigeon per [Mythic](https://www.wordmillgames.com/mythic.html) e avermi chiarito i meccanismi di aspettativa e messa alla prova.
+- S. John Ross per [Risus](https://www.risusrpg.com/) e per avermi insegnato la bellezza dei cliché e che non tutti i conflitti sono combattimenti.
+- L'impostazione generale del Generatore di Avventure è ispirata da *The Instant Game* di Animalball Partners (2007). Nessuno dei suoi contenuti è utilizzato qui.
+
+Un sincero ringraziamento al gruppo dei [Ruolatori Solitari](https://t.me/ruolatorisolitari) per il continuo supporto e la spinta a migliorare il gioco.
+
+## Licenza
+
+Loner v.2.0
+
+(CC) 2023 Roberto Bisceglie
+
+Quest'opera è stata rilasciata con licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale. Per leggere una copia della licenza visita il sito web http://creativecommons.org/licenses/by-sa/4.0/ o spedisci una lettera a Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
