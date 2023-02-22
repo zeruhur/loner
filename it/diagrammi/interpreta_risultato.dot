@@ -6,7 +6,7 @@ digraph interpreta_risultato {
     fontname="Permanent Marker", fontsize=12];
     edge [shape="rect", fontname="Permanent Marker", fontsize=12];
 
-    cs31 [label = "LA RISPOSTA SODDISFA \n LE VOSTRE ASPETTATIVE?"];
+    cs31 [label = "LA RISPOSTA SODDISFA \n LE TUE ASPETTATIVE?"];
     cs32 [label = "CONSIDERA IL CONTESTO"];
     cs33 [label = "ESAMINA LA RISPOSTA"];
     cs34 [label = "SOVVERTI LE TUE ASPETTATIVE"];

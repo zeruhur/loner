@@ -21,7 +21,7 @@ digraph consultare_oracolo {
     id1 -> id2 [label = "Certo"] ;
     id2 -> id1 [label = "Prossima azione"];
     id1 -> id3 [label = "Incerto/\n Troppo sicuro"];
-    id3 -> id4 [label = "Vantaggio"];
+    id3 -> id4 [xlabel = "Vantaggio"];
     {rank=same;id4 -> id6 -> id5 [style="invis"]};
     id3 -> id6;
     id3 -> id5 [label = "Svantaggio"];

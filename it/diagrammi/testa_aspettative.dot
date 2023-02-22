@@ -17,6 +17,6 @@ digraph testa_aspettative {
     cs11 -> cs12 [label="Sì"];
     cs11 -> cs13 [label="No"];
     cs12 -> cs14;
-    cs14 -> cs15 [label = "Positivi \n prevalwenti"];
+    cs14 -> cs15 [label = "Positivi \n prevalenti"];
     cs14 -> cs16 [label = "Negativi \n prevalenti"];
 }
