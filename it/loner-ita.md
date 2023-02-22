@@ -2,12 +2,11 @@
 
 ## Che cos'è Loner?
 
-***Loner*** è un gioco di ruolo solitario minimalista pensato per essere giocato con un solo personaggio (il Protagonista). Lo guiderete attraverso la storia che si dipanerà nel corso del gioco, ponendo domande chiuse a un Oracolo che vi aiuterà a ribaltare le vostre aspettative. 
-Di tanto in tanto sarete sorpresi con un colpo di scena inaspettato!
+***Loner*** è un gioco di ruolo solitario minimalista pensato per essere giocato con un solo personaggio (il Protagonista). Lo guiderai attraverso la storia che si dipanerà nel corso del gioco, ponendo domande chiuse a un Oracolo che ti aiuterà a ribaltare le tue aspettative. Di tanto in tanto sarai sorpreso con un colpo di scena inaspettato!
 
 *Loner* segue i seguenti principi di progettazione:
 1. **Portatile**: per giocare avrai bisogno di alcuni dadi comuni (a sei facce) e di materiale da scrittura. Tutto il resto è opzionale e non essenziale.
-2. **Regole leggere**: il gioco si basa su poche regole e su un'unica meccanica di risoluzione, facile da imparare ed volendo anche da memorizzare.
+2. **Regole leggere**: il gioco si basa su poche regole e su un'unica meccanica di risoluzione, facile da imparare e volendo anche da memorizzare.
 3. **Basato su tag**: i personaggi e le situazioni sono definiti solo da descrittori qualitativi e non da caratteristiche quantitative.
 4. **Generico**: puoi giocare a qualsiasi cosa, ma il gioco **non è universale**. È progettato per risoluzioni rapide, senza profondità tattica o velleità simulazionistiche.
 
@@ -35,7 +34,7 @@ Per giocare a *Loner* avrai bisogno di:
 - **Quaderno**: *Loner* non è un gioco solitario diaristico, puoi facilmente giocarlo nel "teatro della mente". Ma se ne senti la necessità puoi ovviamente tenere appunti durante la tua sessione!
 
 ## Scegli un genere o un'ambientazione
-Un'avventura di Loner si svolge in un immaginario ben definito che dovrai scegliere: la tua serie TV preferita, una saga di libri che stai leggendo, un'ambientazione per RPG che ti piace, un genere che conosci bene o che invece vuoi iniziare ad esplorare.
+Un'avventura di Loner si svolge in un immaginario ben definito che dovrai scegliere: la tua serie TV preferita, una saga di libri che stai leggendo, un'ambientazione per GDR che ti piace, un genere che conosci bene o che invece vuoi iniziare ad esplorare.
 
 Puoi anche consultare delle liste di tropi (cerca su google!) da generare casualmente per poi decidere!
 
@@ -52,7 +51,7 @@ Il tuo Protagonista è descritto da alcune caratteristiche:
 - **Concetto**: una descrizione concisa della professione, del background e delle abilità del personaggio. I migliori sono i binomi aggettivo-nome, come "Contrabbandiere audace" o "Bambino prodigio".
 - **Abilità** (x2): abilità non necessariamente specifiche del personaggio ma neanche caratteristiche comuni a tutti. "Intelligente" non è un'abilità, "Sussurratore di motori" lo è.
 - **Debolezza**: qualcosa che potrebbe ostacolare il personaggio, sia fisicamente, mentalmente o socialmente.
-- **Attrezzatura** (x2): equipaggiamento particolare fornita al personaggio in coerenza con l'ambientazione. Gli oggetti quotidiani sono dati per scontati e non rientrano in questa caratteristica.
+- **Attrezzatura** (x2): equipaggiamento particolare in dotazione al personaggio in coerenza con l'ambientazione. Gli oggetti quotidiani sono dati per scontati e non rientrano in questa caratteristica.
 - **Obiettivo**: l'obiettivo a lungo termine.
 - **Motivazione**: ciò che spinge alla persecuzione dell'obiettivo.
 - **Nemesi**: una persona o organizzazione che ostacola il protagonista. Può emergere durante le prime sessioni di gioco o non essere l'antagonista diretto della storia, pronto a spuntare per rendere la vita dell'eroe ancora più difficile.
@@ -148,7 +147,7 @@ Sulla base di questo, ti puoi aspettarti che il mondo reagisca nel modo più log
 Non è detto che un'aspettativa porti automaticamente a una domanda, che devi porre solo quando ci sono rischi concreti o vuoi essere stupito. Negli altri casi, lascia che semplicemente gli eventi accadano.
 
 **Esempio**  
-> Zahra si intrufola nella filiale della Leton Corporation. L'aspettativa è che il luogo sia ben sorvegliato durante il giorno e meno durante la notte. Per sottrarsi a un inevitabile scontro frontale, Zahra decide di agire di notte ed entrare dalle condotte di aerazioneNon ti aspetti che ci sia un allarme ma forse vale la pena porsi la domanda!
+> Zahra si intrufola nella filiale della Leton Corporation. L'aspettativa è che il luogo sia ben sorvegliato durante il giorno e meno durante la notte. Per sottrarsi a un inevitabile scontro frontale, Zahra decide di agire di notte ed entrare dalle condotte di aerazione. Non ti aspetti che ci sia un allarme ma forse vale la pena porsi la domanda!
 
 ## Interrogare l'Oracolo
 
@@ -311,7 +310,7 @@ Per rispondere a una domanda aperta, tira 1d6 una volta su ciascuna delle seguen
 
 ## Quando la storia finisce
 
-Alla fine dell'avventura si possono aggiungere un nuovo tratto al personaggio. È meglio che questo sia legato alla storia appena conclusa e può essere un'Abilità, un Equipaggiamento o una nuova Fragilità o addirittura una nuova Nemesi! È anche possibile modificare un tratto esistente per rappresentare meglio un'abilità potenziata.
+Alla fine dell'avventura si possono aggiungere un nuovo tratto al personaggio. È meglio che questo sia legato alla storia appena conclusa e può essere un'Abilità, un Equipaggiamento o una nuova Debolezza o addirittura una nuova Nemesi! È anche possibile modificare un tratto esistente per rappresentare meglio un'abilità potenziata.
 
 Aggiorna anche l'elenco di **PNG**, **Luoghi** ed **Eventi** che potrebbero ripresentarsi in avventure future.
 
@@ -358,10 +357,11 @@ Nota che la premessa dell'avventura non è lo spunto della scena iniziale, ma so
 
 |     | 1-2                                   | 3-4                     | 5-6                       |
 | --- | ------------------------------------- | ----------------------- | ------------------------- |
-| 1   | Cupo e cupo                           | Scanzonato e umoristico | Grintoso e realistico     |
+| 1   | Oscuro e cupo                           | Scanzonato e umoristico | Grintoso e realistico     |
 | 2   | Epico e grandioso                     | Suspense ed emozionante | Misterioso ed enigmatico  |
 | 3   | Ricco di azione e avventuroso         | Romantico e stravagante | Orrorifico e terrificante |
-| 4   | Tecnologicamente avanzato ed elegante | Grunge e zozzo         | Gotico e minaccioso       |
+| 4   | Tecnologicamente avanzato ed elegante | Grunge e 
+sporco         | Gotico e minaccioso       |
 | 5   | Surreale e onirico                    | Futuristico e distopico | Nostalgico e senza tempo  |
 | 6   | Inquietante e paranormale             | Marziale e disciplinato | Grazioso ed elegante      |
 
@@ -384,7 +384,7 @@ Nota che la premessa dell'avventura non è lo spunto della scena iniziale, ma so
 | 2 | Città d'oro perduta | Intelligenza artificiale | Baia dei pirati | Paradosso del viaggio nel tempo | Spionaggio | Esseri extraterrestri |
 | 3 | Regno sottomarino | Viaggio epico in mare | Poteri supereroistici | Loop temporali | Realtà alternative | Simulazione di realtà virtuale |
 | 4 | Mistero intrigante | Rivolta dei mutanti | Biotecnologia avanzata | Società futuristica | Storia alternativa | Distopia cyberpunk |
-| 5 | Ampio lore | Virus inarrestabile | Foresta incantata | Frontiere sconosciute | Robotica avanzata | Segreti dell'universo |
+| 5 | Ampio immaginario | Virus inarrestabile | Foresta incantata | Frontiere sconosciute | Robotica avanzata | Segreti dell'universo |
 | 6 | Scenari da fine del mondo | Capacità telecinetiche | Armi futuristiche | Salto di dimensione | Tecno-sorveglianza | Conflitto con superpoteri |
 
 
