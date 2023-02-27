@@ -15,3 +15,4 @@ Use them as non-binding guidelines and inspiration, let your imagination run wil
 - [Post-Apocalyptic Adventure Pack](AP09_postapoc.md)
 - [Pirates Adventure Pack](AP10_pirates.md) 
 - [Western Adventure Pack](AP11_western.md)
+- [Cyberpunk Adventure Pack](AP12_cyberpunk.md)
