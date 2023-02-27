@@ -18,10 +18,10 @@ digraph consulting_oracle {
     id9[label = "ASK AGAIN \n (Max 3)"];
     id10[label = "OPEN-ENDED QUESTION"];
 
-    id1 -> id2 [label = "Certaint"] ;
+    id1 -> id2 [xlabel = "Certaint"] ;
     id2 -> id1 [label = "Next action"];
     id1 -> id3 [label = "Uncertain/\nOverconfident"];
-    id3 -> id4 [label = "Advantage"];
+    id3 -> id4 [xlabel = "Advantage"];
     {rank=same;id4 -> id6 -> id5 [style="invis"]};
     id3 -> id6;
     id3 -> id5 [label = "Disadvantage"];
@@ -29,7 +29,7 @@ digraph consulting_oracle {
     id7 -> id8 [label = "YES"] ;
     id7 -> id9 [label = "NO"];
     id9 -> id8 [label = "Clear"];
-    id9 -> id10 [label = "Unclear"];
+    id9 -> id10 [xlabel = "Unclear"];
     id10 -> id8;
-    id8 -> id1 [label="Next action"];
+    id8 -> id1 [xlabel="Next action"];
 }

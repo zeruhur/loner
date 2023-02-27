@@ -14,9 +14,9 @@ digraph testa_aspettative {
     cs15 [label = "VANTAGGIO"];
     cs16 [label = "SVANTAGGIO"];
 
-    cs11 -> cs12 [label="Sì"];
+    cs11 -> cs12 [xlabel="Sì"];
     cs11 -> cs13 [label="No"];
     cs12 -> cs14;
-    cs14 -> cs15 [label = "Positivi \n prevalenti"];
+    cs14 -> cs15 [xlabel = "Positivi \n prevalenti"];
     cs14 -> cs16 [label = "Negativi \n prevalenti"];
 }

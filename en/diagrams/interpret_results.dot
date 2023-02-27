@@ -14,5 +14,5 @@ digraph scene_breakdown {
 
     cs32 -> cs33 -> cs31;
     cs31 -> cs35 [label = "Yes"];
-    cs31 -> cs34 [label = "No"];
+    cs31 -> cs34 [xlabel = "No"];
 }

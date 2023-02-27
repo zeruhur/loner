@@ -14,5 +14,5 @@ digraph interpreta_risultato {
 
     cs32 -> cs33 -> cs31;
     cs31 -> cs35 [label = "Sì"];
-    cs31 -> cs34 [label = "No"];
+    cs31 -> cs34 [xlabel = "No"];
 }

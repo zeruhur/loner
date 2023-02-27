@@ -18,7 +18,7 @@ digraph consultare_oracolo {
     id9[label = "CHIEDI DI NUOVO \n (Max 3)"];
     id10[label = "DOMANDA A RISPOSTA APERTA"];
 
-    id1 -> id2 [label = "Certo"] ;
+    id1 -> id2 [xlabel = "Certo"] ;
     id2 -> id1 [label = "Prossima azione"];
     id1 -> id3 [label = "Incerto/\n Troppo sicuro"];
     id3 -> id4 [xlabel = "Vantaggio"];
@@ -29,7 +29,7 @@ digraph consultare_oracolo {
     id7 -> id8 [label = "SÌ"] ;
     id7 -> id9 [label = "NO"];
     id9 -> id8 [label = "Chiaro"];
-    id9 -> id10 [label = "Poco chiaro"];
+    id9 -> id10 [xlabel = "Poco chiaro"];
     id10 -> id8;
     id8 -> id1 [label="Prossima azione"];
 }

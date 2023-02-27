@@ -14,9 +14,9 @@ digraph scene_breakdown {
     cs15 [label = "ADVANTAGE"];
     cs16 [label = "DISADVANTAGE"];
 
-    cs11 -> cs12 [label="Yes"];
+    cs11 -> cs12 [xlabel="Yes"];
     cs11 -> cs13 [label="No"];
     cs12 -> cs14;
-    cs14 -> cs15 [label = "Prevalent \n Positives"];
+    cs14 -> cs15 [xlabel = "Prevalent \n Positives"];
     cs14 -> cs16 [label = "Prevalent \n Negatives"];
 }
