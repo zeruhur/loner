@@ -82,6 +82,8 @@ Give me 6 creatures coherent with the setting in this format:
 - Motive
 - Nemesis
 
+They must be generic
+
 Format the answer in raw markdown code in a snippet box
 
 ---
