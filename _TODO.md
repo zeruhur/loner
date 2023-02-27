@@ -8,8 +8,5 @@
 - [X] Superheroes
 - [X] Post-Apocalyptic
 - [X] Pirates
-- [] Western
-- [] Cyberpunk 
-- [] Sword & Sorcery
-- [] Mecha
-- [] Ancient Rome
+- [X] Western
+- [X] Cyberpunk 
