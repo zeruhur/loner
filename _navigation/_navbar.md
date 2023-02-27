@@ -13,8 +13,8 @@
   - [Spy Adventure Pack](en/AP08_spy.md)
   - [Post-Apocalyptic Adventure Pack](en/AP09_postapoc.md)
   - [Pirates Adventure Pack](en/AP10_pirates.md)
-  - [Western Adventure Pack](AP11_western.md)
-  - [Cyberpunk Adventure Pack](AP12_cyberpunk.md)
+  - [Western Adventure Pack](en/AP11_western.md)
+  - [Cyberpunk Adventure Pack](en/AP12_cyberpunk.md)
 - **Versione Italiana**
   - [Regolamento](it/loner-ita.md)
 - [Loner Assistant](https://zeruhur.space/loner-assistant/)
