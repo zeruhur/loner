@@ -14,3 +14,4 @@ Use them as non-binding guidelines and inspiration, let your imagination run wil
 - [Spy Adventure Pack](AP08_spy.md)
 - [Post-Apocalyptic Adventure Pack](AP09_postapoc.md)
 - [Pirates Adventure Pack](AP10_pirates.md) 
+- [Western Adventure Pack](AP11_western.md)

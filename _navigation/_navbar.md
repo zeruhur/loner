@@ -12,7 +12,8 @@
   - [Action Adventure Pack](en/AP07_action_adventure.md)
   - [Spy Adventure Pack](en/AP08_spy.md)
   - [Post-Apocalyptic Adventure Pack](en/AP09_postapoc.md)
-  - [Pirates Adventure Pack](en/AP10_pirates.md) 
+  - [Pirates Adventure Pack](en/AP10_pirates.md)
+  - [Western Adventure Pack](AP11_western.md)
 - **Versione Italiana**
   - [Regolamento](it/loner-ita.md)
 - [Loner Assistant](https://zeruhur.space/loner-assistant/)
