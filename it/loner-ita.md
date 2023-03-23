@@ -160,7 +160,7 @@ Per risolvere una domanda chiusa, tira un **Dado Chance** e un **Dado Rischio**:
 - Se il Dado Rischio è il più alto, la risposta è **No**.
 - Se entrambi sono bassi (3 o meno), aggiungi **ma...**. 
 - Se entrambi sono alti (4 o più), aggiungi **e...**.
-- Se entrambi sono uguali, la risposta è **Sì, e...**. Aggiungere un punto al **[Contatore dei Colpi di Scena](#contatore-dei-colpi-di-scena)**.
+- Se entrambi sono uguali, la risposta è **Sì, ma...**. Aggiungere un punto al **[Contatore dei Colpi di Scena](#contatore-dei-colpi-di-scena)**.
 
 | Valore dei dadi  | Dado Chance > Dado Rischio                 | Dado Rischio > Dado Chance |
 | ---------------- | ------------------------------------------ | -------------------------- |
