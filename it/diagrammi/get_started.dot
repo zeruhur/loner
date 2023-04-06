@@ -1,0 +1,19 @@
+digraph per_iniziare {
+    label = "PER INIZIARE";
+    labelloc="t";
+    fontname="Permanent Marker";
+    node [shape="rect", fontname="Permanent Marker", fontsize=12]
+    st1 [label = "SCEGLI UN TEMA, \n GENERE, O AMBIENTAZIONE"];
+    st2 [label = "CERCA \n TROPI RILEVANTI"];
+    id1 [label = "IMPOSTA LA SCENA INIZIALE"];
+    pg1 [label = "CREA IL PROTAGONISTA"];
+    pg2 [label = "VERIFICA L'OBIETTIVO \n E LA NEMESI \n DEL PROTAGONISTA"];
+    id2 [label = "GIOCA LA SCENA"];
+
+    st1, st2 -> pg1;
+    pg1 -> id1, st1;
+    pg1 -> pg2 [style = "dotted"];
+    pg2 -> id1 [style = "dotted"];
+    id1 -> id2;
+
+}

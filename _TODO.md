@@ -1,0 +1,12 @@
+- [X] Fantasy
+- [X] Space Sci-Fi
+- [X] Horror
+- [X] Crime
+- [X] Mystery
+- [X] Action Adventure
+- [X] Spies
+- [X] Superheroes
+- [X] Post-Apocalyptic
+- [X] Pirates
+- [X] Western
+- [X] Cyberpunk 

@@ -1,0 +1,16 @@
+digraph scene_breakdown {
+    label = "IDENTIFY YOUR EXPECTATIONS";
+    labelloc="t";
+    fontname="Permanent Marker";
+    node [shape="rect", style = "", 
+    fontname="Permanent Marker", fontsize=12, width=3];
+    edge [shape="rect", fontname="Permanent Marker", fontsize=12];
+
+    cs01 [label = "CONSIDER PROTAGONIST'S TRAITS"];
+    cs02 [label = "DETERMINE PROTAGONIST'S ACTION"];
+    cs03 [label = "PREDICT WORLD'S REACTION"];
+    cs04 [style = "invis"];
+
+    cs01 -> cs02 -> cs03;
+    cs03 -> cs04 [style="invis"];
+}

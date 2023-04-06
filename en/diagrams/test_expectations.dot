@@ -1,0 +1,22 @@
+digraph scene_breakdown {
+    label = "TEST YOUR EXPECTATIONS";
+    labelloc="t";
+    fontname="Permanent Marker";
+    node [shape="rect", style = "", 
+    fontname="Permanent Marker", fontsize=12];
+    edge [shape="rect", fontname="Permanent Marker", fontsize=12];
+
+
+    cs11 [label = "UNCERTAIN OR OVERCONFIDENT?"];
+    cs12 [label = "ASK THE ORACLE"];
+    cs13 [label = "RESOLVE CONTEXTUALLY"];
+    cs14 [label = "CONSIDER INVOLVED TAGS"];
+    cs15 [label = "ADVANTAGE"];
+    cs16 [label = "DISADVANTAGE"];
+
+    cs11 -> cs12 [xlabel="Yes"];
+    cs11 -> cs13 [label="No"];
+    cs12 -> cs14;
+    cs14 -> cs15 [xlabel = "Prevalent \n Positives"];
+    cs14 -> cs16 [label = "Prevalent \n Negatives"];
+}

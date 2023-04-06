@@ -1,0 +1,36 @@
+Utility Belt
+Cape
+Mask
+Body Armor
+Goggles
+Gloves
+Boots
+Wristbands
+Belt Buckle
+Ring
+Necklace
+Earrings
+Bracelet
+Brooch
+Tiara
+Pendant
+Anklet
+Locket
+Cufflinks
+Pin
+Scarf
+Wand
+Scepter
+Jetpack
+Wings
+Teleportation Device
+Time Travel Device
+Invisibility Cloak
+Force Field Generator
+Power Ring
+Energy Blaster
+EMP Generator
+Solar Cannon
+Gravity Gun
+Black Hole Generator
+Quantum Entangler

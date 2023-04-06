@@ -1,0 +1,21 @@
+digraph conflitti { 
+    label = "CONFLITTI";
+    labelloc="t";
+    fontname="Permanent Marker";
+    node [shape="rect", fontname="Permanent Marker", fontsize=12];
+    edge [fontname="Permanent Marker", fontsize=12];
+
+    nd1 [label = "QUALCHE PERSONAGGIO \n SI OPPONE \n AL PROTAGONISTA?"];
+    nd2 [label = "PONI UNA DOMANDA CHIUSA"];
+    nd3 [label = "VUOI FINIRE \n RAPIDAMENTE?"];
+    nd4 [label = "VUOI SPECIFICARE \n OGNI AZIONE?"];
+    nd5 [label = "PONI UNA \n DOMANDA CHIUSA \n PER RISOLVERE \n CIASCUNA AZIONE"];
+    nd6 [label = "USA DANNO & FORTUNA"];
+
+    nd1 -> nd2 [xlabel = "No"];
+    nd1 -> nd3 [label = "Sì"];
+    nd3 -> nd2 [xlabel = "Sì"];
+    nd3 -> nd4 [label = "No"];
+    nd4 -> nd5 [xlabel = "Sì"];
+    nd4 -> nd6 [label = "No"];
+}

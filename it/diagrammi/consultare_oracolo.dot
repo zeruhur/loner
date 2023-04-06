@@ -1,0 +1,35 @@
+digraph consultare_oracolo {
+    label = "CONSULTARE L'ORACOLO";
+    labelloc="t";
+    fontname="Permanent Marker";
+    node [shape="rect", style = "", 
+    fontname="Permanent Marker", fontsize=12];
+    edge [shape="rect", fontname="Permanent Marker", fontsize=12];
+    //splines=false;
+
+    id1[label = "IL PROTAGONISTA ENTRA IN AZIONE"];
+    id2[label = "RISOLVI L'AZIONE \n NEL CONTESTO \n DELLA SCENA"];
+    id3[label = "CHIEDI ALL'ORACOLO"];
+    id4[label = "TIRA: \n  2 DADI CHANCE \n E 1 DADO RISCHIO"];
+    id5[label = "TIRA: \n  2 DADI RISCHIO \n E 1 DADO CHANCE"];
+    id6[label = "TIRA: \n  1 DADO CHANCE \n E 1 DADO RISCHIO"];
+    id7[label = "LA RISPOSTA È CHIARA?"];
+    id8[label = "RISOLVI L'AZIONE"];
+    id9[label = "CHIEDI DI NUOVO \n (Max 3)"];
+    id10[label = "DOMANDA A RISPOSTA APERTA"];
+
+    id1 -> id2 [xlabel = "Certo"] ;
+    id2 -> id1 [label = "Prossima azione"];
+    id1 -> id3 [label = "Incerto/\n Troppo sicuro"];
+    id3 -> id4 [xlabel = "Vantaggio"];
+    {rank=same;id4 -> id6 -> id5 [style="invis"]};
+    id3 -> id6;
+    id3 -> id5 [label = "Svantaggio"];
+    id4, id6, id5 -> id7;
+    id7 -> id8 [label = "SÌ"] ;
+    id7 -> id9 [label = "NO"];
+    id9 -> id8 [label = "Chiaro"];
+    id9 -> id10 [xlabel = "Poco chiaro"];
+    id10 -> id8;
+    id8 -> id1 [label="Prossima azione"];
+}

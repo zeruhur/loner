@@ -1,103 +1,110 @@
-- Setting information: Each genre pack would include information about the setting of the game, including the time period, location, and any important cultural or historical details.
-- Character options: Different genres may have different types of characters, so you could include additional character options for players to choose from.
-   - Concepts (adjective+noun format)
-   - Skills
-   - Frailties
-   - Gear
-- Special rules: Each genre may have its own set of special rules that players need to follow. For example, a fantasy genre pack may include rules for magic and spellcasting, while a horror genre pack might include rules for fear and insanity.
-- Additional informations:
-  - Factions
-  - NPCs
-  - Creatures/Monsters/Foes
-  - Locations
-- Adventure seeds: To help players come up with ideas for their adventures, you could include a list of possible adventure seeds for each genre pack. These could be specific to the genre, such as a fantasy adventure seed involving a quest to retrieve a powerful artifact, or a science fiction adventure seed involving a mission to explore a new planet.
+# __ Adventure Pack
 
-----
-Give me 36 Character Concepts for this setting, in a 7x7 matrix. Header and first column are numbers from 1 to 6. Format the answer in raw markdown code in a snippet box
-----
-Give me 36 Character Skills for this setting, in a 7x7 matrix. Header and first column are numbers from 1 to 6. Format the answer in raw markdown code in a snippet box
-----
-Give me 36 Character Frailties for this setting, in a 7x7 matrix. Header and first column are numbers from 1 to 6. Format the answer in raw markdown code in a snippet box
-----
-Give me 36 Character Equipment Items for this setting, in a 7x7 matrix. Header and first column are numbers from 1 to 6. Format the answer in raw markdown code in a snippet box
-----
-Consider the game is a tag based descriptive system and the resolution of every action is a closed question with this range of possible answers:
+## Setting Information
 
-1. No and
-2. No
-3. No but
-4. Yes but
-5. Yes
-6. Yes and
+- ...
+- ...
 
-How would you introduce XXXX?
----
+## Character Traits
 
-Give me 6 Factions coherent with the setting in this format:
+### Concepts
 
-### Name
-- Concept (adjective+noun)
-- 2x Skills
-- Frailty
-- 2x Gear
-- Goal
-- Motive
-- Nemesis
+|     | 1   | 2   | 3   | 4   | 5   | 6   |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1   |     |     |     |     |     |     |
+| 2   |     |     |     |     |     |     |
+| 3   |     |     |     |     |     |     |
+| 4   |     |     |     |     |     |     |
+| 5   |     |     |     |     |     |     |
+| 6   |     |     |     |     |     |     |
 
-Format the answer in raw markdown code in a snippet box
+### Skills
 
----
+|     | 1   | 2   | 3   | 4   | 5   | 6   |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1   |     |     |     |     |     |     |
+| 2   |     |     |     |     |     |     |
+| 3   |     |     |     |     |     |     |
+| 4   |     |     |     |     |     |     |
+| 5   |     |     |     |     |     |     |
+| 6   |     |     |     |     |     |     |
 
-Give me 6 NPCs coherent with the setting in this format:
 
-### Name
-- Concept (adjective+noun)
-- 2x Skills
-- Frailty
-- 2x Gear
-- Goal
-- Motive
-- Nemesis
+### Frailties
 
-Format the answer in raw markdown code in a snippet box
+|     | 1   | 2   | 3   | 4   | 5   | 6   |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1   |     |     |     |     |     |     |
+| 2   |     |     |     |     |     |     |
+| 3   |     |     |     |     |     |     |
+| 4   |     |     |     |     |     |     |
+| 5   |     |     |     |     |     |     |
+| 6   |     |     |     |     |     |     |
 
----
 
-Give me 6 creatures coherent with the setting in this format:
+### Gear
 
-### Name
-- Concept (adjective+noun)
-- 2x Skills
-- Frailty
-- 2x Gear
-- Goal
-- Motive
-- Nemesis
+|     | 1   | 2   | 3   | 4   | 5   | 6   |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1   |     |     |     |     |     |     |
+| 2   |     |     |     |     |     |     |
+| 3   |     |     |     |     |     |     |
+| 4   |     |     |     |     |     |     |
+| 5   |     |     |     |     |     |     |
+| 6   |     |     |     |     |     |     |
 
-Format the answer in raw markdown code in a snippet box
+## Special Rules
 
----
-Give me the description of 6 notable location in the setting, with this format
 
-### Name
-Brief Description
-- list of possible encounters or NPCs (from above)
-Format the answer in raw markdown code in a snippet box
----
+## Factions
 
-Give a list of 36 adventure seeds, ordered list in raw markdown code in a snippet box. Keep in mind **also** the setting, the NPCs, the creature, the factions and the location above. 
 
-Format the answer in raw markdown code in a snippet box
----
-- Space Sci-Fi
-- Post-Apocalyptic
-- Horror
-- Crime
-- Action Adventure
-- Pirates
-- Western
-- Spies
-- Superheroes
-- Sword & Sorcery
-- Cyberpunk
-- Mecha
+## NPCs
+
+
+## Creatures
+
+
+## Locations
+
+
+## Adventure Seeds
+
+| D66 | Adventure                                                                                                                                 |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 11  |  |
+| 12  |  |
+| 13  |  |
+| 14  |  |
+| 15  |  |
+| 16  |  |
+| 21  |  |
+| 22  |  |
+| 23  |  |
+| 24  |  |
+| 25  |  |
+| 26  |  |
+| 31  |  |
+| 32  |  |
+| 33  |  |
+| 34  |  |
+| 35  |  |
+| 36  |  |
+| 41  |  |
+| 42  |  |
+| 43  |  |
+| 44  |  |
+| 45  |  |
+| 46  |  |
+| 51  |  |
+| 52  |  |
+| 53  |  |
+| 54  |  |
+| 55  |  |
+| 56  |  |
+| 61  |  |
+| 62  |  |
+| 63  |  |
+| 64  |  |
+| 65  |  |
+| 66  |  |

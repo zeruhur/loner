@@ -1,0 +1,22 @@
+digraph testa_aspettative {
+    label = "METTI ALLA PROVA LE TUE ASPETTATIVE";
+    labelloc="t";
+    fontname="Permanent Marker";
+    node [shape="rect", style = "", 
+    fontname="Permanent Marker", fontsize=12];
+    edge [shape="rect", fontname="Permanent Marker", fontsize=12];
+
+
+    cs11 [label = "INCERTO O TROPPO SICURO?"];
+    cs12 [label = "CHIEDI ALL'ORACOLO"];
+    cs13 [label = "RISOLVI NEL CONTESTO \n DELLA SCENA"];
+    cs14 [label = "CONSIDERA I TAG COINVOLTI"];
+    cs15 [label = "VANTAGGIO"];
+    cs16 [label = "SVANTAGGIO"];
+
+    cs11 -> cs12 [xlabel="Sì"];
+    cs11 -> cs13 [label="No"];
+    cs12 -> cs14;
+    cs14 -> cs15 [xlabel = "Positivi \n prevalenti"];
+    cs14 -> cs16 [label = "Negativi \n prevalenti"];
+}

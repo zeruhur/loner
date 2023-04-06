@@ -1,0 +1,35 @@
+digraph consulting_oracle {
+    label = "CONSULTING THE ORACLE";
+    labelloc="t";
+    fontname="Permanent Marker";
+    node [shape="rect", style = "", 
+    fontname="Permanent Marker", fontsize=12];
+    edge [shape="rect", fontname="Permanent Marker", fontsize=12];
+    //splines=false;
+
+    id1[label = "PROTAGONIST TAKES ACTION"];
+    id2[label = "RESOLVE ACTION \n DIEGETICALLY"];
+    id3[label = "ASK THE ORACLE"];
+    id4[label = "ROLL: \n  2 CHANCE DICE \n AND 1 RISK DIE"];
+    id5[label = "ROLL: \n  2 RISK DICE \n AND 1 CHANCE DIE"];
+    id6[label = "ROLL: \n  1 CHANCE DIE \n AND 1 RISK DIE"];
+    id7[label = "IS THE ANSWER CLEAR?"];
+    id8[label = "RESOLVE ACTION"];
+    id9[label = "ASK AGAIN \n (Max 3)"];
+    id10[label = "OPEN-ENDED QUESTION"];
+
+    id1 -> id2 [xlabel = "Certaint"] ;
+    id2 -> id1 [label = "Next action"];
+    id1 -> id3 [label = "Uncertain/\nOverconfident"];
+    id3 -> id4 [xlabel = "Advantage"];
+    {rank=same;id4 -> id6 -> id5 [style="invis"]};
+    id3 -> id6;
+    id3 -> id5 [label = "Disadvantage"];
+    id4, id6, id5 -> id7;
+    id7 -> id8 [label = "YES"] ;
+    id7 -> id9 [label = "NO"];
+    id9 -> id8 [label = "Clear"];
+    id9 -> id10 [xlabel = "Unclear"];
+    id10 -> id8;
+    id8 -> id1 [xlabel="Next action"];
+}

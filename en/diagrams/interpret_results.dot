@@ -1,0 +1,18 @@
+digraph scene_breakdown {
+    label = "INTERPRET THE RESULT";
+    labelloc="t";
+    fontname="Permanent Marker";
+    node [shape="rect", style = "", 
+    fontname="Permanent Marker", fontsize=12];
+    edge [shape="rect", fontname="Permanent Marker", fontsize=12];
+
+    cs31 [label = "ANSWER MEETS YOUR EXPECTATIONS?"];
+    cs32 [label = "CONSIDER THE CONTEXT"];
+    cs33 [label = "EXAMINE THE ANSWER"];
+    cs34 [label = "SUBVERT YOUR EXPECTATIONS"];
+    cs35 [label = "FOLLOW YOUR EXPECTATIONS"];
+
+    cs32 -> cs33 -> cs31;
+    cs31 -> cs35 [label = "Yes"];
+    cs31 -> cs34 [xlabel = "No"];
+}

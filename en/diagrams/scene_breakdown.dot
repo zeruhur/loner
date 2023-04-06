@@ -1,0 +1,53 @@
+digraph scene_breakdown {
+    label = "SCENE BREAKDOWN";
+    labelloc="t";
+    fontname="Permanent Marker";
+    node [shape="rect", style = "", 
+    fontname="Permanent Marker", fontsize=12];
+    edge [shape="rect", fontname="Permanent Marker", fontsize=12];
+
+    subgraph cluster_0 {
+        label = "1. IDENTIFY YOUR EXPECTATIONS";
+        cs01 [label = "CONSIDER PROTAGONIST'S TRAITS"];
+        cs02 [label = "DETERMINE PROTAGONIST'S ACTION"];
+        cs03 [label = "PREDICT WORLD'S REACTION"];
+        cs04 [style = "invis"];
+
+        cs01 -> cs02 -> cs03;
+        cs03 -> cs04 [style="invis"];
+
+    }
+    subgraph cluster_1 {
+        label = "2. TEST YOUR EXPECTATIONS";
+        cs11 [label = "UNCERTAIN OR OVERCONFIDENT?"];
+        cs12 [label = "ASK THE ORACLE"];
+        cs13 [label = "RESOLVE CONTEXTUALLY"];
+        cs14 [label = "CONSIDER INVOLVED TAGS"];
+        cs15 [label = "ADVANTAGE"];
+        cs16 [label = "DISADVANTAGE"];
+
+        cs11 -> cs12 [label="Yes"];
+        cs11 -> cs13 [label="No"];
+        cs12 -> cs14;
+        cs14 -> cs15 [label = "Prevalent \n Positives"];
+        cs14 -> cs16 [label = "Prevalent \n Negatives"];
+
+    }
+    subgraph cluster_3 {
+        label = "3. INTERPRET THE RESULT";
+        cs31 [label = "ANSWER MEETS YOUR EXPECTATIONS?"];
+        cs32 [label = "CONSIDER THE CONTEXT"];
+        cs33 [label = "EXAMINE THE ANSWER"];
+        cs34 [label = "SUBVERT YOUR EXPECTATIONS"];
+        cs35 [label = "FOLLOW YOUR EXPECTATIONS"];
+
+        cs32 -> cs33 -> cs31;
+        cs31 -> cs35 [label = "Yes"];
+        cs31 -> cs34 [label = "No"];
+
+    //cs03 -> cs11;
+    //cs15, cs16 -> cs32
+
+    }
+
+}

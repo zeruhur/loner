@@ -1,0 +1,51 @@
+digraph scomponi_scena {
+    label = "SCOMPONI LA SCENA";
+    labelloc="t";
+    fontname="Permanent Marker";
+    node [shape="rect", style = "", 
+    fontname="Permanent Marker", fontsize=12];
+    edge [shape="rect", fontname="Permanent Marker", fontsize=12];
+
+    subgraph cluster_0 {
+        label = "1. IDENTIFICA LE TUE ASPETTATIVE";
+        node [width=4]
+        cs01 [label = "CONSIDERA I TRATTI DEL PROTAGONISTA"];
+        cs02 [label = "DETERMINA L'AZIONE DEL PROTAGONISTA"];
+        cs03 [label = "PREDICI LA REAZIONE DEL MONDO"];
+        cs04 [style = "invis"];
+
+        cs01 -> cs02 -> cs03;
+        cs03 -> cs04 [style="invis"];
+
+    }
+    subgraph cluster_1 {
+        label = "2. METTI ALLA PROVA LE TUE ASPETTATIVE";
+        cs11 [label = "INCERTO O TROPPO SICURO?"];
+        cs12 [label = "CHIEDI ALL'ORACOLO"];
+        cs13 [label = "RISOLVI NEL CONTESTO \n DELLA SCENA"];
+        cs14 [label = "CONSIDERA I TAG COINVOLTI"];
+        cs15 [label = "VANTAGGIO"];
+        cs16 [label = "SVANTAGGIO"];
+
+        cs11 -> cs12 [label="Sì"];
+        cs11 -> cs13 [label="No"];
+        cs12 -> cs14;
+        cs14 -> cs15 [label = "Positivi \n prevalwenti"];
+        cs14 -> cs16 [label = "Negativi \n prevalenti"];
+
+    }
+    subgraph cluster_3 {
+        label = "3. INTERPRETA IL RISULTATO";
+        cs31 [label = "LA RISPOSTA SODDISFA \n LE VOSTRE ASPETTATIVE?"];
+        cs32 [label = "CONSIDERA IL CONTESTO"];
+        cs33 [label = "ESAMINA LA RISPOSTA"];
+        cs34 [label = "SOVVERTI LE TUE ASPETTATIVE"];
+        cs35 [label = "SEGUI LE TUE ASPETTATIVE"];
+
+        cs32 -> cs33 -> cs31;
+        cs31 -> cs35 [label = "Sì"];
+        cs31 -> cs34 [label = "No"];
+
+    }
+
+}

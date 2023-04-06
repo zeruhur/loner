@@ -7,5 +7,10 @@
         "markdown",
         "latex",
         "plaintext"
+    ],
+    "commentTranslate.targetLanguage": "it",
+    "cSpell.words": [
+        "datapad",
+        "informations"
     ]
 }
