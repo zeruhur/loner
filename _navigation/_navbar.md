@@ -17,4 +17,5 @@
   - [Cyberpunk Adventure Pack](en/AP12_cyberpunk.md)
 - **Versione Italiana**
   - [Regolamento](it/loner-ita.md)
+  - [Pacchetti Avventura](it/pacchetti-avventura.md)
 - [Loner Assistant](https://zeruhur.space/loner-assistant/)
