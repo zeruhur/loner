@@ -14,49 +14,47 @@
 
 ### Concepts
 
-|     | 1                     | 2                       | 3                       | 4                 | 5                    | 6                      |
-| --- | --------------------- | ----------------------- | ----------------------- | ----------------- | -------------------- | ---------------------- |
-| 1   | Brave Knight          | Wise Wizard             | Stealthy Thief          | Noble Paladin     | Powerful Sorcerer    | Skilled Ranger         |
-| 2   | Mysterious Druid      | Fierce Barbarian        | Talented Bard           | Loyal Cleric      | Skilled Assassin     | Fearless Warrior       |
-| 3   | Crafty Illusionist    | Resilient Paladin       | Knowledgeable Scholar   | Swift Scout       | Stealthy Ninja       | Fearless Gladiator     |
-| 4   | Artful Summoner       | Intrepid Explorer       | Resourceful Survivalist | Skilled Mechanic  | Devious Warlock      | Experienced Adventurer |
-| 5   | Stealthy Hunter       | Talented Alchemist      | Adventurous Pirate      | Respected Sage    | Fearsome Necromancer | Skilled Summoner       |
-| 6   | Powerful Demon Hunter | Skilled Mounted Warrior | Fearless Dragon Rider   | Talented Summoner | Skilled Illusionist  | Respected Elder Mage   |
+|     | 1                 | 2                    | 3                    | 4                  | 5                  | 6                   |
+| --- | ----------------- | -------------------- | -------------------- | ------------------ | ------------------ | ------------------- |
+| 1   | Stealthy assassin | Mighty barbarian     | Wise wizard          | Agile rogue        | Fearless knight    | Cunning warlock     |
+| 2   | Grizzled veteran  | Noble paladin        | Evasive acrobat      | Fierce berserker   | Enigmatic druid    | Divine cleric       |
+| 3   | Arcane sorcerer   | Ambitious politician | Courageous soldier   | Pious priest       | Mysterious hermit  | Clever diplomat     |
+| 4   | Charismatic bard  | Sneaky thief         | Ruthless mercenary   | Curious scholar    | Menacing brute     | Devoted follower    |
+| 5   | Spiritual shaman  | Stoic monk           | Dynamic ranger       | Stealthy spy       | Graceful dancer    | Eccentric inventor  |
+| 6   | Ruthless pirate   | Gracious noble       | Unpredictable jester | Cunning strategist | Experienced sailor | Talented blacksmith |
 
 ### Skills
 
-|     | 1               | 2            | 3             | 4            | 5             | 6               |
-| --- | --------------- | ------------ | ------------- | ------------ | ------------- | --------------- |
-| 1   | Swordsmanship   | Spellcasting | Stealth       | Archery      | Survival      | Leadership      |
-| 2   | Tracking        | Alchemy      | Persuasion    | Intimidation | Athletics     | First Aid       |
-| 3   | Riding          | Religion     | Investigation | History      | Medicine      | Crafting        |
-| 4   | Nature          | Insight      | Athletics     | Deception    | Persuasion    | Survival        |
-| 5   | Perception      | Performance  | Intimidation  | Acrobatics   | Athletics     | Animal Handling |
-| 6   | Sleight of Hand | Athletics    | Perception    | Survival     | Investigation | Medicine        |
-
+|     | 1              | 2           | 3               | 4             | 5                 | 6               |
+| --- | -------------- | ----------- | --------------- | ------------- | ----------------- | --------------- |
+| 1   | Swordfighting  | Healing     | Animal handling | Intimidation  | Leatherworking    | Divination      |
+| 2   | Archery        | Survivalism | Riding          | Leadership    | Tailoring         | First Aid       |
+| 3   | Unarmed combat | Tracking    | Cartography     | Tactics       | Jewelry making    | Elemental magic |
+| 4   | Thievery       | Hunting     | Navigation      | Engineering   | Enchantment       | Transmutation   |
+| 5   | Magic          | Fishing     | Geography       | Blacksmithing | Illusionary magic | Summoning       |
+| 6   | Alchemy        | Cooking     | Diplomacy       | Carpentry     | Necromancy        | Medicine        |
 
 ### Frailties
 
-|     | 1                       | 2                  | 3                        | 4                          | 5                      | 6                       |
-| --- | ----------------------- | ------------------ | ------------------------ | -------------------------- | ---------------------- | ----------------------- |
-| 1   | Fear of Spiders         | Weakness to Poison | Phobia of the Dark       | Allergic to Silver         | Weakness to Cold       | Vertigo                 |
-| 2   | Afraid of Fire          | Fear of Heights    | Claustrophobia           | Fear of Magic              | Fear of Failure        | Fear of Loneliness      |
-| 3   | Fear of Confinement     | Fear of Water      | Fear of Being Trapped    | Fear of Crowds             | Fear of the Unknown    | Fear of Death           |
-| 4   | Fear of Being Betrayed  | Fear of Rejection  | Fear of Being Controlled | Fear of Being alone        | Fear of Being helpless | Fear of loud noises     |
-| 5   | Fear of Enclosed Spaces | Fear of the dark   | Fear of Being Trapped    | Fear of Being Buried Alive | Fear of Being Watched  | Fear of abandonment     |
-| 6   | Fear of Open Spaces     | Fear of Spiders    | Fear of Snakes           | Fear of Rats               | Fear of Insects        | Fear of Public Speaking |
-
+|     | 1          | 2             | 3              | 4                  | 5        | 6           |
+| --- | ---------- | ------------- | -------------- | ------------------ | -------- | ----------- |
+| 1   | Arrogance  | Disloyalty    | Indecisiveness | Perfectionism      | Enmity   | Impatience  |
+| 2   | Cowardice  | Laziness      | Naivety        | Paranoia           | Wrath    | Suspicion   |
+| 3   | Greed      | Selfishness   | Indifference   | Vindictiveness     | Gluttony | Timidity    |
+| 4   | Envy       | Stubbornness  | Insensitivity  | Overprotectiveness | Lust     | Foolishness |
+| 5   | Jealousy   | Impulsiveness | Overconfidence | Inflexibility      | Sloth    | Intolerance |
+| 6   | Dishonesty | Gullibility   | Pessimism      | Insecurity         | Hubris   | Prejudice   |
 
 ### Gear
 
-|     | 1              | 2                | 3                | 4                 | 5               | 6               |
-| --- | -------------- | ---------------- | ---------------- | ----------------- | --------------- | --------------- |
-| 1   | Magic Sword    | Wizard Staff     | Thief's Tools    | Plate Armor       | Bow             | Healing Potions |
-| 2   | Magic Ring     | Magic Wand       | Poison           | Crossbow          | Shield          | Holy Symbol     |
-| 3   | Magic Amulet   | Magic scroll     | Backpack         | Bedroll           | Rations         | Waterskin       |
-| 4   | Magic Boots    | Magic Cloak      | Magic Gloves     | Magic Belt        | Magic Bracer    | Magic Necklace  |
-| 5   | Magic Quiver   | Magic Arrows     | Magic Bow        | Magic Crossbow    | Magic Bolts     | Magic Handgun   |
-| 6   | Magic Scimitar | Magic battle axe | Magic greatsword | Magic morningstar | Magic warhammer | Magic mace      |
+|     | 1         | 2         | 3              | 4           | 5         | 6                  |
+| --- | --------- | --------- | -------------- | ----------- | --------- | ------------------ |
+| 1   | Sword     | Bow       | Crossbow       | Dagger      | Spear     | Axe                |
+| 2   | Mace      | Flail     | Shield         | Helmet      | Armor     | Gauntlets          |
+| 3   | Greaves   | Boots     | Cloak          | Backpack    | Quiver    | Arrows             |
+| 4   | Bolts     | Rope      | Grappling hook | Lantern     | Torch     | Flint and steel    |
+| 5   | Waterskin | Rations   | Bedroll        | Tent        | Compass   | Map                |
+| 6   | Spyglass  | Telescope | Alchemy kit    | Healing kit | Lockpicks | Musical instrument |
 
 ## Special Rule: Magic
 A character may use their Luck to cast spells. Each spell or magic ability has a Luck cost associated with it. The cost can be different depending on the spell or ability. When a protagonist wants to use a spell or magic ability, they must spend Luck from their pool. Then rolls the dice to determine the outcome of the action:

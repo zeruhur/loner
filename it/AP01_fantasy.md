@@ -14,362 +14,361 @@
 
 ### Concetti
 
-|     | 1                            | 2                         | 3                            | 4                    | 5                   | 6                       |
-| --- | ---------------------------- | ------------------------- | ---------------------------- | -------------------- | ------------------- | ----------------------- |
-| 1   | Cavaliere Coraggioso         | Saggio Mago               | Ladro furtivo                | Nobile Paladino      | Potente Stregone    | Ranger Esperto          |
-| 2   | Misterioso Druido            | Barbaro Feroce            | Bardo Talentuoso            | Chierico Pio      | Abile Assassino     | Guerriero Impavido   |
-| 3   | Illusionista Furbo           | Paladino Resiliente       | Studioso Esperto             | Ricognitore Veloce   | Ninja Furtivo       | Gladiatore Impavido     |
-| 4   | Abile Evocatore              | Esploratore Intrepido     | Sopravvissuto Intraprendente | Meccanico Esperto    | Subdolo Stregone    | Avventuriero Esperto    |
-| 5   | Cacciatore Furtivo           | Alchimista Talentuoso     | Pirata Avventuroso           | Saggio Rispettato    | Temibile Negromante | Evocatore Esperto       |
-| 6   | Potente Cacciatore di demoni | Abile Cavaliere | Addestratore Draconico Impavido     | Evocatore Talentuoso | Abile Illusionista  | Rispettato Mago Anziano |
+|     | 1                   | 2                  | 3                      | 4                | 5                     | 6                    |
+| --- | ------------------- | ------------------ | ---------------------- | ---------------- | --------------------- | -------------------- |
+| 1   | Assassino furtivo   | Potente barbaro    | Mago saggio            | Ladro agile      | Cavaliere senza paura | Stregone astuto      |
+| 2   | Veterano brizzolato | Nobile paladino    | Acrobata evasivo       | Feroce berserker | Druido enigmatico     | Divino Chierico      |
+| 3   | Stregone arcano     | Politico ambizioso | Soldato coraggioso     | Pio sacerdote    | Misterioso eremita    | Diplomatico Astuto   |
+| 4   | Bardo carismatico   | Ladro subdolo      | Mercenario spietato    | Studioso curioso | Bruto minaccioso      | Seguace devoto       |
+| 5   | Sciamano spirituale | Monaco stoico      | Ranger dinamico        | Spia furtiva     | Grazioso ballerino    | Inventore eccentrico |
+| 6   | Pirata spietato     | Grazioso nobile    | Giullare imprevedibile | Stratega astuto  | Marinaio esperto      | Fabbro di talento    |
 
 ### Abilità
 
-| | 1 | 2 | 3 | 4 | 5 | 6 |
-| ---| ---------------| ------------| -------------| ------------| -------------| ---------------|
-| 1 | Abilità con la spada | Incantesimi | Furtività | Tiro con l'arco | Sopravvivenza | Comando |
-| 2 | Monitoraggio | Alchimia | Persuasione | Intimidazione | Atletica | Primo soccorso |
-| 3 | Equitazione | Religione | Indagare | Storia | Medicina | Creazione |
-| 4 | Natura | Intuizione | Atletica | Inganno | Persuasione | Sopravvivenza |
-| 5 | Percezione | Prestazioni | Intimidazione | Acrobazie | Atletica | Manipolazione degli animali |
-| 6 | Gioco di prestigio | Atletica | Percezione | Sopravvivenza | Indagine | Medicina |
+|     | 1                          | 2             | 3                        | 4             | 5                     | 6                |
+| --- | -------------------------- | ------------- | ------------------------ | ------------- | --------------------- | ---------------- |
+| 1   | Combattimento con la spada | Guarigione    | Addestramento di animali | Intimidazione | Pelletteria           | Divinazione      |
+| 2   | Tiro con l'arco            | Sopravvivenza | Equitazione              | Comando       | Sartoria              | Primo soccorso   |
+| 3   | Combattimento a mani nude  | Tracciare     | Cartografia              | Tattiche      | Creazione di gioielli | Magia elementale |
+| 4   | Furto                      | Cacciare      | Navigazione              | Ingegneria    | Incantesimi           | Trasmutazione    |
+| 5   | Magia                      | Pescare       | Geografia                | Fabbro        | Magia illusoria       | Evocazione       |
+| 6   | Alchimia                   | Cucinare      | Diplomazia               | Carpenteria   | Negromanzia           | Medicina         |
 
+### Debolezze
 
-### Frailties
+|     | 1         | 2             | 3                 | 4                | 5          | 6            |
+| --- | --------- | ------------- | ----------------- | ---------------- | ---------- | ------------ |
+| 1   | Arroganza | Slealtà       | Indecisione       | Perfezionismo    | Inimicizia | Impazienza   |
+| 2   | Codardia  | Pigrizia      | Ingenuità         | Paranoia         | Ira        | Sospetto     |
+| 3   | Avidità   | Egoismo       | Indifferenza      | Vendicatività    | Gola       | Timidezza    |
+| 4   | Invidia   | Testardaggine | Insensibilità     | Iperprotettività | Lussuria   | Stoltezza    |
+| 5   | Gelosia   | Impulsività   | Troppa confidenza | Inflessibilità   | Accidia    | Intolleranza |
+| 6   | Disonestà | Credulità     | Pessimismo        | Insicurezza      | Arroganza  | Pregiudizio  |
 
-|     | 1                       | 2                  | 3                        | 4                          | 5                      | 6                       |
-| --- | ----------------------- | ------------------ | ------------------------ | -------------------------- | ---------------------- | ----------------------- |
-| 1   | Fear of Spiders         | Weakness to Poison | Phobia of the Dark       | Allergic to Silver         | Weakness to Cold       | Vertigo                 |
-| 2   | Afraid of Fire          | Fear of Heights    | Claustrophobia           | Fear of Magic              | Fear of Failure        | Fear of Loneliness      |
-| 3   | Fear of Confinement     | Fear of Water      | Fear of Being Trapped    | Fear of Crowds             | Fear of the Unknown    | Fear of Death           |
-| 4   | Fear of Being Betrayed  | Fear of Rejection  | Fear of Being Controlled | Fear of Being alone        | Fear of Being helpless | Fear of loud noises     |
-| 5   | Fear of Enclosed Spaces | Fear of the dark   | Fear of Being Trapped    | Fear of Being Buried Alive | Fear of Being Watched  | Fear of abandonment     |
-| 6   | Fear of Open Spaces     | Fear of Spiders    | Fear of Snakes           | Fear of Rats               | Fear of Insects        | Fear of Public Speaking |
+### Equipaggiamento
 
+|     | 1            | 2          | 3            | 4                 | 5           | 6                         |
+| --- | ------------ | ---------- | ------------ | ----------------- | ----------- | ------------------------- |
+| 1   | Spada        | Arco       | Balestra     | Pugnale           | Lancia      | Ascia                     |
+| 2   | Mazza        | Flagello   | Scudo        | Elmetto           | Armatura    | Guanti                    |
+| 3   | Ramponi      | Stivali    | Mantello     | Zaino             | Faretra     | Frecce                    |
+| 4   | Perni        | Corda      | Rampino      | Lanterna          | Torcia      | Pietra focaia e acciarino |
+| 5   | Otre d'acqua | Razioni    | Lenzuola     | Tenda             | Bussola     | Mappa                     |
+| 6   | Cannocchiale | Telescopio | Kit Alchimia | Kit di guarigione | Grimaldelli | Strumento musicale        |
 
-### Gear
+## Regole speciali: Magia
+Un personaggio può usare la propria Fortuna per lanciare incantesimi. A ogni incantesimo o abilità magica è associato un costo in Fortuna. Il costo può essere diverso a seconda della magia o dell'abilità. Quando un protagonista vuole usare un incantesimo o un'abilità magica, deve spendere fortuna dalla sua riserva. Quindi lancia i dadi per determinare l'esito dell'azione:
+- **No e**: l'incantesimo fallisce e il personaggio subisce qualche altro effetto negativo.
+- **No**: l'incantesimo fallisce e il personaggio perde il mana speso.
+- **No ma**: l'incantesimo fallisce ma il personaggio non perde il mana speso.
+- **Sì ma**: l'incantesimo ha successo ma con qualche effetto negativo o svantaggio.
+- **Sì**: l'incantesimo ha successo.
+- **Sì e**: l'incantesimo ha successo e il personaggio ottiene benefici o vantaggi aggiuntivi.
 
-|     | 1              | 2                | 3                | 4                 | 5               | 6               |
-| --- | -------------- | ---------------- | ---------------- | ----------------- | --------------- | --------------- |
-| 1   | Magic Sword    | Wizard Staff     | Thief's Tools    | Plate Armor       | Bow             | Healing Potions |
-| 2   | Magic Ring     | Magic Wand       | Poison           | Crossbow          | Shield          | Holy Symbol     |
-| 3   | Magic Amulet   | Magic scroll     | Backpack         | Bedroll           | Rations         | Waterskin       |
-| 4   | Magic Boots    | Magic Cloak      | Magic Gloves     | Magic Belt        | Magic Bracer    | Magic Necklace  |
-| 5   | Magic Quiver   | Magic Arrows     | Magic Bow        | Magic Crossbow    | Magic Bolts     | Magic Handgun   |
-| 6   | Magic Scimitar | Magic battle axe | Magic greatsword | Magic morningstar | Magic warhammer | Magic mace      |
+La Fortuna consumata per lanciare incantesimi si ricarica dopo un periodo di riposo in un'area sicura. Se si verifica un Conflitto, i punti Fortuna si baseranno sul valore corrente e verranno azzerati al termine del Conflitto in base alle regole di base.
 
-## Special Rule: Magic
-A character may use their Luck to cast spells. Each spell or magic ability has a Luck cost associated with it. The cost can be different depending on the spell or ability. When a protagonist wants to use a spell or magic ability, they must spend Luck from their pool. Then rolls the dice to determine the outcome of the action:
-- **No and**: the spell fails and the character suffers some other negative effect.
-- **No**: the spell fails and the character loses the mana spent.
-- **No but**: the spell fails but the character doesn't lose the mana spent.
-- **Yes but**: the spell succeeds but with some negative effect or drawback.
-- **Yes**: the spell succeeds.
-- **Yes and**: the spell succeeds and the character gains additional benefits or advantages.
+### Incantesimi
 
-Luck consumed for casting spells recharges after a rest in a safe area. If a Conflict takes place, Luck points will be based on the current value and reset when the Conflict is over according to the basic rules.
-
-### Spells
-
-| D66 | Spell                                                                                                                              |
+| D66 | Incantesimo                                                                                                                              |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| 11  | Heal (1 mana point) - allows the protagonist to restore a small amount of health to a target.                                           |
-| 12  | Light (1 mana point) - creates a small light source that illuminates the surrounding area.                                         |
-| 13  | Identify (1 mana point) - allows the protagonist to determine the properties of an item.                                                |
-| 14  | Bolt (1 mana point) - creates a small bolt of energy that deals damage to a single target.                                         |
-| 15  | Detect Magic (1 mana point) - allows the protagonist to detect the presence of magic in the surrounding area.                           |
-| 16  | Mage Armor (2 mana points) - creates a magical barrier around the protagonist, providing temporary protection against physical attacks. |
-| 21  | Levitate (2 mana points) - allows the protagonist to levitate for a short period of time.                                               |
-| 22  | Fear (2 mana points) - causes an enemy to become frightened and run away.                                                          |
-| 23  | Illusion (2 mana points) - creates an illusory image or sound.                                                                     |
-| 24  | Charm (2 mana points) - allows the protagonist to charm an enemy, making them more friendly and cooperative.                            |
-| 25  | Invisibility (3 mana points) - makes the protagonist invisible to enemies for a short period of time.                                   |
-| 26  | Teleport (4 mana points) - allows the protagonist to instantly transport to a nearby location.                                          |
-| 31  | Fireball (3 mana points) - creates a ball of fire, dealing damage to enemies in a small area.                                      |
-| 32  | Summon (3 mana points) - allows the protagonist to summon a small creature to aid them in combat.                                       |
-| 33  | Enchantment (2 mana points) - allows the protagonist to imbue an item with a temporary magical effect.                                  |
-| 34  | Divination (2 mana points) - allows the protagonist to gain insight or information about a specific person or situation.                |
-| 35  | Abjuration (3 mana points) - allows the protagonist to protect themselves or an ally from harmful magic.                                |
-| 36  | Conjuration (4 mana points) - allows the protagonist to summon a small object or non-living matter.                                     |
-| 41  | Necromancy (4 mana points) - allows the protagonist to manipulate the dead or the undead.                                               |
-| 42  | Transmutation (4 mana points) - allows the protagonist to change the form or properties of an object or creature.                       |
-| 43  | Evocation (4 mana points) - allows the protagonist to create a burst of energy or element to damage enemies or illuminate an area.      |
-| 44  | Illusion (4 mana points) - allows the protagonist to create an illusion to mislead or deceive enemies.                                  |
-| 45  | Alteration (4 mana points) - allows the protagonist to change their own form or properties.                                             |
-| 46  | Restoration (4 mana points) - allows the protagonist to restore or repair an object or creature.                                        |
-| 51  | Leap (2 mana points) - target can make a single jump to any place they can see.                                                    |
-| 52  | Circle of Protection (3 mana points)	- magical or godly beings cannot enter a 10ft circle.                                         |
-| 53  | Darksight (1 mana points) - target can see 60 ft. in total darkness.                                                               |
-| 54  | Deafining (2 mana points) - anyone within earshot is deafened.                                                                     |
-| 55  | Latch (1 mana points) - an unlocked box, cabinet or door opens or closes at protagonist's command.                                      |
-| 56  | Disguise (3 mana points) - protagonist assumes the likeness of a similar creature you have seen.                                        |
-| 61  | Mirage (3 mana points) - protagonist summons a noiseless & simple illusion of your choice.                                              |
-| 62  | Purge Text (2 mana points) - Mundane or magical writing vanishes at your touch.                                                    |
-| 63  | Shelter (4 mana points) - creates a standing edifice that can shelter up to 10 creatures, disappearing after 24 hours.             |
-| 64  | Gravity Domain (4 mana points) - target moves up or down according to your whims.                                                  |
-| 65  | Blizzard (2 mana points) - creates an ice storm that can be hurled at opponents.                                                   |
-| 66  | Make (4 mana points) - transforms raw materials into finished items.                                                               |
+| 11 | Guarisci (1 mana point): consente al protagonista di ripristinare una piccola quantità di salute a un bersaglio. |
+| 12 | Luce (1 punto mana): crea una piccola fonte di luce che illumina l'area circostante. |
+| 13 | Identifica (1 punto mana): consente al protagonista di determinare le proprietà di un oggetto. |
+| 14 | Folgore (1 punto mana): crea un piccolo fulmine di energia che infligge danni a un singolo bersaglio. |
+| 15 | Individua Magia (1 punto mana): consente al protagonista di rilevare la presenza di magia nell'area circostante. |
+| 16 | Armatura Magica (2 punti mana): crea una barriera magica attorno al protagonista, fornendo protezione temporanea contro gli attacchi fisici. |
+| 21 | Levitazione (2 punti mana): permette al protagonista di levitare per un breve periodo di tempo. |
+| 22 | Paura (2 punti mana): fa spaventare un nemico e scappare. |
+| 23 | Illusione (2 punti mana): crea un'immagine o un suono illusorio. |
+| 24 | Fascino (2 punti mana): permette al protagonista di ammaliare un nemico, rendendolo più amichevole e collaborativo. |
+| 25 | Invisibilità (3 punti mana): rende il protagonista invisibile ai nemici per un breve periodo di tempo. |
+| 26 | Teletrasporto (4 punti mana): consente al protagonista di trasportarsi istantaneamente in un luogo vicino. |
+| 31 | Palla di fuoco (3 punti mana): crea una palla di fuoco, infliggendo danni ai nemici in una piccola area. |
+| 32 | Evocazione (3 punti mana): consente al protagonista di evocare una piccola creatura per aiutarlo in combattimento. |
+| 33 | Incantamento (2 punti mana): consente al protagonista di infondere un oggetto con un effetto magico temporaneo. |
+| 34 | Divinazione (2 punti mana): consente al protagonista di ottenere intuizioni o informazioni su una persona o situazione specifica. |
+| 35| Abiurazione (3 punti mana): consente al protagonista di proteggere se stesso o un alleato dalla magia dannosa. |
+| 36 | Evocazione (4 punti mana): consente al protagonista di evocare un piccolo oggetto o materia non vivente. |
+| 41 | Negromanzia (4 punti mana): consente al protagonista di manipolare i morti o i non morti. |
+| 42 | Trasmutazione (4 punti mana): consente al protagonista di cambiare la forma o le proprietà di un oggetto o di una creatura. |
+| 43 | Evocazione (4 punti mana): consente al protagonista di creare un'esplosione di energia o elemento per danneggiare i nemici o illuminare un'area. |
+| 44 | Illusione (4 punti mana): consente al protagonista di creare un'illusione per fuorviare o ingannare i nemici. |
+| 45 | Alterazione (4 punti mana): consente al protagonista di modificare la propria forma o proprietà. |
+| 46 | Recupero (4 punti mana): consente al protagonista di ripristinare o riparare un oggetto o una creatura. |
+| 51 | Salto (2 punti mana): il bersaglio può fare un singolo salto in qualsiasi posto possa vedere. |
+| 52 | Circolo di Protezione (3 punti mana): gli esseri magici o divini non possono entrare in un cerchio di 10 piedi. |
+| 53 | Vista Oscura (1 punti mana): il bersaglio può vedere 60 piedi nell'oscurità totale. |
+| 54 | Assordare (2 punti mana): chiunque si trovi a portata d'orecchio è assordato. |
+| 55| Fermo (1 punto mana): una scatola, un armadietto o una porta sbloccati si apre o si chiude al comando del protagonista. |
+| 56 | Travestimento (3 punti mana): il protagonista assume le sembianze di una creatura simile che hai visto. |
+| 61 | Miraggio (3 punti mana): il protagonista evoca un'illusione silenziosa e semplice a tua scelta. |
+| 62 | Elimina testo (2 punti mana): La scrittura banale o magica svanisce al tuo tocco. |
+| 63 | Riparo (4 punti mana): crea un edificio in piedi che può ospitare fino a 10 creature, scomparendo dopo 24 ore. |
+| 64 | Dominio della gravità (4 punti mana): il bersaglio si sposta su o giù a seconda dei tuoi capricci. |
+| 65| Bufera di neve (2 punti mana): crea una tempesta di ghiaccio che può essere scagliata contro gli avversari. |
+| 66 | Fare (4 punti mana): trasforma le materie prime in oggetti finiti. |
 
-## Factions
+## Fazioni
 
-### The Royal Monarchy
+### La monarchia reale
 
-- **Concept:** Regal Ruler
-- **Skills:** Leadership, Diplomacy
-- **Frailty:** Fear of Assassination
-- **Gear:** Royal Crown, Scepter
-- **Goal:** To maintain the stability and prosperity of the kingdom
-- **Motive:** A desire for power and control
-- **Nemesis:** Powerful noble houses and secret societies seeking to overthrow the monarchy
+- **Concetto:** Sovrano regale
+- **Abilità:** Leadership, Diplomazia
+- **Debolezza:** Paura dell'assassinio
+- **Equipaggiamento:** Corona reale, scettro
+- **Obiettivo:** Mantenere la stabilità e la prosperità del regno
+- **Motivo:** Desiderio di potere e controllo
+- **Nemesi:** Potenti casate nobiliari e società segrete che cercano di rovesciare la monarchia
 
-### The College of Wizards
+### Il Collegio dei Maghi
 
-- **Concept:** Learned Mage
-- **Skills:** Spellcasting, Knowledge (arcana)
-- **Frailty:** Fear of losing control over their magic
-- **Gear:** Wizard robes, spellbook
-- **Goal:** To regulate and control the use of magic in the kingdom
-- **Motive:** Protection of the kingdom and the people from the dangers of unchecked magic
-- **Nemesis:** rogue sorcerers and dark wizards who seek to use magic for their own gain
+- **Concetto:** Mago erudito
+- **Abilità:** Incantesimi, Conoscenze (arcane)
+- **Debolezza:** Paura di perdere il controllo sulla propria magia
+- **Equipaggiamento:** Abiti da mago, libri degli incantesimi
+- **Obiettivo:** Regolamentare e controllare l'uso della magia nel regno
+- **Motivo:** Proteggere il regno e il popolo dai pericoli della magia incontrollata
+- **Nemesi:** Stregoni canaglia e maghi oscuri che cercano di usare la magia per il proprio tornaconto
 
-### The Noble Houses
+### Le Nobili Casate
 
-- **Concept:** Wealthy Aristocrat
-- **Skills:** Persuasion, Intimidation
-- **Frailty:** Fear of losing their wealth and status
-- **Gear:** Fine clothing, jewels
-- **Goal:** To increase their wealth and power
-- **Motive:** greed and a desire for more power and influence
-- **Nemesis:** The Royal Monarchy and other powerful noble houses
+- **Concetto:** ricco aristocratico
+- **Abilità:** Persuasione, Intimidazione
+- **Debolezza:** Paura di perdere la propria ricchezza e il proprio status
+- **Equipaggiamento:** Abbigliamento elegante, gioielli
+- **Obiettivo:** Aumentare la loro ricchezza e il loro potere
+- **Motivo:** Avidità e desiderio di maggiore potere e influenza
+- **Nemesi:** La monarchia reale e altre potenti case nobiliari
 
-### The Merchants Guild
+### La Gilda dei Mercanti
 
-- **Concept:** Wealthy Trader
-- **Skills:** Negotiation, Appraisal
-- **Frailty:** Fear of losing business and wealth
-- **Gear:** Ledger, gold coins
-- **Goal:** To increase their wealth and power through trade
-- **Motive:** Greed and a desire for more wealth and influence
-- **Nemesis:** Bandits and other groups that disrupt trade routes
+- **Concetto:** Ricchi commercianti
+- **Abilità:** Negoziazione, valutazione
+- **Debolezza:** Paura di perdere affari e ricchezza
+- **Equipaggiamento:** Libro mastro, monete d'oro
+- **Obiettivo:** Aumentare la loro ricchezza e il loro potere attraverso il commercio
+- **Motivo:** Avidità e desiderio di maggiore ricchezza e influenza
+- **Nemesi:** Banditi e altri gruppi che interrompono le rotte commerciali
 
-### The Adventurers Guild
+### La Gilda degli Avventurieri
 
-- **Concept:** Brave Explorer
-- **Skills:** Survival, Athletics
-- **Frailty:** Fear of the unknown
-- **Gear:** Backpack, bedroll
-- **Goal:** To explore new places and discover ancient treasures
-- **Motive:** Adventure and a desire for fame and fortune
-- **Nemesis:** Dangerous creatures and treacherous terrain
+- **Concetto:** Esploratore coraggioso
+- **Abilità:** Sopravvivenza, Atletica
+- **Debolezza:** Paura dell'ignoto
+- **Equipaggiamento:** Zaino, sacco a pelo
+- **Obiettivo:** Esplorare nuovi luoghi e scoprire antichi tesori
+- **Motivo:** Avventura e desiderio di fama e fortuna
+- **Nemesi:** Creature pericolose e terreni infidi
 
-### The Secret Societies
+### Le società segrete
 
-- **Concept:** Mysterious Cultist
-- **Skills:** Stealth, Deception
-- **Frailty:** Fear of being discovered
-- **Gear:** Secret symbol, hidden blade
-- **Goal:** To gain power and influence through secret means
-- **Motive:** A desire for power and control
-- **Nemesis:** The Royal Monarchy and the College of Wizards
+- **Concetto:** Cultista misterioso
+- **Abilità:** furtività, inganno
+- **Debolezza:** Paura di essere scoperti
+- **Equipaggiamento:** Simbolo segreto, lama celata
+- **Obiettivo:** Guadagnare potere e influenza con mezzi segreti
+- **Motivo:** Desiderio di potere e controllo
+- **Nemesi:** La Monarchia Reale e il Collegio dei Maghi
 
-## NPCs
+## PNG
 
-### King Harold
+### Re Harold
 
-- **Concept:** Wise Ruler
-- **Skills:** Leadership, History
-- **Frailty:** Fear of being overthrown
-- **Gear:** Royal crown, scepter
-- **Goal:** To maintain the stability and prosperity of the kingdom
-- **Motive:** A desire to protect and care for his people
-- **Nemesis:** Powerful noble houses and secret societies seeking to overthrow the monarchy
+- **Concetto:** Regnante saggio
+- **Abilità:** Leadership, Storia
+- **Debolezza:** Paura di essere rovesciato
+- **Equipaggiamento:** Corona reale, scettro
+- **Obiettivo:** Mantenere la stabilità e la prosperità del regno
+- **Motivo:** Il desiderio di proteggere e prendersi cura del suo popolo
+- **Nemesi:** Potenti case nobiliari e società segrete che cercano di rovesciare la monarchia
 
-### Queen Isabella
+### Regina Isabella
 
-- **Concept:** Beautiful Sovereign
-- **Skills:** Persuasion, Intimidation
-- **Frailty:** Fear of losing her beauty
-- **Gear:** Royal crown, scepter
-- **Goal:** To maintain the stability and prosperity of the kingdom
-- **Motive:** A desire to protect and care for her people
-- **Nemesis:** Powerful noble houses and secret societies seeking to overthrow the monarchy
+- **Concetto:** Bellissima sovrana
+- **Abilità:** Persuasione, Intimidazione
+- **Debolezza:** Paura di perdere la sua bellezza
+- **Equipaggiamento:** Corona reale, scettro
+- **Obiettivo:** mantenere la stabilità e la prosperità del regno
+- **Motivo:** Il desiderio di proteggere e prendersi cura della sua gente
+- **Nemesi:** Potenti casate nobiliari e società segrete che cercano di rovesciare la monarchia
 
 ### Lord Blackwood
 
-- **Concept:** Arrogant Aristocrat
-- **Skills:** Persuasion, Intimidation
-- **Frailty:** Fear of losing his wealth and status
-- **Gear:** Fine clothing, jewels
-- **Goal:** To increase his wealth and power
-- **Motive:** Greed and a desire for more power and influence
-- **Nemesis:** The Royal Monarchy and other powerful noble houses
+- **Concetto:** Aristocratico arrogante
+- **Abilità:** Persuasione, Intimidazione
+- **Debolezza:** Paura di perdere la sua ricchezza e il suo status
+- **Equipaggiamento:** Abbigliamento elegante, gioielli
+- **Obiettivo:** aumentare la sua ricchezza e il suo potere
+- **Motivo:** Avidità e desiderio di maggiore potere e influenza
+- **Nemesi:** La monarchia reale e altre potenti case nobiliari
 
-### Archmage Alaric
+### Arcimago Alaric
 
-- **Concept:** Powerful Wizard
-- **Skills:** Spellcasting, Knowledge (arcana)
-- **Frailty:** Fear of losing control over his magic
-- **Gear:** Wizard robes, spellbook
-- **Goal:** To regulate and control the use of magic in the kingdom
-- **Motive:** Protection of the kingdom and the people from the dangers of unchecked magic
-- **Nemesis:** Rogue sorcerers and dark wizards who seek to use magic for their own gain
+- **Concetto:** Mago potente
+- **Abilità:** Incantesimi, Conoscenze (arcane)
+- **Debolezza:** Paura di perdere il controllo sulla sua magia
+- **Equipaggiamento:** Abiti da mago, libro degli incantesimi
+- **Obiettivo:** Regolamentare e controllare l'uso della magia nel regno
+- **Motivo:** Protezione del regno e del popolo dai pericoli della magia incontrollata
+- **Nemesi:** stregoni canaglia e maghi oscuri che cercano di usare la magia per il proprio tornaconto
 
-### Captain Marcus
+### Capitano Marcus
 
-- **Concept:** Brave Soldier
-- **Skills:** Swordsmanship, Leadership
-- **Frailty:** Fear of death
-- **Gear:** Plate armor, sword
-- **Goal:** To protect and serve the kingdom
-- **Motive:** A sense of duty and loyalty to the kingdom
-- **Nemesis:** Invading armies and powerful monsters
+- **Concetto:** Soldato coraggioso
+- **Abilità:** Abilità con la spada, Leadership
+- **Debolezza:** Paura della morte
+- **Equipaggiamento:** Armatura a piastre, spada
+- **Obiettivo:** Proteggere e servire il regno
+- **Motivo:** Senso del dovere e lealtà verso il regno
+- **Nemesi:** Eserciti invasori e potenti mostri
 
-### Sister Maria
+### Suor Maria
 
-- **Concept:** Benevolent Priest
-- **Skills:** Healing, Persuasion
-- **Frailty:** Fear of death
-- **Gear:** Holy symbol, healing potions
-- **Goal:** To help and heal the people of the kingdom
-- **Motive:** A desire to aid and protect the innocent
-- **Nemesis:** Dark cults and practitioners of dark magic
+- **Concetto:** Sacerdotessa benevola
+- **Abilità:** Guarigione, Persuasione
+- **Debolezza:** Paura della morte
+- **Equipaggiamento:** Simbolo sacro, pozioni curative
+- **Obiettivo:** Aiutare e guarire le persone del regno
+- **Motivo:** Desiderio di aiutare e proteggere gli innocenti
+- **Nemesi:** Culti oscuri e praticanti di magia nera
 
-## Monsters
+## Mostri
 
-### Dragon
+### Drago
 
-- **Concept:** Fearsome Beast
-- **Skills:** Fire breath, Flight
-- **Frailty:** Fear of cold-based attacks
-- **Gear:** Scales, hoard of treasure
-- **Goal:** To defend its hoard and territory
-- **Motive:** Survival and protection of its hoard
-- **Nemesis:** Adventurers and powerful wizards
+- **Concetto:** Bestia spaventosa
+- **Abilità:** Respiro di fuoco, Volo
+- **Debolezza:** Paura degli attacchi basati sul freddo
+- **Equipaggiamento:** Scaglie, tesoro di tesori
+- **Obiettivo:** Difendere il suo tesoro e il suo territorio
+- **Motivo:** Sopravvivenza e protezione del suo tesoro
+- **Nemesi:** Avventurieri e potenti maghi
 
-### Orc
+### Orco
 
-- **Concept:** Brutal Warrior
-- **Skills:** Axes, endurance
-- **Frailty:** Fear of defeat
-- **Gear:** Orcish armor, axes
-- **Goal:** To conquer and pillage
-- **Motive:** A desire for power and wealth
-- **Nemesis:** The kingdom's army and powerful adventurers
+- **Concetto:** Guerriero brutale
+- **Abilità:** Asce, resistenza
+- **Debolezza:** Paura della sconfitta
+- **Equipaggiamento:** Armatura degli orchi, asce
+- **Obiettivo:** Conquistare e saccheggiare
+- **Motivo:** Desiderio di potere e ricchezza
+- **Nemesi:** Esercito del regno e potenti avventurieri
 
-### Goblin
+### Folletto
 
-- **Concept:** Mischievous Thief
-- **Skills:** Stealth, traps
-- **Frailty:** Fear of bright lights
-- **Gear:** Goblin-made weapons, traps
-- **Goal:** To steal and cause mischief
-- **Motive:** A desire for wealth and power
-- **Nemesis:** Adventurers and guards
+- **Concetto:** Ladro dispettoso
+- **Abilità:** Furtività, trappole
+- **Debolezza:** Paura delle luci intense
+- **Equipaggiamento:** Armi e trappole create dai goblin
+- **Obiettivo:** Rubare e fare del male
+- **Motivo:** Desiderio di ricchezza e potere
+- **Nemesi:** Avventurieri e guardie
 
-### Zombie
+### Zombi
 
-- **Concept:** Shambling Horror
-- **Skills:** Unliving, Disease
-- **Frailty:** Fire, holy energy
-- **Gear:** None
-- **Goal:** To spread the disease, or as controlled by a necromancer
-- **Motive:** Survival, or as controlled by a necromancer
-- **Nemesis:** Adventurers, holy warriors, fire.
+- **Concetto:** Orrore strascicato
+- **Abilità:** Non vivente, Malattia
+- **Debolezza:** Fuoco, energia sacra
+- **Equipaggiamento:** Nessuno
+- **Obiettivo:** diffondere la malattia o essere controllata da un negromante
+- **Motivo:** Sopravvivenza, o come controllato da un negromante
+- **Nemesi:** Avventurieri, guerrieri sacri, fuoco.
 
 ### Medusa
 
-- **Concept:** Deadly Gorgon
-- **Skills:** Petrifying gaze, speed
-- **Frailty:** Bright lights
-- **Gear:** Snakes, stone statue
-- **Goal:** To turn her victims into stone
-- **Motive:** A desire to be feared and worshiped
-- **Nemesis:** Adventurers and powerful wizards
+- **Concetto:** Gorgone mortale
+- **Abilità:** Sguardo pietrificante, velocità
+- **Debolezza:** Luci intense
+- **Equipaggiamento:** Serpenti, statua di pietra
+- **Obiettivo:** Trasformare le sue vittime in pietra
+- **Motivo:** Desiderio di essere temuto e adorato
+- **Nemesi:** Avventurieri e potenti maghi
 
-### Wraith
+### Spettro
 
-- **Concept:** Ethereal Horror
-- **Skills:** Invisibility, Drain life
-- **Frailty:** Sunlight, holy energy
-- **Gear:** None
-- **Goal:** To drain the life energy of living beings
-- **Motive:** Survival, or as controlled by a necromancer
-- **Nemesis:** Adventurers, holy warriors, sunlight.
+- **Concetto:** Orrore etereo
+- **Abilità:** Invisibilità, Prosciuga la vita
+- **Debolezza:** Luce solare, energia sacra
+- **Equipaggiamento:** Nessuno
+- **Obiettivo:** Drenare l'energia vitale degli esseri viventi
+- **Motivo:** Sopravvivenza, o come controllato da un negromante
+- **Nemesi:** Avventurieri, guerrieri sacri, luce del sole.
 
-## Locations
+## Luoghi
 
-### Eldrida (The Capital City)
+### Eldrida (la capitale)
 
-- The capital city of Aldorath, home to the royal palace and the seat of government. The city is bustling with activity, with markets, shops, taverns, and temples. 
-- The city is also home to the College of Wizards and many powerful noble houses.
-- Possible encounters or NPCs: King Harold, Queen Isabella, Lord Blackwood, Archmage Alaric, Captain Marcus
+- La capitale di Aldorath, sede del palazzo reale e sede del governo. La città è piena di attività, con mercati, negozi, taverne e templi.
+- La città ospita anche il Collegio dei Maghi e molte potenti case nobiliari.
+- Possibili incontri o PNG: Re Harold, Regina Isabella, Lord Blackwood, Arcimago Alaric, Capitano Marcus
 
-### The Dragon's Lair
+### La tana del drago
 
-- A treacherous mountain cave that serves as the home of a powerful dragon. 
-- The dragon guards a hoard of treasure and will fiercely defend it against intruders.
-- Possible encounters: Dragon, Adventurers seeking treasure
+- Un'infida caverna di montagna che funge da dimora di un potente drago.
+- Il drago custodisce un tesoro e lo difenderà ferocemente dagli intrusi.
+- Possibili incontri: Drago, Avventurieri in cerca di tesori
 
-### The Forest of Shadows
+### La foresta delle ombre
 
-- A dense and dark forest said to be home to many dangerous creatures and ancient ruins. 
-- Many stories and legends surround the forest, some say it is home to a powerful druid, others say it is cursed by dark magic.
-- Possible encounters: Goblins, Medusa, Wraith, Sister Maria
+- Una fitta e oscura foresta che si dice sia la casa di molte creature pericolose e antiche rovine.
+- Molte storie e leggende circondano la foresta, alcuni dicono che sia la dimora di un potente druido, altri dicono che sia maledetta dalla magia oscura.
+- Possibili incontri: Goblin, Medusa, Spettri, Suor Maria
 
-### The Castle of Blackwood
+### Il castello di Blackwood
 
-- An imposing castle belonging to one of the powerful noble houses of Aldorath. 
-- The castle is said to be haunted by the spirits of the previous lords of Blackwood.
-- Possible encounters: Lord Blackwood, Wraith, Ghosts, Adventurers seeking treasure
+- Un imponente castello appartenente a una delle potenti casate nobiliari di Aldorath.
+- Si dice che il castello sia infestato dagli spiriti dei precedenti signori di Blackwood.
+- Possibili incontri: Lord Blackwood, Wraith, Fantasmi, Avventurieri in cerca di tesori
 
-### The College of Wizards
+### Il Collegio dei Maghi
 
-- A grand and ancient building located in the capital city of Eldrida, where the powerful wizards of the kingdom gather to study and regulate the use of magic. 
-- The college is said to hold many powerful artifacts and secrets.
-- Possible encounters: Archmage Alaric, Wizards, Adventurers seeking ancient knowledge
+- Un grandioso e antico edificio situato nella capitale di Eldrida, dove i potenti maghi del regno si riuniscono per studiare e regolare l'uso della magia.
+- Si dice che il college custodisca molti potenti artefatti e segreti.
+- Possibili incontri: Arcimago Alaric, Maghi, Avventurieri alla ricerca di antiche conoscenze
 
-### The Ancient Ruin
+### L'antica rovina
 
-A crumbling and overgrown ruin, said to be the remains of a powerful and ancient civilization. Many stories and legends surround the ruin, some say it holds powerful magical artifacts, others say it is cursed by dark magic.
-- Possible encounters: Orcs, Zombies, Adventurers seeking treasure and ancient knowledge
+- Una rovina fatiscente e ricoperta di vegetazione, che si dice sia il resto di una potente e antica civiltà. 
+- Molte storie e leggende circondano la rovina, alcuni dicono che contenga potenti artefatti magici, altri dicono che sia maledetta dalla magia oscura.
+- Possibili incontri: Orchi, Zombi, Avventurieri in cerca di tesori e antiche conoscenze
 
-## Adventure Seeds
+## Semi di avventura
 
-| D66 | Adventure                                                                                                                                 |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 11  | Retrieve a powerful artifact hidden in the dragon's lair and protect it from the dragon's wrath.                                          |
-| 12  | Investigate strange occurrences in the nearby village of Ravenswood that is being terrorized by a powerful creature, possibly the Medusa. |
-| 13  | Rescue the prince who has been kidnapped by a powerful sorcerer and held in the Castle of Blackwood.                                      |
-| 14  | Investigate the ancient ruin in the Forest of Shadows filled with traps and monsters to discover a powerful magical artifact.             |
-| 15  | Help the King Harold stop a rebellion led by Lord Blackwood, who seeks to overthrow the monarchy.                                         |
-| 16  | Help Queen Isabella to stop a band of orcs who have been raiding the kingdom's border villages.                                           |
-| 21  | Help Sister Maria to put an end to a dark cult that has been sacrificing innocent villagers in the forest.                                |
-| 22  | Help Captain Marcus to stop an invasion from a neighboring kingdom.                                                                       |
-| 23  | Help Archmage Alaric to stop a rogue sorcerer who seeks to use dark magic to gain power.                                                  |
-| 24  | Explore the College of Wizards and discover the secrets of magic.                                                                         |
-| 25  | Help the Adventurers Guild to map the Forest of Shadows and discover ancient ruins.                                                       |
-| 26  | Help Lord Blackwood to increase his wealth and power through trade, but be aware of the king's spies.                                     |
-| 31  | Help the Merchants Guild to increase their wealth and power through trade, but be aware of Lord Blackwood's greed.                        |
-| 32  | Help the Secret Societies to gain power and influence through secret means, but be aware of the king's spies and the College of Wizards.  |
-| 33  | Retrieve a powerful artifact hidden in a dragon's lair.                                                                                   |
-| 34  | Investigate strange occurrences in a nearby village that is being terrorized by a powerful creature.                                      |
-| 35  | Rescue a prince who has been kidnapped by a powerful sorcerer.                                                                            |
-| 36  | Investigate an ancient ruin filled with traps and monsters to discover a powerful magical artifact.                                       |
-| 41  | Uncover the truth behind a series of strange disappearances in a nearby town.                                                             |
-| 42  | Stop a group of bandits from raiding a nearby village.                                                                                    |
-| 43  | Explore an ancient dungeon in search of treasure and ancient relics.                                                                      |
-| 44  | Protect a noble from an assassination attempt.                                                                                            |
-| 45  | Investigate a haunted mansion and put the spirits to rest.                                                                                |
-| 46  | Rescue a kidnapped princess from an evil sorcerer.                                                                                        |
-| 51  | Locate a missing heir to the throne.                                                                                                      |
-| 52  | Investigate a series of murders and bring the killer to justice.                                                                          |
-| 53  | Rescue a group of hostages held by a band of ruthless thieves.                                                                            |
-| 54  | Search for a legendary treasure hidden in an ancient tomb.                                                                                |
-| 55  | Help a local village fend off an attack by a horde of zombies.                                                                            |
-| 56  | Locate a powerful magical artifact that can grant immortality.                                                                            |
-| 61  | Investigate a mysterious cult and put a stop to their nefarious plans                                                                     |
-| 62  | Help a local wizard retrieve a stolen spellbook.                                                                                          |
-| 63  | Put an end to a powerful vampire's reign of terror.                                                                                       |
-| 64  | Help a local town defend against an invasion of trolls.                                                                                   |
-| 65  | Retrieve a powerful magical ring from a powerful demon.                                                                                   |
-| 66  | Investigate a series of mysterious disappearances in a nearby forest.                                                                     |
+| D66 | Avventura                                                                                                                                                     |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 11  | Recupera un potente artefatto nascosto nella tana del drago e proteggilo dall'ira del drago.                                                                  |
+| 12  | Indaga su strani eventi nel vicino villaggio di Ravenswood, terrorizzato da una potente creatura, forse una Medusa.                                           |
+| 13  | Salva il principe che è stato rapito da un potente stregone e trattenuto nel Castello di Blackwood.                                                           |
+| 14  | Indaga sulle antiche rovine nella Foresta delle Ombre piene di trappole e mostri per scoprire un potente artefatto magico.                                    |
+| 15  | Aiuta il re Harold a fermare una ribellione guidata da Lord Blackwood, che cerca di rovesciare la monarchia.                                                  |
+| 16  | Aiuta la regina Isabella a fermare una banda di orchi che ha fatto irruzione nei villaggi di confine del regno.                                               |
+| 21  | Aiuta suor Maria a porre fine a un culto oscuro che ha sacrificato innocenti abitanti del villaggio nella foresta.                                            |
+| 22  | Aiuta il Capitano Marcus a fermare un'invasione da un regno vicino.                                                                                           |
+| 23  | Aiuta l'Arcimago Alaric a fermare uno stregone canaglia che cerca di usare la magia oscura per ottenere potere.                                               |
+| 24  | Esplora il Collegio dei Maghi e scopri i segreti della magia.                                                                                                 |
+| 25  | Aiuta la Gilda degli Avventurieri a mappare la Foresta delle Ombre e scoprire antiche rovine.                                                                 |
+| 26  | Aiuta Lord Blackwood ad aumentare la sua ricchezza e il suo potere attraverso il commercio, ma fai attenzione alle spie del re.                               |
+| 31  | Aiuta la Gilda dei Mercanti ad aumentare la propria ricchezza e il proprio potere attraverso il commercio, ma sii consapevole dell'avidità di Lord Blackwood. |
+| 32  | Aiuta le società segrete a ottenere potere e influenza attraverso mezzi segreti, ma fai attenzione alle spie del re e al Collegio dei Maghi.                  |
+| 33  | Recupera un potente artefatto nascosto nella tana di un drago.                                                                                                |
+| 34  | Indaga su strani eventi in un villaggio vicino terrorizzato da una potente creatura.                                                                          |
+| 35  | Salva un principe che è stato rapito da un potente stregone.                                                                                                  |
+| 36  | Indaga su un'antica rovina piena di trappole e mostri per scoprire un potente artefatto magico.                                                               |
+| 41  | Scopri la verità dietro una serie di strane sparizioni in una città vicina.                                                                                   |
+| 42  | Impedisci a un gruppo di banditi di fare irruzione in un villaggio vicino.                                                                                    |
+| 43  | Esplora un'antica prigione sotterranea alla ricerca di tesori e antiche reliquie.                                                                             |
+| 44  | Proteggi un nobile da un tentativo di omicidio.                                                                                                               |
+| 45  | Indaga su una casa infestata e metti a tacere gli spiriti.                                                                                                    |
+| 46  | Salva una principessa rapita da un malvagio stregone.                                                                                                         |
+| 51  | Trova un erede mancante al trono.                                                                                                                             |
+| 52  | Indaga su una serie di omicidi e consegna l'assassino alla giustizia.                                                                                         |
+| 53  | Salva un gruppo di ostaggi detenuti da una banda di spietati ladri.                                                                                           |
+| 54  | Cerca un tesoro leggendario nascosto in un'antica tomba.                                                                                                      |
+| 55  | Aiuta un villaggio locale a respingere un attacco di un'orda di zombi.                                                                                        |
+| 56  | Trova un potente artefatto magico in grado di garantire l'immortalità.                                                                                        |
+| 61  | Indaga su una setta misteriosa e metti fine ai loro nefasti piani                                                                                             |
+| 62  | Aiuta un mago locale a recuperare un libro degli incantesimi rubato.                                                                                          |
+| 63  | Metti fine al regno del terrore di un potente vampiro.                                                                                                        |
+| 64  | Aiuta una città locale a difendersi da un'invasione di troll.                                                                                                 |
+| 65  | Recupera un potente anello magico da un potente demone.                                                                                                       |
+| 66  | Indaga su una serie di misteriose sparizioni in una foresta vicina.                                                                                           |
