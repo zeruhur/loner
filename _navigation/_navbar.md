@@ -4,7 +4,7 @@
   - [Core Rules](en/loner-en.md)
   - [Adventure Packs](en/adventure-packs.md)
   - [Fantasy Adventure Pack](en/AP01_fantasy.md)
-  - [Space Sci-Fi Adventure Pack](en/AP02_Space_SciFi.md)
+  - [Space Sci-Fi Adventure Pack](en/AP02_Space.md)
   - [Superheroes Adventure Pack](en/AP03_superheroes.md)
   - [Crime Adventure Pack](en/AP04_crime.md)
   - [Mystery Adventure Pack](en/AP05_mystery.md)

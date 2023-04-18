@@ -5,7 +5,7 @@ Inside you will find a concise setting, traits for characters, special setting r
 Use them as non-binding guidelines and inspiration, let your imagination run wild!
 
 - [Fantasy Adventure Pack](en/AP01_fantasy.md)
-- [Space Sci-Fi Adventure Pack](en/AP02_Space_SciFi.md)
+- [Space Sci-Fi Adventure Pack](en/AP02_Space.md)
 - [Superheroes Adventure Pack](en/AP03_superheroes.md.md)
 - [Crime Adventure Pack](en/AP04_crime.md)
 - [Mystery Adventure Pack](en/AP05_mystery.md)

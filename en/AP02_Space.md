@@ -1,4 +1,4 @@
-# Space Sci-fi Adventure Pack
+# Space Adventure Pack
 
 ## Setting Information
 - The setting is a futuristic galaxy filled with advanced technology and extraterrestrial life.
