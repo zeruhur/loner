@@ -22,7 +22,7 @@ Io ti consiglio di abbracciare la Fortuna per quello che è e di affrontare il c
 
 Dipende primariamente dal contesto della situazione in gioco, ma una possibile tecnica è quella di trattare una turba di avversari come un singolo "personaggio", tenendo in conto delle sue caratteristiche come Concetto e Abilità. Tieni anche conto che una possibile Fragilità di un personaggio simile può essere proprio la sua "numerosità": più membri di una turba, più è difficile coordinare le azioni!
 
-## Non mi è chiaro che differenza c'è tra iniziare con una scena drammatica e impostare una "cornice di avventura"
+## Che differenza c'è tra iniziare con una scena drammatica e impostare una "cornice di avventura"?
 
 Pensa alla "cornice" come una missione generata casualmente usando la classica [Regola delle 5 W](https://it.wikipedia.org/wiki/Regola_delle_5_W) modificata in modo che il "Quando" sia sostituito da un "Come" e aggiungendo l'Ostacolo. Questo metodo fornisce una premessa circostanziata che può innescare la tua fantasia avendo già presente obiettivi e mandanti della missione. 
 
@@ -45,3 +45,17 @@ Letteralmente ogni azione è risolta interrogando l'oracolo. Per esempio, il tuo
 - "Sparo al container di scorie sopra l'avversario, faccio c'entro?" Sì, e... *le scorie lo investono in pieno mettendolo fuori combattimento*
 
 È una modalità in forma più libera, ma anche più imprevedibile negli esiti.
+
+## È possibile tirare tre o più Dadi Chance o Rischio al tiro?
+
+No, Loner è limitato a massimo due Dadi Chance oppure due Dadi Rischio per tiro se entra in gioco un Vantaggio o uno Svantaggio.
+
+Se in una situazione incorrono più tag positivi o negativi (inclusi quelli derivati dai tratti dei personaggi e quelli situazionali, nonché l'attrezzatura), questi non determinano dadi aggiuntivi ulteriori.
+
+Allo stesso modo la compresenza in scena di un tag positivo e di uno negativo li annulla a vicenda.
+
+In sintesi:
+- Uno o più tag positivi al netto di quelli negativi: si tira con Vantaggio, due Dadi Chance e un Dado Rischio.
+- Uno o più tag negativi al netto di quelli positivi: si tira con Svantaggio, due Dadi Rischio e un Dado Chance.
+- I tag positivi e negativi si controbilanciano (annullano) a vicenda: si tira un Dado Chance e un Dado Rischio.
+
