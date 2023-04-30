@@ -241,7 +241,9 @@ Note that the Twist Counter **does not apply** to Harm & Luck. Instead, it is us
 
 ## Harm & Luck
 
-The conflict is resolved in turns alternating between the player and NPCs. When you fail your defense, reduce your current Luck according to the table below. NPCs also have a Luck trait. If you attack in any form, reduce the targets Luck according to the table below. When your Luck runs out you face mortal danger and the next attack will take you out of the conflict.
+If the conflict is resolved by applying damage to the Luck trait, roll the dice to determine whether the protagonist causes damage to the opponent or suffers damage due to counterattack or failed defense. Roll only for the protagonist.
+
+The damage reduces the Luck of the target, whether protagonist or NPC. When the Luck runs out, the character has lost the conflict.
 
 The final outcome depends on the context. Do you get caught? Are you seriously injured? You may even die if that fits the narrative.
 
@@ -440,7 +442,7 @@ With deepest thanks to :
 
 ## License
 
-Loner v.2.0
+Loner v.2.3
 
 (CC) 2023 Roberto Bisceglie
 
