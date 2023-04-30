@@ -241,7 +241,9 @@ Il Contatore di Colpi di Scena non si applica a Danno e Fortuna. Viene invece ut
 
 ## Danno e Fortuna
 
-Quando si è in conflitto, il gioco si svolge a turni alterni tra giocatore e PNG. Quando si fallisce la difesa, si riduce la propria Fortuna in base alla tabella seguente. Anche i PNG hanno un tratto Fortuna. Se si attacca in qualsiasi modo, si riduce la Fortuna del bersaglio. Quando la vostra Fortuna si esaurisce, siete in pericolo di vita e il prossimo attacco vi porterà fuori combattimento.
+In caso in cui il conflitto sia risolto applicando il danno alla Fortuna, tira i dadi per determinare se il protagonista causi danni all'avversario o ne subisca a causa del contrattacco o di una difesa fallita. Tira solo per il protagonista.
+
+Il danno riduce la Fortuna del bersaglio, sia esso protagonista o PNG. Quando la Fortuna si esaurisce, il personaggio ha perso il conflitto.
 
 L'esito finale dipende dal contesto. Si viene catturati? Si viene gravemente feriti? Si può anche morire, se ciò si adatta alla narrazione.
 
@@ -434,7 +436,7 @@ Un sincero ringraziamento al gruppo dei [Ruolatori Solitari](https://t.me/ruolat
 
 ## Licenza
 
-Loner v.2.0
+Loner v.2.3
 
 (CC) 2023 Roberto Bisceglie
 

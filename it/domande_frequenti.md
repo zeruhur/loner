@@ -21,3 +21,27 @@ Io ti consiglio di abbracciare la Fortuna per quello che è e di affrontare il c
 ## Come avviene il conflitto contro più avversari?
 
 Dipende primariamente dal contesto della situazione in gioco, ma una possibile tecnica è quella di trattare una turba di avversari come un singolo "personaggio", tenendo in conto delle sue caratteristiche come Concetto e Abilità. Tieni anche conto che una possibile Fragilità di un personaggio simile può essere proprio la sua "numerosità": più membri di una turba, più è difficile coordinare le azioni!
+
+## Non mi è chiaro che differenza c'è tra iniziare con una scena drammatica e impostare una "cornice di avventura"
+
+Pensa alla "cornice" come una missione generata casualmente usando la classica [Regola delle 5 W](https://it.wikipedia.org/wiki/Regola_delle_5_W) modificata in modo che il "Quando" sia sostituito da un "Come" e aggiungendo l'Ostacolo. Questo metodo fornisce una premessa circostanziata che può innescare la tua fantasia avendo già presente obiettivi e mandanti della missione. 
+
+Iniziare da una scena drammatica è un vecchio trucco preso in prestito da narrativa e cinema e spesso utilizzato dal gioco di ruolo solitario: è più facile prendere le mosse da una situazione dinamica che da una statica.
+
+Pensa alla scena di apertura de "I predatori dell'arca perduta": Indiana Jones si avventura nel tempio dell'idolo d'oro e deve superare trappole ed enigmi. Il mistero e la tensione sono palpabili e ogni mossa del personaggio è un rischio. Quanto sarebbe stato altrettanto efficace vedere Indiana Jones seduto nel suo salotto che consulta un libro?
+
+Una scena iniziale tranquilla non è di per sé sconsigliabile, ma fornisce molti meno spunti su cui agganciare la propria aspettativa, ovvero meno elementi su cui interrogare l'oracolo e far proseguire l'azione.
+
+Premessa (o "cornice") e "scena iniziale drammatica" ovviamente non si escludono a vicenda, ma possono essere usati anche in alternativa per dare un calcio d'inizio all'avventura.
+
+## Cosa si intende per "poni una domanda chiusa per risolvere ciascuna azione" come alternativa alle regole di "Danno & Fortuna"?
+
+È una modalità intermedia tra usare una sola domanda domanda per risolvere l'intero conflitto e usare la meccanica più "giocosa" del combattimento a punti classico. 
+
+Letteralmente ogni azione è risolta interrogando l'oracolo. Per esempio, il tuo protagonista si trova a ingaggiare uno scontro a fuoco in una fabbrica chimica abbandonata ponendo la seguente sequenza di domande:
+
+- "Riesco a prendere riparo dietro al muro?" Sì, ma... *la tua linea di tiro non è pulita, hai svantaggio*
+- "Miro l'avversario, riesco a mettere a segno il primo colpo" No, ma... *interrompi la sua linea di tiro dandoti vantaggio al prossimo colpo*
+- "Sparo al container di scorie sopra l'avversario, faccio c'entro?" Sì, e... *le scorie lo investono in pieno mettendolo fuori combattimento*
+
+È una modalità in forma più libera, ma anche più imprevedibile negli esiti.
