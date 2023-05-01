@@ -18,4 +18,6 @@
 - **Versione Italiana**
   - [Regolamento](it/loner-ita.md)
   - [Pacchetti Avventura](it/pacchetti-avventura.md)
+  - [Pacchetto Avventura Fantasy](it/AP01_fantasy.md)
+  - [Pacchetti Avventura Spazio](it/AP02_spazio.md)
 - [Loner Assistant](https://zeruhur.space/loner-assistant/)
