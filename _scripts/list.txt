@@ -1,36 +1,36 @@
-Stealthy assassin
-Mighty barbarian
-Wise wizard
-Agile rogue
-Fearless knight
-Cunning warlock
-Grizzled veteran
-Noble paladin
-Evasive acrobat
-Fierce berserker
-Enigmatic druid
-Divine cleric
-Arcane sorcerer
-Ambitious politician
-Courageous soldier
-Pious priest
-Mysterious hermit
-Clever diplomat
-Charismatic bard
-Sneaky thief
-Ruthless mercenary
-Curious scholar
-Menacing brute
-Devoted follower
-Spiritual shaman
-Stoic monk
-Dynamic ranger
-Stealthy spy
-Graceful dancer
-Eccentric inventor
-Ruthless pirate
-Gracious noble
-Unpredictable jester
-Cunning strategist
-Experienced sailor
-Talented blacksmith
+Claustrophobia
+Alien phobia
+Cybernetic dependence
+Space allergies
+PTSD
+Panic-prone
+Technophobia
+Low-gravity sickness
+Space sickness
+Hoarding tendencies
+Overreliance
+Recklessness
+Protective impulsivity
+Overconfidence
+Fatigue
+Phobias
+Obsessive tendencies
+Sabotage-prone
+Isolation struggles
+VR addiction
+Avoidance tendencies
+Cultural misunderstandings
+Distrust of authority
+Resistance to change
+Selfishness
+Moral ambiguity struggles
+Lack of empathy
+Procrastination
+Alien stereotypes
+Coping with failure
+Emotional prioritization
+Social navigation difficulties
+Hasty assumptions
+Indecision
+Envy
+Technology adaptation struggles.
