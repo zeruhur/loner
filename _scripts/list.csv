@@ -1,16 +1,42 @@
 D66,1,2,3,4,5,6
-1,Sword,Bow,Crossbow,Dagger,Spear,Axe
-2,Mace,Flail,Shield,Helmet,Armor,Gauntlets
-3,Greaves,Boots,Cloak,Backpack,Quiver,Arrows
-4,Bolts,Rope,Grappling hook,Lantern,Torch,Flint and steel
-5,Waterskin,Rations,Bedroll,Tent,Compass,Map
-6,Spyglass,Telescope,Alchemy kit,Healing kit,Lockpicks,Musical instrument
+1,Piloting,Navigation,Astrophysics,Systems engineering,Robotics,Repairing
+2,Hacking,Weapon proficiency,Armor proficiency,Energy weapons,Projectile weapons,Melee combat
+3,Stealth,Demolitions,Diplomacy,Leadership,Strategy,Tactics
+4,Medicine,Biology,Xenobiology,Exo-suit operation,Zero-gravity combat,Cybernetics
+5,Computer programming,Artificial intelligence,Ship maintenance,Communications,Resource management,Survivalism
+6,Intimidation,Empathy,Telekinesis,Mind control,Teleportation,Time manipulation
 
 D66,1,2,3,4,5,6
-1,Stealthy assassin,Mighty barbarian,Wise wizard,Agile rogue,Fearless knight,Cunning warlock
-2,Grizzled veteran,Noble paladin,Evasive acrobat,Fierce berserker,Enigmatic druid,Divine cleric
-3,Arcane sorcerer,Ambitious politician,Courageous soldier,Pious priest,Mysterious hermit,Clever diplomat
-4,Charismatic bard,Sneaky thief,Ruthless mercenary,Curious scholar,Menacing brute,Devoted follower
-5,Spiritual shaman,Stoic monk,Dynamic ranger,Stealthy spy,Graceful dancer,Eccentric inventor
-6,Ruthless pirate,Gracious noble,Unpredictable jester,Cunning strategist,Experienced sailor,Talented blacksmith
+1,Cowardice,Recklessness,Greed,Arrogance,Overconfidence,Impulsiveness
+2,Stubbornness,Pessimism,Paranoia,Short-sightedness,Indecisiveness,Inflexibility
+3,Naivety,Indifference,Insensitivity,Overprotectiveness,Selfishness,Gullibility
+4,Disloyalty,Dishonesty,Laziness,Jealousy,Envy,Vindictiveness
+5,Wrath,Gluttony,Lust,Sloth,Hubris,Impatience
+6,Suspicion,Timidity,Foolishness,Intolerance,Prejudice,Insecurity
+
+
+
+D66,1,2,3,4,5,6
+1,Blaster pistol,Laser rifle,Plasma cannon,Energy shield,Nanotech armor,Exosuit
+2,Jetpack,Grappling hook,Multitool,Holographic interface,Communicator,Medkit
+3,Bioscanner,Geiger counter,Environmental suit,Personal forcefield,Power cell,Rebreather
+4,Magnetic boots,Gravitational anchor,Portable generator,Night vision goggles,Sniper scope,Flashbang grenade
+5,Smoke grenade,EMP grenade,Shock grenade,Plasma grenade,Tracking device,Jamming device
+6,Plasma cutter,Welding torch,Magnetic grapple,Sonic screwdriver,Tricorder,Hyperspace beacon
+
+D66,1,2,3,4,5,6
+1,Resourceful scavenger,Wise scientist,Brave space marine,Sneaky smuggler,Ruthless bounty hunter,Energetic engineer
+2,Cunning spy,Stoic explorer,Fierce mercenary,Ambitious politician,Pious priest,Charismatic diplomat
+3,Dynamic trader,Mysterious alien,Eccentric inventor,Meticulous analyst,Courageous astronaut,Agile pilot
+4,Fearless adventurer,Spiritual mystic,Noble captain,Enigmatic telepath,Skilled hacker,Tenacious survivor
+5,Calculating strategist,Robust android,Perceptive detective,Inquisitive xenobiologist,Daring space cowboy,Tactical squad leader
+6,Stealthy ninja,Master marksman,Impulsive hotshot,Calculated assassin,Intuitive psychic,Strong-willed rebel
+
+D66,1,2,3,4,5,6
+1,Claustrophobia,Alien phobia,Cybernetic dependence,Space allergies,PTSD,Panic-prone
+2,Technophobia,Low-gravity sickness,Space sickness,Hoarding tendencies,Overreliance,Recklessness
+3,Protective impulsivity,Overconfidence,Fatigue,Phobias,Obsessive tendencies,Sabotage-prone
+4,Isolation struggles,VR addiction,Avoidance tendencies,Cultural misunderstandings,Distrust of authority,Resistance to change
+5,Selfishness,Moral ambiguity struggles,Lack of empathy,Procrastination,Alien stereotypes,Coping with failure
+6,Emotional prioritization,Social navigation difficulties,Hasty assumptions,Indecision,Envy,Technology adaptation struggles.
 
