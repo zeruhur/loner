@@ -241,7 +241,7 @@ Note that the Twist Counter **does not apply** to Harm & Luck. Instead, it is us
 
 ## Harm & Luck
 
-If the conflict is resolved by applying damage to the Luck trait, roll the dice to determine whether the protagonist causes damage to the opponent or suffers damage due to counterattack or failed defense. Roll only for the protagonist.
+If the conflict is resolved by applying damage to the Luck trait, roll the dice to determine whether the protagonist causes damage to the opponent or suffers damage due to counterattack or failed defense. The rolls are player facing only.
 
 The damage reduces the Luck of the target, whether protagonist or NPC. When the Luck runs out, the character has lost the conflict.
 
