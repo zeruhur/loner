@@ -6,5 +6,6 @@ All'interno troverai un'ambientazione concisa, tratti per i personaggi, regole s
 
 Usali come linee guida e ispirazione non vincolanti, lascia correre la tua immaginazione!
 
-- [Fantasy Adventure Pack](it/AP01_fantasy.md)
-- [Space Sci-Fi Adventure Pack](it/AP02_spazio.md)
+- [Pacchetto Avventura Fantasy](it/AP01_fantasy.md)
+- [Pacchetto Avventura Spazio](it/AP02_spazio.md)
+- [Pacchetto Avventura Supereroi](it/AP03_supereroi.md)
