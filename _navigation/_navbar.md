@@ -15,9 +15,12 @@
   - [Pirates Adventure Pack](en/AP10_pirates.md)
   - [Western Adventure Pack](en/AP11_western.md)
   - [Cyberpunk Adventure Pack](en/AP12_cyberpunk.md)
+  - [FAQ](faq.md)
 - **Versione Italiana**
   - [Regolamento](it/loner-ita.md)
   - [Pacchetti Avventura](it/pacchetti-avventura.md)
   - [Pacchetto Avventura Fantasy](it/AP01_fantasy.md)
-  - [Pacchetti Avventura Spazio](it/AP02_spazio.md)
+  - [Pacchetto Avventura Spazio](it/AP02_spazio.md)
+  - [Pacchetto Avventura Supereroi](it/AP03_supereroi.md)
+  - [Domande Frequenti](it/domande_frequenti.md)
 - [Loner Assistant](https://zeruhur.space/loner-assistant/)
