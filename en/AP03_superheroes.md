@@ -12,51 +12,50 @@
 
 ### Concepts
 
-|     | 1             | 2                | 3                    | 4                  | 5                   | 6               |
-| --- | ------------- | ---------------- | -------------------- | ------------------ | ------------------- | --------------- |
-| 1   | Alien Warrior | Gadgeteer Genius | Time-Traveler        | Shape-Shifter      | Ghostly Avenger     | Elemental Force |
-| 2   | Super Soldier | Mind-Controller  | Speedster            | Energy Manipulator | Vampire Hunter      | Super Spy       |
-| 3   | Robot Hero    | Martial Artist   | Elemental Mage       | Demon Hunter       | Supernatural Hunter | Cyberpunk Hero  |
-| 4   | Detective     | Warrior          | Healer               | Trickster          | Summoner            | Shapeshifter    |
-| 5   | Protector     | Avenger          | Seeker               | Guardian           | Adept               | Enchanter       |
-| 6   | Illusionist   | Necromancer      | Supernatural Diviner | Cosmic Guardian    | Techno-Wizard       | Pyromancer      |
+| D66 | 1                | 2                    | 3                   | 4                    | 5                   | 6                    |
+|:---:|:----------------:|:--------------------:|:-------------------:|:--------------------:|:-------------------:|:--------------------:|
+| 1   | Cursed Crusader  | Celestial Protector  | Elemental Shifter   | Martial Artist       | Shapeshifter        | Gravity Bender       |
+| 2   | Mentalist        | Technological Genius | Master Strategist   | Cyber Samurai        | Dream Weaver        | Atomic Titan         |
+| 3   | Plasma Knight    | Invisibility Master  | Telekinetic Warrior | Shadow Assassin      | Supernatural Hunter | Elemental Controller |
+| 4   | Alien Hero       | Time Keeper          | Magic Knight        | Solar Warrior        | Psychic Savior      | Machine Master       |
+| 5   | Dimensional Hero | Quantum Conduit      | Hybrid Crusader     | Powerhouse Protector | Elastic Dynamo      | Energy Absorber      |
+| 6   | Illusionist      | Techno Sorcerer      | Weapon Master       | Gravity Guardian     | Cryomancer          | Reality Warper       |
 
 
 ### Skills
 
-| D66 | 1                   | 2                      | 3                 | 4                    | 5                      | 6               |
-|-----|---------------------|------------------------|-------------------|----------------------|------------------------|-----------------|
-| 1   | Super Strength      | Flight                 | Super Speed       | Invisibility         | Super Intelligence     | Healing Factor  |
-| 2   | Energy Manipulation | Super Durability       | Shape-Shifting    | Telekinesis          | Teleportation          | Super Senses    |
-| 3   | Energy Projection   | Force Field Generation | Time Manipulation | Weather Manipulation | Elemental Manipulation | Duplication     |
-| 4   | Size Alteration     | Animal Mimicry         | Mind Control      | Illusion Creation    | Reality Warping        | Immortality     |
-| 5   | Energy Absorption   | Super Agility          | Super Stamina     | Self-Sustenance      | Super Jump             | Invulnerability |
-| 6   | Super Breath        | Super Hearing          | Super Sight       | Super Smell          | Super Taste            | Super Touch     |
-
+| D66 | 1                    | 2                                    | 3                  | 4                   | 5                            | 6                      |
+|:---:|:--------------------:|:------------------------------------:|:------------------:|:-------------------:|:----------------------------:|:----------------------:|
+| 1   | Super strength       | Flight                               | Teleportation      | Shapeshifting       | Invisibility                 | Super speed            |
+| 2   | Regeneration         | Elasticity                           | Energy projection  | Size manipulation   | Precognition                 | Telekinesis            |
+| 3   | Elemental control    | Force field generation               | Mind control       | Healing powers      | Psychic abilities            | Technopathy            |
+| 4   | Animal communication | Danger sense                         | Hacking skills     | Weapons proficiency | Master detective             | Martial arts expertise |
+| 5   | Acrobatics           | Marksmanship                         | Strategic thinking | Diplomacy           | Linguistic abilities         | Super agility          |
+| 6   | Stealth              | Immunity to certain types of attacks | Sonic scream       | Sonic control       | Electromagnetic manipulation | Geokinesis             |
 
 
 ### Frailties
 
-| D66 | 1                  | 2                     | 3                      | 4                    | 5                      | 6                     |
-|-----|--------------------|-----------------------|------------------------|----------------------|------------------------|-----------------------|
-| 1   | Arrogance          | Addiction             | Self-doubt             | Anger issues         | Greed                  | Obsession             |
-| 2   | Jealousy           | Impulsiveness         | Fear of failure        | Fear of loss         | Fear of rejection      | Fear of vulnerability |
-| 3   | Pride              | Secret identity       | Lack of control        | Lack of trust        | Lack of confidence     | Lack of empathy       |
-| 4   | Lack of discipline | Lack of focus         | Lack of responsibility | Lack of self-control | Lack of self-awareness | Lack of self-esteem   |
-| 5   | Lack of self-worth | Lack of understanding | Lack of foresight      | Lack of patience     | Lack of perspective    | Lack of wisdom        |
-| 6   | Lack of humility   | Lack of compassion    | Lack of generosity     | Lack of grace        | Lack of gratitude      | Lack of integrity     |
+| D66 | 1                                  | 2                               | 3                     | 4                            | 5                      | 6                                |
+|:---:|:----------------------------------:|:-------------------------------:|:---------------------:|:----------------------------:|:----------------------:|:--------------------------------:|
+| 1   | Element weakness                   | Fear of fire                    | Allergic reactions    | Power-draining energy fields | Claustrophobia         | Arrogance                        |
+| 2   | Paralysis                          | Dependence on special equipment | Psychic vulnerability | Addiction                    | Fear of water          | Emotional instability            |
+| 3   | Lethal touch                       | Compulsion to tell the truth    | All-consuming rage    | Fear of the dark             | Technological weakness | Lack of control over powers      |
+| 4   | Healing factor with side effects   | Sensory overload                | Self-doubt            | Low self-esteem              | Gullibility            | Inability to swim                |
+| 5   | Vulnerability to cold temperatures | Phobia of certain animals       | Poor eyesight         | Overconfidence               | Fear of heights        | Power-dampening collars          |
+| 6   | Hyperactivity                      | Hyper-empathy                   | Personal vendetta     | Paranoia                     | Naivety                | Overprotectiveness of loved ones |
 
 
 ### Gear
 
-| D66 | 1              | 2                    | 3                  | 4                  | 5                     | 6                 |
-|-----|----------------|----------------------|--------------------|--------------------|-----------------------|-------------------|
-| 1   | Utility Belt   | Cape                 | Mask               | Body Armor         | Goggles               | Gloves            |
-| 2   | Boots          | Wristbands           | Belt Buckle        | Ring               | Necklace              | Earrings          |
-| 3   | Bracelet       | Brooch               | Tiara              | Pendant            | Anklet                | Locket            |
-| 4   | Cufflinks      | Pin                  | Scarf              | Wand               | Scepter               | Jetpack           |
-| 5   | Wings          | Teleportation Device | Time Travel Device | Invisibility Cloak | Force Field Generator | Power Ring        |
-| 6   | Energy Blaster | EMP Generator        | Solar Cannon       | Gravity Gun        | Black Hole Generator  | Quantum Entangler |
+| D66 | 1                       | 2                                 | 3                              | 4                                  | 5                              | 6                   |
+|:---:|:-----------------------:|:---------------------------------:|:------------------------------:|:----------------------------------:|:------------------------------:|:-------------------:|
+| 1   | Utility belt            | Grappling hook                    | Super suit                     | X-ray goggles                      | Jetpack                        | Smoke bombs         |
+| 2   | Kevlar vest             | Gauntlets with retractable blades | Wrist-mounted web-shooters     | Infrared goggles                   | Energy shield                  | Antigravity boots   |
+| 3   | Sonic disruptor         | Hoverboard                        | Holographic disguise projector | Freeze ray                         | Portable force field generator | Bulletproof cape    |
+| 4   | Cloaking device         | Electroshock gloves               | Power dampening cuffs          | Super-strength enhancing gauntlets | Time travel device             | Psychic amplifier   |
+| 5   | Healing potions         | Dimensional portal gun            | Energy-absorbing device        | Mind-reading helmet                | Gravity manipulation device    | Heat vision goggles |
+| 6   | Self-destruct mechanism | Nanotech armor                    | Portable teleportation device  | Repulsor boots                     | Personal force field generator | Hacking toolset     |
 
 
 ## Special Rules
@@ -64,18 +63,16 @@
 - **Superpowers**: If the hero's superpower is consistent with the context of the situation in which it is used, it provides an automatic benefit 1 time per day. The answer is automatically "Yes, and..." without the :need to consult the oracle.
 - **Hero Points**: The Protagonist starts the adventure with 3 Hero Points. He can spend one to roll again an unfavorable result, or to roll with advantage regardless of the disadvantages in the scene. Points are restored after a long rest (at the beginning of the next adventure).
 
-
 ## Factions
 
 ### The Truth Coalition
 - **Concept:** Legendary Superheroes
 - **Skills:** Leadership, Superpower Control
 - **Frailty:** Public Pressure
-- **Gear:** Utility Belt, Justice League Communicator
+- **Gear:** Utility Belt, Communicator
 - **Goal:** Protect the Earth from all threats
 - **Motive:** To uphold justice and peace
 - **Nemesis:** Voluptuous, Exterminator
-
 
 ### The Vindicators
 - **Concept:** Earth's Mightiest Heroes
@@ -86,42 +83,38 @@
 - **Motive:** To protect innocent lives
 - **Nemesis:** Timber, Captain Darkness
 
-
 ### The Marvelous
 - **Concept:** Mutants Fighting for Equality
 - **Skills:** Superpower Control, Combat Training
 - **Frailty:** Discrimination
-- **Gear:** X-Men Uniform, Cerebro
+- **Gear:** Marvelous Uniform, Cerebro
 - **Goal:** To create a world where mutants and humans can live together in peace
 - **Motive:** To fight for the rights of mutants
 - **Nemesis:** Micros, Meltdown
-
 
 ### Blooming Champions
 - **Concept:** Young Heroes in Training
 - **Skills:** Leadership, Superpower Control
 - **Frailty:** Lack of Experience
-- **Gear:** Utility Belt, Titans Communicator
+- **Gear:** Utility Belt, Communicator
 - **Goal:** To protect the Earth from all threats
 - **Motive:** To become the next generation of heroes
 - **Nemesis:** Blackstriker, The Annihilator
-
 
 ### The Annihilators
 - **Concept:** Supervillains united
 - **Skills:** Leadership, Superpower Control
 - **Frailty:** In-fighting
-- **Gear:** Utility Belt, Legion Communicator
+- **Gear:** Utility Belt, Communicator
 - **Goal:** To conquer the world
 - **Motive:** Power and control
 - **Nemesis:** The Truth Coalition, Blooming Champions
-
 
 ### Supervillains United
 - **Concept:** Criminal Masterminds
 - **Skills:** Leadership, Superpower Control
 - **Frailty:** Secret Identities
-- **Gear:** Utility Belt, Secret Society Communicator
+- **Gear:** Utility Belt, Communicator
 - **Goal:** To conquer the world
 - **Motive:** Power and control
 - **Nemesis:** The Vindicators, The Marvelous
@@ -182,7 +175,6 @@
 - **Motive:** To use his abilities to make a difference
 - **Nemesis:** The Inferno, The Blaze
 
-
 ## Enemies
 
 ### The Disintegrator
@@ -203,14 +195,14 @@
 - **Motive:** Power and control
 - **Nemesis:** The Vindicators
 
-### The Storm
+### The Tempestuous
 - **Concept:** Weather-Controlling Supervillain
 - **Skills:** Weather Control, Combat Training
 - **Frailty:** Dependence on technology
 - **Gear:** Weather Control Device, Energy Blaster
 - **Goal:** To become the ruler of the world's weather
 - **Motive:** Power and control
-- **Nemesis:** The Marvelous
+- **Nemesis:** The Tempest
 
 ### The Mechanic
 - **Concept:** Technologically-Enhanced Supervillain
@@ -253,7 +245,6 @@
 - The most famous city in the world, known for its iconic skyline and cultural diversity. 
 - It is a major center of commerce and industry, as well as a hotbed of superhero activity.
 
-
 ### The Harmony Post
 - A major newspaper and media conglomerate, known for its in-depth coverage of the world of superheroes and super villains. 
 - It serves as a hub of information and intelligence for the heroes of the game's setting.
@@ -261,7 +252,6 @@
 ### The Vortex Island
 - The headquarters of the Truth Coalition, it is a state-of-the-art facility that serves as a base of operations for the world's greatest heroes. 
 - It is equipped with advanced technology and resources to aid in the fight against crime and evil.
-
 
 ### The Crimson Castle
 - A school for young mutants, founded by Agent Red Crane. 
