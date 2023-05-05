@@ -12,13 +12,13 @@
 
 ### Concetti
 
-| D66 | 1 | 2 | 3 | 4 | 5 | 6 |
-|:---:|:----------------:|:--------:|: -------------------:|:--------------------:|:-------------------:|:--------------------:|
-| 1 | Crociato Maledetto | Protettore Celeste | Cambiante Elementale | Artista Marziale | Millevolti | Piegatore di gravità |
-| 2 | Mentalista | Genio Tecnologico | Maestro Stratega | Cyber ​​Samurai | Tessitore di sogni | Titano atomico |
-| 3 | Cavaliere Plasmatico | Maestro dell'invisibilità | Guerriero Telecinetico | Assassino Ombra | Cacciatore Soprannaturale | Controllore Elementale |
-| 4 | Eroe Alieno | Cronodominatore | Cavaliere Magico | Guerriero Solare | Salvatore Psichico | Maestro delle macchine |
-| 5 | Eroe Dimensionale | Conduttore Quantico | Crociato Ibrido | Protettore della Centrale Elettrica | Dinamo Elastica | Assorbitore di energia |
+| D66 | 1 | 2 | 3 | 4 | 5 | 6 | 
+| :---: | :----------------: | :--------: | : -------------------: | :--------------------: | :------------------: | :--------------------: | 
+| 1 | Crociato Maledetto | Protettore Celeste | Cambiante Elementale | Artista Marziale | Millevolti | Piegatore di gravità | 
+| 2 | Mentalista | Genio Tecnologico | Maestro Stratega | Cyber Samurai | Tessitore di sogni | Titano atomico | 
+| 3 | Cavaliere Plasmatico | Maestro dell'invisibilità | Guerriero Telecinetico | Assassino Ombra | Cacciatore Soprannaturale | Controllore Elementale | 
+| 4 | Eroe Alieno | Cronodominatore | Cavaliere Magico | Guerriero Solare | Salvatore Psichico | Maestro delle macchine | 
+| 5 | Eroe Dimensionale | Conduttore Quantico | Crociato Ibrido | Protettore della Centrale Elettrica | Dinamo Elastica | Assorbitore di energia | 
 | 6 | Illusionista | Tecnostregone | Maestro d'armi | Guardiano della gravità | Criomante | Distorsore della realtà |
 
 
