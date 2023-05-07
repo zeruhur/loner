@@ -15,21 +15,21 @@ redazione e contributi di Alessio Serini
 
 | | 1 | 2 | 3 | 4 | 5 | 6 |
 | ---| ----------------| ------------| -------------------| -------------| --------------------------| --------------|
-| 1 | Poliziotto storto | Contrabbandiere | Mente criminale | Pistola a noleggio | Capo mafioso | Truffatore |
+| 1 | Poliziotto Corotto | Contrabbandiere | Mente Criminale | Killer | Capo mafioso | Truffatore |
 | 2 | Detective | Terrorista | Signore della droga | Sicario | Esecutore | Ladro |
-| 3 | Investigatore privato | Falsario | Truffatore spiritoso | Testimone | Riciclatore di denaro | Agente di polizia |
+| 3 | Investigatore Privato | Falsario | Truffatore Arguto | Testimone | Riciclatore di denaro | Agente di polizia |
 | 4 | Agente sotto copertura | Ladro | Trafficante d'armi | Mercenario | Vigilante | Borsaiolo |
-| 5 | Bail Bondman | Rapinatore di banche | Falsificatore | Veterano | Leader del sindacato del contrabbando | Prostituta |
-| 6 | Giudice corrotto | Scassinatore sicuro | Trafficante di esseri umani | Assassino seriale | Capobanda | tossicodipendente |
+| 5 | Garante per cauzioni | Rapinatore di banche | Falsificatore | Veterano | Leader del sindacato del contrabbando | Prostituta |
+| 6 | Giudice corrotto | Scassinatore | Trafficante di esseri umani | Serial Killer | Capobanda | Tossicodipendente |
 
 
 ### Abilità
 
 | | 1 | 2 | 3 | 4 | 5 | 6 |
 | ---| -------------| -------------| --------------| ----------------------| -----------------------| ------------|
-| 1 | Furtività | Armi da fuoco | Intimidazione | Streetwise | Guida | Tattiche |
+| 1 | Furtività | Armi da fuoco | Intimidazione | Saggezza Metropolitana | Guida | Tattiche |
 | 2 | Interrogatorio | Forense | Borseggio | Monitoraggio | Conoscenza Profonda| Seduzione |
-| 3 | Legge | Demolizione | Paramedici | Inganno | Parkour | Arti marziali |
+| 3 | Legge | Demolizione | Paramedici | Inganno | Parkour | Arti Marziali |
 | 4 | Falsificazione | Avvelenamento | Combattimento con coltelli | Sorveglianza | Scasso | Travestimento |
 | 5 | Arrampicata | Artista della fuga | Tiro a segno | Connessioni nel mondo sotterraneo | Pilotaggio | Criminologia |
 | 6 | Infiltrazione | Hacking | Navigazione web | Frode | Contabilità | Furtività |
@@ -43,8 +43,8 @@ redazione e contributi di Alessio Serini
 | 2 | Ossessione | Disonestà | Arroganza | Vendetta | Dedicato alla giustizia | Cattiva reputazione |
 | 3 | Insicurezza | segretezza | Egoismo | Inganno | Ipocondria | Tradimento |
 | 4 | Egomania | Fobia| Sadismo | Invidia | Troppa fiducia | Irresponsabilità |
-| 5 | Intolleranza | Sociopatia | Nervosismo | Violento | Assassino casuale | Malattia mentale|
-| 6 | Dipendenza| Instabile | Codice contro l'uccisione | Paura | Arroganza | Idiosincrazia |
+| 5 | Intolleranza | Sociopatia | Nervosismo | Violento | Assassino casuale | Malattia Mentale|
+| 6 | Dipendenza| Instabile | Contrario alle uccisioni | Paura | Arroganza | Idiosincrazia |
 
 
 ### Attrezzatura
@@ -84,37 +84,36 @@ Il protagonista deve costruire e mantenere relazioni con altri criminali, politi
 
 #### Mantenere le relazioni
 - Quando cerchi di mantenere una relazione con un'organizzazione criminale, fai una domanda chiusa. Su un risultato di:
-  1. **No e**: La relazione prende una brutta piega e loro diventano ostili nei tuoi confronti.
+  1. **No e**: la relazione prende una brutta piega e loro diventano ostili nei tuoi confronti.
   2. **No**: la relazione rimane invariata e tu non fai progressi.
   3. **No ma**: la relazione rimane invariata, ma raccogli alcune informazioni su di loro.
-  4. **Sì ma**: Riesci a mantenere la relazione, ma richiede uno sforzo maggiore da parte tua.
+  4. **Sì ma**: riesci a mantenere la relazione, ma richiede uno sforzo maggiore da parte tua.
   5. **Sì**: mantieni la relazione con successo e loro continuano a lavorare con te.
   6. **Sì e**: non solo mantieni la relazione, ma ti offrono anche un favore o informazioni preziose.
 
 #### Ottenere informazioni
 - Quando cerchi di ottenere informazioni da un'organizzazione criminale, fai una domanda chiusa. Su un risultato di:
-  1. **No e**: La relazione prende una brutta piega e loro diventano ostili nei tuoi confronti.
-  2. **No**: Non ricevi alcuna informazione.
+  1. **No e**: la relazione prende una brutta piega e loro diventano ostili nei tuoi confronti.
+  2. **No**: non ricevi alcuna informazione.
   3. **No, ma**: non ricevi alcuna informazione, ma raccogli alcune informazioni sulle loro operazioni.
   4. **Sì, ma**: ricevi alcune informazioni, ma sono limitate e richiedono ulteriori indagini.
   5. **Sì**: ricevi informazioni preziose che possono aiutarti nelle tue attività criminali.
   6. **Sì e**: non solo ricevi informazioni preziose, ma ti offrono anche un favore o una protezione.
 
-
 ### Interrogatorio 
 - Quando tenta di estrarre informazioni da un sospetto, un testimone o un informatore, il protagonista deve fare un tiro usando le proprie capacità di negoziazione, intimidazione o indagine.
 - Quindi fai una domanda chiusa basata sul risultato del tiro per determinare l'esito dell'interazione:
-  1. **No e**: il bersaglio si rifiuta di cooperare e la sua determinazione viene rafforzata.
-  2. **No**: il bersaglio si rifiuta di collaborare.
-  3. **No, ma**: il bersaglio si rifiuta di collaborare, ma offre alcune informazioni limitate.
-  4. **Sì ma**: il bersaglio collabora, ma con riluttanza e sotto costrizione.
-  5. **Sì**: il bersaglio collabora volentieri.
-  6. **Sì e**: il target non solo collabora, ma è anche disposto a offrire ulteriori informazioni o assistenza.
+  1. **No e**: l'interrogato si rifiuta di cooperare e la sua determinazione viene rafforzata.
+  2. **No**: l'interrogato si rifiuta di collaborare.
+  3. **No, ma**: l'interrogato si rifiuta di collaborare, ma offre alcune informazioni limitate.
+  4. **Sì ma**: l'interrogato collabora, ma con riluttanza e sotto costrizione.
+  5. **Sì**: l'interrogato collabora volentieri.
+  6. **Sì e**: l'interrogato non solo collabora, ma è anche disposto a offrire ulteriori informazioni o assistenza.
 
 
 ## Fazioni
 ###  Il Sindacato
-- **Concetto**: Rete corrotta
+- **Concetto**: Rete di corruzione
 - **Abilità**: Intimidazione, Contrabbando
 - **Debolezza**: Avidità
 - **Attrezzatura**: libro nero, pistola silenziata
@@ -141,7 +140,7 @@ Il protagonista deve costruire e mantenere relazioni con altri criminali, politi
 - **Nemesi**: bande rivali
 
 ### I politici
-- **Concetto**: Power Broker
+- **Concetto**: Intermediario di potere
 - **Abilità**: Diplomazia, Lobbismo
 - **Debolezza**: Avidità
 - **Attrezzatura**: valigetta, biglietto da visita
@@ -152,7 +151,7 @@ Il protagonista deve costruire e mantenere relazioni con altri criminali, politi
 ### I giornalisti
 - **Concetto**: cani da guardia
 - **Abilità**: ricerca, scrittura
-- **Debolezza**: Curiosità
+- **Debolezza**: curiosità
 - **Attrezzatura**: blocco note, fotocamera
 - **Obiettivo**: esporre la corruzione
 - **Motivo**: verità e giustizia
@@ -178,8 +177,8 @@ Il protagonista deve costruire e mantenere relazioni con altri criminali, politi
 - **Motivo**: proteggere e servire la comunità
 - **Nemesi**: organizzazioni criminali
 
-### Kingpin Frank Blackwood
-- **Concetto**: Kingpin spietato
+### Boss Frank Blackwood
+- **Concetto**: Boss spietato
 - **Abilità**: intimidazione, networking
 - **Debolezza**: Paranoico
 - **Attrezzatura**: auto di lusso, guardie del corpo
@@ -187,16 +186,16 @@ Il protagonista deve costruire e mantenere relazioni con altri criminali, politi
 - **Motivo**: essere rispettato e temuto da tutti
 - **Nemesi**: forze dell'ordine e boss rivali
 
-### L'informatrice Lily Johnson
-- **Concetto**: Informatore ombroso
-- **Abilità**: Streetwise, furtivamente
-- **Debolezza**: dipendente
+### Informatrice Lily Johnson
+- **Concetto**: Informatrice ombrosa
+- **Abilità**: Saggezza metropolitana, furtivamente
+- **Debolezza**: tossicodipendente
 - **Attrezzatura**: telefono cellulare, carta d'identità falsa
 - **Obiettivo**: rimanere in vita e uscire dalla malavita criminale
 - **Motivo**: proteggere se stessa ei suoi cari
 - **Nemesi**: organizzazioni criminali e funzionari corrotti
 
-### Il contrabbandiere Nick Carter
+### Contrabbandiere Nick Carter
 - **Concetto**: contrabbandiere esperto
 - **Abilità**: pilotaggio, travestimento
 - **Debolezza**: Avido
@@ -205,7 +204,7 @@ Il protagonista deve costruire e mantenere relazioni con altri criminali, politi
 - **Motivo**: vivere una vita di lusso e avventura
 - **Nemesi**: funzionari doganali e agenti dell'Interpol
 
-### L'hacker Daisy Rogers
+### Hacker Daisy Rogers
 - **Concetto**: hacker esperto di tecnologia
 - **Competenze**: Informatica, Crittografia
 - **Debolezza**: arrogante
@@ -214,7 +213,7 @@ Il protagonista deve costruire e mantenere relazioni con altri criminali, politi
 - **Motivo**: dimostrare di essere l'hacker migliore e più potente
 - **Nemesi**: esperti delle forze dell'ordine e della sicurezza informatica
 
-### Il trafficante d'armi Max Sterling
+### Trafficante d'armi Max Sterling
 - **Concetto**: abile trafficante d'armi
 - **Abilità**: negoziazione, precisione di tiro
 - **Debolezza**: Impulsivo
@@ -225,7 +224,7 @@ Il protagonista deve costruire e mantenere relazioni con altri criminali, politi
 
 ## Nemici
 ### Poliziotto corrotto
-- **Concetto**: Dirty Lawman
+- **Concetto**: Poliziotto corrotto
 - **Abilità**: Intimidazione, Investigazione
 - **Debolezza**: Avidità
 - **Attrezzatura**: manette, distintivo
@@ -234,7 +233,7 @@ Il protagonista deve costruire e mantenere relazioni con altri criminali, politi
 - **Nemesi**: poliziotto onesto
 
 ### Signore della droga
-- **Concetto**: Narcotici Kingpin
+- **Concetto**: Boss del narcotraffico
 - **Abilità**: leadership, negoziazione
 - **Debolezza**: Arroganza
 - **Attrezzatura**: pistola, denaro
