@@ -1,4 +1,4 @@
-# Pacchetto Avventura Criminine
+# Pacchetto Avventura Crimine
 redazione e contributi di Alessio Serini
 
 ## Informazioni di ambientazione
