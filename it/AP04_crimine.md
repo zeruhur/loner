@@ -284,7 +284,7 @@ Il protagonista deve costruire e mantenere relazioni con altri criminali, politi
 
 ### Il porto
 - Un movimentato centro di navi mercantili, pescherecci e altre navi che costeggiano i moli e le banchine di carico.
-- Possibili incontri: Portuali, Marittimi, Contrabbandieri, Pattuglie di Polizia
+- Possibili incontri: Portuali, Marinai, Contrabbandieri, Pattuglie di Polizia
 
 ### I bassifondi
 - Una vasta rete di strutture abitative scadenti e improvvisate che ospitano i membri più poveri e disperati della società.
