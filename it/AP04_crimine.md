@@ -308,20 +308,20 @@ Il protagonista deve costruire e mantenere relazioni con altri criminali, politi
 | D66 | Avventura                                                                                                                                                                                |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 11 | Il protagonista assiste involontariamente a un'esecuzione malavitosa. |
-| 12 | I protagonisti devono infiltrarsi in una prigione di massima sicurezza per salvare un prezioso informatore. |
+| 12 | Il protagonista deve infiltrarsi in una prigione di massima sicurezza per salvare un prezioso informatore. |
 | 13 | Una potente organizzazione criminale assume il protagonista per sabotare le operazioni di una banda rivale. |
 | 14 | Il protagonista viene assunto per proteggere un ricco uomo d'affari durante una pericolosa trattativa commerciale. |
 | 15 | Il protagonista è sulle tracce di un famigerato serial killer. |
 | 16 | Il protagonista ha il compito di recuperare preziose informazioni da un funzionario governativo corrotto. |
 | 21 | Il protagonista è accusato di un omicidio che non ha commesso. |
 | 22 | Il protagonista viene assunto per recuperare un prezioso pezzo di tecnologia da una società rivale. |
-| 23 | I protagonisti devono infiltrarsi nel quartier generale segreto di una banda rivale per raccogliere informazioni. |
+| 23 | Il protagonista deve infiltrarsi nel quartier generale segreto di una banda rivale per raccogliere informazioni. |
 | 24 | Un ricco collezionista assume il protagonista per recuperare un'opera d'arte rara e preziosa. |
 | 25 | Il protagonista viene ingaggiato per scortare un obiettivo di alto valore attraverso una pericolosa città devastata dalla guerra. |
 | 26 | Una potente organizzazione criminale ingaggia il protagonista per interrompere un affare di armi di una banda rivale. |
-| 31 | I protagonisti devono rintracciare un agente canaglia che ha rubato informazioni sensibili. |
+| 31 | Il protagonista deve rintracciare un agente canaglia che ha rubato informazioni sensibili. |
 | 32 | Il protagonista viene ingaggiato per scortare un testimone a un processo importante. |
-| 33 | I protagonisti devono infiltrarsi in una struttura governativa segreta per recuperare informazioni riservate. |
+| 33 | Il protagonista deve infiltrarsi in una struttura governativa segreta per recuperare informazioni riservate. |
 | 34 | Un ricco collezionista ingaggia il protagonista per recuperare un prezioso e pericoloso manufatto. |
 | 35| Il protagonista viene assunto per recuperare un pacco rubato dal nascondiglio di una banda rivale. |
 | 36 | Il protagonista trova prove che accusano un poliziotto corrotto sulla scena del crimine. |
