@@ -327,19 +327,19 @@ Il protagonista deve costruire e mantenere relazioni con altri criminali, politi
 | 36 | Il protagonista trova prove che accusano un poliziotto corrotto sulla scena del crimine. |
 | 41 | Il personaggio si ritrova ostaggio in una rapina in banca. |
 | 42 | Il protagonista sta inseguendo un terrorista: il tempo stringe, la bomba esploderà presto. |
-| 43 | I protagonisti devono infiltrarsi nella base operativa di una banda rivale per salvare un alleato prigioniero. |
+| 43 | Il protagonista deve infiltrarsi nella base operativa di una banda rivale per salvare un alleato prigioniero. |
 | 44 | Un assassino sulle tracce del protagonista: la preda diventa il cacciatore prima che sia troppo tardi? |
 | 45 | Il protagonista viene ingaggiato per rintracciare e catturare un pericoloso criminale evaso dal carcere. |
-| 46 | I protagonisti devono recuperare un carico rubato di armi preziose prima che cada nelle mani sbagliate. |
+| 46 | Il protagonista deve recuperare un carico rubato di armi preziose prima che cada nelle mani sbagliate. |
 | 51 | Il protagonista viene assunto per proteggere un ricco filantropo durante un pericoloso evento pubblico. |
 | 52 | Il protagonista si sveglia in un appartamento sconosciuto senza alcun ricordo degli eventi recenti e con le mani coperte di sangue. Qualcuno sta bussando alla porta… |
 | 53 | Il protagonista viene assunto per salvare un prezioso ostaggio da un ambiente urbano pericoloso e ostile. |
-| 54 | I protagonisti devono recuperare un prezioso carico di merci dal nascondiglio di una banda rivale. |
+| 54 | Il protagonista deve recuperare un prezioso carico di merci dal nascondiglio di una banda rivale. |
 | 55| Uno dei membri del team è stato catturato/minacciato/riscattato/tenuto in ostaggio/utilizzato come leva. |
-| 56 | I protagonisti devono infiltrarsi nel quartier generale di una banda rivale per recuperare preziose informazioni. |
+| 56 | Il protagonista deve infiltrarsi nel quartier generale di una banda rivale per recuperare preziose informazioni. |
 | 61 | Il protagonista viene assunto per scortare un obiettivo prezioso e di alto profilo attraverso una città pericolosa. |
 | 62 | Mentre stai tornando a casa alla fine del tuo turno notturno una donna in lacrime, ferita e con i vestiti stracciati ti blocca la strada chiedendoti di salvarla perché qualcuno vuole ucciderla. |
 | 63 | Stasera arriverà al porto un prezioso carico di droga (o armi). La malavita è in subbuglio, anche la polizia. |
-| 64 | I protagonisti devono trovare le prove del coinvolgimento di un famigerato boss del crimine nell'omicidio di un giudice. |
+| 64 | Il protagonista deve trovare le prove del coinvolgimento di un famigerato boss del crimine nell'omicidio di un giudice. |
 | 65| Sei un agente sotto copertura di una grande organizzazione criminale: stai per concludere la tua missione quando scopri che una talpa ti ha tradito. |
-| 66 | I protagonisti devono salvare un prezioso informatore dal nascondiglio di una pericolosa banda rivale. |
+| 66 | Il protagonista deve salvare un prezioso informatore dal nascondiglio di una pericolosa banda rivale. |
