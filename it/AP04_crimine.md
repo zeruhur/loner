@@ -1,5 +1,5 @@
 # Pacchetto Avventura Crimine
-redazione e contributi di Alessio Serini
+revisione e contributi di Alessio Serini
 
 ## Informazioni di ambientazione
 
@@ -343,3 +343,4 @@ Il protagonista deve costruire e mantenere relazioni con altri criminali, politi
 | 64 | Il protagonista deve trovare le prove del coinvolgimento di un famigerato boss del crimine nell'omicidio di un giudice. |
 | 65| Sei un agente sotto copertura di una grande organizzazione criminale: stai per concludere la tua missione quando scopri che una talpa ti ha tradito. |
 | 66 | Il protagonista deve salvare un prezioso informatore dal nascondiglio di una pericolosa banda rivale. |
+
