@@ -11,52 +11,51 @@
 
 ### Concepts
 
-|     | 1                    | 2                       | 3                     | 4                      | 5                     | 6                        |
-|:---:| -------------------- | ----------------------- | --------------------- | ---------------------- | --------------------- | ------------------------ |
-|  1  | Dark Detective       | Mysterious Investigator | Stealthy Sleuth       | Crafty Criminologist   | Resilient Rookie      | Witty Whodunit           |
-|  2  | Sneaky Spy           | Deceptive Detective     | Intrepid Investigator | Ruthless Reporter      | Hard-boiled Hag       | Sharp-eyed Sherlock      |
-|  3  | Sinister Sleuth      | Sly Spy                 | Clever Conman         | Mastermind Detective   | Shadowy Stalker       | Quick-witted Quest       |
-|  4  | Inquisitive Insider  | Resourceful Reporter    | Inquisitive Inspector | Sneaky Sleuth          | Unwavering Undercover | Professional Private Eye |
-|  5  | Calculating Criminal | Intuitive Investigator  | Brave Buddy           | Paranormal Private Eye | Mysterious Mole       | Maverick Detective       |
-|  6  | Stealthy Snitch      | Wise Detective          | Stealthy Sleuth       | Canny Cop              | Fearless Forensic     | Pragmatic Private Eye    |
+| D66 | 1                     | 2                        | 3                       | 4                                 | 5                        | 6                       |
+|-----|-----------------------|--------------------------|-------------------------|-----------------------------------|--------------------------|-------------------------|
+| 1   | Brilliant Detective   | Cunning Sleuth           | Mysterious Investigator | Observant Inspector               | Intuitive Enigma         | Eccentric Detective     |
+| 2   | Methodical Sleuth     | Astute Investigator      | Sharp-Witted Inspector  | Tenacious Sleuth                  | Perceptive Detective     | Analytical Investigator |
+| 3   | Savvy Inspector       | Resourceful Sleuth       | Mastermind Detective    | Unorthodox Investigator           | Wise Inspector           | Insightful Sleuth       |
+| 4   | Deductive Detective   | Inquisitive Investigator | Seasoned Inspector      | Sharp-Eyed Sleuth                 | Brilliant Mind Detective | Streetwise Investigator |
+| 5   | Determined Inspector  | Keen-Eared Sleuth        | Calculating Detective   | Brilliant Strategist Investigator | Fearless Inspector       | Quick-Thinking Sleuth   |
+| 6   | Charismatic Detective | Trustworthy Investigator | Discerning Inspector    | Fearless Sleuth                   | Rational Detective       | Diligent Investigator   |
 
 
 ### Skills
 
-|     | 1                 | 2                   | 3             | 4                       | 5           | 6             |
-|:---:| ----------------- | ------------------- | ------------- | ----------------------- | ----------- | ------------- |
-|  1  | Detective Work    | Persuasion          | Stealth       | Research                | Forensics   | Interrogation |
-|  2  | Pickpocketing     | Driving             | Acting        | Con Artist              | Forgery     | Locksmithing  |
-|  3  | Tracking          | Evidence Analysis   | Lie Detection | Photography             | Networking  | Surveillance  |
-|  4  | Criminology       | Scavenging          | Intimidation  | Psychological Profiling | Negotiation | Seduction     |
-|  5  | Intuition         | Disguise            | Tracking      | First Aid               | Streetwise  | Acrobatics    |
-|  6  | Clue Analysis     | Hand-to-Hand Combat | Demolition    | Firearms                | Pilot       | Gambling      |
-|  7  | Scenario Planning | Poisoner            | Thief         | Diplomacy               | Survival    | Bribing       |
-
+| D66 | 1                     | 2                          | 3                       | 4                    | 5                      | 6                          |
+|-----|-----------------------|----------------------------|-------------------------|----------------------|------------------------|----------------------------|
+| 1   | Deductive reasoning   | Observant eye              | Crime analysis          | Sharp memory         | Forensic knowledge     | Effective interrogation    |
+| 2   | Profiling suspects    | Surveillance expertise     | Code breaking           | Research proficiency | Photography skills     | Disguise mastery           |
+| 3   | Psychological insight | Combat training            | Lock picking            | Firearms proficiency | Persuasive negotiation | Legal knowledge            |
+| 4   | Tracking abilities    | Fingerprint analysis       | Eavesdropping expertise | Safe cracking        | Lie detection          | Martial arts               |
+| 5   | Poison knowledge      | Ballistics analysis        | Witness interviewing    | Crime reconstruction | Handwriting analysis   | Document forgery detection |
+| 6   | Lip reading           | Criminal network knowledge | Logic puzzle solving    | Memory enhancement   | Navigation skills      | Stealth and concealment    |
 
 
 ### Frailties
 
-|     | 1             | 2             | 3             | 4             | 5              | 6             |
-|:---:| ------------- | ------------- | ------------- | ------------- | -------------- | ------------- |
-|  1  | Paranoia      | Greed         | Short Temper  | Cowardice     | Impulsiveness  | Addiction     |
-|  2  | Obsessiveness | Dishonesty    | Arrogance     | Vengefulness  | Naiveness      | Jealousy      |
-|  3  | Self-Doubt    | Secretiveness | Egoism        | Deception     | Mischievous    | Betrayal      |
-|  4  | Cynicism      | Nervousness   | Impulsiveness | Envy          | Overconfidence | Shame         |
-|  5  | Greed         | Vengefulness  | Cowardice     | Impulsiveness | Sadism         | Obsessiveness |
-|  6  | Naiveness     | Impulsiveness | Dishonesty    | Cowardice     | Arrogance      | Jealousy      |
+| D66 | 1                               | 2                                       | 3                          | 4                                  | 5                          | 6                                |
+|-----|---------------------------------|-----------------------------------------|----------------------------|------------------------------------|----------------------------|----------------------------------|
+| 1   | Chronic migraines               | Fear of the dark                        | Persistent nightmares      | Substance addiction                | Overwhelming guilt         | Social awkwardness               |
+| 2   | PTSD from past cases            | Chronic insomnia                        | Fear of enclosed spaces    | Grief from a personal loss         | Moral dilemma struggles    | Chronic pain from an old injury  |
+| 3   | Fear of heights                 | Imposter syndrome                       | Deep-rooted cynicism       | Claustrophobia                     | Paralyzing fear of failure | Family secrets haunting them     |
+| 4   | Fear of firearms                | Haunted by a past mistake               | Inability to trust others  | Chronic illness                    | Fear of water              | Recklessness in pursuing justice |
+| 5   | Obsessive-compulsive tendencies | Insecurity about their detective skills | Anxiety in social settings | Fear of public speaking            | Superstitious beliefs      | Emotional detachment             |
+| 6   | Fear of animals                 | Lack of empathy                         | Impaired hearing           | Paranoia and distrust of authority | Fear of the supernatural   | Inability to let go of a case.   |
 
 
 ### Gear
 
-|     | 1                | 2                | 3             | 4            | 5            | 6              |
-|:---:| ---------------- | ---------------- | ------------- | ------------ | ------------ | -------------- |
-|  1  | Magnifying Glass | Notepad & Pencil | Pocket Watch  | Telescope    | Camera       | Binoculars     |
-|  2  | Poison Kit       | Lockpicks        | Compass       | Disguise Kit | Gas Lamp     | Microscope     |
-|  3  | Derringer        | Flashlight       | Gassed Cape   | Handcuffs    | Hidden Blade | Grappling Hook |
-|  4  | Whiskey Flask    | Monocle          | Invisible Ink | Rope         | Handcuffs    | Fake Mustache  |
-|  5  | Umbrella         | Sleeping Powder  | Map           | Hand Warmer  | Bowler Hat   | Wiretap Kit    |
-|  6  | Chisel           | Briefcase        | Trenchcoat    | Gas Mask     | Bullwhip     | Forgery Kit    |
+| D66 | 1                            | 2                         | 3                                       | 4                                    | 5                               | 6                                 |
+|-----|------------------------------|---------------------------|-----------------------------------------|--------------------------------------|---------------------------------|-----------------------------------|
+| 1   | Detective's magnifying glass | Pocket watch              | Fountain pen                            | Detective's notebook                 | Evidence collection kit         | Flashlight                        |
+| 2   | Lock picking tools           | Disguise kit              | Detective's trench coat                 | Hidden camera                        | Microphone and listening device | Detective's hat                   |
+| 3   | Forensic fingerprinting kit  | Wiretapping equipment     | Camera with tripod                      | Forensic chemistry kit               | Detective's walking cane        | Evidence evidence bags and labels |
+| 4   | Crime scene tape             | Telescope                 | Morse code device                       | Invisible ink and decoding tools     | Cryptography handbook           | Portable darkroom                 |
+| 5   | Detective's briefcase        | Forensic anthropology kit | Sketching and drawing supplies          | Portable typewriter                  | Surveillance binoculars         | Breathalyzer                      |
+| 6   | Polygraph machine            | Lie detection kit         | Portable phonograph and recording discs | Detective's badge and identification | Portable fingerprinting kit     | Forensic ballistics analysis kit  |
+
 
 
 ## Special Rules
@@ -265,27 +264,27 @@ To uncover the truth, characters will need to gather and examine physical eviden
 
 
 ## Locations
-### Name: The Rusty Anchor
+### The Rusty Anchor
 - A run-down tavern near the docks, known for its rough clientele and seedy reputation.
 - Possible encounters: Drunken Sailor, Smuggler, Undercover Detective
 
-### Name: The Grand Opera House
+### The Grand Opera House
 - A grand, opulent theater that is the pride of the city. It hosts a variety of plays, operas, and ballets.
 - Possible encounters: Egotistical Actor, Wealthy Benefactor, Opera Singer
 
-### Name: The Black Rose Club
+### The Black Rose Club
 - A notorious speakeasy, located in the heart of the city's red light district.
 - Possible encounters: Bootlegger, Jazz Musician, Flapper
 
-### Name: The Ironworks Factory
+### The Ironworks Factory
 - A large, industrial factory that produces various metal goods. It is known for its long hours, low pay, and dangerous working conditions.
 - Possible encounters: Labor Union Organizer, Factory Manager, Injured Worker
 
-### Name: The University
+### The University
 - A prestigious institution of higher learning, with a focus on science, medicine, and the arts.
 - Possible encounters: Professor, Graduate Student, Nobel Prize Winner
 
-### Name: The Majestic Hotel
+### The Majestic Hotel
 - A luxurious hotel that caters to the wealthy and famous. It is known for its opulent decor and excellent service.
 - Possible encounters: Hotel Manager, Rich Tourist, Society Matron
 

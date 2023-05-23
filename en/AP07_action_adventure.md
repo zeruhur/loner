@@ -37,14 +37,15 @@
 
 ### Frailties
 
-|   | 1 | 2 | 3 | 4 | 5 | 6 |
-|:-:|---|---|---|---|---|---|
-| 1 | Impetuous | Gullible | Cowardly | Clumsy | Greedy | Paranoid |
-| 2 | Impulsive | Naive | Timid | Uncoordinated | Gluttonous | Suspicious |
-| 3 | Hasty | Innocent | Fearful | Klutzy | Avaricious | Anxious |
-| 4 | Rash | Trusting | Shy | Bumbling | Covetous | Neurotic |
-| 5 | Headstrong | Dupable | Apprehensive | Unsteady | Miserly | Worried |
-| 6 | Bold | Simple | Skittish | Accident-prone | Stingy | Jittery |
+| D66 | 1                      | 2                         | 3                       | 4                        | 5                      | 6                  |
+|-----|------------------------|---------------------------|-------------------------|--------------------------|------------------------|--------------------|
+| 1   | Fear of heights        | Impulsive decision-making | Claustrophobia          | Trust issues             | Physical weakness      | Recklessness       |
+| 2   | Fear of water          | Arrogance                 | Emotional vulnerability | Poor sense of direction  | Addiction struggles    | Fear of spiders    |
+| 3   | Paranoia and suspicion | Lack of combat skills     | Impaired vision         | Gullibility and naivety  | Vulnerability to fire  | Overconfidence     |
+| 4   | Fear of snakes         | Impatience and rashness   | Social awkwardness      | Allergic reactions       | Fear of darkness       | Poor stamina       |
+| 5   | Overprotective nature  | Fear of insects           | Easily distracted       | Technological illiteracy | Overly trusting nature | Fear of animals    |
+| 6   | Vulnerability to cold  | Compulsive risk-taking    | Claustrophobic spaces   | Fear of loud noises      | Impaired hearing       | Chronic self-doubt |
+
 
 ### Gear
 

@@ -43,8 +43,6 @@
 | 4   | Paranormal Skepticism | Alcoholic             | Kleptomaniac    | Compulsive Liar    | Gambler          | Codependent           |
 | 5   | Hypochondriac         | Narcissistic          | Agoraphobic     | Schizophrenic      | Manic Depressive | Sadistic              |
 | 6   | Obsessive Compulsive  | Pyromaniac            | Paranormal Fear | Chronic Depression | Bipolar Disorder | Schizoid              |
-| 7   | Compulsive Spending   |                       | Hoarder         | Obsessive Love     | Fear of the Dark | Obsessive Cleanliness |
-
 
 ### Gear
 
