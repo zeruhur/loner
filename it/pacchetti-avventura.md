@@ -9,3 +9,6 @@ Usali come linee guida e ispirazione non vincolanti, lascia correre la tua immag
 - [Pacchetto Avventura Fantasy](it/AP01_fantasy.md)
 - [Pacchetto Avventura Spazio](it/AP02_spazio.md)
 - [Pacchetto Avventura Supereroi](it/AP03_supereroi.md)
+- [Pacchetto Avventura Crimine](it/AP04_crimine.md)
+- [Pacchetto Avventura Giallo](it/AP05_giallo.md)
+- [Pacchetto Avventura Horror](it/AP06_horror.md)
