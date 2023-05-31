@@ -100,59 +100,59 @@ Per scoprire la verità, i personaggi dovranno raccogliere ed esaminare prove fi
 ## Fazioni
 ### I Detective
 - **Concetto**: Menti Investigative
-- **Skills**: Osservazione, Deduzione
+- **Abilità**: Osservazione, Deduzione
 - **Debolezza**: Orgoglio
 - **Attrezzatura**: Lente d'Ingrandimento, Blocco Note
 - **Obiettivo**: Risolvere misteri e portare i criminali alla giustizia
 - **Motivazione**: Mantenere la giustizia e proteggere gli innocenti
-- **Nemici**: Criminali astuti e politici corrotti
+- **Nemesi**: Criminali astuti e politici corrotti
 
 ### I Criminali
 - **Concetto**: Mentori Criminali
-- **Skills**: Inganno, Intuizione di Strada
+- **Abilità**: Inganno, Intuizione di Strada
 - **Debolezza**: Avidità
 - **Attrezzatura**: Grimaldelli, Pugnale a Scatto
 - **Obiettivo**: Commettere crimini e trarne profitto
 - **Motivazione**: Ottenere ricchezza e potere
-- **Nemici**: Detective e forze dell'ordine
+- **Nemesi**: Detective e forze dell'ordine
 
 ### I Politici
 - **Concetto**: Funzionari Corrotti
-- **Skills**: Manipolazione, Rete di Contatti
+- **Abilità**: Manipolazione, Rete di Contatti
 - **Debolezza**: Avidità
 - **Attrezzatura**: Valigetta, Carta da Visita
 - **Obiettivo**: Mantenere potere e ricchezza
 - **Motivazione**: Favorire i propri interessi personali
-- **Nemici**: Politici onesti e giornalisti investigativi
+- **Nemesi**: Politici onesti e giornalisti investigativi
 
 ### I Giornalisti
 - **Concetto**: Reporter Curiosi
-- **Skills**: Investigazione, Persuasione
+- **Abilità**: Investigazione, Persuasione
 - **Debolezza**: Impulsività
 - **Attrezzatura**: Orologio da Tasca, Taccuino
 - **Obiettivo**: Scoprire la verità e riportarla
 - **Motivazione**: Svelare la corruzione e le ingiustizie
-- **Nemici**: Politici corrotti e uomini d'affari potenti
+- **Nemesi**: Politici corrotti e uomini d'affari potenti
 
 ### Gli Scienziati
 - **Concetto**: Investigatori Scientifici
-- **Skills**: Analisi, Sperimentazione
+- **Abilità**: Analisi, Sperimentazione
 - **Debolezza**: Ossessione
 - **Attrezzatura**: Microscopio, Provette da Laboratorio
 - **Obiettivo**: Utilizzare la scienza per risolvere misteri
 - **Motivazione**: Avanzare nella conoscenza e nella comprensione
-- **Nemici**: Criminali che utilizzano la scienza per scopi personali
+- **Nemesi**: Criminali che utilizzano la scienza per scopi personali
 
 ### Gli Spiritisti
 - **Concetto**: Medium Misteriosi
-- **Skills**: Intuizione, Chiarezza
+- **Abilità**: Intuizione, Chiarezza
 - **Debolezza**: Ingenuità
 - **Attrezzatura**: Carte dei Tarocchi, Palla di Cristallo
 - **Obiettivo**: Utilizzare le proprie abilità spirituali per risolvere misteri
 - **Motivazione**: Aiutare gli innocenti e portare chiusura ai loro cari
-- **Nemici**: Scettici e debunker che mettono in dubbio le loro abilità.
+- **Nemesi**: Scettici e debunker che mettono in dubbio le loro abilità.
 
-## NPC (Personaggi non Giocanti)
+## PNG
 ### Capitano Augustus Blackwood
 - **Concetto**: Detective Caduto in Disgrazia
 - **Abilità**: Investigazione, Mirare
@@ -160,7 +160,7 @@ Per scoprire la verità, i personaggi dovranno raccogliere ed esaminare prove fi
 - **Attrezzatura**: Fiaschetta, Rivoltella
 - **Obiettivo**: Redenzione
 - **Motivazione**: Ripulire il suo nome e ripristinare la sua reputazione
-- **Nemico**: Capo di Polizia Corrotto
+- **Nemesi**: Capo di Polizia Corrotto
 
 ### Miss Prudence Fairfax
 - **Concetto**: Elegante Reporter
@@ -169,7 +169,7 @@ Per scoprire la verità, i personaggi dovranno raccogliere ed esaminare prove fi
 - **Attrezzatura**: Taccuino, Specchietto da Tasca
 - **Obiettivo**: Il Colpo della Vita
 - **Motivazione**: Scoprire la verità dietro una grande notizia e garantirsi un posto nell'industria
-- **Nemico**: Spaventoso Direttore di Redazione
+- **Nemesi**: Spaventoso Direttore di Redazione
 
 ### Dottor Theodore Marlowe
 - **Concetto**: Patologo Eccentrico
@@ -178,7 +178,7 @@ Per scoprire la verità, i personaggi dovranno raccogliere ed esaminare prove fi
 - **Attrezzatura**: Bisturi, Kit Chimico
 - **Obiettivo**: Scoperta Scientifica
 - **Motivazione**: Svelare la verità su una serie di morti misteriose e fare una svolta nel suo campo
-- **Nemico**: Colleghi Sospettosi
+- **Nemesi**: Colleghi Sospettosi
 
 ### Ivy Addams
 - **Concetto**: Sussurri nel Vento
@@ -187,7 +187,7 @@ Per scoprire la verità, i personaggi dovranno raccogliere ed esaminare prove fi
 - **Attrezzatura**: Grimaldelli, Dadi
 - **Obiettivo**: Libertà
 - **Motivazione**: Ripulire il suo nome e evitare l'arresto per un crimine che non ha commesso
-- **Nemico**: Detective Vendicativo
+- **Nemesi**: Detective Vendicativo
 
 ### Signor Jeremy Bentley
 - **Concetto**: Facoltoso Esteta
@@ -196,7 +196,7 @@ Per scoprire la verità, i personaggi dovranno raccogliere ed esaminare prove fi
 - **Attrezzatura**: Portafoglio, Portasigarette
 - **Obiettivo**: Potere
 - **Motivazione**: Aumentare la sua influenza e il controllo nelle cerchie dell'alta società
-- **Nemico**: Rivale Invidioso
+- **Nemesi**: Rivale Invidioso
 
 ### Signorina Margaret Sterling
 - **Concetto**: Ferrea Suffragetta
@@ -205,7 +205,7 @@ Per scoprire la verità, i personaggi dovranno raccogliere ed esaminare prove fi
 - **Attrezzatura**: Volantini, Orologio da Tasca
 - **Obiettivo**: Diritti delle Donne
 - **Motivazione**: Lottare per i diritti delle donne e per l'uguaglianza in una società dominata dagli uomini
-- **Nemico**: Politico Conservatore
+- **Nemesi**: Politico Conservatore
 
 ## Nemici
 ### L'Imbroglione
@@ -215,7 +215,7 @@ Per scoprire la verità, i personaggi dovranno raccogliere ed esaminare prove fi
 - **Attrezzatura**: Carta di Identità Falsa, Prove False
 - **Obiettivo**: Truffare le vittime
 - **Motivazione**: Guadagno finanziario
-- **Nemico**: Detective
+- **Nemesi**: Detective
 
 ### Il Contrabbandiere
 - **Concetto**: Commerciante Sotterraneo
@@ -224,7 +224,7 @@ Per scoprire la verità, i personaggi dovranno raccogliere ed esaminare prove fi
 - **Attrezzatura**: Scomparto Nascosto, Documenti Falsi
 - **Obiettivo**: Trarre profitto dal commercio di merci illegali
 - **Motivazione**: Guadagno finanziario
-- **Nemico**: Funzionario Doganale
+- **Nemesi**: Funzionario Doganale
 
 ### Il Ladro
 - **Concetto**: Ladro Esperto
@@ -233,7 +233,7 @@ Per scoprire la verità, i personaggi dovranno raccogliere ed esaminare prove fi
 - **Attrezzatura**: Grimaldelli, Rampino
 - **Obiettivo**: Rubare oggetti di valore
 - **Motivazione**: Guadagno personale
-- **Nemico**: Investigatore Privato
+- **Nemesi**: Investigatore Privato
 
 ### Il Falsario
 - **Concetto**: Artista Ingannatore
@@ -242,7 +242,7 @@ Per scoprire la verità, i personaggi dovranno raccogliere ed esaminare prove fi
 - **Attrezzatura**: Documenti Falsi, Materiali di Imitazione
 - **Obiettivo**: Vendere merci false facendole passare per autentiche
 - **Motivazione**: Guadagno finanziario
-- **Nemico**: Investigatore d'Arte
+- **Nemesi**: Investigatore d'Arte
 
 ### Il Ricattatore
 - **Concetto**: Estorsore
@@ -251,7 +251,7 @@ Per scoprire la verità, i personaggi dovranno raccogliere ed esaminare prove fi
 - **Attrezzatura**: Dispositivo di Registrazione Nascosto, Lettere Minacciose
 - **Obiettivo**: Estorcere denaro dalle vittime
 - **Motivazione**: Guadagno finanziario
-- **Nemico**: Detective
+- **Nemesi**: Detective
 
 ### Il Falsificatore
 - **Concetto**: Stampatore Duplicatore
@@ -260,7 +260,7 @@ Per scoprire la verità, i personaggi dovranno raccogliere ed esaminare prove fi
 - **Attrezzatura**: Denaro Falso, Inchiostri e Vernici
 - **Obiettivo**: Produrre e distribuire valuta falsa
 - **Motivazione**: Guadagno finanziario
-- **Nemico**: Agente del Tesoro
+- **Nemesi**: Agente del Tesoro
 
 ## Luoghi
 ### L'Anfora Arrugginita
