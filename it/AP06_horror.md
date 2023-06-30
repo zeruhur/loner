@@ -5,7 +5,7 @@
 - Il contesto si svolge ai giorni nostri, offrendo al protagonista un senso di familiarità e realismo.
 - La location può essere una piccola città, una grande città o una zona rurale isolata, creando un senso di isolamento e vulnerabilità per i personaggi.
 - La struttura sociale è tipica della società moderna, con istituzioni governative, forze dell'ordine e tecnologia che giocano un ruolo significativo.
-- Il genere horror è fortemente influenzato da film e libri popolari, quindi i protagonisti possono aspettarsi di incontrare trame e archetipi classici dell'horror.
+- Il genere horror è fortemente influenzato da film e libri popolari, quindi il protagonista può aspettarsi di incontrare trame e archetipi classici dell'horror.
 - Eventi storici significativi e leggende, come i processi alle streghe di Salem o il Mostro di Loch Ness, possono fornire uno sfondo di paura e superstizione al contesto.
 
 ## Caratteristiche dei Personaggi
@@ -42,7 +42,7 @@
 | 3   | Credulità           | Personalità Dipendente | Prevenzione     | Inganno             | Gelosia           | Accumulatore             |
 | 4   | Scetticismo Paranormale | Alcolismo         | Cleptomania     | Bugiardo Compulsivo | Giocatore d'azzardo | Dipendenza Affettiva      |
 | 5   | Ipocondria          | Narcisismo           | Agorafobia      | Schizofrenia        | Disturbo Bipolare | Sadismo                   |
-| 6   | Ossessione Compulsiva | Piromania           | Paura del Paranormale | Depressione Cronica | Disturbo Bipolare | Schizoide                 |
+| 6   | Ossessione Compulsiva | Piromania           | Paura del Paranormale | Depressione Cronica | Disturbo Dissociativo | Schizoide                 |
 
 
 ### Equipaggiamento
@@ -264,28 +264,28 @@
 
 | D66 | Avventura |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 11 | Il protagonista scopre che la città locale è afflitta da strane sparizioni. Devono indagare per scoprire cosa le provoca e porvi fine. |
-| 12 | I protagonisti vengono ingaggiati per indagare su uno strano evento verificatosi all'Ospedale abbandonato, dove i pazienti muoiono improvvisamente senza spiegazione. |
-| 13 | I protagonisti si imbattono in un oggetto maledetto nel Bosco Maledetto e devono trovare un modo per spezzare la maledizione prima che sia troppo tardi. |
-| 14 | I protagonisti vengono assunti per indagare su una serie di misteriosi omicidi nella Vecchia Magione, dove tutte le vittime sono state prosciugate del loro sangue. |
-| 15 | I protagonisti scoprono che la Struttura di Ricerca Isolata sta conducendo esperimenti non etici su soggetti umani. Devono fermare gli esperimenti e liberare i soggetti. |
-| 16 | I protagonisti vengono assunti per indagare su strani avvenimenti nel Manicomio Abbandonato, dove i pazienti riferiscono di essere perseguitati da fantasmi. |
-| 21 | I protagonisti scoprono che l'Haunted Hotel è infestato dai fantasmi dei suoi ex ospiti. Devono scoprire la verità dietro le infestazioni e mettere a riposo gli spiriti. |
-| 22 | I protagonisti vengono contattati da un PNG che chiede aiuto per scoprire la verità dietro l'improvvisa comparsa di Infetti in città. |
-| 23 | I protagonisti devono impedire a una setta di eseguire un rituale nel Bosco Maledetto che evocherà un potente male. |
+| 11 | Il protagonista scopre che la città locale è afflitta da strane sparizioni. Deve indagare per scoprire cosa le provoca e porvi fine. |
+| 12 | Il protagonista è ingaggiato per indagare su uno strano evento verificatosi all'Ospedale abbandonato, dove i pazienti muoiono improvvisamente senza spiegazione. |
+| 13 | Il protagonista si imbatte in un oggetto maledetto nel Bosco Maledetto e devono trovare un modo per spezzare la maledizione prima che sia troppo tardi. |
+| 14 | Il protagonista è assunto per indagare su una serie di misteriosi omicidi nella Vecchia Magione, dove tutte le vittime sono state prosciugate del loro sangue. |
+| 15 | Il protagonista scopre che la Struttura di Ricerca Isolata sta conducendo esperimenti non etici su soggetti umani. Deve fermare gli esperimenti e liberare i soggetti. |
+| 16 | Il protagonista è assunto per indagare su strani avvenimenti nel Manicomio Abbandonato, dove i pazienti riferiscono di essere perseguitati da fantasmi. |
+| 21 | Il protagonista scopre che l'Haunted Hotel è infestato dai fantasmi dei suoi ex ospiti. Deve scoprire la verità dietro le infestazioni e mettere a riposo gli spiriti. |
+| 22 | Il protagonista è contattato da un PNG che chiede aiuto per scoprire la verità dietro l'improvvisa comparsa di Infetti in città. |
+| 23 | Il protagonista deve impedire a una setta di eseguire un rituale nel Bosco Maledetto che evocherà un potente male. |
 | 24 | Il protagonista deve scoprire la verità dietro le strane sparizioni nella Vecchia Magione e fermare il colpevole. |
 | 25 | Il protagonista deve impedire allo Spettro di mietere altre vittime nel Cimitero in rovina. |
 | 26 | Il protagonista deve salvare un prigioniero dalle grinfie del Cultista nel Manicomio abbandonato. |
 | 31 | Il protagonista deve trovare e sconfiggere la Bestia Mannara che terrorizza il Bosco Maledetto. |
 | 32 | Il protagonista deve porre fine al regno di terrore della Fiamma dell'Ombra. |
-| 33 | I protagonisti vengono ingaggiati da un ricco collezionista per recuperare un dipinto maledetto da una villa infestata. |
+| 33 | Il protagonista è ingaggiato da un ricco collezionista per recuperare un dipinto maledetto da una villa infestata. |
 | 34 | Una pericolosa creatura si aggira per la città e il protagonista deve rintracciarla prima che provochi altri danni. |
 | 35 | Un gruppo di sopravvissuti si è rifugiato in una vecchia chiesa, ma è braccato da un branco di lupi mannari. Il protagonista deve aiutare a proteggere i sopravvissuti e trovare un modo per sconfiggere i lupi mannari. |
 | 36 | Uno scienziato pazzo sta conducendo esperimenti sui morti viventi e il protagonista deve porre fine alle sue contorte ricerche. |
-| 41 | I protagonisti vengono assunti da una squadra di investigazione paranormale per scoprire i segreti di un manicomio abbandonato. |
+| 41 | Il protagonista è assunto da una squadra di investigazione paranormale per scoprire i segreti di un manicomio abbandonato. |
 | 42 | Un potente prete voodoo sta usando la magia nera per controllare le menti degli abitanti della città. Il protagonista deve trovare un modo per rompere l'incantesimo e riportare l'ordine in città. |
-| 43 | Un potente sensitivo sta causando scompiglio in città e i protagonisti vengono assunti da un boss della criminalità locale per riportare l'individuo sotto controllo. |
-| 44 | Una misteriosa sostanza si è infiltrata nella rete idrica della città, causando strane mutazioni nella fauna e negli esseri umani. I protagonisti sono incaricati di trovare la fonte della contaminazione e di fermarla. |
+| 43 | Un potente sensitivo sta causando scompiglio in città e il protagonista è assuntiìo da un boss della criminalità locale per riportare l'individuo sotto controllo. |
+| 44 | Una misteriosa sostanza si è infiltrata nella rete idrica della città, causando strane mutazioni nella fauna e negli esseri umani. Il protagonista è incaricato di trovare la fonte della contaminazione e di fermarla. |
 | 45 | Una setta sta cercando di evocare un potente demone e il protagonista deve infiltrarsi nella loro roccaforte e impedire che il rituale venga completato. |
 | 46 | Un misterioso straniero contatta il protagonista, sostenendo di avere informazioni su un artefatto dimenticato da tempo con il potere di porre fine al mondo. |
 | 51 | Il protagonista viene assunto per scortare un gruppo di ricercatori nell'ospedale abbandonato per scoprire i segreti del paziente zero. |
@@ -293,10 +293,10 @@
 | 53 | Una misteriosa malattia si sta diffondendo in città e il protagonista deve trovare la cura prima che sia troppo tardi. |
 | 54 | Un potente demone ha preso il controllo di una prigione abbandonata e il protagonista deve sconfiggerlo per liberare le anime prigioniere. |
 | 55 | Un carnevale infestato è arrivato in città e il protagonista deve scoprire gli oscuri segreti che si celano dietro le attrazioni. |
-| 56 | I protagonisti vengono ingaggiati da un ricco collezionista per recuperare un manufatto perduto che si dice sia maledetto. |
+| 56 | Il protagonista è ingaggiato da un ricco collezionista per recuperare un manufatto perduto che si dice sia maledetto. |
 | 61 | Un serial killer è a piede libero e il protagonista deve rintracciarlo prima che colpisca di nuovo. |
-| 62 | Un gruppo di sopravvissuti si è rifugiato in una baita remota, ma è perseguitato da una creatura della foresta. I protagonisti devono aiutare a proteggere i sopravvissuti e a sconfiggere la creatura. |
+| 62 | Un gruppo di sopravvissuti si è rifugiato in una baita remota, ma è perseguitato da una creatura della foresta. Il protagonista deve aiutare a proteggere i sopravvissuti e a sconfiggere la creatura. |
 | 63 | Un'antica tomba è stata scoperta e il protagonista deve esplorare i suoi oscuri passaggi per trovare il tesoro al suo interno. |
-| 64 | Un potente stregone sta usando la magia nera per controllare le menti degli abitanti della città. I protagonisti devono trovare un modo per fermarlo e riportare l'ordine in città. |
-| 65 | I protagonisti vengono ingaggiati per indagare su una serie di strane sparizioni in una città remota. |
+| 64 | Un potente stregone sta usando la magia nera per controllare le menti degli abitanti della città. Il protagonista deve trovare un modo per fermarlo e riportare l'ordine in città. |
+| 65 | Il protagonista è ingaggiato per indagare su una serie di strane sparizioni in una città remota. |
 | 66 | Una nave infestata è stata avvistata al largo della costa e il protagonista deve esplorarne le inquietanti sale per scoprirne gli oscuri segreti. |
