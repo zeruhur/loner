@@ -15,7 +15,7 @@
   - [Pirates Adventure Pack](en/AP10_pirates.md)
   - [Western Adventure Pack](en/AP11_western.md)
   - [Cyberpunk Adventure Pack](en/AP12_cyberpunk.md)
-  - [FAQ](faq.md)
+  - [FAQ](/en/faq.md)
 - **Versione Italiana**
   - [Regolamento](it/loner-ita.md)
   - [Pacchetti Avventura](it/pacchetti-avventura.md)

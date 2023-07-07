@@ -1,4 +1,4 @@
-## Frequently Asked Questions.
+## Frequently Asked Questions
 
 ## Does Luck represent the character's Hit Points?
 
