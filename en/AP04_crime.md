@@ -96,7 +96,7 @@ The protagonist must build and maintain relationships with other criminals, poli
 
 #### Gaining Information
 - When trying to gain information from a criminal organization, ask a closed question. On a result of:
-  1. "No and": The relationship takes a turn for the worse, and they become hostile towards you.
+  1. "No and": You do not get any information and things get worse.
   2. "No": You do not receive any information.
   3. "No but": You do not receive any information, but you gather some insight into their operations.
   4. "Yes but": You receive some information, but it is limited and requires further investigation.
