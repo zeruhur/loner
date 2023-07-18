@@ -14,7 +14,7 @@
 
 |   | 1 | 2 | 3 | 4 | 5 | 6 |
 |:-:|---|---|---|---|---|---|
-| 1 | Coraggioso Archeologo | Pilota Audace | Soldato Feroce | Cacciatore Acuto | Hacker Esperto | Diplomatico Spiritoso |
+| 1 | Coraggioso Archeologo | Pilota Audace | Soldato Feroce | Cacciatore Abile | Hacker Esperto | Diplomatico Spiritoso |
 | 2 | Esploratore Senza Paura | Ladro Abile | Lottatore Resistente | Spia Pronto e Arguto | Meccanico Risoluto | Leader Carismatico |
 | 3 | Avventuriero Audace | Acrobata Agile | Soldato Esperto | Tracciatore Abile | Giornalista Intrepido | Imprenditore Audace |
 | 4 | Temerario Cacciatore di Tesori | Ladro Furtivo | Veterano Provato in Battaglia | Stratega Maestro | Hacker Geniale | Negoziatore Astuto |
@@ -31,14 +31,14 @@
 | 3 | Falsificazione | Gioco d'Azzardo | Geografia | Storia | Caccia | Intimidazione |
 | 4 | Conoscenza dell'Arte | Lingue | Meccanica | Leadership | Scasso | Navigazione |
 | 5 | Persuasione | Fotografia | Pilotaggio | Tracciamento | Trappole | Sopravvivenza |
-| 6 | Nuoto | Tattiche | Tecnologia | Caccia al Tesoro | Combattimento a Mani Nude | Maestria delle Armi |
+| 6 | Nuoto | Tattiche | Tecnologia | Caccia al Tesoro | Lotta | Maestria delle Armi |
 
 
 ### Fragilità
 
 | D66 | 1                      | 2                         | 3                       | 4                        | 5                      | 6                  |
 |-----|------------------------|---------------------------|-------------------------|--------------------------|------------------------|--------------------|
-| 1   | Paura dell'altezza      | Decisioni impulsiva       | Claustrofobia           | Problemi di fiducia      | Debolezza fisica        | Incoscienza        |
+| 1   | Paura dell'altezza      | Decisioni impulsive       | Claustrofobia           | Problemi di fiducia      | Debolezza fisica        | Incoscienza        |
 | 2   | Paura dell'acqua        | Arroganza                 | Vulnerabilità emotiva    | Pessimo senso dell'orientamento  | Lotta contro le dipendenze | Paura dei ragni |
 | 3   | Paranoia e sospetto     | Mancanza di abilità di combattimento  | Visione compromessa    | Credulità e ingenuità    | Vulnerabilità al fuoco  | Eccessiva fiducia |
 | 4   | Paura dei serpenti      | Impazienza e imprudenza   | Impaccio sociale         | Reazioni allergiche       | Paura dell'oscurità     | Poca resistenza   |
@@ -55,7 +55,7 @@
 | 3 | Pistola | Fucile di precisione | Attrezzatura per l'arrampicata | Radio | Kit medico | Clip di ricambio |
 | 4 | Pugnale | Fucile d'assalto | Paracadute | Set di grimaldelli | Mappa | Bottiglia d'acqua |
 | 5 | Ascia da battaglia | Granate | Jetpack | Fucile segnalatore | Occhiali per la visione notturna | Barrette energetiche |
-| 6 | Tomahawk | Lancefiamme | Ala delta | Pistola ad arpione | Kit di sopravvivenza | Trapano pneumatico |
+| 6 | Tomahawk | Lanciafiamme | Ala delta | Pistola ad arpione | Kit di sopravvivenza | Trapano pneumatico |
 
 
 ## Regole speciali
@@ -80,7 +80,7 @@ I punti azione possono essere spesi per aumentare le probabilità di successo o 
 
 ### Il Culto della Mummia
 - **Concetto**: Fanatici mistici
-- **Abilità**: Religione, Stealth
+- **Abilità**: Religione, Furtività
 - **Debolezza**: Fanatismo
 - **Attrezzatura**: Simbolo sacro, Antico rotolo
 - **Obiettivo**: Adorare e far rivivere un potente sovrano antico
@@ -142,8 +142,8 @@ I punti azione possono essere spesi per aumentare le probabilità di successo o 
 - **Motivazione**: Ricchezza
 - **Nemesi**: Polizia, I Cacciatori di Tesori
 
-### Dottor Victoria Jones
-- **Concetto**: Avventuriera dottore
+### Dottoressa Victoria Jones
+- **Concetto**: Medico Avventuriero
 - **Abilità**: Medicina, Sopravvivenza
 - **Debolezza**: Eccesso di coraggio
 - **Attrezzatura**: Kit di Primo Soccorso, Machete

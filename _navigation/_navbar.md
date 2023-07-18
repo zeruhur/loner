@@ -25,5 +25,7 @@
   - [Pacchetto Avventura Crimine](it/AP04_crimine.md)
   - [Pacchetto Avventura Giallo](it/AP05_giallo.md)
   - [Pacchetto Avventura Horror](it/AP06_horror.md)
+  - [Pacchetto Avventura Azione](it/AP07_azione.md)
+  - [Pacchetto Avventura Spionaggio](it/AP08_spionaggio.md)
   - [Domande Frequenti](it/domande_frequenti.md)
 - [Loner Assistant](https://zeruhur.space/loner-assistant/)
