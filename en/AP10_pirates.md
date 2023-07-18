@@ -12,49 +12,52 @@
 
 ### Concepts
 
-|   | 1            | 2                 | 3               | 4            | 5             | 6             |
-|---|--------------|-------------------|-----------------|--------------|---------------|---------------|
-| 1 | Reclusive    | Hunter            | Charismatic     | Opportunist  | Savant        | Drifter       |
-| 2 | Fearless     | Scavenger         | Enigmatic       | Scoundrel    | Mercenary     | Grifter       |
-| 3 | Pariah       | Tracker           | Convivial       | Trickster    | Sage          | Vagabond      |
-| 4 | Resilient    | Survivalist       | Diplomatic      | Explorer     | Hermit        | Nomad         |
-| 5 | Ruthless     | Raider            | Debonair        | Smuggler     | Scholar       | Outlaw        |
-| 6 | Stoic        | Fisherman         | Outgoing        | Privateer    | Engineer      | Wanderer      |
+|  | 1                       | 2                      | 3                      | 4                 | 5                          | 6                              |
+|-----|-------------------------|------------------------|------------------------|-------------------|----------------------------|--------------------------------|
+| 1   | Daring Swashbuckler     | Cunning Scoundrel      | Fearless Buccaneer     | Wise Navigator    | Agile Cutthroat            | Enigmatic Corsair              |
+| 2   | Savage Marauder         | Charismatic Freebooter | Mysterious Privateer   | Reckless Renegade | Resourceful Smuggler       | Ferocious Plunderer            |
+| 3   | Loyal Quartermaster     | Audacious Raider       | Ambitious Sea Dog      | Swift Harpooner   | Tenacious Treasure Hunter  | Cursed Buccaneer               |
+| 4   | Legendary Captain       | Stealthy Siren         | Intrepid Explorer      | Ruthless Pillager | Inspirational Swashbuckler | Dashing Pirate Prince/Princess |
+| 5   | Cunning Saboteur        | Merciless Blackguard   | Astute Lookout         | Fearless Avenger  | Wily Shipwright            | Feisty Deckhand                |
+| 6   | Daring Sea Witch/Wizard | Courageous First Mate  | Enigmatic Ghost Pirate | Bold Sea Rover    | Skilled Cannonmaster       | Lucky Buccaneer                |
+
 
 
 ### Skills
 
-|     | 1            | 2          | 3             | 4                   | 5               | 6          |
-| --- | ------------ | ---------- | ------------- | ------------------- | --------------- | ---------- |
-| 1   | Foraging     | Trapping   | Hunting       | Navigation          | First Aid       | Stealth    |
-| 2   | Mechanics    | Repair     | Blacksmithing | Carpentry           | Sewing          | Cooking    |
-| 3   | Leadership   | Persuasion | Negotiation   | Intimidation        | Deception       | Empathy    |
-| 4   | Scavenging   | Salvaging  | Exploration   | Climbing            | Swimming        | Tracking   |
-| 5   | Marksmanship | Archery    | Melee Combat  | Hand-to-Hand Combat | Firearms        | Explosives |
-| 6   | Medicine     | Herbalism  | Surgery       | Psychology          | Animal Handling | Piloting   |
+|  | 1             | 2               | 3          | 4             | 5                | 6                   |
+|-----|---------------|-----------------|------------|---------------|------------------|---------------------|
+| 1   | Swordsmanship | Marksmanship    | Navigation | Stealth       | Acrobatics       | Leadership          |
+| 2   | Thievery      | Sailing         | Swimming   | Survival      | Lockpicking      | Charm               |
+| 3   | Intimidation  | Cooking         | Healing    | Gunnery       | Cartography      | Tracking            |
+| 4   | Negotiation   | Rope Skills     | Singing    | Gambling      | Ship Maintenance | Shipbuilding        |
+| 5   | Alchemy       | Fortune Telling | Fishing    | Blacksmithing | Herbalism        | Weather Forecasting |
+| 6   | Linguistics   | Musician        | Knot-tying | Tactics       | Cannon Handling  | Treasure Hunting    |
+
 
 ### Frailties
 
-|     | 1                 | 2              | 3                | 4                       | 5                | 6              |
-| --- | ----------------- | -------------- | ---------------- | ----------------------- | ---------------- | -------------- |
-| 1   | Seasickness       | Greedy         | Hot-headed       | Cowardly                | Drunkard         | Arrogant       |
-| 2   | Liar              | Paranoid       | Mute             | Slow                    | Oblivious        | Reckless       |
-| 3   | Poor vision       | Superstitious  | Amputee          | Bad with directions     | Lazy             | Hoarder        |
-| 4   | Easily distracted | Vindictive     | Fear of heights  | Fear of enclosed spaces | Short-tempered   | Trust issues   |
-| 5   | Poor balance      | Insecure       | Poor swimmer     | Pyromaniac              | Bloodthirsty     | Greedy         |
-| 6   | Illiterate        | Fear of sharks | Fear of drowning | Fear of fire            | Fear of betrayal | Bad reputation |
+|  | 1                         | 2               | 3                    | 4                                    | 5                                  | 6                        |
+|-----|---------------------------|-----------------|----------------------|--------------------------------------|------------------------------------|--------------------------|
+| 1   | Greed                     | Hot-tempered    | Superstitious        | Fear of the sea                      | Claustrophobia                     | Overconfident            |
+| 2   | Impulsive                 | Vengeful        | Easily distracted    | Trust issues                         | Alcoholism                         | Impatient                |
+| 3   | Reckless gambler          | Paranoia        | Prone to seasickness | Arrogant                             | Impoverished                       | Fear of heights          |
+| 4   | Stubborn                  | Guilt-ridden    | Fear of authority    | Claustrophobia                       | Loyal to a fault                   | Perfectionist            |
+| 5   | Nightmares                | Cursed          | Phobia of creatures  | Unlucky                              | Gullible                           | Insomniac                |
+| 6   | Easily swayed by flattery | Impaired vision | Imposter syndrome    | Addiction to rum or other substances | Insecure about physical appearance | Haunted by past mistakes |
+
 
 
 ### Gear
 
-|     | 1                   | 2                 | 3              | 4            | 5                 | 6                  |
-| --- | ------------------- | ----------------- | -------------- | ------------ | ----------------- | ------------------ |
-| 1   | Flintlock           | Pistol            | Cutlass        | Spyglass     | Navigation Charts | Sextant            |
-| 2   | Compass             | Black Powder Keg  | Grappling Hook | Cannonball   | Grenade           | Musket Rifle       |
-| 3   | Blunderbuss Shotgun | Bandolier         | Rum Bottle     | Tobacco Pipe | Hook Hand         | Eye Patch          |
-| 4   | Wooden Leg          | Pirate Hat        | Leather Boots  | Belt Pouch   | Treasure Map      | Lantern            |
-| 5   | Shovel              | Axe               | Fishing Net    | Rope         | Tar Pot           | Bucket             |
-| 6   | Boarding Pike       | Armor Breastplate | Sailor Hat     | Barrel       | Lantern Oil       | Handheld Telescope |
+|   | 1             | 2                   | 3                   | 4               | 5                | 6                  |
+|---|---------------|---------------------|---------------------|-----------------|------------------|--------------------|
+| 1 | Cutlass       | Flintlock Pistol    | Spyglass            | Grappling Hook  | Compass          | Rope               |
+| 2 | Treasure Map  | Throwing Knives     | Blunderbuss         | Poisoned Dagger | Telescope        | Net                |
+| 3 | Healing Salve | Smoke Bomb          | Harpoon             | Tricorn Hat     | Leather Armor    | Bandana            |
+| 4 | Cannonball    | Lockpicks           | Lantern             | Rum Barrel      | Fishing Net      | Spy's Disguise Kit |
+| 5 | Ship's Wheel  | Pouch of Gold Coins | Barrel of Gunpowder | Healing Potion  | Navigation Tools | Jolly Roger Flag   |
+| 6 | Scimitar      | Sextant             | Pirate Ship         | Ship's Anchor   | Diving Bell      | Wooden Leg         |
 
 
 ## Special Rules

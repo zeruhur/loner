@@ -27,5 +27,6 @@
   - [Pacchetto Avventura Horror](it/AP06_horror.md)
   - [Pacchetto Avventura Azione](it/AP07_azione.md)
   - [Pacchetto Avventura Spionaggio](it/AP08_spionaggio.md)
+  - [Pacchetto Avventura Pirati](it/AP10_pirati.md)
   - [Domande Frequenti](it/domande_frequenti.md)
 - [Loner Assistant](https://zeruhur.space/loner-assistant/)
