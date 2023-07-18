@@ -12,38 +12,39 @@
 
 ### Concepts
 
-|     | 1       | 2        | 3           | 4             | 5          | 6        |
-| --- | ------- | -------- | ----------- | ------------- | ---------- | -------- |
-| 1   | Savage  | Radioman | Wastelander | Renegade      | Scrapper   | Survivor |
-| 2   | Prepper | Mutant   | Raider      | Hunter        | Drifter    | Sniper   |
-| 3   | Nomad   | Tinkerer | Scavenger   | Soldier       | Shaman     | Mechanic |
-| 4   | Cultist | Bandit   | Marauder    | Outcast       | Mercenary  | Smuggler |
-| 5   | Exile   | Hermit   | Scientist   | Bounty Hunter | Explorer   | Saboteur |
-| 6   | Cyborg  | Slaver   | Engineer    | Thief         | Gunslinger | Trader   |
+|   | 1                           | 2                    | 3                      | 4                  | 5                   | 6                     |
+|---|-----------------------------|----------------------|------------------------|--------------------|---------------------|-----------------------|
+| 1 | Radiant Wanderer            | Savage Nomad         | Silent Sniper          | Ashen Outcast      | Feral Raider        | Cursed Shaman         |
+| 2 | Mechanical Engineer         | Toxic Alchemist      | Shadowed Assassin      | Mutated Juggernaut | Scavenging Tinkerer | Lost Survivor         |
+| 3 | Deserted Medic              | Ghostly Specter      | Ironclad Guardian      | Ravaged Bard       | Reckless Renegade   | Vengeful Ronin        |
+| 4 | Cyborg Mercenary            | Stealthy Infiltrator | Mysterious Oracle      | Mad Scientist      | Marauding Warlord   | Charismatic Trader    |
+| 5 | Dystopian Cyberspace Hacker | Enigmatic Druid      | Plague Doctor          | Unhinged Mechanic  | Arcane Gunslinger   | Weathered Tracker     |
+| 6 | Ruthless Executioner        | Exiled Leader        | Relentless Survivalist | Grim Reaper        | Cursed Knight       | Illusionist Trickster |
+
 
 
 ### Skills
 
-|     | 1            | 2           | 3               | 4          | 5             | 6            |
-| --- | ------------ | ----------- | --------------- | ---------- | ------------- | ------------ |
-| 1   | Hunting      | Survival    | Scavenging      | First Aid  | Stealth       | Melee        |
-| 2   | Marksmanship | Negotiation | Mechanics       | Cooking    | Tracking      | Diplomacy    |
-| 3   | Driving      | Leadership  | Crafting        | Climbing   | Archery       | Intimidation |
-| 4   | Bartering    | Swimming    | Trapping        | Medicine   | Repair        | Lockpicking  |
-| 5   | Sailing      | Tactics     | Investigation   | Explosives | Pickpocketing | Martial Arts |
-| 6   | Navigation   | Charisma    | Animal Handling | Acrobatics | Hacking       | Bluffing     |
+|   | 1                  | 2                 | 3                | 4                 | 5                | 6                    |
+|---|--------------------|-------------------|------------------|-------------------|------------------|----------------------|
+| 1 | Marksmanship       | Survival Instinct | Scavenging       | Stealth           | Engineering      | Alchemy              |
+| 2 | Melee Combat       | Archery           | Healing          | Leadership        | Hacking          | Trapping             |
+| 3 | Navigation         | Negotiation       | Tracking         | Lockpicking       | Explosives       | Animal Handling      |
+| 4 | Martial Arts       | Psychic Abilities | Driving/Piloting | Tactical Planning | Snares and Traps | Medicine             |
+| 5 | Bardic Performance | Demolitions       | Infiltration     | Cooking/Foraging  | Bartering        | Sabotage             |
+| 6 | Herbalism          | Intimidation      | Espionage        | Shield Mastery    | Illusions        | Firearms Proficiency |
 
 
 ### Frailties
 
-|     | 1                     | 2             | 3                 | 4               | 5                       | 6            |
-| --- | --------------------- | ------------- | ----------------- | --------------- | ----------------------- | ------------ |
-| 1   | Amputee               | Asthma        | Bad eyesight      | Claustrophobia  | Colorblind              | Cowardice    |
-| 2   | Deaf                  | Depression    | Epilepsy          | Fear of heights | Greed                   | Gullibility  |
-| 3   | Hoarder               | Illiteracy    | Insomnia          | Kleptomania     | Loner                   | Muteness     |
-| 4   | Near-sighted          | Paranoia      | Paraplegic        | Phobia of water | Pyromania               | Sadism       |
-| 5   | Selfish               | Short temper  | Slow learner      | Social anxiety  | Substance abuse         | Superstition |
-| 6   | Technologically inept | Tunnel vision | Weak constitution | Xenophobia      | Addiction to technology | Arrogance    |
+|   | 1             | 2                        | 3              | 4                                     | 5               | 6                 |
+|---|---------------|--------------------------|----------------|---------------------------------------|-----------------|-------------------|
+| 1 | Paranoia      | Addiction                | Claustrophobia | Recklessness                          | Trust Issues    | Arrogance         |
+| 2 | Cowardice     | Impulsiveness            | Greed          | Obsessive Compulsive Disorder (OCD)   | Amnesia         | Chronic Pain      |
+| 3 | Insomnia      | Speech Impediment        | Gullibility    | Post-Traumatic Stress Disorder (PTSD) | Pyromania       | Loneliness        |
+| 4 | Fear of Water | Technological Ineptitude | Perfectionism  | Bloodlust                             | Chronic Illness | Imposter Syndrome |
+| 5 | Agoraphobia   | Gambler's Addiction      | Hoarding       | Radiation Sickness                    | Fear of Heights | Vengefulness      |
+| 6 | Superstition  | Deep-seated Guilt        | Social Anxiety | Fragile Bones                         | Motion Sickness | Loss of Senses    |
 
 
 ### Gear

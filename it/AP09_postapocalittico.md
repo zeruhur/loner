@@ -10,49 +10,55 @@
 
 ## Caratteristiche dei Personaggi
 
+## Tratti del personaggio
+
 ### Concetti
 
-|     | 1           | 2          | 3           | 4           | 5             | 6        |
-| --- | ----------- | ---------- | ----------- | ----------- | ------------- | -------- |
-| 1   | Selvaggio    | Radioman   | Errante     | Ribelle     | Saccheggiatore | Sopravvissuto |
-| 2   | Prepper      | Mutante    | Predatore   | Cacciatore   | Nomade        | Cecchino |
-| 3   | Nomade       | Inventore  | Raccattatore | Soldato     | Sciamano      | Meccanico |
-| 4   | Cultista     | Bandito    | Predone     | Escluso     | Mercenario    | Contrabbandiere |
-| 5   | Esule        | Eremita    | Scienziato  | Cacciatore di taglie | Esploratore  | Sabotatore |
-| 6   | Cyborg       | Schiavista | Ingegnere   | Ladro       | Pistolero     | Mercante |
+|   | 1                    | 2                    | 3                  | 4                  | 5                     | 6                      |
+|---|----------------------|----------------------|--------------------|--------------------|-----------------------|------------------------|
+| 1 | Errante Radioso      | Nomade Selvaggio      | Cecchino Silenzioso | Esiliato Fuligginoso | Predatore Selvaggio    | Sciamano Maledetto     |
+| 2 | Ingegnere Meccanico  | Alchimista Tossico    | Assassino Ombroso   | Gigante Mutato       | Riciclatore Esperto    | Sopravvissuto Perduto  |
+| 3 | Medico Abbandonato   | Spettro Fantasmagorico | Guardiano Corazzato | Bardo Devastato      | Ribelle Sconsiderato  | Ronin Vendicativo      |
+| 4 | Mercenario Cyborg    | Infiltrato Furtivo    | Oracolo Misterioso  | Scienziato Pazzo     | Signore della Guerra   | Commerciante Carismatico |
+| 5 | Hacker Distopico     | Druido Enigmatico     | Dottore della Peste | Meccanico Instabile  | Pistolero Arcano       | Esploratore Consumato  |
+| 6 | Carnefice Spietato   | Leader Esiliato       | Sopravvissuto Tenace | Mietitore Truce      | Cavaliere Maledetto    | Giullare Illusionista  |
+
+
 
 ### Abilità
 
-|     | 1              | 2             | 3             | 4           | 5               | 6          |
-| --- | -------------- | ------------- | ------------- | ----------- | --------------- | ---------- |
-| 1   | Caccia         | Sopravvivenza | Ricerca       | Primo soccorso | Furtività       | Combattimento corpo a corpo |
-| 2   | Mirare         | Negoziazione  | Meccanica     | Cucina      | Tracciamento    | Diplomazia |
-| 3   | Guida          | Leadership    | Artigianato   | Arrampicata | Tiro con l'arco | Intimidazione |
-| 4   | Contrattazione | Nuoto         | Trappole      | Medicina    | Riparazione     | Forzatura serrature |
-| 5   | Navigazione    | Tattiche      | Investigazione | Esplosivi   | Borseggiare    | Arti marziali |
-| 6   | Navigazione    | Carisma       | Gestione animali | Acrobazia | Hacking         | Inganno     |
+|   | 1                  | 2                 | 3                | 4                  | 5                | 6                      |
+|---|--------------------|-------------------|------------------|-------------------|------------------|------------------------|
+| 1 | Mirare             | Istinto di Sopravvivenza | Scavare      | Furtività          | Ingegneria       | Alchimia               |
+| 2 | Combattimento Corpo a Corpo | Tiro con l'arco | Guarigione    | Leadership        | Hacking          | Trappole               |
+| 3 | Navigazione        | Negoziazione      | Tracciamento     | Sblocco Serrature | Esplosivi        | Gestione degli Animali |
+| 4 | Arti Marziali      | Abilità Psichiche | Guida/Pilotaggio | Pianificazione Tattica | Imboscate e Trappole | Medicina              |
+| 5 | Performance Bardica | Demolizioni       | Infiltrazione   | Cucina/Foraggio   | Contrattazione   | Sabotaggio             |
+| 6 | Erboristeria       | Intimidazione     | Spionaggio       | Maestria dello Scudo | Illusioni        | Abilità con le Armi    |
 
-### Debolezze
 
-|     | 1                         | 2                | 3              | 4                    | 5                               | 6           |
-| --- | ------------------------- | ---------------- | -------------- | -------------------- | ------------------------------- | ----------- |
-| 1   | Amputazione                | Asma             | Visione scarsa | Claustrofobia        | Daltonismo                      | Codardia    |
-| 2   | Sordo                      | Depressione      | Epilessia      | Paura delle altezze   | Avidità                         | Credulità   |
-| 3   | Accumulatore               | Analfabetismo    | Insonnia       | Cleptomania          | Solitudine                      | Mutezza     |
-| 4   | Miopia                     | Paranoia         | Paraplegico    | Fobia dell'acqua      | Piromania                       | Sadismo     |
-| 5   | Egoista                    | Temperamento irascibile | Apprendimento lento | Ansia sociale    | Abuso di sostanze               | Superstizione |
-| 6   | Inettitudine tecnologica   | Tunnel visivo    | Costituzione debole | Xenofobia             | Dipendenza dalla tecnologia     | Arroganza   |
+### Difetti
 
-### Equipaggiamento
+|   | 1             | 2                        | 3              | 4                                     | 5               | 6                 |
+|---|---------------|--------------------------|----------------|---------------------------------------|-----------------|-------------------|
+| 1 | Paranoia      | Dipendenza               | Claustrofobia | Incoscienza                           | Problemi di Fiducia | Arroganza         |
+| 2 | Codardia      | Impulsività              | Avidità       | Disturbo Ossessivo Compulsivo (OCD)   | Amnesia         | Dolore Cronico      |
+| 3 | Insonnia      | Balbuzie                 | Ingenuità     | Disturbo da Stress Post-Traumatico (PTSD) | Piromania       | Solitudine        |
+| 4 | Paura dell'Acqua | Inettitudine Tecnologica | Perfezionismo  | Sete di Sangue                        | Malattia Cronica | Sindrome dell'Impostore |
+| 5 | Agorafobia   | Dipendenza dal Gioco      | Accumulo       | Malattia da Radiazioni                    | Paura delle Altezze | Vendicatività      |
+| 6 | Superstizione  | Senso di Colpa Profondo        | Ansia Sociale | Ossa Fragili                         | Mal di Mare | Perdita dei Sensi    |
 
-|     | 1           | 2          | 3         | 4           | 5      | 6            |
-| --- | ----------- | ---------- | --------- | ----------- | ------ | ------------ |
-| 1   | Maschera antigas | Grimaldello | Bottiglia | Bussola     | Fionda | Multistrumento |
-| 2   | Pistola      | Zaino       | Binocolo  | Leatherman | Pala   | Torcia       |
-| 3   | Fucile a pompa | Coltello    | Machete   | Pistola di segnalazione | Corda | Fiammiferi   |
-| 4   | Cecchino     | Rete        | Martello  | Benzina     | Corvo  | Accetta       |
-| 5   | Fucile       | Bende       | Razioni   | Brocca d'acqua | Chiodi | Granate      |
-| 6   | Balestra     | Armatura    | Kit di pronto soccorso | Fischietto | Mappa | Walkie-talkie |
+
+### Attrezzatura
+
+|     | 1                | 2                | 3             | 4           | 5          | 6                   |
+| --- | ---------------- | ---------------- | ------------- | ----------- | ---------- | ------------------- |
+| 1   | Maschera Antigas | Piede di Porco   | Borraccia     | Bussola     | Fionda     | Multitool           |
+| 2   | Pistola          | Zaino            | Binocolo      | Leatherman  | Pala       | Torcia              |
+| 3   | Fucile a Pompa   | Coltello         | Machete       | Pistola Segnalazioni | Corda      | Fiammiferi          |
+| 4   | Fucile di Precisione | Rete          | Martello      | Benzina     | Crow       | Ascia               |
+| 5   | Fucile           | Bende            | Razioni        | Bottiglia d'Acqua | Chiodi      | Granate             |
+| 6   | Balestra         | Armatura         | Kit Primo Soccorso | Fischietto  | Mappa      | Walkie-talkie       |
 
 
 ## Regole Speciali

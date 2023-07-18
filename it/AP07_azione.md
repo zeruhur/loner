@@ -46,7 +46,7 @@
 | 6   | Vulnerabilità al freddo | Presa di rischi compulsiva | Spazi claustrofobici     | Paura dei rumori forti    | Udito compromesso       | Auto-dubbio cronico |
 
 
-### Equipaggiamento
+### Attrezzatura
 
 |   | 1 | 2 | 3 | 4 | 5 | 6 |
 |---|---|---|---|---|---|---|

@@ -43,7 +43,7 @@
 | 5 | Incubi                       | Maledetto           | Fobia delle creature          | Sfortunato                                    | Credulone                                  | Insonnia                            |
 | 6 | Facilmente influenzato dai complimenti | Vista compromessa | Sindrome dell'impostore       | Dipendenza dal rum o altre sostanze          | Insicuro per l'aspetto fisico     | Perseguitato dai propri errori      |
 
-### Equipaggiamento
+### Attrezzatura
 
 |   | 1              | 2                    | 3                  | 4              | 5                  | 6                   |
 |---|----------------|----------------------|--------------------|----------------|--------------------|---------------------|
