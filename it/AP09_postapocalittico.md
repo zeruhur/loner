@@ -3,7 +3,7 @@
 ## Informazioni sul Contesto
 
 - Questo contesto si svolge 50 anni dopo un evento catastrofico.
-- La posizione è il Nord America, nello specifico la regione del Midwest degli Stati Uniti.
+- Il luogo è il Nord America, nello specifico la regione del Midwest degli Stati Uniti.
 - La causa dell'Apocalisse è stata una violenta e massiccia esplosione solare che ha causato blackout diffusi e ha distrutto gran parte della tecnologia e delle infrastrutture del mondo.
 - La popolazione è stata drasticamente ridotta e molti dei sopravvissuti si sono uniti in piccole comunità per condividere le risorse e proteggersi dai pericoli del nuovo mondo. Le tradizionali strutture sociali si sono sgretolate e sono emerse nuove strutture di potere. Il baratto e il commercio sono diventati il principale mezzo di scambio e il concetto di proprietà è stato ridefinito.
 - Le risorse sono scarse e i sopravvissuti devono cercare cibo, acqua e altre necessità. La tecnologia è regredita ai livelli preindustriali, ma alcuni resti del vecchio mondo rimangono. Le risorse più preziose sono il carburante, i medicinali e l'acqua pulita.
@@ -85,55 +85,55 @@
 - **Concetto**: Saccheggiatori spietati
 - **Abilità**: Razzia, Intimidazione
 - **Debolezza**: Avidità
-- **Equipaggiamento**: Machete arrugginiti, armature di rottami
+- **Attrezzatura**: Machete arrugginiti, armature di rottami
 - **Obiettivo**: Accumulare il maggior numero possibile di ricchezze
-- **Motivo**: Sopravvivenza a ogni costo
-- **Nemici**: L'Enclave
+- **Motivazione**: Sopravvivenza a ogni costo
+- **Nemesi**: L'Enclave
 
 ### L'Enclave 
 - **Concetto**: Sopravvissuti in una comunità fortificata
 - **Abilità**: Ingegneria, Leadership
 - **Debolezza**: Arroganza
-- **Equipaggiamento**: Mura rinforzate, armi avanzate
+- **Attrezzatura**: Mura rinforzate, armi avanzate
 - **Obiettivo**: Difendere la loro comunità e ricostruire la società
-- **Motivo**: Speranza per il futuro
-- **Nemici**: I Predoni
+- **Motivazione**: Speranza per il futuro
+- **Nemesi**: I Predoni
 
 ### I Predoni 
 - **Concetto**: Banditi senza legge
 - **Abilità**: Furtività, Armi da fuoco
 - **Debolezza**: Impulsività
-- **Equipaggiamento**: Gang di motociclisti, esplosivi artigianali
+- **Attrezzatura**: Gang di motociclisti, esplosivi artigianali
 - **Obiettivo**: Prendere ciò che vogliono con la forza
-- **Motivo**: Potere e controllo
-- **Nemici**: L'Enclave
+- **Motivazione**: Potere e controllo
+- **Nemesi**: L'Enclave
 
 ### La Setta dell'Alba Nuova 
 - **Concetto**: Estremisti apocalittici
 - **Abilità**: Conoscenza religiosa, Persuasione
 - **Debolezza**: Fanatismo
-- **Equipaggiamento**: Tuniche, armi rudimentali
+- **Attrezzatura**: Tuniche, armi rudimentali
 - **Obiettivo**: Portare un nuovo periodo di illuminazione
-- **Motivo**: Trovare un significato nell'apocalisse
-- **Nemici**: L'Enclave
+- **Motivazione**: Trovare un significato nell'apocalisse
+- **Nemesi**: L'Enclave
 
 ### La Gilda dei Raccattatori 
 - **Concetto**: Raccoglitori organizzati
 - **Abilità**: Negoziazione, Gestione delle risorse
 - **Debolezza**: Avidità
-- **Equipaggiamento**: Mappe, rilevatori di metallo
+- **Attrezzatura**: Mappe, rilevatori di metallo
 - **Obiettivo**: Dominare il commercio del recupero
-- **Motivo**: Profitto e interesse personale
-- **Nemici**: L'Enclave
+- **Motivazione**: Profitto e interesse personale
+- **Nemesi**: L'Enclave
 
 ### I Seguaci delle Lande 
 - **Concetto**: Ecologisti
 - **Abilità**: Sopravvivenza, Medicina
 - **Debolezza**: Ingenuità
-- **Equipaggiamento**: Maschere antigas, contatori Geiger
+- **Attrezzatura**: Maschere antigas, contatori Geiger
 - **Obiettivo**: Guarire la terra e ripristinare l'equilibrio
-- **Motivo**: Proteggere il mondo naturale
-- **Nemici**: I Predoni
+- **Motivazione**: Proteggere il mondo naturale
+- **Nemesi**: I Predoni
 
 ## PNG
 
@@ -141,55 +141,55 @@
 - **Concetto**: Medico ingegnoso
 - **Abilità**: Primo soccorso, Chirurgia
 - **Debolezza**: Arroganza
-- **Equipaggiamento**: Forniture mediche, Coltello
+- **Attrezzatura**: Forniture mediche, Coltello
 - **Obiettivo**: Creare una clinica
-- **Motivo**: Aiutare i malati e i feriti
-- **Nemico**: Il medico rivale "Sawbones" Mcgee
+- **Motivazione**: Aiutare i malati e i feriti
+- **Nemesi**: Il medico rivale "Sawbones" Mcgee
 
 ### "Crazy" Eddie
 - **Concetto**: Esperto di demolizioni
 - **Abilità**: Esplosivi, Ingegneria
 - **Debolezza**: Incoscienza
-- **Equipaggiamento**: Esplosivi, Granate
+- **Attrezzatura**: Esplosivi, Granate
 - **Obiettivo**: Distruggere la diga
-- **Motivo**: Cercare vendetta per ingiustizie passate
-- **Nemico**: Lo sceriffo della città "Big Jim" Dalton
+- **Motivazione**: Cercare vendetta per ingiustizie passate
+- **Nemesi**: Lo sceriffo della città "Big Jim" Dalton
 
 ### "Whiskey" Jack
 - **Concetto**: Commerciante
 - **Abilità**: Baratto, Persuasione
 - **Debolezza**: Alcolismo
-- **Equipaggiamento**: Merci per il commercio, Fucile a canne mozze
+- **Attrezzatura**: Merci per il commercio, Fucile a canne mozze
 - **Obiettivo**: Trovare un rifugio sicuro
-- **Motivo**: Profitto e autoconservazione
-- **Nemico**: Il capo bandito "Snake Eyes" Davis
+- **Motivazione**: Profitto e autoconservazione
+- **Nemesi**: Il capo bandito "Snake Eyes" Davis
 
 ### "Red" Roberts
 - **Concetto**: Cacciatore di taglie
 - **Abilità**: Tracciamento, Mirare
 - **Debolezza**: Testa calda
-- **Equipaggiamento**: Pistola, Manette
+- **Attrezzatura**: Pistola, Manette
 - **Obiettivo**: Catturare i fuorilegge
-- **Motivo**: Giustizia e denaro
-- **Nemico**: Il fuorilegge ricercato "Black Bart" Johnson
+- **Motivazione**: Giustizia e denaro
+- **Nemesi**: Il fuorilegge ricercato "Black Bart" Johnson
 
 ### "Slim" Reynolds
 - **Concetto**: Raccattatore
 - **Abilità**: Furtività, Sopravvivenza
 - **Debolezza**: Paranoia
-- **Equipaggiamento**: Binocolo, Grimaldello
+- **Attrezzatura**: Binocolo, Grimaldello
 - **Obiettivo**: Trovare la Cripta Perduta
-- **Motivo**: Avidità e avventura
-- **Nemico**: Il capo predone "Mad Dog" Smith
+- **Motivazione**: Avidità e avventura
+- **Nemesi**: Il capo predone "Mad Dog" Smith
 
 ### "Gunner" Jackson
 - **Concetto**: Mercenario
 - **Abilità**: Armi pesanti, Tattiche
 - **Debolezza**: Avidità
-- **Equipaggiamento**: Minigun, Armatura
+- **Attrezzatura**: Minigun, Armatura
 - **Obiettivo**: Proteggere l'insediamento
-- **Motivo**: Pagamento e gloria
-- **Nemico**: Il signore della guerra mutante "Scorcher" Jones
+- **Motivazione**: Pagamento e gloria
+- **Nemesi**: Il signore della guerra mutante "Scorcher" Jones
 
 ## Creature
 
@@ -197,55 +197,55 @@
 - **Concetto**: Predatore mutato
 - **Abilità**: Furtività, Agilità
 - **Debolezza**: Sistema immunitario debole
-- **Equipaggiamento**: Artigli affilati, sensi acuti
+- **Attrezzatura**: Artigli affilati, sensi acuti
 - **Obiettivo**: Cacciare e raccogliere cibo
-- **Motivo**: Sopravvivenza e riproduzione
-- **Nemici**: Cacciatori e predatori più grandi
+- **Motivazione**: Sopravvivenza e riproduzione
+- **Nemesi**: Cacciatori e predatori più grandi
 
 ### Scarabeo Ruggente
 - **Concetto**: Raccoglitore metallico
 - **Abilità**: Scavare, Resistenza
 - **Debolezza**: Movimento lento
-- **Equipaggiamento**: Armatura arrugginita, mandibole affilate
+- **Attrezzatura**: Armatura arrugginita, mandibole affilate
 - **Obiettivo**: Raccogliere e consumare rottami metallici
-- **Motivo**: Sopravvivenza e espansione del territorio
-- **Nemici**: Tempeste di ruggine e predatori più grandi
+- **Motivazione**: Sopravvivenza e espansione del territorio
+- **Nemesi**: Tempeste di ruggine e predatori più grandi
 
 ### Abominio Fungino
 - **Concetto**: Mostro di piante mutato
 - **Abilità**: Veleno, Rigenerazione
 - **Debolezza**: Movimento lento
-- **Equipaggiamento**: Spore, linfa acida
+- **Attrezzatura**: Spore, linfa acida
 - **Obiettivo**: Diffondersi e infettare altri organismi
-- **Motivo**: Sopravvivenza e proliferazione
-- **Nemici**: Fuoco e freddo estremo
+- **Motivazione**: Sopravvivenza e proliferazione
+- **Nemesi**: Fuoco e freddo estremo
 
 ### Trascinatore di Fango
 - **Concetto**: Anfibio tossico
 - **Abilità**: Nuotare, Veleno
 - **Debolezza**: Pelle fragile
-- **Equipaggiamento**: Muco viscido, denti affilati
+- **Attrezzatura**: Muco viscido, denti affilati
 - **Obiettivo**: Nutrirsi di piccole creature e rifiuti organici
-- **Motivo**: Sopravvivenza e riproduzione
-- **Nemici**: Predatori più grandi e inquinamento
+- **Motivazione**: Sopravvivenza e riproduzione
+- **Nemesi**: Predatori più grandi e inquinamento
 
 ### Scorpione della Discarica
 - **Concetto**: Aracnide meccanizzato
 - **Abilità**: Armatura, Scansione
 - **Debolezza**: Interferenze elettriche
-- **Equipaggiamento**: Tenaglie pesanti, esoscheletto metallico
+- **Attrezzatura**: Tenaglie pesanti, esoscheletto metallico
 - **Obiettivo**: Raccogliere e accumulare tecnologia preziosa
-- **Motivo**: Sopravvivenza e collezione
-- **Nemici**: Impulsi e altri raccattatori
+- **Motivazione**: Sopravvivenza e collezione
+- **Nemesi**: Impulsi e altri raccattatori
 
 ### Ratto Chiacchierino
 - **Concetto**: Ratto insolitamente intelligente
 - **Abilità**: Furtività, Furti
 - **Debolezza**: Ossa fragili
-- **Equipaggiamento**: Denti affilati, mani agili
+- **Attrezzatura**: Denti affilati, mani agili
 - **Obiettivo**: Rubare e accumulare risorse preziose
-- **Motivo**: Sopravvivenza e collezione
-- **Nemici**: Trappole e predatori più grandi
+- **Motivazione**: Sopravvivenza e collezione
+- **Nemesi**: Trappole e predatori più grandi
 
 ## Luoghi
 
