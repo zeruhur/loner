@@ -81,7 +81,7 @@
 
 ## Fazioni
 
-### I Falciatori 
+### I Razziatori 
 - **Concetto**: Saccheggiatori spietati
 - **Abilità**: Razzia, Intimidazione
 - **Debolezza**: Avidità
@@ -264,7 +264,7 @@
 - Fortemente fortificata con mura, torri di guardia e guardie armate.
 - Possibili incontri: Soldati della fazione, prigionieri, mercenari
 
-### La Zona Morte
+### La Zona Morta
 - Un'area di terra pesantemente colpita dalla tempesta solare ed è ora completamente arida e priva di vita.
 - Altamente radioattiva e pericolosa da attraversare.
 - Possibili incontri: Creature mutate, raccattatori, cultisti
@@ -281,41 +281,41 @@
 
 ## Semi di Avventura
 
-| D66 | Avventura                                                                                                                                 |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 11  | Un gruppo di banditi ha preso il controllo dell'unica fonte d'acqua dolce della zona. Il protagonista deve negoziare con loro o trovare un modo per sconfiggerli. |
-| 12  | Il protagonista incontra un gruppo di nomadi che sta cercando un'antica reliquia che credono possa aiutarli a ripristinare la tecnologia del vecchio mondo. |
-| 13  | Una misteriosa malattia si sta diffondendo in uno dei vicini insediamenti e il protagonista deve trovare una cura prima che sia troppo tardi. |
-| 14  | Il protagonista si imbatte in un gruppo di sopravvissuti che sono tenuti prigionieri da una fazione ostile. Deve decidere se liberarli o lasciarli al loro destino. |
-| 15  | Il protagonista scopre un bunker nascosto pieno di risorse preziose, ma presto scopre che è già occupato da un gruppo di raccattatori spietati. |
-| 16  | Il protagonista viene assunto da un ricco mercante per scortare una preziosa spedizione attraverso un territorio pericoloso, ma presto scopre che il mercante non è quello che sembra. |
-| 21  | Il protagonista incontra un gruppo di scienziati che stanno sperimentando tecnologie pericolose e devono decidere se aiutarli o fermarli prima che causino ulteriori danni. |
-| 22  | Il protagonista si imbatte in una base militare abbandonata ancora piena di armi e forniture, ma presto scopre che è sorvegliata da un pericoloso mutante. |
-| 23  | Il protagonista incontra un gruppo di coloni che sono sotto attacco da parte di una banda di predoni e devono aiutarli a difendersi. |
-| 24  | Il protagonista viene catturato da una fazione ostile e deve trovare un modo per fuggire o persuaderli a liberarlo. |
-| 25  | Il protagonista scopre un antico laboratorio scientifico che potrebbe contenere informazioni vitali sulle cause dell'apocalisse. Deve affrontare sfide per accedervi. |
-| 26  | Il protagonista viene ingaggiato da un eccentrico inventore per recuperare parti rare da una vecchia fabbrica, ma scopre che la fabbrica è infestata da creature mutanti. |
-| 31  | Il protagonista si imbatte in una misteriosa figura che sostiene di poter rivelare la verità sull'apocalisse, ma a un prezzo molto alto. |
-| 32  | Il protagonista viene reclutato da una fazione in lotta per prendere parte a un'operazione per sabotare la base nemica. |
-| 33  | Il protagonista si imbatte in un gruppo di cultisti che sta cercando di compiere un sacrificio umano per "placare gli dei". Deve fermarli prima che sia troppo tardi. |
-| 34  | Il protagonista viene catturato da un cacciatore di taglie che lo ritiene responsabile di un crimine che non ha commesso. Deve cercare di dimostrare la propria innocenza. |
-| 35  | Il protagonista scopre un antico rifugio sotterraneo che potrebbe contenere la chiave per il futuro dell'umanità, ma per accedervi deve superare una serie di prove mortali. |
-| 36  | Il protagonista viene incaricato di trovare un famoso inventore scomparso e scoprire il segreto dietro le sue invenzioni rivoluzionarie. |
-| 41  | Il protagonista incontra un gruppo di sopravvissuti che stanno cercando di ricostruire una vecchia centrale elettrica. Deve aiutarli a trovare le parti necessarie. |
-| 42  | Il protagonista si imbatte in un gruppo di mutanti pacifici che sono perseguitati da una fazione ostile. Deve decidere se aiutarli a combattere o trovare un'altra soluzione. |
-| 43  | Il protagonista viene ingaggiato da una fazione rivale per infiltrarsi nella base nemica e rubare informazioni preziose. |
-| 44  | Il protagonista si imbatte in una comunità isolata che si è separata dal resto del mondo dopo l'apocalisse e deve trovare un modo per convincerli a riunirsi alla società. |
-| 45  | Il protagonista scopre una misteriosa reliquia del vecchio mondo che potrebbe avere un potere sconosciuto. Deve decidere cosa farne. |
-| 46  | Il protagonista viene coinvolto in una faida tra due fazioni rivali e deve trovare un modo per porre fine al conflitto o decidere da che parte stare. |
-| 51  | Il protagonista si imbatte in un gruppo di sopravvissuti che si sono organizzati in una comunità autosufficiente e pacifica. Devono affrontare minacce esterne che cercano di distruggere la loro pace. |
-| 52  | Il protagonista viene catturato da una banda di pirati delle terre deserte che sono alla ricerca di schiavi. Deve trovare un modo per fuggire e liberare gli altri prigionieri. |
-| 53  | Il protagonista si imbatte in una tribù nomade che pratica un antico rituale che potrebbe avere conseguenze pericolose. Deve decidere se intervenire o lasciare che il destino faccia il suo corso. |
-| 54  | Il protagonista viene assunto da un gruppo di coloni per proteggerli da una banda di saccheggiatori che li ha attaccati ripetutamente. |
-| 55  | Il protagonista scopre un'antica rovina del vecchio mondo che potrebbe contenere tesori inestimabili, ma è anche infestata da creature pericolose. |
-| 56  | Il protagonista viene coinvolto in una guerra tra due fazioni rivali e deve trovare un modo per porre fine al conflitto o decidere da che parte stare. |
-| 61  | Il protagonista si imbatte in un gruppo di scienziati che sta cercando di creare una nuova forma di vita per ripopolare il pianeta. Deve decidere se aiutarli o fermarli. |
-| 62  | Il protagonista viene catturato da una fazione che crede che lui/lei sia la "chiave" per salvare il mondo. Deve decidere se accettare il loro destino o fuggire. |
-| 63  | Il protagonista scopre una comunità isolata che si è sviluppata nel sottosuolo e deve trovare un modo per convincerli a tornare in superficie. |
-| 64  | Il protagonista viene ingaggiato da una fazione per guidare una spedizione per trovare un mitico tesoro nascosto nel deserto. |
-| 65  | Il protagonista si imbatte in un gruppo di mutanti pacifici che sono perseguitati da una fazione ostile. Deve decidere se aiutarli a combattere o trovare un'altra soluzione. |
-| 66  | Il protagonista scopre una misteriosa macchina del vecchio mondo che potrebbe essere in grado di invertire gli effetti dell'apocalisse. Deve trovare un modo per farla funzionare. |
+| D66 | Avventura                                                                                                                                                                                                                                                                                                                                                    |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 11  | I Razziatori hanno scoperto un baule nascosto di tecnologia avanzata all'interno della Base Militare Abbandonata. Hanno in programma una spedizione per recuperare le armi di valore, e il protagonista deve decidere se unirsi o fermarli. |
+| 12  | "Doc" Sullivan ha bisogno dell'aiuto del protagonista per ottenere forniture mediche da un'area pericolosa infestata da Coyote Irradiati. Devono proteggerlo mentre raccoglie le risorse necessarie. |
+| 13  | I Predoni hanno rapito un membro prominente della Gilda degli Raccattatori. Al protagonista viene affidato il compito di negoziare un accordo per il loro rilascio o di organizzare una missione di salvataggio. |
+| 14  | Il Culto della Nuova Alba ha intenzione di contaminare Oasis Springs con sostanze chimiche tossiche. Il protagonista deve prevenire l'avvelenamento e trovare prove dell'implicazione del culto. |
+| 15  | "Crazy" Eddie intende far esplodere la Diga, allagando la valle sottostante. Il protagonista deve fermarlo prima che sia troppo tardi, affrontando le sue trappole esplosive e i suoi seguaci lungo il cammino. |
+| 16  | L'Enclave ha inviato un segnale di soccorso dall'Cittadella di Ferro. Il protagonista deve indagare e scoprire se si tratta di un'emergenza reale o di una trappola dei loro nemici. |
+| 21  | "Whiskey" Jack assume il protagonista come guardia del corpo per un pericoloso viaggio attraverso la Zona Morta per consegnare un raro manufatto a un ricco collezionista in un insediamento lontano. |
+| 22  | I Seguaci delle Lande hanno bisogno di assistenza per raccogliere erbe rare dalla Foresta Rossa per creare una cura per una malattia mortale che affligge la loro comunità. |
+| 23  | La Gilda degli Raccattatori accusa un gruppo rivale di aver rubato le loro mappe, che portano a risorse di valore. Il protagonista deve scoprire la verità e recuperare la merce rubata. |
+| 24  | "Red" Roberts sta inseguendo l'elusivo fuorilegge "Black Bart" Johnson. Il protagonista deve aiutarlo a catturare o eliminare Johnson, navigando tra un terreno pericoloso e evitando la banda di Johnson. |
+| 25  | "Slim" Reynolds possiede una mappa misteriosa che indica la posizione di una leggendario Rifugio che si dice contenga immense ricchezze. Il protagonista lo accompagna in un pericoloso viaggio per scoprire la verità. |
+| 26  | L'Enclave affida al protagonista il compito di difendere Oasis Springs da un attacco massiccio dei Predoni. Devono pianificare le difese, reclutare alleati e respingere gli invasori. |
+| 31  | Il Culto della Nuova Alba si è infiltrato nella Città Sotterranea e ha intenzione di convertire i suoi abitanti. Il protagonista deve smascherare i cultisti e prevenire la diffusione della loro influenza. |
+| 32  | Un gruppo di Coyote Irradiati ha stabilito una tana vicino a un insediamento nelle vicinanze, rappresentando una minaccia per i residenti. Il protagonista viene assunto per sterminare il branco e proteggere l'area. |
+| 33  | I Predoni stanno cercando di prendere il controllo dell'approvvigionamento di acqua dolce di Oasis Springs. Il protagonista deve ostacolare i loro piani e assicurarsi che la preziosa risorsa rimanga accessibile a tutti. |
+| 34  | La Gilda degli Raccattatori offre al protagonista un lucrativo contratto per recuperare un raro pezzo di tecnologia pre-apocalittica all'interno della Base Militare Abbandonata. Affronteranno numerose sfide, tra cui sistemi di sicurezza ostili. |
+| 35  | I Seguaci delle Lande hanno bisogno di assistenza per individuare una radura nascosta nella Foresta Rossa, che si dice contenga l'ultimo esemplare di vita vegetale non mutata. |
+| 36  | L'Enclave sospetta di un traditore tra le proprie fila e chiede al protagonista di investigare. Devono raccogliere prove e scoprire la vera fedeltà della talpa. |
+| 41  | La clinica di "Doc" Sullivan è sotto attacco da parte di un gruppo di banditi che cercano forniture mediche. Il protagonista deve difendere la clinica e i suoi pazienti, utilizzando le loro abilità di combattimento e guarigione. |
+| 42  | Le esplosioni di "Crazy" Eddie causano accidentalmente un crollo nella Diga, minacciando di allagare gli insediamenti vicini. Il protagonista ha un tempo limitato per riparare i danni e evitare il disastro. |
+| 43  | I Predoni catturano un importante personaggio non giocante (NPC) che possiede informazioni cruciali sulle difese dell'Enclave. Il protagonista deve infiltrarsi nel covo dei Predoni e salvare il prigioniero prima che sia troppo tardi. |
+| 44  | La Gilda degli Raccattatori assume il protagonista per negoziare un accordo commerciale con una comunità distante nota per le sue preziose riserve di carburante. Affrontano un terreno desertico insidioso e possibili imboscate lungo il cammino. |
+| 45  | "Red" Roberts scopre una rete segreta di tunnel sotterranei utilizzata dai Predoni per operazioni di contrabbando. Il protagonista si unisce a lui per sabotare i tunnel e disturbare le attività dei Predoni. |
+| 46  | Il Culto della Nuova Alba ha intenzione di liberare una massiccia creatura mutata dalla Zona Morta, con l'intento di usarla come simbolo del loro potere. Il protagonista deve trovare un modo per neutralizzare la minaccia prima che scoppino il caos. |
+| 51  | L'Enclave affida al protagonista il compito di stabilire relazioni diplomatiche con una fazione vicina. Devono navigare in un territorio ostile e negoziare un'alleanza reciprocamente vantaggiosa. |
+| 52  | "Slim" Reynolds inciampa su un'entrata nascosta in un bunker sotterraneo nella Zona Morta. Il protagonista lo accompagna in un viaggio per esplorare il contenuto del vault e affrontare le sfide che incontrano. |
+| 53  | I Predoni prendono di mira una importante rotta commerciale che attraversa la Foresta Rossa, interrompendo linee di approvvigionamento vitali. Il protagonista deve scortare un convoglio in sicurezza attraverso il territorio pericoloso ed eliminare la minaccia dei Predoni. |
+| 54  | La Gilda degli Raccattatori scopre un prezioso manufatto all'interno della Base Militare Abbandonata. Tuttavia, fazioni rivali, inclusa l'Enclave, ne rivendicano la proprietà. Il protagonista deve assicurarsi l'oggetto mentre naviga complesse dinamiche politiche. |
+| 55  | I Seguaci delle Lande scoprono un gruppo di creature mutate nella Foresta Rossa che mostrano segni di intelligenza aumentata. Il protagonista deve investigare e determinare se ciò rappresenta una minaccia o un'opportunità. |
+| 56  | L'Enclave incarica il protagonista di recuperare tecnologie avanzate da una sezione inesplorata della Città Sotterranea, affrontando pericoli nascosti e avversari rivali. |
+| 61  | "Doc" Sullivan riceve una chiamata di soccorso da un insediamento remoto afflitto da una malattia misteriosa. Il protagonista lo aiuta a identificare la causa e trovare una cura prima che si diffonda ad altre comunità. |
+| 62  | L'esperienza esplosiva di "Crazy" Eddie è necessaria per sfondare le difese di un forte complesso dei Predoni. Il protagonista lo accompagna in una missione per eliminare definitivamente la minaccia dei Predoni. |
+| 63  | Il passato di "Whiskey" Jack lo raggiunge mentre la sua ex banda, guidata da "Snake Eyes" Davis, cerca vendetta. Il protagonista deve difendere Jack e i suoi nuovi alleati in uno scontro disperato. |
+| 64  | "Red" Roberts scopre prove di un progetto segreto dell'Enclave che coinvolge sperimentazioni illegali su creature mutate. Il protagonista lo aiuta a raccogliere prove ed esporre il progetto al pubblico. |
+| 65  | I Predoni hanno rapito un importante diplomatico dell'Enclave, minacciando di eseguirlo pubblicamente. Il protagonista deve infiltrarsi nel campo dei Predoni e salvare l'ostaggio evitando di essere scoperto. |
+| 66  | Il protagonista inciampa su un'antica struttura di ricerca pre-apocalittica nascosta all'interno dalla Cittadella di Ferro. Devono navigare tra i suoi corridoi pericolosi e svelare i misteri lasciati dai precedenti abitanti. |

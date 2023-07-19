@@ -269,41 +269,41 @@
 
 ## Adventure Seeds
 
-| D66 | Adventure                                                                                                                                 |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 11  | A group of bandits has taken control of the only freshwater source in the area. The protagonist must negotiate with them or find a way to take them down. |
-| 12  | The protagonist encounter a group of nomads who are searching for a lost artifact that they believe can help them restore some of the old world's technology. |
-| 13  | A mysterious illness is spreading through one of the nearby settlements, and the protagonist must find a cure before it's too late. |
-| 14  | The protagonist come across a group of survivors who are being held captive by a hostile faction. They must decide whether to rescue them or leave them to their fate. |
-| 15  | The protagonist stumble upon a hidden bunker filled with valuable resources, but they soon discover that it's already occupied by a group of ruthless scavengers. |
-| 16  | The protagonist is hired by a wealthy merchant to escort a valuable shipment across dangerous territory, but they soon realize that the merchant is not what he seems. |
-| 21  | The protagonist encounter a group of scientists who have been experimenting with dangerous technology, and they must decide whether to help them or stop them before they cause more harm. |
-| 22  | The protagonist stumble upon an abandoned military base that's still stocked with weapons and supplies, but they soon discover that it's being guarded by a dangerous mutant. |
-| 23  | The protagonist come across a group of settlers who are being threatened by a powerful warlord. They must decide whether to help the settlers or stay out of the conflict. |
-| 24  | The protagonist is hired by a group of traders to escort a caravan across a treacherous mountain pass, but they soon realize that the traders are smuggling illegal goods. |
-| 25  | The protagonist stumble upon a small town that's being terrorized by a pack of feral dogs. They must find a way to eliminate the threat before more people are hurt. |
-| 26  | The protagonist encounter a group of survivors who are on a mission to reclaim their former home from a rival faction. They must decide whether to join them or stay out of the conflict. |
-| 31  | The protagonist come across a group of scavengers who have discovered a cache of valuable technology. They must decide whether to steal the technology or leave it be. |
-| 32  | The protagonist is hired by a wealthy landowner to eliminate a group of dangerous mutants that are threatening their property. However, the mutants turn out to be more intelligent and organized than the protagonist expected. |
-| 33  | The protagonist stumble upon a hidden underground laboratory where a mad scientist is conducting horrific experiments on living creatures. |
-| 34  | The protagonist encounter a group of raiders who have taken over a local mine and are forcing the workers to extract valuable resources for them. |
-| 35  | The protagonist come across a small community that's being threatened by a giant mutant. They must find a way to eliminate the threat before the community is destroyed. |
-| 36  | The protagonist is hired by a group of merchants to retrieve a valuable artifact from a dangerous ruin, but they soon discover that the artifact is cursed. |
-| 41  | The protagonist stumble upon a group of settlers who are being held captive by a group of hostile mutants. They must decide whether to try and rescue them or leave them to their fate. |
-| 42  | The protagonist encounter a group of scientists who are searching for a way to reverse the effects of the Apocalypse. However, their experiments have unintended and dangerous consequences. |
-| 43  | The protagonist come across a group of survivors who are being held captive by a group of bandits. They must decide whether to try and rescue them or leave them to their fate. |
-| 44  | The protagonist is hired by a wealthy patron to retrieve a valuable artifact from a dangerous ruin, but they soon discover that the patron is not what they seem. |
-| 45  | The protagonist stumble upon a group of survivors who are being terrorized by a dangerous mutant that's been stalking them for days. |
-| 46  | The protagonist is hired by a faction to escort a valuable cargo through dangerous territory. Along the way, they must contend with bandits, rival factions, and harsh weather conditions. |
-| 51  | The protagonist stumble upon a community of survivors who are being terrorized by a powerful creature. They must decide whether to help the community fight the creature or to stay out of it and risk the wrath of the locals. |
-| 52  | A group of scavengers discovers a cache of valuable supplies deep in a dangerous area. The protagonist must compete with the scavengers to retrieve the supplies, and they may need to fight off other dangerous creatures in the process. |
-| 53  | The protagonist is hired to investigate a series of mysterious disappearances in a nearby settlement. As they delve deeper into the investigation, they discover that a dangerous cult is behind the disappearances and they must put a stop to it before it's too late. |
-| 54  | A powerful faction is seeking to expand its territory and is recruiting mercenaries to help them do so. The protagonist must decide whether to join the faction and fight for their cause, or to oppose them and risk becoming their enemy. |
-| 55  | The protagonist is tasked with recovering a lost artifact that is said to have the power to restore technology to the world. However, they soon discover that they are not the only ones seeking the artifact, and they must fight off other factions and creatures to retrieve it. |
-| 56  | The protagonist is hired to investigate strange sightings of a mysterious creature that has been attacking people in the wilderness. As they track the creature, they discover that it is not what it seems and that it may hold the key to a greater mystery. |
-| 61  | The protagonist is approached by a small settlement that is being threatened by a powerful gang. The settlement can't afford to pay the protagonist for their services, but they offer them a chance to establish a foothold in the area if they help them drive off the gang. |
-| 62  | The protagonist discover a hidden bunker that contains valuable supplies and technology. However, they soon discover that the bunker is being guarded by a dangerous AI that will stop at nothing to protect its resources. |
-| 63  | The protagonist is hired by a wealthy merchant to escort a valuable shipment across a dangerous area. However, the protagonist soon discover that the merchant has some unsavory connections, and they may need to decide whether to complete the job or to take matters into their own hands. |
-| 64  | The protagonist is approached by a faction that is seeking to overthrow a rival faction. The protagonist can either choose to help the faction in their efforts, or to try to broker a peace between the two sides. |
-| 65  | The protagonist stumble upon a small settlement that is being threatened by a powerful creature. The protagonist can either choose to help the settlement fight off the creature, or to try to capture the creature and sell it to the highest bidder. |
-| 66  | The protagonist is hired to investigate a strange radio signal that is emanating from a nearby location. As they investigate, they discover that the signal is coming from an abandoned military installation that is now overrun with dangerous creatures. The protagonist must fight their way through the creatures to discover the source of the signal. |
+| D66 | Adventure                                                                                                                                                                                                                                                                                                                                                    |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 11  | The Reapers have discovered a hidden cache of advanced technology within the Abandoned Military Base. They plan a raid to retrieve the valuable weapons, and the protagonist must either join or stop them. |
+| 12  | "Doc" Sullivan needs the protagonist's help to secure medical supplies from a dangerous area infested with Irradiated Coyotes. They must protect him while he gathers the necessary resources. |
+| 13  | The Raiders have kidnapped a prominent member of the Scavengers' Guild. The protagonist is tasked with negotiating a trade for their release or mounting a rescue mission. |
+| 14  | The Cult of the New Dawn plans to contaminate Oasis Springs with toxic chemicals. The protagonist must prevent the poisoning and find evidence of the cult's involvement. |
+| 15  | "Crazy" Eddie intends to blow up the Dam, flooding the valley below. The protagonist must stop him before it's too late, dealing with his explosive traps and followers along the way. |
+| 16  | The Enclave has sent a distress signal from the Iron Citadel. The protagonist must investigate and discover if it's a genuine emergency or a trap set by their enemies. |
+| 21  | "Whiskey" Jack hires the protagonist as a bodyguard for a dangerous journey through the Dead Zone to deliver a rare artifact to a wealthy collector in a distant settlement. |
+| 22  | The Followers of the Wastes seek assistance in gathering rare herbs from the Red Forest to create a cure for a deadly disease plaguing their community. |
+| 23  | The Scavengers' Guild accuses a rival group of stealing their maps, leading to valuable resources. The protagonist must find the truth and recover the stolen goods. |
+| 24  | "Red" Roberts has been tracking the elusive outlaw "Black Bart" Johnson. The protagonist must assist him in capturing or eliminating Johnson, navigating treacherous terrain and avoiding Johnson's gang. |
+| 25  | "Slim" Reynolds possesses a mysterious map hinting at the location of a legendary Vault rumored to contain vast riches. The protagonist accompanies him on a perilous journey to uncover the truth. |
+| 26  | The Enclave enlists the protagonist to defend Oasis Springs from a large-scale Raider attack. They must strategize defenses, recruit allies, and repel the invaders. |
+| 31  | The Cult of the New Dawn has infiltrated the Underground City and plans to convert its inhabitants. The protagonist must expose the cultists and prevent their influence from spreading. |
+| 32  | A group of Irradiated Coyotes has established a den near a nearby settlement, posing a threat to the residents. The protagonist is hired to exterminate the pack and secure the area. |
+| 33  | The Raiders are attempting to seize control of Oasis Springs' fresh water supply. The protagonist must thwart their plans and ensure the precious resource remains accessible to all. |
+| 34  | The Scavengers' Guild offers a lucrative contract to the protagonist to retrieve a rare piece of pre-apocalypse technology from within the Abandoned Military Base. They face numerous challenges, including hostile security systems. |
+| 35  | The Followers of the Wastes need assistance in locating a hidden grove within the Red Forest, said to contain the last surviving sample of unmutated plant life. |
+| 36  | The Enclave suspects a traitor within their ranks and asks the protagonist to investigate. They must gather evidence and uncover the mole's true allegiance. |
+| 41  | "Doc" Sullivan's clinic is under attack by a group of bandits seeking medical supplies. The protagonist must defend the clinic and its patients, utilizing their combat and healing skills. |
+| 42  | "Crazy" Eddie's explosives accidentally trigger a collapse within the Dam, threatening to flood the nearby settlements. The protagonist has limited time to repair the damage and avert disaster. |
+| 43  | The Raiders capture an important NPC who possesses crucial information about the Enclave's defenses. The protagonist must infiltrate the Raider stronghold and rescue the captive before it's too late. |
+| 44  | The Scavengers' Guild hires the protagonist to negotiate a trade agreement with a distant community known for its valuable fuel reserves. They face treacherous desert terrain and potential ambushes along the way. |
+| 45  | "Red" Roberts discovers a secret underground tunnel network used by the Raiders for smuggling operations. The protagonist joins him to sabotage the tunnels and disrupt the Raiders' activities. |
+| 46  | The Cult of the New Dawn plans to unleash a massive mutated creature from the Dead Zone, intending to use it as a symbol of their power. The protagonist must find a way to neutralize the threat before chaos ensues. |
+| 51  | The Enclave dispatches the protagonist to establish diplomatic relations with a nearby faction. They must navigate through hostile territory and negotiate a mutually beneficial alliance. |
+| 52  | "Slim" Reynolds stumbles upon a hidden entrance to an underground bunker within the Dead Zone. The protagonist accompanies him on a journey to explore the vault's contents and face its challenges. |
+| 53  | The Raiders target an important trade route passing through the Red Forest, disrupting vital supply lines. The protagonist must escort a convoy safely through the dangerous territory and eliminate the Raider threat. |
+| 54  | The Scavengers' Guild uncovers a valuable artifact within the Abandoned Military Base. However, rival factions, including the Enclave, also lay claim to it. The protagonist must secure the artifact while navigating complex political dynamics. |
+| 55  | The Followers of the Wastes discover a group of mutated creatures within the Red Forest that display signs of increased intelligence. The protagonist must investigate and determine if this poses a threat or an opportunity. |
+| 56  | The Enclave tasks the protagonist with retrieving advanced technology from an unexplored section of the Underground City, encountering hidden dangers and rival scavengers. |
+| 61  | "Doc" Sullivan receives a distress call from a remote settlement plagued by a mysterious illness. The protagonist assists him in identifying the cause and finding a cure before it spreads to other communities. |
+| 62  | "Crazy" Eddie's explosive expertise is needed to breach the defenses of a heavily fortified Raider compound. The protagonist accompanies him on a mission to eliminate the Raider threat once and for all. |
+| 63  | "Whiskey" Jack's past catches up with him as his former gang, led by "Snake Eyes" Davis, seeks revenge. The protagonist must defend Jack and his newfound allies in a desperate showdown. |
+| 64  | "Red" Roberts discovers evidence of a secret Enclave project involving illegal experimentation on mutated creatures. The protagonist aids him in gathering proof and exposing the project to the public. |
+| 65  | The Raiders have kidnapped an important Enclave diplomat, threatening to execute them publicly. The protagonist must infiltrate the Raider camp and rescue the hostage while avoiding detection. |
+| 66  | The protagonist stumbles upon an ancient pre-apocalyptic research facility hidden within the Iron Citadel. They must navigate its treacherous corridors and unravel the mysteries left behind by its previous inhabitants. |
