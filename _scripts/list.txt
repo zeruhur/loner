@@ -1,36 +1,36 @@
-Revolver
-Lever-action Rifle
-Bowie Knife
-Stetson Hat
-Bandana
-Cowboy Boots
-Leather Duster
-Saddle and Tack
-Winchester Shotgun
-Spur
-Lasso
-Saddlebags
-Colt Peacemaker
-Pocket Watch
-Sheriff's Badge
-Saloon Playing Cards
-Wanted Poster
-Sheriff's Deputy Star
-Brass Knuckles
-Wagon
-Horseshoes
-Saddle Holster
-Derringer Pistol
-Horse Brush and Comb
-Mining Pickaxe
-Canteen
-Wanted Dead or Alive Poster
-Harmonica
-Gold Pan
-Poncho
-Dynamite
-Tin Cup
-Chuckwagon Cooking Utensils
-Horse Feed
-Riding Spurs
-Gambler's Dice
+Data Jack
+Cyberdeck
+Neural Implant
+Smart Glasses
+Holo-projector
+Stealth Suit
+Energy Blade
+Nano-medkit
+Grappling Hook
+Cybernetic Limb
+Hacking Toolkit
+Cloaking Device
+Drones
+EMP Grenade
+Neural Interface Glove
+Smart Wristwatch
+Biometric Scanner
+Cybernetic Eye
+Virtual Reality Visor
+Energy Pistol
+Nanodrones
+Portable Energy Shield
+Sonic Disruptor
+Cybernetic Implant Jammer
+Electro-magnetic Pulse (EMP) Gun
+Anti-gravity Boots
+Camouflage Nanoskin
+Smart Lockpicks
+Neural Stunner
+Nanite Swarm Grenade
+Cybernetic Reinforced Clothing
+Holographic Decoy Projector
+EMP Shielding Cloak
+Cybernetic Interface Cable
+Cybernetic Toolkit
+Portable Drone Charger

@@ -1,16 +1,32 @@
 ,1,2,3,4,5,6
-1,Marksmanship,Horseback Riding,Quick Draw,Tracking,Bartering,Knife Fighting
-2,Survival Instincts,Gambling,Lasso Mastery,Stealth,Leadership,Archery
-3,Whiskey Tasting,Riding Shotgun,Brawling,Lockpicking,Fast Talking,Sharpshooting
-4,Hunting,Cooking/Campfire Cooking,Horsemanship,Bank Robbery Planning,Storytelling,Fistfighting
-5,Intimidation,Trick Shooting,Gambling Cheating,Tracking Outlaws,Saloon Games,Outlaw Contacts
-6,Gold Prospecting,Disguise,First Aid,Dynamite Handling,Singing/Cowboy Ballads,Roping/Cattle Wrangling
+1,Shadowed Hacker,Rogue Cyberninja,Tech-savvy Mercenary,Augmented Runner,Corporate Infiltrator,Cybernetic Smuggler
+2,Tech Shaman,Reckless Netrunner,Streetwise Fixer,Experimental Cyborg,Renegade Detective,Underground Rebel
+3,Cybernetic Medic,Stealthy Saboteur,Virtual Reality Specialist,Techno-psychic Hacker,Neural Engineer,Untraceable Ghost
+4,Black Market Dealer,Nano-enhanced Assassin,AI Synergist,Resistance Leader,Cyberware Surgeon,Net Architect
+5,Techno-anarchist,Corporate Espionage Agent,Cyber-enhanced Martial Artist,Cyberspace Illusionist,Exiled AI Consciousness,Cybernetic Investigator
+6,Cyber-enhanced Street Performer,Transhumanist Activist,Holographic Artiste,Nanotech Saboteur,Cyberpunk Rocker,Cyberspace Vigilante
 
 ,1,2,3,4,5,6
-1,Revolver,Lever-action Rifle,Bowie Knife,Stetson Hat,Bandana,Cowboy Boots
-2,Leather Duster,Saddle and Tack,Winchester Shotgun,Spur,Lasso,Saddlebags
-3,Colt Peacemaker,Pocket Watch,Sheriff's Badge,Saloon Playing Cards,Wanted Poster,Sheriff's Deputy Star
-4,Brass Knuckles,Wagon,Horseshoes,Saddle Holster,Derringer Pistol,Horse Brush and Comb
-5,Mining Pickaxe,Canteen,Wanted Dead or Alive Poster,Harmonica,Gold Pan,Poncho
-6,Dynamite,Tin Cup,Chuckwagon Cooking Utensils,Horse Feed,Riding Spurs,Gambler's Dice
+1,Hacking,Cybernetics Installation,Stealth,Combat Augmentation,Robotics Engineering,Computer Programming
+2,Cybersecurity,Technological Manipulation,Electronic Warfare,Surveillance,Cybernetic Medicine,Data Mining
+3,Neural Interface Control,Drone Operation,Virtual Reality Navigation,Network Infiltration,Espionage,Genetic Engineering
+4,Biohacking,Cryptography,AI Interaction,Streetwise,Robotics Repair,Nanotechnology Manipulation
+5,Weapon Modification,Biofeedback Control,Neural Hacking,Social Engineering,Cybernetic Combat Techniques,Data Analysis
+6,Cybernetic Athletics,System Exploitation,Augmented Reality Manipulation,Data Extraction,Cybernetic Agility,Techno-Intuition
+
+,1,2,3,4,5,6
+1,Neural Overload,Tech Addiction,Memory Corruption,Cyberpsychosis,Techno-Phobia,Black Market Implants
+2,Social Stigma,Surveillance Paranoia,Augmentation Dependency,Neural Interface Malfunction,Memory Encryption Failure,Cybernetic Rejection
+3,Techno Dependency,Blacklisted by Corps,Vulnerability to EMP,Implant Malfunction,Neural Feedback,Malware Vulnerability
+4,Physical Overheating,Identity Crisis,Power Dependency,Replicant Identification,Cybernetic Pain Syndrome,Techno-Addiction
+5,Cybernetic Sabotage,Neural Manipulation Vulnerability,Reckless Databursts,Network Vulnerability,Incompatibility Issues,Cybernetic Imprint Fragmentation
+6,Cybernetic Overload,Cybernetic Dependency,Techno-Psychosis,Techno Dependency,Technological Paranoia,Neural Interface Disruption
+
+,1,2,3,4,5,6
+1,Data Jack,Cyberdeck,Neural Implant,Smart Glasses,Holo-projector,Stealth Suit
+2,Energy Blade,Nano-medkit,Grappling Hook,Cybernetic Limb,Hacking Toolkit,Cloaking Device
+3,Drones,EMP Grenade,Neural Interface Glove,Smart Wristwatch,Biometric Scanner,Cybernetic Eye
+4,Virtual Reality Visor,Energy Pistol,Nanodrones,Portable Energy Shield,Sonic Disruptor,Cybernetic Implant Jammer
+5,Electro-magnetic Pulse (EMP) Gun,Anti-gravity Boots,Camouflage Nanoskin,Smart Lockpicks,Neural Stunner,Nanite Swarm Grenade
+6,Cybernetic Reinforced Clothing,Holographic Decoy Projector,EMP Shielding Cloak,Cybernetic Interface Cable,Cybernetic Toolkit,Portable Drone Charger
 

@@ -53,7 +53,7 @@
 
 |   | 1               | 2                  | 3                           | 4                    | 5                | 6                     |
 |---|-----------------|--------------------|-----------------------------|----------------------|------------------|-----------------------|
-| 1 | Revolvere        | Fucile a Leva     | Coltello Bowie               | Cappello Stetson          | Bandana          | Stivali da Cowboy          |
+| 1 | Revolver        | Fucile a Leva     | Coltello Bowie               | Cappello Stetson          | Bandana          | Stivali da Cowboy          |
 | 2 | Cappotto di Pelle  | Sella e Attrezzatura    | Fucile Winchester          | Sperone                 | Laccio            | Sacche per la Sella            |
 | 3 | Colt Peacemaker | Orologio da Tasca       | Distintivo dello Sceriffo             | Carte da Gioco del Saloon | Poster di Ricercato    | Stella dello Sceriffo |
 | 4 | Manopole d'ottone  | Carro              | Ferri di Cavallo          | Fondina per Fucile       | Pistola Derringer | Spazzola e Pettine per Cavalli  |

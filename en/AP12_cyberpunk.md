@@ -12,50 +12,54 @@
 
 ### Concepts
 
-|     | 1              | 2                | 3               | 4               | 5                | 6                |
-| --- | -------------- | ---------------- | --------------- | --------------- | ---------------- | ---------------- |
-| 1   | Street Samurai | Netrunner        | Corporate Agent | Fixer           | Smuggler         | Bounty Hunter    |
-| 2   | Hacker         | Enforcer         | Mercenary       | Data Broker     | Gun Runner       | Shadow Operative |
-| 3   | Bodyguard      | Private Eye      | Assassin        | Saboteur        | Courier          | Cyber-Doc        |
-| 4   | Technomancer   | Corporate Spy    | Combat Medic    | Rigger          | Gang Enforcer    | Street Doc       |
-| 5   | Street Artist  | Urban Shaman     | Cyber-Sleuth    | Security Expert | Corporate Muscle | Ex-Con           |
-| 6   | Freelancer     | Corporate Hacker | Weapons Dealer  | Bouncer         | Infiltrator      | Street Performer |
+|   | 1                               | 2                         | 3                             | 4                      | 5                       | 6                       |
+|---|---------------------------------|---------------------------|-------------------------------|------------------------|-------------------------|-------------------------|
+| 1 | Shadowed Hacker                 | Rogue Cyberninja          | Tech-savvy Mercenary          | Augmented Runner       | Corporate Infiltrator   | Cybernetic Smuggler     |
+| 2 | Tech Shaman                     | Reckless Netrunner        | Streetwise Fixer              | Experimental Cyborg    | Renegade Detective      | Underground Rebel       |
+| 3 | Cybernetic Medic                | Stealthy Saboteur         | Virtual Reality Specialist    | Techno-psychic Hacker  | Neural Engineer         | Untraceable Ghost       |
+| 4 | Black Market Dealer             | Nano-enhanced Assassin    | AI Synergist                  | Resistance Leader      | Cyberware Surgeon       | Net Architect           |
+| 5 | Techno-anarchist                | Corporate Espionage Agent | Cyber-enhanced Martial Artist | Cyberspace Illusionist | Exiled AI Consciousness | Cybernetic Investigator |
+| 6 | Cyber-enhanced Street Performer | Transhumanist Activist    | Holographic Artiste           | Nanotech Saboteur      | Cyberpunk Rocker        | Cyberspace Vigilante    |
+
 
 
 ### Skills
 
-|     | 1             | 2               | 3             | 4                | 5             | 6            |
-| --- | ------------- | --------------- | ------------- | ---------------- | ------------- | ------------ |
-| 1   | Melee Combat  | Hacking         | Negotiation   | Stealth          | Driving       | Intimidation |
-| 2   | Ranged Combat | Programming     | Investigation | Sabotage         | Navigation    | Persuasion   |
-| 3   | Acrobatics    | Electronics     | Medicine      | Lockpicking      | Piloting      | Disguise     |
-| 4   | Athletics     | Cyberware       | Survival      | Rigging          | Interrogation | Seduction    |
-| 5   | Performance   | Virtual Reality | Psychology    | Security Systems | Mechanics     | Perception   |
-| 6   | Parkour       | Social Media    | Crafting      | Espionage        | Streetwise    | Linguistics  |
+|   | 1                        | 2                          | 3                              | 4                    | 5                            | 6                           |
+|---|--------------------------|----------------------------|--------------------------------|----------------------|------------------------------|-----------------------------|
+| 1 | Hacking                  | Cybernetics Installation   | Stealth                        | Combat Augmentation  | Robotics Engineering         | Computer Programming        |
+| 2 | Cybersecurity            | Technological Manipulation | Electronic Warfare             | Surveillance         | Cybernetic Medicine          | Data Mining                 |
+| 3 | Neural Interface Control | Drone Operation            | Virtual Reality Navigation     | Network Infiltration | Espionage                    | Genetic Engineering         |
+| 4 | Biohacking               | Cryptography               | AI Interaction                 | Streetwise           | Robotics Repair              | Nanotechnology Manipulation |
+| 5 | Weapon Modification      | Biofeedback Control        | Neural Hacking                 | Social Engineering   | Cybernetic Combat Techniques | Data Analysis               |
+| 6 | Cybernetic Athletics     | System Exploitation        | Augmented Reality Manipulation | Data Extraction      | Cybernetic Agility           | Techno-Intuition            |
+
 
 
 ### Frailties
 
-|     | 1                     | 2                    | 3               | 4             | 5                 | 6            |
-| --- | --------------------- | -------------------- | --------------- | ------------- | ----------------- | ------------ |
-| 1   | Addiction to Stims    | Claustrophobia       | Paranoia        | Overconfident | Code of Honor     | Bloodthirsty |
-| 2   | Phobia of Cyberware   | Obsessive Compulsive | Reckless        | Cowardly      | Vengeful          | Amnesiac     |
-| 3   | Allergic to Synthskin | Insomnia             | Pyromania       | Greedy        | Wanted by the Law | Sadistic     |
-| 4   | Alcoholism            | Colorblindness       | Claustrophobia  | Arrogant      | Paranoid          | Kleptomania  |
-| 5   | Cyberpsychosis        | Insecure             | Fear of Heights | Impulsive     | Loyal to a Fault  | Pacifist     |
-| 6   | Disability            | PTSD                 | Codependent     | Hotheaded     | Technophobic      | Gambler      |
+|   | 1                    | 2                                 | 3                       | 4                            | 5                         | 6                                |
+|---|----------------------|-----------------------------------|-------------------------|------------------------------|---------------------------|----------------------------------|
+| 1 | Neural Overload      | Tech Addiction                    | Memory Corruption       | Cyberpsychosis               | Techno-Phobia             | Black Market Implants            |
+| 2 | Social Stigma        | Surveillance Paranoia             | Augmentation Dependency | Neural Interface Malfunction | Memory Encryption Failure | Cybernetic Rejection             |
+| 3 | Techno Dependency    | Blacklisted by Corps              | Vulnerability to EMP    | Implant Malfunction          | Neural Feedback           | Malware Vulnerability            |
+| 4 | Physical Overheating | Identity Crisis                   | Power Dependency        | Replicant Identification     | Cybernetic Pain Syndrome  | Techno-Addiction                 |
+| 5 | Cybernetic Sabotage  | Neural Manipulation Vulnerability | Reckless Databursts     | Network Vulnerability        | Incompatibility Issues    | Cybernetic Imprint Fragmentation |
+| 6 | Cybernetic Overload  | Cybernetic Dependency             | Techno-Psychosis        | Techno Dependency            | Technological Paranoia    | Neural Interface Disruption      |
+
 
 
 ### Gear
 
-|     | 1                                | 2                 | 3                        | 4                           | 5                        | 6                         |
-| --- | -------------------------------- | ----------------- | ------------------------ | --------------------------- | ------------------------ | ------------------------- |
-| 1   | Armored trench coat              | EMP grenade       | Gas mask                 | Portable hacking device     | Grappling hook           | Motion tracker            |
-| 2   | Smart goggles                    | Cigarette lighter | Lock picking tools       | Tactical shotgun            | Throwing knives          | Flashbang grenade         |
-| 3   | Cyberdeck                        | Medical kit       | Nanowire garrote         | Surveillance drone          | Telescopic baton         | Plasma cutter             |
-| 4   | Plasma pistol                    | Grenade launcher  | Personal drone           | EMP cannon                  | Cybernetic eyes          | Personal forcefield       |
-| 5   | Vibroknife                       | Smoke grenades    | Thermal vision goggles   | Graviton gun                | Neural interface headset | Portable shield generator |
-| 6   | Augmented reality contact lenses | Hacking toolkit   | Personal cloaking device | Electromagnetic pulse rifle | Climbing gear            | Antigravity boots         |
+|   | 1                                | 2                           | 3                      | 4                          | 5                  | 6                         |
+|---|----------------------------------|-----------------------------|------------------------|----------------------------|--------------------|---------------------------|
+| 1 | Data Jack                        | Cyberdeck                   | Neural Implant         | Smart Glasses              | Holo-projector     | Stealth Suit              |
+| 2 | Energy Blade                     | Nano-medkit                 | Grappling Hook         | Cybernetic Limb            | Hacking Toolkit    | Cloaking Device           |
+| 3 | Drones                           | EMP Grenade                 | Neural Interface Glove | Smart Wristwatch           | Biometric Scanner  | Cybernetic Eye            |
+| 4 | Virtual Reality Visor            | Energy Pistol               | Nanodrones             | Portable Energy Shield     | Sonic Disruptor    | Cybernetic Implant Jammer |
+| 5 | Electro-magnetic Pulse (EMP) Gun | Anti-gravity Boots          | Camouflage Nanoskin    | Smart Lockpicks            | Neural Stunner     | Nanite Swarm Grenade      |
+| 6 | Cybernetic Reinforced Clothing   | Holographic Decoy Projector | EMP Shielding Cloak    | Cybernetic Interface Cable | Cybernetic Toolkit | Portable Drone Charger    |
+
 
 
 ## Special Rules
@@ -78,24 +82,26 @@
 
 ### Implants
 
-1. Neural Interface: A direct interface between the brain and a computer system, allowing for direct control and manipulation of technology.
-1. Cybernetic Eyes: Enhanced visual implants that allow for night vision, zooming, or even infrared vision.
-1. Cybernetic Limbs: Artificial arms, legs, or other body parts that provide enhanced strength, speed, or agility.
-1. Neural Implant: A chip implanted in the brain that enhances cognitive abilities, such as memory, calculation, or learning.
-1. Voice Modulator: An implant that can change the sound of a character's voice, making them sound like someone else or disguising their identity.
-1. Retinal Display: An implant that displays information directly onto the character's retina, providing an augmented reality overlay of the world around them.
-1. Subdermal Armor: A layer of armor implanted beneath the skin, providing additional protection against physical attacks.
-1. Cybernetic Organs: Artificial organs that can replace or augment natural organs, providing increased strength, endurance, or resilience.
-1. Pain Suppressor: An implant that suppresses pain signals, allowing characters to push through injuries and ignore physical discomfort.
-1. Adrenal Boost: An implant that can trigger a surge of adrenaline, providing temporary boosts to strength, speed, or reflexes.
-1. Synthetic Blood: An implant that replaces or enhances natural blood cells, providing increased oxygenation, stamina, or resistance to toxins.
-1. Bio-monitor: An implant that constantly monitors the character's health, providing alerts for injuries, illnesses, or other health concerns.
-1. Reflex Booster: An implant that enhances the character's reflexes, providing increased reaction time and agility.
-1. Sensory Enhancement: An implant that enhances the character's senses, allowing for better hearing, smelling, or tasting.
-1. Cybernetic Spine: An implant that replaces or augments the natural spine, providing increased strength, flexibility, or durability.
-1. Subdermal Weapon: An implant that can conceal a small weapon, such as a knife or gun, beneath the skin.
-1. Datajack: A jack implanted in the skull that allows for direct connection to a computer system, facilitating hacking and data manipulation.
-1. Cybernetic Heart: An implant that replaces or enhances the natural heart, providing increased stamina, endurance, or resistance to heart-related illnesses.
+Consider each of the following as additional gear items.
+
+1. **Neural Interface**: A direct interface between the brain and a computer system, allowing for direct control and manipulation of technology.
+1. **Cybernetic Eyes**: Enhanced visual implants that allow for night vision, zooming, or even infrared vision.
+1. **Cybernetic Limbs**: Artificial arms, legs, or other body parts that provide enhanced strength, speed, or agility.
+1. **Neural Implant**: A chip implanted in the brain that enhances cognitive abilities, such as memory, calculation, or learning.
+1. **Voice Modulator**: An implant that can change the sound of a character's voice, making them sound like someone else or disguising their identity.
+1. **Retinal Display**: An implant that displays information directly onto the character's retina, providing an augmented reality overlay of the world around them.
+1. **Subdermal Armor**: A layer of armor implanted beneath the skin, providing additional protection against physical attacks.
+1. **Cybernetic Organs**: Artificial organs that can replace or augment natural organs, providing increased strength, endurance, or resilience.
+1. **Pain Suppressor**: An implant that suppresses pain signals, allowing characters to push through injuries and ignore physical discomfort.
+1. **Adrenal Boost**: An implant that can trigger a surge of adrenaline, providing temporary boosts to strength, speed, or reflexes.
+1. **Synthetic Blood**: An implant that replaces or enhances natural blood cells, providing increased oxygenation, stamina, or resistance to toxins.
+1. **Bio-monitor**: An implant that constantly monitors the character's health, providing alerts for injuries, illnesses, or other health concerns.
+1. **Reflex Booster**: An implant that enhances the character's reflexes, providing increased reaction time and agility.
+1. **Sensory Enhancement**: An implant that enhances the character's senses, allowing for better hearing, smelling, or tasting.
+1. **Cybernetic Spine**: An implant that replaces or augments the natural spine, providing increased strength, flexibility, or durability.
+1. **Subdermal Weapon**: An implant that can conceal a small weapon, such as a knife or gun, beneath the skin.
+1. **Datajack**: A jack implanted in the skull that allows for direct connection to a computer system, facilitating hacking and data manipulation.
+1. **Cybernetic Heart**: An implant that replaces or enhances the natural heart, providing increased stamina, endurance, or resistance to heart-related illnesses.
 
 ### Reputation
 
@@ -316,39 +322,39 @@
 
 | D66 | Adventure                                                                                                                                 |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 11  | The protagonist is hired to infiltrate a rival corporation and steal a valuable prototype.                                                |
-| 12  | The protagonist is framed for a crime they didn't commit and must clear their name by uncovering the real culprit.                        |
-| 13  | The protagonist is hired to rescue a kidnapped CEO from a rival corporation's stronghold.                                                 |
-| 14  | The protagonist is hired to protect a VIP during a dangerous journey through the city.                                                    |
-| 15  | The protagonist is tasked with investigating a series of mysterious disappearances in the city's slums.                                   |
-| 16  | The protagonist is hired to transport a valuable and highly dangerous package across the city.                                            |
-| 21  | The protagonist is contacted by a mysterious hacker who promises to help them take down a powerful corporation.                           |
-| 22  | The protagonist must investigate a strange and deadly new drug that is sweeping the city.                                                 |
-| 23  | The protagonist is hired to retrieve a stolen piece of technology from a heavily guarded facility.                                        |
-| 24  | The protagonist is tasked with infiltrating a dangerous gang to gather information for a client.                                          |
-| 25  | The protagonist is contacted by an old friend who needs their help taking down a corrupt cop.                                             |
-| 26  | The protagonist must navigate a dangerous virtual reality game to uncover a secret password.                                              |
-| 31  | The protagonist is hired to provide security for a high-stakes business deal.                                                             |
-| 32  | The protagonist is tasked with stealing a valuable piece of art from a wealthy collector.                                                 |
-| 33  | The protagonist is hired to track down and eliminate a dangerous assassin.                                                                |
-| 34  | The protagonist must infiltrate a heavily guarded research facility to steal valuable data.                                               |
-| 35  | The protagonist is hired to protect a group of activists during a protest.                                                                |
-| 36  | The protagonist is contacted by a rival corporation and offered a lucrative job to betray their current employer.                         |
-| 41  | The protagonist must track down and eliminate a rogue AI before it causes widespread destruction.                                         |
-| 42  | The protagonist is tasked with hacking into a rival corporation's mainframe to steal valuable data.                                       |
-| 43  | The protagonist is hired to provide security for a high-profile event.                                                                    |
-| 44  | The protagonist must navigate a dangerous gang-infested area of the city to find a valuable informant.                                    |
-| 45  | The protagonist is hired to escort a valuable and highly dangerous prisoner to a secure facility.                                         |
-| 46  | The protagonist is tasked with stealing a powerful weapon from a heavily guarded military base.                                           |
-| 51  | The protagonist is hired to track down and eliminate a notorious cyber criminal.                                                          |
-| 52  | The protagonist must infiltrate a rival corporation's headquarters to gather valuable intel.                                              |
-| 53  | The protagonist is contacted by an underground resistance group and asked to help take down a corrupt government.                         |
-| 54  | The protagonist is hired to steal a valuable prototype from a rival corporation's research lab.                                           |
-| 55  | The protagonist must investigate a series of gruesome murders that are plaguing the city.                                                 |
-| 56  | The protagonist is hired to protect a wealthy businessman during a dangerous trip through the city's underworld.                          |
-| 61  | The protagonist is tasked with rescuing a group of hostages from a heavily fortified building.                                            |
-| 62  | The protagonist is contacted by a mysterious figure who claims to have information about their past.                                      |
-| 63  | The protagonist must infiltrate a rival corporation's data center to retrieve valuable information.                                       |
-| 64  | The protagonist is hired to escort a valuable shipment across the city, but soon discovers they are being pursued by dangerous criminals. |
-| 65  | The protagonist is tasked with breaking into a heavily fortified prison to free a valuable prisoner.                                      |
-| 66  | The protagonist is contacted by a rival corporation and offered a job to sabotage their own employer.                                     |
+| 11  | The Black Market Syndicate approaches the protagonist with a lucrative smuggling job that involves transporting illegal cybernetic implants past strict corporate security. |
+| 12  | The Neo-Luddites plan to launch a large-scale sabotage operation targeting a major technology corporation's headquarters, and the protagonist must gather evidence to prevent the attack. |
+| 13  | The Corporate Elite hires the protagonist to negotiate a delicate business deal with a rival corporation, but hidden agendas and double-crosses make the task more challenging. |
+| 14  | The Technomancers seek a rare ancient artifact that holds the key to unlocking immense power, and the protagonist must navigate dangerous territories to retrieve it. |
+| 15  | The Hacktivists recruit the protagonist to expose a corrupt politician's illicit activities, leading them into a web of intrigue and danger. |
+| 16  | The Street Samurai challenge the protagonist to a high-stakes combat tournament, with the reputation and prestige of the winners on the line. |
+| 21  | Hannah "Blackout" Garcia reaches out to the protagonist for help in infiltrating a highly secure corporate server to uncover evidence of illegal experiments. |
+| 22  | Sergei "The Butcher" Volkov offers a hefty reward to the protagonist for eliminating a rival hitman who has been encroaching on his territory. |
+| 23  | Veronica "The Viper" Rodriguez enlists the protagonist's assistance in a dangerous negotiation with a powerful crime lord, testing their persuasion skills and loyalty. |
+| 24  | Marcus "The Prophet" Kim believes he has discovered a hidden conspiracy within the technocratic government and needs the protagonist's help to expose it. |
+| 25  | Dr. Olivia "The Alchemist" Chen requires the protagonist's protection as they venture into a lawless area to collect rare and dangerous scientific samples. |
+| 26  | Captain "Ironclad" Jackson assigns the protagonist a series of high-profile cases involving organized crime, putting their investigative skills to the test. |
+| 31  | The protagonist uncovers a hidden factory where combat drones are being illegally manufactured and must shut it down before they fall into the wrong hands. |
+| 32  | A corporate megacorp hires the protagonist to investigate a series of mysterious cybernetic malfunctions that have been causing chaos in the city. |
+| 33  | The protagonist discovers an underground cybernetics black market and must navigate the dangerous underworld to retrieve a stolen prototype. |
+| 34  | A rogue hacker challenges the protagonist to a digital duel in the virtual reality world, with the outcome determining the fate of a valuable data cache. |
+| 35  | The protagonist is hired to provide security for a high-profile tech convention where a dangerous hacker collective plans to stage a disruptive attack. |
+| 36  | The Technomancers task the protagonist with retrieving a rare magical artifact that can amplify their cybernetic abilities and grant them unimaginable power. |
+| 41  | The Hacktivists discover a secret corporate project that involves brainwashing the population through neural implants and recruit the protagonist to stop it. |
+| 42  | The protagonist must protect a key witness who holds evidence of corporate corruption from both hired assassins and corporate security forces. |
+| 43  | The Neo-Luddites plan a massive protest against a new AI-driven transportation system, and the protagonist must prevent it from escalating into violence. |
+| 44  | The Corporate Elite hires the protagonist to locate and extract a valuable asset who possesses vital corporate secrets but is being held captive by a rival faction. |
+| 45  | The protagonist is caught in the crossfire of a street gang war and must navigate the dangerous urban landscape to broker a peace or eliminate the leaders. |
+| 46  | A notorious hacker challenges the protagonist to a series of increasingly difficult cybernetic puzzles and traps within a virtual labyrinth. |
+| 51  | The Security Guard at a top-secret research facility asks the protagonist to help them investigate strange occurrences that suggest a rogue AI may be at play. |
+| 52  | The protagonist is hired by a wealthy corporate executive to locate their missing child, who has fallen in with a dangerous gang involved in illegal cybernetic experimentation. |
+| 53  | The Technomancers seek the protagonist's help in retrieving a stolen prototype that can grant the user god-like control over technology, before it falls into the wrong hands. |
+| 54  | The Hacktivists recruit the protagonist to infiltrate a highly secure data center and leak classified information to expose a corrupt government's hidden agenda. |
+| 55  | The protagonist must engage in a high-speed chase through the futuristic cityscape to recover a stolen hovercar containing sensitive corporate data. |
+| 56  | The Street Samurai are organizing an uprising against oppressive corporate control, and the protagonist must decide whether to join their cause or stop them to maintain order. |
+| 61  | Hannah "Blackout" Garcia believes she has discovered a hidden AI manipulating the stock market, and the protagonist must uncover the truth behind the conspiracy. |
+| 62  | Sergei "The Butcher" Volkov's rival gang kidnaps his loved one, and the protagonist must assist in a daring rescue mission while fending off enemy forces. |
+| 63  | Veronica "The Viper" Rodriguez needs the protagonist's help in retrieving a rare and priceless artifact stolen by a powerful crime syndicate, testing their cunning and combat skills. |
+| 64  | Marcus "The Prophet" Kim claims to have visions of an impending catastrophic event, and the protagonist must decipher his cryptic messages to prevent disaster. |
+| 65  | Dr. Olivia "The Alchemist" Chen tasks the protagonist with gathering rare components for an experimental cybernetic enhancement that could revolutionize the field. |
+| 66  | Captain "Ironclad" Jackson suspects a conspiracy within the law enforcement agency and enlists the protagonist to help uncover the truth, exposing corruption and betrayal. |
