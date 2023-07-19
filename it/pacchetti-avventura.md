@@ -14,5 +14,5 @@ Usali come linee guida e ispirazione non vincolanti, lascia correre la tua immag
 - [Pacchetto Avventura Horror](it/AP06_horror.md)
 - [Pacchetto Avventura Azione](it/AP07_azione.md)
 - [Pacchetto Avventura Spionaggio](it/AP08_spionaggio.md)
-- [Pacchetto Avventura Pirati](it/AP09_postapocalittico.md)
+- [Pacchetto Avventura Post-apocalittico](it/AP09_postapocalittico.md)
 - [Pacchetto Avventura Pirati](it/AP10_pirati.md)
