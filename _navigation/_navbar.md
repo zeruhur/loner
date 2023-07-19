@@ -29,5 +29,6 @@
   - [Pacchetto Avventura Spionaggio](it/AP08_spionaggio.md)
   - [Pacchetto Avventura Post-apocalittico](it/AP09_postapocalittico.md)
   - [Pacchetto Avventura Pirati](it/AP10_pirati.md)
+  - [Pacchetto Avventura Western](it/AP11_western.md)
   - [Domande Frequenti](it/domande_frequenti.md)
 - [Loner Assistant](https://zeruhur.space/loner-assistant/)

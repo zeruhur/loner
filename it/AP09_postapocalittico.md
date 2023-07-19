@@ -279,7 +279,7 @@
 - Contiene flora e fauna mutate, nonché risorse preziose.
 - Possibili incontri: Creature mutate, raccattatori, botanici
 
-## Sfide Avventura
+## Semi di Avventura
 
 | D66 | Avventura                                                                                                                                 |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------- |

@@ -290,7 +290,7 @@ Risposta chiusa:
 - La nave fantasma: Una nave fantasma che si dice infesti il triangolo, con equipaggio di pirati non morti.
 - Il serpente marino: Si dice che un enorme serpente marino si nasconda nelle acque del triangolo.
 
-## Idee per Avventure
+## Semi di Avventura
 
 | D66 | Avventura                                                                                                                                 |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------- |

@@ -12,50 +12,53 @@
 
 ### Concepts
 
-|     | 1              | 2                       | 3                 | 4               | 5               | 6               |
-| --- | -------------- | ----------------------- | ----------------- | --------------- | --------------- | --------------- |
-| 1   | Grizzled       | Gunslinger              | Drifter           | Outlaw          | Prospector      | Homesteader     |
-| 2   | Lawman         | Bounty Hunter           | Gambler           | Saloon Girl     | Trail Boss      | Preacher        |
-| 3   | Rustler        | Blacksmith              | Rancher           | Indian Scout    | Banker          | Buffalo Hunter  |
-| 4   | Mexican Bandit | Mountain Man            | Medicine Man      | Pinkerton Agent | Sharpshooter    | Gold Miner      |
-| 5   | Cattle Baron   | Town Drunk              | Stagecoach Driver | Schoolmarm      | Railroad Worker | Buffalo Soldier |
-| 6   | Duelist        | Gunslinger's Apprentice | Riverboat Captain | Barber          | Cowboy Poet     | Wagon Master    |
+|   | 1                       | 2                       | 3                    | 4                     | 5                         | 6                        |
+|---|-------------------------|-------------------------|----------------------|-----------------------|---------------------------|--------------------------|
+| 1 | Lone Gunslinger         | Fearless Outlaw         | Cursed Sheriff       | Wild Tracker          | Mysterious Gambler        | Honorable Lawman         |
+| 2 | Swift Sharpshooter      | Cunning Bandit          | Loyal Deputy         | Vengeful Gunslinger   | Wise Native Scout         | Reckless Renegade        |
+| 3 | Charismatic Showman     | Tenacious Bounty Hunter | Skilled Blacksmith   | Charming Saloon Owner | Quick-fingered Pickpocket | Resilient Frontierswoman |
+| 4 | Skilled Horse Whisperer | Ruthless Desperado      | Noble Rancher        | Enigmatic Preacher    | Adventurous Prospector    | Formidable Gunslinger    |
+| 5 | Crafty Trickster        | Deadly Sniper           | Mysterious Stranger  | Resourceful Tracker   | Courageous Marshal        | Daring Stagecoach Driver |
+| 6 | Wise Medicine Woman     | Sharp-eyed Scout        | Skilled Sharpshooter | Reliable Trail Guide  | Fearless Gunslinger       | Tenacious Lawkeeper      |
+
 
 
 ### Skills
 
-|     | 1            | 2               | 3              | 4               | 5               | 6                |
-| --- | ------------ | --------------- | -------------- | --------------- | --------------- | ---------------- |
-| 1   | Archery      | Animal Handling | Bartering      | Brawling        | Cooking         | Gambling         |
-| 2   | Horse Riding | Hunting         | Intimidation   | Knife Fighting  | Leadership      | Lockpicking      |
-| 3   | Medicine     | Mining          | Navigation     | Persuasion      | Pickpocketing   | Riding Shotgun   |
-| 4   | Riflery      | Skinning        | Sneaking       | Survival        | Tracking        | Whiskey Drinking |
-| 5   | Bank Robbery | Blacksmithing   | Bounty Hunting | Cattle Rustling | Fast Drawing    | Gold Panning     |
-| 6   | Lassoing     | Outlawry        | Posse Riding   | Sharpshooting   | Stealing Horses | Storytelling     |
+|   | 1                  | 2                        | 3                 | 4                     | 5                      | 6                       |
+|---|--------------------|--------------------------|-------------------|-----------------------|------------------------|-------------------------|
+| 1 | Marksmanship       | Horseback Riding         | Quick Draw        | Tracking              | Bartering              | Knife Fighting          |
+| 2 | Survival Instincts | Gambling                 | Lasso Mastery     | Stealth               | Leadership             | Archery                 |
+| 3 | Whiskey Tasting    | Riding Shotgun           | Brawling          | Lockpicking           | Fast Talking           | Sharpshooting           |
+| 4 | Hunting            | Cooking/Campfire Cooking | Horsemanship      | Bank Robbery Planning | Storytelling           | Fistfighting            |
+| 5 | Intimidation       | Trick Shooting           | Gambling Cheating | Tracking Outlaws      | Saloon Games           | Outlaw Contacts         |
+| 6 | Gold Prospecting   | Disguise                 | First Aid         | Dynamite Handling     | Singing/Cowboy Ballads | Roping/Cattle Wrangling |
+
 
 
 ### Frailties
 
-|     | 1          | 2             | 3           | 4        | 5             | 6             |
-| --- | ---------- | ------------- | ----------- | -------- | ------------- | ------------- |
-| 1   | Drunkard   | Greedy        | Prejudiced  | Arrogant | Liar          | Cowardice     |
-| 2   | Dishonest  | Superstitious | Slow-witted | Vengeful | Bloodthirsty  | Traitor       |
-| 3   | Arrogant   | Gullible      | Stutterer   | Shy      | Deaf          | Foolish       |
-| 4   | Gambler    | Addicted      | Stubborn    | Blind    | One-armed     | One-legged    |
-| 5   | Insomniac  | Depressed     | Paranoid    | Mute     | Kleptomaniac  | Short-sighted |
-| 6   | Illiterate | Unlucky       | Fearful     | Clumsy   | Grudge holder | Jealous       |
+|   | 1                               | 2                                        | 3                                 | 4                                    | 5                            | 6                                      |
+|---|---------------------------------|------------------------------------------|-----------------------------------|--------------------------------------|------------------------------|----------------------------------------|
+| 1 | Shaky Hands                     | Whiskey Addiction                        | Vengeance Obsession               | Trouble with Authority               | Lone Wolf                    | Superstitious Beliefs                  |
+| 2 | Chronic Gold Fever              | Fear of Native Americans                 | Card Sharp's Rivalries            | Reckless Gambler                     | Riding Fear                  | Stagecoach Travel Sickness             |
+| 3 | Wanted Dead or Alive            | Gunshot Wound That Never Healed Properly | Inability to Swim                 | Relentless Outlaw Pursuit            | Cursed by a Condemned Spirit | Chronic Bad Luck with Gambling         |
+| 4 | Nightmares of Past Shootouts    | Quick Tempered                           | Unfinished Business from the Past | Fear of Rattlesnakes                 | Lost in the Desert           | Infamous Reputation                    |
+| 5 | Shoot First Ask Questions Later | PTSD from the Civil War                  | Bandit Gang Feuds                 | Fear of Being Betrayed by Companions | Incurable Horse Allergies    | Chronic Misfortune with Cards and Dice |
+| 6 | Persecuted by a Corrupt Lawman  | Fear of the Noose                        | Rustler Stigma                    | Rejected by Native American Tribes   | Inability to Read or Write   | Bounty on their Head                   |
+
 
 
 ### Gear
 
-|     | 1           | 2               | 3               | 4              | 5             | 6            |
-| --- | ----------- | --------------- | --------------- | -------------- | ------------- | ------------ |
-| 1   | Lasso       | Winchester 1873 | Colt Peacemaker | Bowie knife    | Saddle        | Spurs        |
-| 2   | Hat         | Horse           | Saddlebags      | Bandana        | Canteen       | Bedroll      |
-| 3   | Dynamite    | Pocket watch    | Harmonica       | Gold nugget    | Tobacco pouch | Pipe         |
-| 4   | Stagecoach  | Shotgun         | Revolver        | Brass knuckles | Brass compass | Horse brush  |
-| 5   | Chaps       | Stetson         | Derringer       | Playing cards  | Camp stove    | Fishing line |
-| 6   | Duster coat | Boots           | Horseshoe nails | Shovel         | Lantern       | Trail map    |
+|   | 1               | 2                  | 3                           | 4                    | 5                | 6                     |
+|---|-----------------|--------------------|-----------------------------|----------------------|------------------|-----------------------|
+| 1 | Revolver        | Lever-action Rifle | Bowie Knife                 | Stetson Hat          | Bandana          | Cowboy Boots          |
+| 2 | Leather Duster  | Saddle and Tack    | Winchester Shotgun          | Spur                 | Lasso            | Saddlebags            |
+| 3 | Colt Peacemaker | Pocket Watch       | Sheriff's Badge             | Saloon Playing Cards | Wanted Poster    | Sheriff's Deputy Star |
+| 4 | Brass Knuckles  | Wagon              | Horseshoes                  | Saddle Holster       | Derringer Pistol | Horse Brush and Comb  |
+| 5 | Mining Pickaxe  | Canteen            | Wanted Dead or Alive Poster | Harmonica            | Gold Pan         | Poncho                |
+| 6 | Dynamite        | Tin Cup            | Chuckwagon Cooking Utensils | Horse Feed           | Riding Spurs     | Gambler's Dice        |
 
 
 ## Special Rules
@@ -257,33 +260,33 @@
 ### Deadwood Saloon
 - Iconic drinking establishment in the center of town.
 - Frequented by cowboys, miners, and gamblers.
-- Possibile Encounters: Bartender NPC, Faction 1 NPC, Faction 5 NPC
+- Possibile Encounters: Bartender, Outlaws, Gamblers
 
 ### Coyote Pass
 
 - Treacherous pass through the mountains.
 - Bandits and ambushes are common.
-- Possibile Encounters: Bandit NPC, Faction 4 NPC, Creature 4
+- Possibile Encounters: Bandit, Natives, Rattlesnake
 
 ### Silver Mine
 - Abandoned mine with silver veins.
 - Tunnels are unstable and dangerous.
-- Possibile Encounters: Faction 3 NPC, Creature 5, Creature 6
+- Possibile Encounters: Outlaws, Lurker, Rattlesnake
 
 ### Fort Union
 - Military fort on the edge of the territory.
 - Commanded by a tough but fair colonel.
-- Possibile Encounters: Military NPC, Faction 2 NPC, Creature 2
+- Possibile Encounters: Soldiers, Natives
 
 ### Dry Gulch
 - Small, dusty town on the outskirts of civilization.
 - Lawless and dangerous, ruled by a corrupt mayor.
-- Possibile Encounters: Mayor NPC, Faction 6 NPC, Creature 1
+- Possibile Encounters: Mayor, Bandit, Lawmen
 
 ### Big Sky Ranch
 - Sprawling cattle ranch owned by a wealthy rancher.
 - Prized cattle are guarded by cowboys and guard dogs.
-- Possibile Encounters: Rancher NPC, Cowboy NPC, Creature 3
+- Possibile Encounters: Rancher, Cowboy, Rattlesnake
 
 ## Adventure Seeds
 
