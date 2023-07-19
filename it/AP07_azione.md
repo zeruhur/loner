@@ -103,7 +103,7 @@ I punti azione possono essere spesi per aumentare le probabilità di successo o 
 - **Attrezzatura**: Attrezzatura per la ricerca, Libro raro
 - **Obiettivo**: Svelare e preservare la storia e i manufatti del passato
 - **Motivazione**: Ottenere conoscenza e riconoscimento nel mondo accademico
-- **Nemesi**: La Spedizione Militare
+- **Nemesi**: Il Corpo di Spedizione
 
 ### I Cacciatori di Tesori
 - **Concetto**: Mercenari avventurosi
