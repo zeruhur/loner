@@ -19,7 +19,7 @@
 | 3 | Avventuriero Audace | Acrobata Agile | Soldato Esperto | Tracciatore Abile | Giornalista Intrepido | Imprenditore Audace |
 | 4 | Temerario Cacciatore di Tesori | Ladro Furtivo | Veterano Provato in Battaglia | Stratega Maestro | Hacker Geniale | Negoziatore Astuto |
 | 5 | Sopravvissuto Robusto | Pilota Esperto | Tiratore d'Elite | Infiltrato Furtivo | Tecnico Esperto | Oratore Persuasivo |
-| 6 | Ricercatore Tenace | Truffatore Astuto | Agente Speciale Coraggioso | Demolitore Abile | Maestro del Travestimento | Oratore Carismatico Pubblico |
+| 6 | Ricercatore Tenace | Truffatore Astuto | Agente Speciale Coraggioso | Demolitore Abile | Maestro del Travestimento | Oratore Carismatico  |
 
 
 ### Abilità
@@ -34,7 +34,7 @@
 | 6 | Nuoto | Tattiche | Tecnologia | Caccia al Tesoro | Lotta | Maestria delle Armi |
 
 
-### Fragilità
+### Debolezze
 
 | D66 | 1                      | 2                         | 3                       | 4                        | 5                      | 6                  |
 |-----|------------------------|---------------------------|-------------------------|--------------------------|------------------------|--------------------|
@@ -43,7 +43,7 @@
 | 3   | Paranoia e sospetto     | Mancanza di abilità di combattimento  | Visione compromessa    | Credulità e ingenuità    | Vulnerabilità al fuoco  | Eccessiva fiducia |
 | 4   | Paura dei serpenti      | Impazienza e imprudenza   | Impaccio sociale         | Reazioni allergiche       | Paura dell'oscurità     | Poca resistenza   |
 | 5   | Natura iperprotettiva   | Paura degli insetti       | Facilmente distratto     | Analfabetismo tecnologico | Eccessiva fiducia      | Paura degli animali |
-| 6   | Vulnerabilità al freddo | Presa di rischi compulsiva | Spazi claustrofobici     | Paura dei rumori forti    | Udito compromesso       | Auto-dubbio cronico |
+| 6   | Vulnerabilità al freddo | Presa di rischi compulsiva | Acrofobia     | Paura dei rumori forti    | Udito compromesso       | Auto-dubbio cronico |
 
 
 ### Attrezzatura
