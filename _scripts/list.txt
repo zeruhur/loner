@@ -1,36 +1,36 @@
-Data Jack
-Cyberdeck
-Neural Implant
-Smart Glasses
-Holo-projector
-Stealth Suit
-Energy Blade
-Nano-medkit
-Grappling Hook
-Cybernetic Limb
-Hacking Toolkit
-Cloaking Device
-Drones
-EMP Grenade
-Neural Interface Glove
-Smart Wristwatch
-Biometric Scanner
-Cybernetic Eye
-Virtual Reality Visor
-Energy Pistol
-Nanodrones
-Portable Energy Shield
-Sonic Disruptor
-Cybernetic Implant Jammer
-Electro-magnetic Pulse (EMP) Gun
-Anti-gravity Boots
-Camouflage Nanoskin
-Smart Lockpicks
-Neural Stunner
-Nanite Swarm Grenade
-Cybernetic Reinforced Clothing
-Holographic Decoy Projector
-EMP Shielding Cloak
-Cybernetic Interface Cable
-Cybernetic Toolkit
-Portable Drone Charger
+Gladius
+Pugio (dagger)
+Lorica Segmentata (armor)
+Scutum (shield)
+Pilum (javelin)
+Chariot with two horses
+Toga (garment)
+Sica (Curved Thracian sword)
+Chalice of fine wine
+Lyre
+Scroll of ancient rhymes
+Medicus' medical kit
+Stola
+Papyrus and ink set
+Roman military standard
+Gladiator's net and trident
+Senate-issued decree
+Goblet of precious metals
+Astrolabe
+Lituus (Divination wand)
+Chariot racing whip
+Abacus (Calculating tool)
+Ritual incense and brazier
+Scroll of philosophical writings
+Lupa Romana (Roman wolf amulet)
+Signet ring of a powerful patron
+Roman military cloak (Sagum)
+Silver denarii coins
+Amphora of olive oil
+Wax tablets for writing
+Writ of manumission (for a slave)
+Toga picta (Ceremonial toga)
+Tetrarch's diadem
+Gladiator's arena helmet
+Sistrum
+Sandals

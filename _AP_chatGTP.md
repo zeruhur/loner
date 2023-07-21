@@ -18,16 +18,23 @@ Inside you will find a concise setting, traits for characters, special setting r
 ---
 give me the outline for the X adventure pack for loner using the above guidelines
 ---
-further elaborate on the setting information in a point list of five items
+give me the setting information: time period, location, and any important cultural or historical details.
+format this in a bullet point list
+
 
 ---
-Give me 36 Character Concepts (adjective + noun) for this setting, in a 7x7 matrix. Header and first column are numbers from 1 to 6. Format the answer in raw markdown code in a snippet box
+Give me 36 Character Concepts (adjective + noun) for this setting
+
 ---
-Give me 36 Character Skills for this setting, in a 7x7 matrix. Header and first column are numbers from 1 to 6. Format the answer in raw markdown code in a snippet box
+Give me 36 Character Skills for this setting
+must be unique and without repetitions
 ---
-Give me 36 Character Frailties, flaws and Disadvantages for this setting, in a 7x7 matrix. Header and first column are numbers from 1 to 6. Format the answer in raw markdown code in a snippet box
+Give me 36 Character Frailties, flaws and Disadvantages for this setting
+must be unique and without repetitions
+
 ---
-Give me 36 Character Equipment Items for this setting, in a 7x7 matrix. Header and first column are numbers from 1 to 6. Format the answer in raw markdown code in a snippet box
+Give me 36 Character Equipment Items for this setting
+must be unique and without repetitions
 ---
 Consider the game is a tag based descriptive system and the resolution of every action is a closed question with this range of possible answers:
 
@@ -52,8 +59,6 @@ Give me 6 Factions coherent with the setting in this format:
 - Motive
 - Nemesis
 
-Format the answer in raw markdown code in a snippet box
-
 ---
 
 Give me 6 NPCs coherent with the setting in this format:
@@ -66,8 +71,6 @@ Give me 6 NPCs coherent with the setting in this format:
 - Goal:
 - Motive:
 - Nemesis:
-
-Format the answer in raw markdown code in a snippet box
 
 ---
 
@@ -84,17 +87,15 @@ Give me 6 creatures coherent with the setting in this format:
 
 They must be generic
 
-Format the answer in raw markdown code in a snippet box
-
 ---
 Give me the description of 6 notable location in the setting, with this format
 
 ### Name
 Brief Description in two or three bullet point
 - list of possible encounters or NPCs (from above)
-Format the answer in raw markdown code in a snippet box
+
 ---
 
-Give a list of 36 adventure seeds coherent with the setting, in raw markdown code in a snippet box. Keep in mind **also** the setting, the NPCs, the creature, the factions and the location above generated for this Pack. Please remember the player is always only one.
-
-Format the answer in raw markdown code in a snippet box
+Give a list of 36 adventure seeds coherent with the setting
+- Keep in mind **also** the setting, the NPCs, the creature, the factions and the location above generated above. 
+- Please remember the protagonist is always only one.
