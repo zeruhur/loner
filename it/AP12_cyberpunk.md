@@ -40,7 +40,7 @@
 
 |   | 1                    | 2                                 | 3                       | 4                            | 5                         | 6                                |
 |---|----------------------|-----------------------------------|-------------------------|------------------------------|---------------------------|----------------------------------|
-| 1 | Sovraccarico Neurale      | Dipendenza dalla Tecnologia                    | Corruzione della Memoria       | Cibersiachismo               | Fobia della Tecnologia             | Impronte di Impianti dal Mercato Nero            |
+| 1 | Sovraccarico Neurale      | Dipendenza dalla Tecnologia                    | Corruzione della Memoria       | Cybperpsicosi               | Fobia della Tecnologia             | Impronte di Impianti dal Mercato Nero            |
 | 2 | Stigma Sociale        | Paranoia da Sorveglianza             | Dipendenza dagli Impianti                    | Malfunzionamento dell'Interfaccia Neurale | Fallimento della Crittografia delle Memorie | Rifiuto Cibernetico             |
 | 3 | Dipendenza dalla Tecnologia    | Inserito nelle Liste Nere delle Corporazioni              | Vulnerabilità all'EMP    | Malfunzionamento dell'Impronta            | Feedback Neurale           | Vulnerabilità ai Malware            |
 | 4 | Surriscaldamento Fisico | Crisi di Identità                   | Dipendenza dall'Energia        | Identificazione di Replica     | Sindrome del Dolore Cibernetico  | Dipendenza Tecnologica                 |
