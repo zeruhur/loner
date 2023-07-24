@@ -86,9 +86,7 @@
 
 Considera ciascuno dei seguenti come oggetti aggiuntivi dell'equipaggiamento.
 
-1. **Interfaccia Neurale**: Un'interfaccia diretta tra il cervello e un sistema informatico, che consente il control
-
-lo e la manipolazione diretta della tecnologia.
+1. **Interfaccia Neurale**: Un'interfaccia diretta tra il cervello e un sistema informatico, che consente il controllo e la manipolazione diretta della tecnologia.
 2. **Occhi Cibernetici**: Impianti visivi potenziati che consentono la visione notturna, lo zoom o addirittura la visione a infrarossi.
 3. **Arti Cibernetici**: Braccia, gambe o altre parti del corpo artificiali che forniscono una forza, una velocità o una agilità potenziate.
 4. **Impianto Neurale**: Un chip impiantato nel cervello che potenzia le capacità cognitive, come la memoria, il calcolo o l'apprendimento.
@@ -96,7 +94,7 @@ lo e la manipolazione diretta della tecnologia.
 6. **Display Retinico**: Un impianto che visualizza le informazioni direttamente sulla retina del personaggio, fornendo un'overlay di realtà aumentata del mondo circostante.
 7. **Armatura Sottocutanea**: Uno strato di armatura impiantato sotto la pelle, che fornisce protezione aggiuntiva contro gli attacchi fisici.
 8. **Organi Cibernetici**: Organi artificiali che possono sostituire o potenziare gli organi naturali, fornendo una maggiore forza, resistenza o resilienza.
-9. **Suppressore del Dolore**: Un impianto che sopprime i segnali del dolore, permettendo ai personaggi di ignorare il dolore fisico e superare le lesioni.
+9. **Soppressore del Dolore**: Un impianto che sopprime i segnali del dolore, permettendo ai personaggi di ignorare il dolore fisico e superare le lesioni.
 10. **Potenziatore di Adrenalina**: Un impianto che può innescare una scarica di adrenalina, fornendo temporanei aumenti di forza, velocità o riflessi.
 11. **Sangue Sintetico**: Un impianto che sostituisce o potenzia i globuli rossi del sangue, fornendo un maggiore ossigenazione, resistenza o resistenza alle tossine.
 12. **Bio-monitor**: Un impianto che monitora costantemente la salute del personaggio, fornendo avvisi per lesioni, malattie o altre problematiche di salute.

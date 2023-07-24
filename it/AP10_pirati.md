@@ -59,7 +59,6 @@
 ### Combattimento Navale
 Durante il combattimento nave-nave, i giocatori compiranno manovre, cercheranno di abbordare le navi nemiche e sparare cannoni contro i loro avversari.
 
-Risposta chiusa:
 - **No e**: Il protagonista completa con successo la sua manovra, abborda la nave nemica e spara i cannoni, infliggendo danni pesanti.
 - **No**: Il protagonista non riesce a completare la sua manovra e subisce danni dal fuoco dei cannoni nemici.
 - **No, ma**: Il protagonista completa la sua manovra, ma non riesce ad abbordare la nave nemica o a sparare i cannoni in modo efficace.
@@ -71,7 +70,6 @@ Risposta chiusa:
 ### Saccheggio
 Dopo una riuscita incursione, i giocatori divideranno il bottino e gestiranno il morale dell'equipaggio in base al bottino ottenuto dalla vittoria.
 
-Risposta chiusa:
 - **No e**: L'equipaggio è estasiato dalla quantità di bottino ricevuta e il morale aumenta notevolmente.
 - **No**: Il bottino viene diviso equamente, ma il morale rimane neutro.
 - **No, ma**: Il bottino viene diviso, ma alcuni membri dell'equipaggio sono insoddisfatti della loro parte e il morale diminuisce leggermente.
@@ -83,7 +81,6 @@ Risposta chiusa:
 ### Ammutinamento
 Quando la tensione è alta a bordo di una nave, i giocatori potrebbero affrontare ammutinamenti o sfide di leadership che minacciano di dividere l'equipaggio.
 
-Risposta chiusa:
 - **No e**: L'ammutinamento viene sedato e l'equipaggio rimane leale al protagonista. Il morale aumenta come risultato.
 - **No**: L'ammutinamento fallisce, ma il morale è basso e l'equipaggio è insoddisfatto della leadership del protagonista.
 - **No, ma**: L'ammutinamento fallisce, ma alcuni membri dell'equipaggio sono ancora insoddisfatti e il morale diminuisce leggermente.
