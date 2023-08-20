@@ -68,7 +68,7 @@ Il tuo Protagonista è descritto da alcune caratteristiche:
 
 In *Loner* anche i Personaggi Non Giocanti (PNG), i Nemici, le Organizzazioni, i Mostri e persino gli oggetti rilevanti come i veicoli sono personaggi!
 
-- I**Personaggi Viventi** seguono le stesse regole di generazione del Protagonista.
+- I **Personaggi Viventi** seguono le stesse regole di generazione del Protagonista.
 - I **Personaggi Non Viventi**, invece, non hanno uno scopo, un movente, né una nemesi.
 
 **Esempio**
@@ -208,7 +208,7 @@ Il **Contatore dei colpi di scena** è una misura della tensione crescente nella
 
 ## Determinare il colpo di scena
 
-Tirate 2d6 e consultate la seguente Tabella dei colpi di scena per determinare il tipo di colpo di scena. 
+Tira 2d6 e consulta la seguente Tabella dei colpi di scena per determinare il tipo di colpo di scena. 
 
 |   D6  |      Soggetto     |        Azione       |
 |:-----:|:-----------------:|:-------------------:|
