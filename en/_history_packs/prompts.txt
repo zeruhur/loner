@@ -2,7 +2,7 @@
 Adventure Packs are very lightweight settings in which some elements are provided to kick start your game in some predefined genres.
 Inside you will find a concise setting, traits for characters, special setting rules, NPCs, enemies, factions, locations and adventure seeds.
 
-I want to develop the Ancient Egypt Adventure Pack
+I want to develop the Ancient Greek Adventure Pack
 
 give me the setting information: time period, location, Cultural and Historical Details, Key Events, Themes
 format this in a bullet point list
@@ -47,6 +47,8 @@ Give me 6 Factions coherent with the setting in this format:
 - **Motive**:
 - **Nemesis**:
 
+They must be historical accurate, without any fantastical element
+
 ---
 
 Give me 6 NPCs coherent with the setting in this format:
@@ -59,6 +61,8 @@ Give me 6 NPCs coherent with the setting in this format:
 - **Goal**:
 - **Motive**:
 - **Nemesis**:
+
+They must be historical accurate, without any fantastical element
 
 ---
 
@@ -73,7 +77,7 @@ Give me 6 creatures or human foes coherent with the setting in this format:
 - **Motive**:
 - **Nemesis**:
 
-They must be generic
+They must be generic and historical accurate, without any fantastical element
 
 ---
 
@@ -93,7 +97,9 @@ Give a list of 36 adventure seeds coherent with the setting
 
 write this section:
 
-**1. Social Structure:**
+## Culture and Society
+
+### **1. Social Structure:**
 Describe the social hierarchy of the era and location where the setting takes place. This part should include:
 - Social Classes: Identify the different social classes existing, such as aristocrats, commoners, slaves, or samurai, and explain their roles and influence in society.
 - Women's Role: Explore the role of women in society and their access to rights, education, work, and social standing.
@@ -113,11 +119,11 @@ Explore the predominant religious beliefs in the historical period, including:
 
 write this section:
 
-**Geography**
+## **Geography**
 
 In this section, we will explore the geographical aspects of the setting, providing essential information about the general landscape, significant places, regions, and modes of travel available in the specific historical period.
 
-**1. General Description:**
+### **1. General Description:**
 Paint a vivid picture of the overall geographical features of the setting. Include details such as:
 - Physical Landscape: Describe the terrain, climate, and natural landmarks characteristic of the area, such as mountains, rivers, forests, deserts, or seas.
 - Flora and Fauna: Mention the typical plant life and wildlife found in the region, highlighting any exotic or mythical creatures relevant to the setting.
@@ -126,7 +132,7 @@ Paint a vivid picture of the overall geographical features of the setting. Inclu
 
 write this section:
 
-**2. Main Places and Regions:**
+### **2. Main Places and Regions:**
 Highlight the key locations and regions within the setting, including:
 - Capital Cities: Describe the primary capital cities or cultural centers, elaborating on their importance, architecture, and notable features.
 - Significant Landmarks: Mention any historical or mythological landmarks that hold significance in the culture and history of the setting.
@@ -136,7 +142,7 @@ Highlight the key locations and regions within the setting, including:
 
 write this section:
 
-**3. Travel:**
+### **3. Travel:**
 Explain the available methods of transportation and travel in the setting, which may include:
 - On Foot: Detail the experiences and challenges of traveling by foot, emphasizing the opportunities for exploration and encounters with local cultures.
 - By Water: Describe the significance of rivers, seas, or other bodies of water for travel, trade, and maritime adventures.
@@ -146,11 +152,11 @@ Explain the available methods of transportation and travel in the setting, which
 
 write this section:
 
-**History**
+## **History**
 
 In this section, we will delve into the rich history of the setting, providing a detailed account of its past, including a general overview, significant events, and a chronological timeline of the specific historical period.
 
-**1. General Overview:**
+### **1. General Overview:**
 Offer a concise but informative overview of the setting's history. This should include:
 - Founding and Early Days: Describe the origins of the civilization or culture, highlighting the key figures or events that led to its establishment.
 - Major Periods: Identify major historical periods or eras that have shaped the development of the setting, such as periods of expansion, wars, cultural flourishing, or decline.
@@ -160,7 +166,7 @@ Offer a concise but informative overview of the setting's history. This should i
 
 write this section:
 
-**2. Significant Events:**
+### **2. Significant Events:**
 Highlight pivotal events that have shaped the course of history in the setting. Include:
 - Wars and Conflicts: Detail major wars or conflicts that have occurred, their causes, and their consequences on the region.
 - Diplomatic Relations: Describe significant treaties, alliances, or diplomatic exchanges that have affected the balance of power or cultural exchange between different societies.
@@ -171,7 +177,7 @@ Highlight pivotal events that have shaped the course of history in the setting. 
 
 write this section:
 
-**3. Chronology:**
+### **3. Chronology:**
 Present a detailed chronological timeline of the setting's history. This timeline should include key events and their respective dates, providing players and Dungeon Masters with a clear sense of the flow of history. Consider including:
 - Year 0 or Founding Date: Establish a starting point for the timeline, such as the founding of a significant city, the crowning of a monarch, or another defining moment.
 - Major Historical Milestones: Include important events in chronological order, such as the rise and fall of empires, significant battles, or transformative political changes.
