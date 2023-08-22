@@ -659,117 +659,34 @@ In Imperial Rome, beliefs regarding the afterlife and the veneration of ancestor
 
 ## Female
 
-Cornelia
-Livia
-Octavia
-Agrippina
-Calpurnia
-Flavia
-Faustina
-Drusilla
-Aurelia
-Antonia
-Domitia
-Marcia
-Claudia
-Julia
-Sabina
-Valeria
-Aelia
-Vibia
-Caecilia
-Pompeia
-Marcella
-Junia
-Caelia
-Cassia
-Terentia
-Hortensia
-Cossutia
-Plautia
-Tullia
-Postumia
-Servilia
-Sulpicia
-Lucretia
-Metella
-Licinia
-Faenia
+|   | 1        | 2         | 3        | 4         | 5         | 6        |
+|---|----------|-----------|----------|-----------|-----------|----------|
+| 1 | Cornelia | Livia     | Octavia  | Agrippina | Calpurnia | Flavia   |
+| 2 | Faustina | Drusilla  | Aurelia  | Antonia   | Domitia   | Marcia   |
+| 3 | Claudia  | Julia     | Sabina   | Valeria   | Aelia     | Vibia    |
+| 4 | Caecilia | Pompeia   | Marcella | Junia     | Caelia    | Cassia   |
+| 5 | Terentia | Hortensia | Cossutia | Plautia   | Tullia    | Postumia |
+| 6 | Servilia | Sulpicia  | Lucretia | Metella   | Licinia   | Faenia   |
 
 ## Male
 
-Gaius
-Marcus
-Titus
-Lucius
-Octavius
-Tiberius
-Julius
-Augustus
-Nero
-Claudius
-Maximus
-Quintus
-Decimus
-Flavius
-Cassius
-Aulus
-Valerius
-Cato
-Antonius
-Cornelius
-Crassus
-Severus
-Atticus
-Fabius
-Vitruvius
-Decius
-Proculus
-Verus
-Servius
-Cincinnatus
-Marcellus
-Balbus
-Decentius
-Publius
-Lentulus
-Scipio
+|   | 1         | 2         | 3         | 4        | 5        | 6           |
+|---|-----------|-----------|-----------|----------|----------|-------------|
+| 1 | Gaius     | Marcus    | Titus     | Lucius   | Octavius | Tiberius    |
+| 2 | Julius    | Augustus  | Nero      | Claudius | Maximus  | Quintus     |
+| 3 | Decimus   | Flavius   | Cassius   | Aulus    | Valerius | Cato        |
+| 4 | Antonius  | Cornelius | Crassus   | Severus  | Atticus  | Fabius      |
+| 5 | Vitruvius | Decius    | Proculus  | Verus    | Servius  | Cincinnatus |
+| 6 | Marcellus | Balbus    | Decentius | Publius  | Lentulus | Scipio      |
+
 
 ## Surnames
 
-Aurelius
-Octavius
-Flavius
-Maximus
-Antonius
-Valerius
-Cornelius
-Cassius
-Marcellus
-Brutus
-Claudius
-Fabius
-Pompeius
-Augustus
-Scipio
-Tiberius
-Vitruvius
-Severus
-Crassus
-Gracchus
-Cato
-Galerius
-Verus
-Sulpicius
-Balbus
-Lentulus
-Quinctius
-Vespasianus
-Maro
-Drusus
-Gratus
-Licinius
-Valentinus
-Quintilianus
-Aelianus
-Cincinnatus
+|   | 1         | 2        | 3          | 4            | 5         | 6           |
+|---|-----------|----------|------------|--------------|-----------|-------------|
+| 1 | Aurelius  | Octavius | Flavius    | Maximus      | Antonius  | Valerius    |
+| 2 | Cornelius | Cassius  | Marcellus  | Brutus       | Claudius  | Fabius      |
+| 3 | Pompeius  | Augustus | Scipio     | Tiberius     | Vitruvius | Severus     |
+| 4 | Crassus   | Gracchus | Cato       | Galerius     | Verus     | Sulpicius   |
+| 5 | Balbus    | Lentulus | Quinctius  | Vespasianus  | Maro      | Drusus      |
+| 6 | Gratus    | Licinius | Valentinus | Quintilianus | Aelianus  | Cincinnatus |

@@ -1,72 +1,24 @@
 ,1,2,3,4,5,6
-1,Elementale delle Fiamme,Maestro dei Ghiacci Eterei,Mistico dell'Arcana Nera,Guardiano delle Stelle,Animista degli Spiriti Selvaggi,Cercatore di Segreti Oscure
-2,Cantore dei Venti Celesti,Artigiano delle Illusioni,Sciamano dell'Antica Terra,Camuffatore delle Ombre,Sapiente dei Cicli Lunari,Custode delle Energia Vitali
-3,Esploratore dei Regni Magici,Elettromante Fulminante,Araldo delle Profezie,Alchimista delle Pozioni Curative,Domatore delle Tempeste,Viaggiatore dei Portali
-4,Oracolo delle Stelle Cadenti,Guardiano delle Creature Mistiche,Ricercatore dei Misteri Temporali,Guardiani degli Elementi,Custode delle Creature Alate,Signore delle Illusioni
-5,Guardiano delle Memorie Antiche,Cultore della Magia Selvaggia,Discendente dei Draghi,Maestro delle Onde Magiche,Risvegliatore delle Forze Oscure,Scultore di Realt�
-6,Cacciatore di Ombre,Evocatore delle Energie Celesti,Esperto di Pozioni e Incantesimi,Danzatore dell'Armonia Elementale,Apprendista del Tempo,Protettore dei Portali Dimensionali
+1,Cornelia,Livia,Octavia,Agrippina,Calpurnia,Flavia
+2,Faustina,Drusilla,Aurelia,Antonia,Domitia,Marcia
+3,Claudia,Julia,Sabina,Valeria,Aelia,Vibia
+4,Caecilia,Pompeia,Marcella,Junia,Caelia,Cassia
+5,Terentia,Hortensia,Cossutia,Plautia,Tullia,Postumia
+6,Servilia,Sulpicia,Lucretia,Metella,Licinia,Faenia
 
 ,1,2,3,4,5,6
-1,Manipolazione del Fuoco,Criomagia,Aerokinetica,Geomante,Guarigione Luminosa,Illusionismo Magico
-2,Profezie Visionarie,Comunicazione Animale,Telepatia Empatica,Trasmutazione Alchemica,Sciamanismo Elementale,Tempeste Elettriche
-3,Evocazione Spirituale,Incantesimi del Tempo,Divinazione Astrale,Magia dell'Ombra,Creazione Illusoria,Teletrasporto Magico
-4,Controllo delle Maree,Armonia Elementale,Esplorazione Dimensionale,Magia delle Stelle,Alchimia Curativa,Proiezione Astrale
-5,Incantesimi Arcani,Trasformazione Animale,Manipolazione dell'Essenza Vitale,Controllo degli Elementi Naturali,Magia Selvaggia,Magia del Vento
-6,Conoscenza Antica,Caccia alle Creature Magiche,Rivelazione delle Verit�,Sintonia con il Cosmo,Maestria delle Pozioni,Dissoluzione dell'Oscurit�
+1,Gaius,Marcus,Titus,Lucius,Octavius,Tiberius
+2,Julius,Augustus,Nero,Claudius,Maximus,Quintus
+3,Decimus,Flavius,Cassius,Aulus,Valerius,Cato
+4,Antonius,Cornelius,Crassus,Severus,Atticus,Fabius
+5,Vitruvius,Decius,Proculus,Verus,Servius,Cincinnatus
+6,Marcellus,Balbus,Decentius,Publius,Lentulus,Scipio
 
 ,1,2,3,4,5,6
-1,Sensibilit� Estrema al Freddo,Instabilit� delle Illusioni,Predisposizione all'Accumulo di Negativit�,Vulnerabilit� alle Energie Oscure,Incapacit� di Affrontare Esseri Spirituali,Rallentamento sotto la Luce Intensa
-2,Dipendenza dalla Magia per la Guarigione,Confusione durante le Tempeste Elettriche,Perdita di Controllo durante i Cambiamenti di Fase Lunare,Assorbimento Involontario delle Emozioni Altrui,Debolezza alle Energie Selvagge,Fragilit� del Legame tra Corpo e Spirito
-3,Sindrome del Rimbalzo delle Ombre,Disconnessione dall'Elemento Natale,Vulnerabilit� alle Forze del Tempo,Reazione negativa all'Essenza delle Stelle,Perdita di Potere con la Distruzione degli Elementi,Richiamo Incontrollabile delle Creature Selvatiche
-4,Affaticamento durante la Creazione di Portali,Vulnerabilit� alle Emozioni Intense,Carenza di Conoscenza su Magie Antiche,Frattura nella Barriera Dimensionale,Legame Instabile con le Creature Magiche,Dipendenza da Ingredienti Rari per le Pozioni
-5,Perdita di Controllo su Incantesimi Potenti,Risonanza Negativa con le Energie delle Ombre,Vulnerabilit� ai Raggi Solari Diretti,Blocco dell'Accesso alla Magia durante Tempi di Stress,Affinit� Nociva con l'Energia Elettrica,Inibizione dell'Interazione con l'Aura Celeste
-6,Eccessiva Dipendenza dai Riflessi dell'Acqua,Sensibilit� alle Emozioni e alle Energie Circostanti,Vulnerabilit� all'Assorbimento di Ombra,Interferenza con l'Essenza Naturale durante la Magia,Vulnerabilit� ai Cambiamenti Meteorologici,Spreco di Energia Magica attraverso Illusioni Troppo Complesse
-
-,1,2,3,4,5,6
-1,Bacchetta di Cristallo Luminoso,Mantello Tessuto di Stelle,Pozione di Cura Magica,Anello di Protezione Elementale,Amuleto dell'Equilibrio,Gabbia Dimensionale Portatile
-2,Lente Celestiale per Divinazione,Guanti di Manipolazione del Fuoco,Calice di Guarigione Acquatica,Bacchetta di Ghiaccio Etereo,Elmo dell'Ombra Protettiva,Specchio Riflettente delle Illusioni
-3,Penna di Piuma di Roc,Collana di Comunicazione Animale,Libro di Profezie Antiche,Pozione di Resistenza alle Tempeste Elettriche,Pietra di Scettro Elementale,Bacchetta di Trasmutazione Alchemica
-4,Maschera dell'Oscurit� Invisibile,Armatura Intessuta di Energia Lunare,Bacchetta di Manipolazione del Tempo,Fiala di Pozione di Invisibilit�,Gabbia di Contenimento Spirituale,Anello delle Stelle Cadenti
-5,Focus di Evocazione Magica,Pozione di Recupero Energia,Bastone di Controllo degli Elementi,Guanti di Manipolazione dell'Ombra,Libro delle Formule Alchemiche,Pergamena di Profezie Ignote
-6,Elmo dei Venti Tempestosi,Sfera di Cristallo Divinatoria,Fiaschetta di Luce Purificante,Guanti di Trasmutazione Animale,Lancia degli Spiriti Selvaggi,Bussola di Navigazione Dimensionale
-
-,1,2,3,4,5,6
-1,Aurora,Calista,Selene,Elowen,Aria,Marcella
-2,Lyra,Isolde,Seraphina,Thalia,Vespera,Freya
-3,Lysandra,Esmera,Nova,Elara,Valeria,Yara
-4,Lucina,Sylph,Althea,Caelia,Eirlys,Zephyrine
-5,Evadne,Aelia,Elysia,Astraea,Calanthe,Virelai
-6,Varenia,Solene,Elaria,Cressida,Selviana,Ismeria
-
-,1,2,3,4,5,6
-1,Orion,Lucius,Soren,Thoren,Alistair,Darian
-2,Varen,Calix,Evander,Zephyrus,Caelum,Valerius
-3,Eamon,Daelan,Aric,Corvin,Sylas,Aeron
-4,Solan,Marcellus,Eirik,Alaric,Eirian,Cyprian
-5,Eolande,Virendra,Lysander,Thalor,Zarek,Selwyn
-6,Caspian,Varian,Phelan,Taliesin,Iskander,Kelian
-
-,1,2,3,4,5,6
-1,Rowan,Avery,Skylar,Morgan,Quinn,Emery
-2,Finley,Indigo,Sage,Kai,Aspen,River
-3,Riley,Jordan,Dakota,Ariel,Blair,Casey
-4,Cameron,Jamie,Reese,Hayden,Taylor,Alex
-5,Jesse,Adrian,Taylor,Bailey,Kendall,Emerson
-6,Sawyer,Hayden,Harper,Reese,Logan,Morgan
-
-,1,2,3,4,5,6
-1,Bosco delle Ombre Eterne,Torre delle Stelle Cadenti,Radura delle Illusioni,Lago Lunare,Caverna degli Spiriti Antichi,Colline del Crepuscolo
-2,Cascate dell'Arcana,Giardini Celesti,Sentiero dell'Equilibrio,Bosco delle Energie Selvagge,Grotta dei Segreti Oscure,Fiume delle Profezie
-3,Placca di Luce e Ombra,Isola delle Creature Mistiche,Santuario delle Tempeste,Biblioteca degli Antichi Testi,Rovine del Passato Magico,Piana degli Elementi
-4,Altare delle Stelle,Valico delle Nebbie,Forgia del Potere Elementale,Campo delle Energie Curative,Rifugio dei Draghi,Collina dell'Alchimia
-5,Tempio delle Onde Magiche,Labirinto dell'Illusione,Fosso delle Ombre Profonde,Osservatorio Celeste,Radura dell'Armonia,Cittadella dell'Accademia
-6,Rovine degli Antichi Incantesimi,Gola delle Tempeste,Pergamene dell'Oscurit�,Bosco degli Alberi Ancestrali,Palude delle Visioni,Picco dei Draghi
-
-,1,2,3,4,5,6
-1,Argentum,Thorne,Nightshade,Vireo,Shadowcrest,Ravenshadow
-2,Moonstone,Starling,Windborne,Everhart,Stormbringer,Moonshadow
-3,Silvermoon,Holloway,Valeheart,Frostwood,Oakwood,Emberstone
-4,Wilderose,Brightwater,Willowbrook,Moonlit,Ashwood,Duskendale
-5,Wolfsbane,Dawnfire,Foxglove,Stormwatch,Silentbrook,Blackthorn
-6,Wraithwood,Swiftwind,Rosewood,Hallowbrook,Winterbourne,Dreamweaver
+1,Aurelius,Octavius,Flavius,Maximus,Antonius,Valerius
+2,Cornelius,Cassius,Marcellus,Brutus,Claudius,Fabius
+3,Pompeius,Augustus,Scipio,Tiberius,Vitruvius,Severus
+4,Crassus,Gracchus,Cato,Galerius,Verus,Sulpicius
+5,Balbus,Lentulus,Quinctius,Vespasianus,Maro,Drusus
+6,Gratus,Licinius,Valentinus,Quintilianus,Aelianus,Cincinnatus
 
