@@ -1,5 +1,17 @@
 # Kwaidan Adventure Pack
 
+## Foreword
+
+Hey there, fellow adventurers! So, you might be wondering what this whole "Kwaidan" thing is, right? Well, get ready to step into a world of Japanese folklore like no other. Kwaidan is all about immersing yourself in a realm where ghosts, demons, and all sorts of mysterious creatures roam free. And guess what? It's a perfect match for our Loner Adventure Pack. Let me break it down for you.
+
+Picture feudal Japan, a time of warring clans and hidden supernatural forces. It's like history and the supernatural decided to have a really intriguing party together. Kwaidan stories are like those spine-tingling tales you'd share around a campfire, but with a twist: samurais, peasants, and nobles grappling with things that go bump in the night.
+
+Now, why is Kwaidan just right for those lone wolf characters? Well, think about it—loners have that extra touch of independence, right? They're the heroes who face the unknown solo, relying on their skills and uncovering mysteries that'd make others run for the hills. And in a world full of yokai (those shape-shifting critters) and spirits looking for trouble, loners are in for some serious action, banishing, and battling.
+
+Kwaidan isn't just about spooky stuff; it's like a cultural journey through Japan's traditions, superstitions, and beliefs. You'll find yourself sipping tea in serene gardens, exploring the ins and outs of samurai and merchants, and keeping your cool while dealing with cursed artifacts and eerie shrines. Oh, and did I mention you might stumble upon secretive ninja clans and even have run-ins with mischievous tanuki? Yup, it's that wild.
+
+So, if you're all about getting lost in worlds where reality and the supernatural mingle, Kwaidan is your go-to. And in our Loner Adventure Pack, you'll be the star of your very own spooky saga. Get ready for a journey where courage, smarts, and a sprinkle of the unknown can lead to epic challenges and victories. Kwaidan's here to whisk you away to a land where the unseen is waiting for you to uncover.
+
 ## Setting Information
 
 - The setting is feudal Japan, during a time of conflict between warring clans. Shadowy supernatural forces are at work.

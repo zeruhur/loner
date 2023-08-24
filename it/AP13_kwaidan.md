@@ -1,5 +1,17 @@
 # Pacchetto Avventura "Kwaidan"
 
+## Premessa
+
+Ehilà, compagni di avventura! Vi starete chiedendo cosa sia questo "Kwaidan", vero? Beh, preparatevi a entrare nel mondo di folklore giapponese. Con Kwaidan vi immergerete in un regno in cui fantasmi, demoni e ogni sorta di creature misteriose vagano liberamente. E indovinate un po'? È perfetto per un Pacchetto Avventura. Ecco perché.
+
+Immaginate il Giappone feudale, un'epoca di clan in guerra e di forze soprannaturali nascoste. È come se la storia e il soprannaturale avessero deciso di fare una festa molto intrigante insieme. Le storie di Kwaidan sono come quei racconti da brivido che si condividono intorno a un falò, ma con un tocco in più: samurai, contadini e nobili alle prese con fenomeni che avvengono di notte.
+
+Perché il Kwaidan è adatto a dei personaggi solitari? Beh, pensateci: i lupi solitari hanno quel tocco di indipendenza in più, giusto? Sono gli eroi che affrontano l'ignoto in solitaria, affidandosi alle proprie capacità e scoprendo misteri che farebbero scappare gli altri. E in un mondo pieno di yokai (creature mutaforma) e di spiriti in cerca di guai, i solitari sono pronti ad agire, scacciare e combattere.
+
+Il kwaidan non si limita a raccontare cose spaventose, ma è un viaggio culturale attraverso le tradizioni, le superstizioni e le credenze del Giappone. Vi ritroverete a sorseggiare tè in giardini sereni, a esplorare i segreti dei samurai e dei mercanti e a mantenere la calma mentre affrontate artefatti maledetti e santuari inquietanti. Oh, e vi ho detto che potreste imbattervi in clan ninja segreti e persino avere incontri con tanuki dispettosi? Ebbene sì.
+
+Quindi, se vi piace perdervi in mondi in cui la realtà e il soprannaturale si mescolano, Kwaidan è il vostro punto di riferimento. E con il nostro Pacchetto Avventura, sarete i protagonisti della vostra personale saga spettrale. Preparatevi a un viaggio in cui coraggio, intelligenza e un pizzico di ignoto possono portare a sfide e vittorie epiche. Kwaidan è qui per portarvi in una terra dove l'invisibile aspetta di essere scoperto.
+
 ## Informazioni di Ambientazione
 
 - L'ambientazione è il Giappone feudale, durante un periodo di conflitto tra clan in guerra. Forze soprannaturali oscure sono in azione.
