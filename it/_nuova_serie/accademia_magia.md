@@ -863,3 +863,171 @@ Questi semi di avventura possono portare il protagonista a esplorare il mondo de
 -   **Obiettivo**: Sorvolare le cime delle montagne
 -   **Motivazione**: Dimostrare il potere dei venti e della velocità
 -   **Nemesi**: I Predatori delle Creature Volanti
+
+# Appendice: Nomi
+
+**Nomi di oggetti magici:**
+1. Cronometro di Stelle
+2. Anello dell'Eterna Giovinezza
+3. Specchio dell'Oltre
+4. Corona dei Sogni
+5. Chiave dell'Arcano
+6. Bacchetta di Iris
+7. Amuleto del Portale
+8. Piuma di Penombra
+9. Globo dell'Equilibrio
+10. Tavoletta delle Illusioni
+11. Collare dell'Elementale
+12. Spilla dell'Aurora
+13. Clessidra dell'Ombra
+14. Cristallo del Richiamo
+15. Lanterna di Luce
+16. Fiala del Respiro
+17. Mappa Astrale
+18. Pietra dei Segreti
+19. Bacchetta del Cuore
+20. Chiave della Realtà
+21. Penna di Magia
+22. Cerchio delle Profezie
+23. Libro del Potere
+24. Calice del Conoscere
+25. Pergamena dell'Equinozio
+26. Guanto dell'Elementale
+27. Sfera delle Visioni
+28. Arpa Celeste
+29. Collana delle Stelle
+30. Mirino Lunare
+31. Sigillo dell'Armonia
+32. Amuleto dell'Anima
+33. Candela del Sapere
+34. Pugnale dell'Ombra
+35. Drappeggio dell'Invisibilità
+36. Specchio della Verità
+
+**Nomi di pozioni:**
+1. Pozione dell'Alba
+2. Filtrino della Luna
+3. Elixer dell'Equilibrio
+4. Tonico del Cambiamento
+5. Bevanda Stellare
+6. Amaro dell'Elementale
+7. Decotto dell'Armonia
+8. Pozione del Risveglio
+9. Tonico della Speranza
+10. Elixer della Fiamma
+11. Pozione della Visione
+12. Brezza di Guarigione
+13. Filtrino del Coraggio
+14. Infuso delle Stelle
+15. Pozione dell'Ombra
+16. Elixer dell'Illusione
+17. Tonico della Forza
+18. Pozione delle Maree
+19. Bevanda della Luce
+20. Decotto del Trasferimento
+21. Pozione del Volo
+22. Elixer della Curiosità
+23. Tonico dell'Armonia
+24. Pozione dell'Amicizia
+25. Brezza di Energia
+26. Filtrino dell'Energia Vitale
+27. Elixer della Creatività
+28. Pozione del Conoscere
+29. Tonico dell'Intuito
+30. Decotto del Rinvigorimento
+31. Pozione dell'Equinozio
+32. Elixer della Saggezza
+33. Brezza di Guarigione
+34. Filtrino delle Emozioni
+35. Tonico della Speranza
+36. Pozione della Resilienza
+
+**Nomi di piante magiche:**
+1. Rosaventata
+2. Zaffirolivo
+3. Verdemistica
+4. Lunafiori
+5. Nebulaviole
+6. Solesempre
+7. Luminagrane
+8. Crepuscolaria
+9. Arcaniris
+10. Spirafoglia
+11. Cristalluna
+12. Ombroseme
+13. Auroramora
+14. Nebbiaflora
+15. Fulminira
+16. Stellaviva
+17. Ventobacca
+18. Acquabramo
+19. Radiceradi
+20. Lucepetalo
+21. Ghiacciagelo
+22. Mirtiluna
+23. Celesticco
+24. Nebbionda
+25. Radiceviva
+26. Soffiodoro
+27. Geloazzurro
+28. Solefrutto
+29. Lunaombra
+30. Nebbiaroma
+31. Stellaluce
+32. Ruggispiro
+33. Fogliacandente
+34. Rugiadaaria
+35. Lunaargento
+36. Fiammacosmo
+
+**Nomi di feste e celebrazioni:**
+1. Festival delle Luci Magiche
+2. Giorno della Danza delle Stelle
+3. Celebrazione del Portale
+4. Luna di Cristallo
+5. Festa dei Quattro Elementi
+6. Giorno dell'Alba Luminosa
+7. Festival dell'Equinozio
+8. Festa dell'Illuminazione
+9. Celebrazione delle Creature Magiche
+10. Giorno della Magia Antica
+11. Luna d'Oro
+12. Festa dell'Ombra e della Luce
+13. Giorno del Fuoco e del Ghiaccio
+14. Celebrazione delle Piante Incantate
+15. Festa delle Profezie
+16. Giorno della Creazione
+17. Luna di Guarigione
+18. Festa delle Stelle Scintillanti
+19. Giorno del Cambiamento di Stagione
+20. Celebrazione dell'Arte Arcana
+21. Festa dell'Equilibrio Magico
+22. Giorno dell'Energia Vitale
+23. Luna di Risveglio
+24. Festa dell'Aurora
+25. Giorno del Volo Magico
+26. Celebrazione delle Visioni
+27. Festa delle Ombre Mistiche
+28. Giorno del Potere Elementale
+29. Luna di Saggezza
+30. Festa delle Creature Celesti
+31. Giorno della Luce Brillante
+32. Celebrazione dell'Oscuro
+33. Festa delle Maree Magiche
+34. Giorno della Luna Piena
+35. Luna delle Emozioni
+36. Festa dell'Equinozio Magico
+
+# Appendice: Cronologia
+
+- Anno 1000: Fondazione dell'Accademia di Lunaria per l'addestramento di giovani maghi.
+- Anno 1205: Creazione delle sei case associate agli elementi e a luce/ombra all'interno dell'Accademia.
+- Anno 1407: Scoppio della Guerra degli Elementi tra le case dell'Accademia.
+- Anno 1520: Firma del Trattato dell'Equilibrio, che pone fine alla Guerra degli Elementi.
+- Anno 1756: Fondazione della Lega delle Creature Magiche per la protezione e lo studio delle creature magiche.
+- Anno 1870: Comparsa di un misterioso cometa con energie magiche, portando a fenomeni magici insoliti.
+- Anno 1954: Emergenza del culto degli Oscuri Sacerdoti, che mirano a rovesciare l'Accademia di Lunaria.
+- Anno 1975: Una profezia preannuncia un'oscurità imminente che minaccia il mondo magico.
+- Anno 1998: Congiunzione astrale provoca inversione temporanea degli elementi, affrontata dagli studenti dell'Accademia.
+- Anno 2000: Celebrazione del millennio dell'Accademia con il "Festival dei Mille Anni".
+- Anno 2023: Gli eventi recenti portano a una nuova era di collaborazione tra il mondo magico e il nostro, affrontando sfide e scoperte insieme.
