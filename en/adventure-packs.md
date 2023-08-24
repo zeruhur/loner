@@ -16,3 +16,4 @@ Use them as non-binding guidelines and inspiration, let your imagination run wil
 - [Pirates Adventure Pack](en/AP10_pirates.md) 
 - [Western Adventure Pack](en/AP11_western.md)
 - [Cyberpunk Adventure Pack](en/AP12_cyberpunk.md)
+- [Kwaidan!](en/AP13_kwaidan.md)
