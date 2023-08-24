@@ -2,7 +2,7 @@
 Adventure Packs are very lightweight settings in which some elements are provided to kick start your game in some predefined genres.
 Inside you will find a concise setting, traits for characters, special setting rules, NPCs, enemies, factions, locations and adventure seeds.
 
-I want to develop the Ancient Greek Adventure Pack
+I want to develop the Ancient China (Warring States Period) Adventure Pack
 
 give me the setting information: time period, location, Cultural and Historical Details, Key Events, Themes
 format this in a bullet point list
@@ -109,7 +109,7 @@ Describe the social hierarchy of the era and location where the setting takes pl
 
 write this section:
 
-**2. Religion:**
+### **2. Religion:**
 Explore the predominant religious beliefs in the historical period, including:
 - Pantheon of Deities: Present the main deities worshipped in the era and provide information about each of them, including their legends and attributes.
 - Religious Practices and Rites: Describe the typical religious practices, rituals, and ceremonies of the setting, as well as the role of priests and temples in daily life.
