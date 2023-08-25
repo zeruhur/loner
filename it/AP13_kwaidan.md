@@ -1,7 +1,5 @@
 # Pacchetto Avventura "Kwaidan"
 
-## Premessa
-
 Ehilà, compagni di avventura! Vi starete chiedendo cosa sia questo "Kwaidan", vero? Beh, preparatevi a entrare nel mondo di folklore giapponese. Con Kwaidan vi immergerete in un regno in cui fantasmi, demoni e ogni sorta di creature misteriose vagano liberamente. E indovinate un po'? È perfetto per un Pacchetto Avventura. Ecco perché.
 
 Immaginate il Giappone feudale, un'epoca di clan in guerra e di forze soprannaturali nascoste. È come se la storia e il soprannaturale avessero deciso di fare una festa molto intrigante insieme. Le storie di Kwaidan sono come quei racconti da brivido che si condividono intorno a un falò, ma con un tocco in più: samurai, contadini e nobili alle prese con fenomeni che avvengono di notte.

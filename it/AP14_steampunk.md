@@ -1,7 +1,5 @@
 # Pacchetto Avventura Steampunk
 
-## Premessa
-
 Saluti, audaci avventurieri! Siete pronti a immergervi in un regno in cui meraviglie alimentate dal vapore e meraviglie ingranate plasmano un mondo diverso da ogni altro? Benvenuti nel Pacchetto Avventura Steampunk, un universo in cui ingranaggi girano, dirigibili si librano e misteri attendono la vostra mente ingegnosa. Permettetemi di introdurvi a un universo in cui tecnologia e fantasia danzano in perfetta armonia.
 
 Immaginate un mondo molto simile all'era vittoriana, ma trasformato dal potere del vapore e dall'arte dell'invenzione. Questo è un momento di esplorazioni su dirigibili, meraviglie meccaniche e inventori eccentrici. Nel Pacchetto Avventura Steampunk, sarete catapultati in un mondo in cui personaggi solitari si alzano per svelare segreti che potrebbero ridefinire la stessa struttura della società.
