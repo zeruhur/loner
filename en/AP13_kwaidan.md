@@ -1,4 +1,4 @@
-# Kwaidan Adventure Pack
+# Kwaidan!
 
 Hey there, fellow adventurers! So, you might be wondering what this whole "Kwaidan" thing is, right? Well, get ready to step into a world of Japanese folklore like no other. Kwaidan is all about immersing yourself in a realm where ghosts, demons, and all sorts of mysterious creatures roam free. And guess what? It's a perfect match for our Loner Adventure Pack. Let me break it down for you.
 

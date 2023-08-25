@@ -1,4 +1,4 @@
-# Pacchetto Avventura Steampunk
+# Steampunk
 
 Saluti, audaci avventurieri! Siete pronti a immergervi in un regno in cui meraviglie alimentate dal vapore e meraviglie ingranate plasmano un mondo diverso da ogni altro? Benvenuti nel Pacchetto Avventura Steampunk, un universo in cui ingranaggi girano, dirigibili si librano e misteri attendono la vostra mente ingegnosa. Permettetemi di introdurvi a un universo in cui tecnologia e fantasia danzano in perfetta armonia.
 

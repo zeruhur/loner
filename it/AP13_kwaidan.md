@@ -1,4 +1,4 @@
-# Pacchetto Avventura "Kwaidan"
+Kwaidan!
 
 Ehilà, compagni di avventura! Vi starete chiedendo cosa sia questo "Kwaidan", vero? Beh, preparatevi a entrare nel mondo di folklore giapponese. Con Kwaidan vi immergerete in un regno in cui fantasmi, demoni e ogni sorta di creature misteriose vagano liberamente. E indovinate un po'? È perfetto per un Pacchetto Avventura. Ecco perché.
 

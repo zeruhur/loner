@@ -1,4 +1,4 @@
-# Loner: Accademia di Magia
+# Accademia di Magia
 
 Benvenuti in "Accademia di Magia", un emozionante pacchetto avventura che vi trasporterà in un mondo di incantesimi, segreti e scoperte magiche! In questo coinvolgente scenario di gioco di ruolo, esplorerete un'ambientazione fantastica basata su una versione alternativa della nostra realtà. Lasciatevi trasportare nella magica Accademia di Lunaria, un istituto millenario che forma giovani studenti nell'arte della magia e dell'equilibrio tra elementi, luce e ombra.
 
