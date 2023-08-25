@@ -1,5 +1,15 @@
 # Loner: Accademia di Magia
 
+Benvenuti in "Accademia di Magia", un emozionante pacchetto avventura che vi trasporterà in un mondo di incantesimi, segreti e scoperte magiche! In questo coinvolgente scenario di gioco di ruolo, esplorerete un'ambientazione fantastica basata su una versione alternativa della nostra realtà. Lasciatevi trasportare nella magica Accademia di Lunaria, un istituto millenario che forma giovani studenti nell'arte della magia e dell'equilibrio tra elementi, luce e ombra.
+
+Sarete coinvolti in un'epica avventura all'interno dell'accademia e nel suo mondo circostante, interagendo con personaggi intriganti, affrontando sfide magiche e svelando antiche profezie. Esplorerete luoghi misteriosi, stringerete alleanze con creature magiche e affronterete avversari oscuri che minacciano l'equilibrio stesso del mondo magico.
+
+Nel corso della vostra esperienza, vi troverete immersi in dinamiche da scuola di magia, con la possibilità di essere assegnati a una delle sei case, ognuna associata a un elemento o alla luce/ombra. Collaborerete con compagni di casa, parteciperete a competizioni magiche e affronterete sfide uniche per dimostrare il vostro valore.
+
+"Accademia di Magia" abbraccia i classici tropi delle storie di magia e avventura, offrendovi la possibilità di scoprire potenti incantesimi, creare pozioni magiche e scoprire segreti nascosti. Esplorerete il conflitto tra forze luminose e oscure, affrontando prove personali e collettive mentre cercate di mantenere l'equilibrio magico.
+
+Se siete pronti a entrare in un mondo di meraviglie arcane, di misteri antichi e di crescita personale attraverso la magia, allora "Accademia di Magia" vi attende per un'esperienza unica, ricca di avventure e scoperte straordinarie. Preparatevi a immergervi in una storia coinvolgente che vi condurrà attraverso i secoli di un mondo magico unico!
+
 ## Informazioni di ambientazione
 
 -   **Accademia Magica di Lunaria**: Situata in una remota valle montana, l’Accademia Magica di Lunaria è una scuola segreta dove giovani maghi e streghe vengono addestrati. Le lezioni includono incantesimi, pozioni e la comunicazione con gli animali attraverso la telepatia.

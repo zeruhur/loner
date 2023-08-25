@@ -32,6 +32,18 @@ must be unique and without repetitions
 Give me 36 Character Frailties, flaws and Disadvantages for this setting
 must be unique and without repetitions
 
+use this format:
+
+
+|     | 1   | 2   | 3   | 4   | 5   | 6   |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1   |     |     |     |     |     |     |
+| 2   |     |     |     |     |     |     |
+| 3   |     |     |     |     |     |     |
+| 4   |     |     |     |     |     |     |
+| 5   |     |     |     |     |     |     |
+| 6   |     |     |     |     |     |     |
+
 ---
 Give me 36 Character Equipment Items for this setting
 must be unique and without repetitions
@@ -51,39 +63,39 @@ How would you introduce XXXX?
 Give me 6 Factions coherent with the setting in this format:
 
 ### Name
-- Concept (adjective+noun)
-- 2x Skills
-- Frailty
-- 2x Gear
-- Goal
-- Motive
-- Nemesis
+- **Concept**: (adjective+noun)
+- **Skills**: (2x)
+- **Frailty**:
+- **Gear**: (2x)
+- **Goal**:
+- **Motive**:
+- **Nemesis**:
 
 ---
 
 Give me 6 NPCs coherent with the setting in this format:
 
 ### Name
-- Concept (adjective+noun):
-- 2x Skills:
-- Frailty:
-- 2x Gear:
-- Goal:
-- Motive:
-- Nemesis:
+- **Concept**: (adjective+noun)
+- **Skills**: (2x)
+- **Frailty**:
+- **Gear**: (2x)
+- **Goal**:
+- **Motive**:
+- **Nemesis**:
 
 ---
 
 Give me 6 creatures coherent with the setting in this format:
 
 ### Name
-- Concept (adjective+noun)
-- 2x Skills
-- Frailty
-- 2x Gear
-- Goal
-- Motive
-- Nemesis
+- **Concept**: (adjective+noun)
+- **Skills**: (2x)
+- **Frailty**:
+- **Gear**: (2x)
+- **Goal**:
+- **Motive**:
+- **Nemesis**:
 
 They must be generic
 

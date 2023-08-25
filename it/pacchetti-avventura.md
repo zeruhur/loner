@@ -18,4 +18,11 @@ Usali come linee guida e ispirazione non vincolanti, lascia correre la tua immag
 - [Pacchetto Avventura Pirati](it/AP10_pirati.md)
 - [Pacchetto Avventura Western](it/AP11_western.md)
 - [Pacchetto Avventura Cyberpunk](it/AP12_cyberpunk.md)
-- [Pacchetto Avventura Kwaidan!](it/AP13_kwaidan.md)
+
+---
+
+## Nuova Serie
+
+- [Kwaidan!](it/AP13_kwaidan.md)
+- [Steampunk](it/AP14_steampunk.md)
+- [Accademia di Magia](it/AP15_accademia_magia.md)
