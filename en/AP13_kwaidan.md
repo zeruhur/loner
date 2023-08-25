@@ -258,62 +258,6 @@ Consider the following as Luck-like scores, with a starting (and maximum) score 
 - **Motive**: Wealth and power
 - **Nemesis**: Rival merchants
 
-## Creatures
-
-### Oni
-- **Concept**: Demonic Ogre  
-- **Skills**: Superstrength, Clubs
-- **Frailty**: Arrogance
-- **Gear**: Loincloth, Tetsubo
-- **Goal**: Spread chaos and destruction
-- **Motive**: Malice
-- **Nemesis**: Demon hunters
-
-### Kappa
-- **Concept**: Murderous Water Imp
-- **Skills**: Stealth, Aquatic Survival 
-- **Frailty**: Obsession with politeness
-- **Gear**: Shell, Water-filled Head Cavity
-- **Goal**: Drown victims to eat their souls
-- **Motive**: Hunger for life energy  
-- **Nemesis**: Those unwilling to show proper manners
-
-### Tsukumogami
-- **Concept**: Animated Object
-- **Skills**: Depends on object form   
-- **Frailty**: Fragility
-- **Gear**: Their object form
-- **Goal**: Depends on object form
-- **Motive**: Generally mischievous  
-- **Nemesis**: Users of the object who mistreat it
-
-### Nurikabe
-- **Concept**: Animated Wall 
-- **Skills**: Blocking, Bludgeoning
-- **Frailty**: Slow Movement
-- **Gear**: Stone
-- **Goal**: Impede Travelers
-- **Motive**: Mischievous spirit
-- **Nemesis**: Those who show no fear  
-
-### Mujina
-- **Concept**: Trickster Badger 
-- **Skills**: Shapeshifting, Mimicry
-- **Frailty**: Curious and distractible
-- **Gear**: None
-- **Goal**: Confuse and embarrass
-- **Motive**: Mischevious by nature
-- **Nemesis**: Those who see through its tricks
-
-### Tengu
-- **Concept**: Avian Trickster Spirit
-- **Skills**: Archery, Deception
-- **Frailty**: Arrogance
-- **Gear**: Bow, Feathered Robes
-- **Goal**: Play pranks and cause chaos
-- **Motive**: Amusement and mischief
-- **Nemesis**: Humans who outwit them
-
 ## Locations
 
 ### The Howling Forest
@@ -507,6 +451,369 @@ Delve into the realm of the unknown, where misty forests, deserted shrines, and 
 | 64 | The fantastical stories told by a traveling minstrel appear to be coming true, with dangerous consequences. |  
 | 65 | A cowardly samurai's ancestral sword compels him to acts of courage whether he wills it or not. |
 | 66 | You seek refuge in a remote monastery, only to find the monks are not what they seem. Escape with your life. |
+
+## Bestiary
+
+### Akaname
+- **Concept**: Goblin-like spirit that licks filth
+- **Skills**: Filth Manipulation, Disgusting Aura
+- **Frailty**: Vulnerable to cleanliness or purification rituals
+- **Gear**: Filthy hands and tongue
+- **Goal**: Clean dirty spaces by licking filth
+- **Motive**: Sustain itself and fulfill its purpose
+- **Nemesis**: Those who keep their spaces clean or protective spirits
+
+### Akashita
+- **Concept**: Ghostly hand beneath tatami mats
+- **Skills**: Surprise Attack, Stealth
+- **Frailty**: Vulnerable to light or salt
+- **Gear**: Ghostly hand
+- **Goal**: Startle and shock unsuspecting victims
+- **Motive**: Seek amusement or surprise
+- **Nemesis**: Those who seal off tatami mats or protective charms
+
+### Amanojaku
+- **Concept**: Mischievous demons causing chaos and confusion
+- **Skills**: Instigation, Manipulation
+- **Frailty**: Vulnerable to exorcism or divine intervention
+- **Gear**: None
+- **Goal**: Create discord and turmoil
+- **Motive**: Seek amusement or exert control
+- **Nemesis**: Individuals skilled in conflict resolution or harmony
+
+### Enenra
+- **Concept**: Creature of smoke or mist
+- **Skills**: Smoke Manipulation, Intangibility
+- **Frailty**: Vulnerable to strong wind or air purification
+- **Gear**: None
+- **Goal**: Create a smoky and eerie atmosphere
+- **Motive**: Seek confusion or fear
+- **Nemesis**: Air manipulators or those with smoke-resistant abilities
+
+### Hitotsume-kozo
+- **Concept**: One-eyed monk spirit
+- **Skills**: Hypnotic Gaze, Stealth
+- **Frailty**: Vulnerable to salt or purification rituals
+- **Gear**: None
+- **Goal**: Startle and confuse humans
+- **Motive**: Seek amusement or sustenance
+- **Nemesis**: Those with strong willpower or mystical abilities
+
+### Hihi
+- **Concept**: Creature with bird-like appearance and fire control
+- **Skills**: Pyrokinesis, Fiery Aura
+- **Frailty**: Vulnerable to water or fire-extinguishing methods
+- **Gear**: None
+- **Goal**: Manipulate and control fire for various purposes
+- **Motive**: Maintain the balance of fire's destructive and creative aspects
+- **Nemesis**: Water manipulators or those with fire-resistant abilities
+
+### Hyakki Yagyō
+- **Concept**: Parade of one hundred demons and supernatural beings
+- **Skills**: Collective Action, Illusion Projection
+- **Frailty**: Vulnerable to disruption or dispelling magic
+- **Gear**: Various youkai abilities
+- **Goal**: Roam and cause chaos during the night parade
+- **Motive**: Seek amusement or confusion
+- **Nemesis**: Guardians of order or individuals skilled in countering illusions
+
+### Jibakurei
+- **Concept**: Land-bound spirits attached to specific locations
+- **Skills**: Manifestation, Territorial Influence
+- **Frailty**: Vulnerable to purification rituals or displacement
+- **Gear**: None
+- **Goal**: Guard their territory and the people within
+- **Motive**: Protect their domain and maintain balance
+- **Nemesis**: Individuals who desecrate or disrupt their territory
+
+### Jorogumo
+- **Concept**: Seductive spider woman
+- **Skills**: Shape-shifting, Deception
+- **Frailty**: Vulnerable to fire or purification rituals
+- **Gear**: None
+- **Goal**: Lure victims and consume them
+- **Motive**: Sustain themselves through deception
+- **Nemesis**: Fire-wielding individuals or cautious travelers
+
+### Kamagami
+- **Concept**: Deities or spirits residing in natural elements
+- **Skills**: Elemental Affinity, Blessings
+- **Frailty**: Vulnerable to pollution or defilement of their element
+- **Gear**: Embodiment of their natural domain
+- **Goal**: Protect and maintain their natural realm
+- **Motive**: Preserve balance and harmony
+- **Nemesis**: Those who exploit or misuse their domains
+
+### Kamaitachi
+- **Concept**: Trio of weasel-like spirits associated with winds
+- **Skills**: Speed, Cutting Winds
+- **Frailty**: Vulnerable when winds are calm
+- **Gear**: Sharp claws, swift movements
+- **Goal**: Cause minor wounds or confusion
+- **Motive**: Playful pranks or seek food
+- **Nemesis**: Wind-manipulating individuals or those with strong barriers
+
+### Kamikakushi
+- **Concept**: Phenomenon of mysterious disappearances
+- **Skills**: Invisibility, Dimensional Manipulation
+- **Frailty**: Vulnerable to detection or sealing methods
+- **Gear**: None
+- **Goal**: Abduct and hide people
+- **Motive**: Unknown, possibly fascination with human world
+- **Nemesis**: Dimensional travelers or beings with detection abilities
+
+### Kamikiri
+- **Concept**: Hair-cutting creature
+- **Skills**: Stealth, Precision Cutting
+- **Frailty**: Vulnerable to protective charms or hair talismans
+- **Gear**: Small blades or shears
+- **Goal**: Collect strands of human hair
+- **Motive**: Seek hair for its nest or use in rituals
+- **Nemesis**: People with strong protective measures or hair-enhancing abilities
+
+### Kappa
+- **Concept**: Mischievous water-dwelling creatures
+- **Skills**: Swimming, Pranks
+- **Frailty**: Vulnerable to spilling water from its head
+- **Gear**: Water-filled dish on its head
+- **Goal**: Pull pranks or challenge humans
+- **Motive**: Seek amusement and food
+- **Nemesis**: Skilled swimmers or clever humans
+
+### Kijo
+- **Concept**: Seductive and dangerous female demon
+- **Skills**: Charm, Deception
+- **Frailty**: Vulnerable to purity or divine intervention
+- **Gear**: Enchanting appearance, beguiling words
+- **Goal**: Seduce and corrupt humans
+- **Motive**: Seek pleasure or spread chaos
+- **Nemesis**: Virtuous individuals or those with strong will
+
+### Kitsune
+- **Concept**: Cunning fox spirits
+- **Skills**: Shape-shifting, Illusion
+- **Frailty**: Vulnerable to certain chants or rituals
+- **Gear**: None
+- **Goal**: Protect their shrines or manipulate humans
+- **Motive**: Gain power or amusement
+- **Nemesis**: Skilled priests or holy relics
+
+### Konaki-jiji
+- **Concept**: Old man youkai who cries like a baby
+- **Skills**: Mimicry, Emotional Manipulation
+- **Frailty**: Vulnerable to recognition or protective chants
+- **Gear**: None
+- **Goal**: Lure and deceive unsuspecting victims
+- **Motive**: Seek amusement or feed on emotions
+- **Nemesis**: Emotionally resilient individuals or those who see through its act
+
+### Kubire-oni
+- **Concept**: Headless demon or ogre
+- **Skills**: Brute Strength, Fear-Inducing Roar
+- **Frailty**: Vulnerable to sealing rituals or holy symbols
+- **Gear**: None
+- **Goal**: Spread fear and chaos
+- **Motive**: Seek dominance or terrorize humans
+- **Nemesis**: Skilled exorcists or brave warriors
+
+### Kawa-no-kami
+- **Concept**: River deities or spirits
+- **Skills**: Water Manipulation, Communication
+- **Frailty**: Vulnerable to pollution or desecration
+- **Gear**: None
+- **Goal**: Protect their domain and inhabitants
+- **Motive**: Maintain the balance of nature
+- **Nemesis**: Those who pollute or harm water sources
+
+### Kawa-uso
+- **Concept**: River otter spirits known for pranks
+- **Skills**: Mischief, Shapeshifting
+- **Frailty**: Vulnerable to protective charms or water purification
+- **Gear**: None
+- **Goal**: Play pranks on humans and cause chaos
+- **Motive**: Seek amusement or entertainment
+- **Nemesis**: Those who outwit or out-prank them
+
+### Kasha
+- **Concept**: Corpse-stealing creature
+- **Skills**: Grave Desecration, Stealth
+- **Frailty**: Vulnerable to protective barriers or sanctified ground
+- **Gear**: None
+- **Goal**: Steal corpses before they can be properly buried
+- **Motive**: Unknown, possibly collecting remains for unknown purposes
+- **Nemesis**: Guardians of burial sites or those protecting the dead
+
+### Nue
+- **Concept**: Chimera-like creature with various animal parts
+- **Skills**: Elemental Affinities, Shape-shifting
+- **Frailty**: Vulnerable to certain elemental attacks
+- **Gear**: None
+- **Goal**: Cause chaos and confusion
+- **Motive**: Seek dominance or play pranks
+- **Nemesis**: Elemental specialists or skilled shape-shifters
+
+### Nukarumi
+- **Concept**: Female spirit appearing from the waist up in water
+- **Skills**: Water Manipulation, Emotional Manifestation
+- **Frailty**: Vulnerable to drying or containment
+- **Gear**: Watery hands and upper body
+- **Goal**: Emerge from bodies of water to interact with humans
+- **Motive**: Seek connection or communication
+- **Nemesis**: Water manipulators or those with abilities to control emotions
+
+### Noppera-bo
+- **Concept**: Faceless ghostly figures
+- **Skills**: Invisibility, Disguise
+- **Frailty**: Vulnerable to light or certain charms
+- **Gear**: None
+- **Goal**: Frighten and unsettle humans
+- **Motive**: Cause confusion and fear
+- **Nemesis**: Sharp-eyed individuals or those unaffected by illusions
+
+### Nurari
+- **Concept**: Youkai that lounges in unoccupied homes
+- **Skills**: Stealth, Deception
+- **Frailty**: Vulnerable when confronted or exposed to bright light
+- **Gear**: None
+- **Goal**: Claim unoccupied spaces and enjoy hospitality
+- **Motive**: Seek comfort and luxury
+- **Nemesis**: Vigilant homeowners or protective spirits
+
+### Nurarihyon
+- **Concept**: Youkai that makes itself at home in empty houses
+- **Skills**: Stealth, Deception
+- **Frailty**: Vulnerable when confronted or exposed to bright light
+- **Gear**: None
+- **Goal**: Claim empty homes and spaces
+- **Motive**: Seek comfort and convenience
+- **Nemesis**: Vigilant homeowners or protective spirits
+
+### Oni
+- **Concept**: Malevolent demons or ogres
+- **Skills**: Strength, Intimidation
+- **Frailty**: Vulnerable to sacred symbols or exorcism
+- **Gear**: Clubs, spiked clubs, demonic masks
+- **Goal**: Cause suffering and chaos
+- **Motive**: Instill fear and exert dominance
+- **Nemesis**: Powerful priests or brave warriors
+
+### Raiju
+- **Concept**: Creature associated with lightning
+- **Skills**: Lightning Manipulation, Thunderstorm Control
+- **Frailty**: Vulnerable to grounding or weather-controlling abilities
+- **Gear**: None
+- **Goal**: Harness and control thunderstorms
+- **Motive**: Maintain balance or unleash chaos
+- **Nemesis**: Storm manipulators or lightning-resistant beings
+
+### Rokurokubi
+- **Concept**: Humanoid spirits with stretchable necks
+- **Skills**: Neck Extension, Stealth
+- **Frailty**: Vulnerable when neck is extended
+- **Gear**: None
+- **Goal**: Observe humans or cause confusion
+- **Motive**: Seek amusement or explore
+- **Nemesis**: Observant individuals or those with anti-magic abilities
+
+### Satori
+- **Concept**: Mind-reading creature
+- **Skills**: Telepathy, Mind Reading
+- **Frailty**: Vulnerable to psychic barriers or strong wills
+- **Gear**: None
+- **Goal**: Learn the thoughts and secrets of humans
+- **Motive**: Seek knowledge or manipulate individuals
+- **Nemesis**: Those with strong mental defenses or psychic powers
+
+### Shirime
+- **Concept**: Creature with an eye in place of its anus
+- **Skills**: Startling Gaze, Stealth
+- **Frailty**: Vulnerable to salt or counter-illusion
+- **Gear**: None
+- **Goal**: Shock and surprise victims
+- **Motive**: Seek amusement or disturb humans
+- **Nemesis**: Those unaffected by its gaze or those with strong wills
+
+### Tengu
+- **Concept**: Bird-like creatures with supernatural powers
+- **Skills**: Flight, Martial Arts
+- **Frailty**: Vulnerable to talismans or divine intervention
+- **Gear**: Long-nosed masks, magical fans
+- **Goal**: Maintain balance in nature or teach valuable lessons
+- **Motive**: Promote harmony or discipline
+- **Nemesis**: Skilled martial artists or divine beings
+
+### Tesso
+- **Concept**: Vengeful spirit of a mistreated priest or monk
+- **Skills**: Curse Casting, Disruptive Presence
+- **Frailty**: Vulnerable to purification or redemption rituals
+- **Gear**: None
+- **Goal**: Exact revenge for past mistreatment
+- **Motive**: Seek justice or restitution
+- **Nemesis**: Compassionate individuals or those seeking to right wrongs
+
+### Tanuki
+- **Concept**: Playful shape-shifting raccoon dog spirits
+- **Skills**: Shape-shifting, Misdirection
+- **Frailty**: Vulnerable to charms or spells
+- **Gear**: None
+- **Goal**: Cause mischief or seek comfort
+- **Motive**: Enjoyment and freedom
+- **Nemesis**: Protective deities or skilled exorcists
+
+### Umibozu
+- **Concept**: Sea spirit that causes storms
+- **Skills**: Water Manipulation, Tempest Creation
+- **Frailty**: Vulnerable to certain chants or rituals
+- **Gear**: None
+- **Goal**: Create treacherous seas and storms
+- **Motive**: Seek chaos and destruction
+- **Nemesis**: Skilled sailors or divine protectors
+
+### Yamabiko
+- **Concept**: Echo spirits that mimic human voices
+- **Skills**: Echo Mimicry, Illusion
+- **Frailty**: Vulnerable to silence or counter-illusion
+- **Gear**: None
+- **Goal**: Echo and repeat human sounds
+- **Motive**: Seek interaction or amusement
+- **Nemesis**: Skilled ventriloquists or sound manipulators
+
+### Yuki-onna
+- **Concept**: Spirit associated with snowstorms
+- **Skills**: Cold Manipulation, Illusion
+- **Frailty**: Vulnerable to warmth or heat-based attacks
+- **Gear**: None
+- **Goal**: Ensnare travelers in blizzards
+- **Motive**: Seek companionship or revenge
+- **Nemesis**: Fire-wielding individuals or those with strong willpower
+
+### Yokai
+- **Concept**: Mysterious shape-shifting spirits
+- **Skills**: Shapeshifting, Illusion
+- **Frailty**: Vulnerable to pure iron
+- **Gear**: None
+- **Goal**: To trick or deceive humans
+- **Motive**: Mischievous or malevolent intentions
+- **Nemesis**: Talismans or individuals skilled in exorcism
+
+### Yurei
+- **Concept**: Ghostly spirits of the deceased
+- **Skills**: Manifestation, Frightening Aura
+- **Frailty**: Vulnerable to prayers or appeasement
+- **Gear**: None
+- **Goal**: Find peace or seek revenge
+- **Motive**: Resolve unfinished business or seek justice
+- **Nemesis**: Skilled mediums or compassionate priests
+
+### Zashiki-warashi
+- **Concept**: Child spirits that bring fortune or misfortune
+- **Skills**: Luck Manipulation, Playful Behavior
+- **Frailty**: Vulnerable when neglected or angered
+- **Gear**: None
+- **Goal**: Influence the household's luck
+- **Motive**: Seek attention and care
+- **Nemesis**: Neglectful or hostile individuals
+
 
 ## Appendix: Cultural Insights and Glossary
 
