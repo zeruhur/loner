@@ -839,7 +839,7 @@ Delve into the realm of the unknown, where misty forests, deserted shrines, and 
 - **Nemesis**: Neglectful or hostile individuals
 
 
-## Appendix: Cultural Insights and Glossary
+## Appendix A: Cultural Insights and Glossary
 
 **Historical Context**: Feudal Japan was a time of samurai, warlords, and mysterious spirits. Dive into the history of warring clans, honor codes, and the rise of noble families that shape the backdrop of your adventures.
 
@@ -855,22 +855,185 @@ Delve into the realm of the unknown, where misty forests, deserted shrines, and 
 
 **Japanese Folklore**: Delve into the captivating world of Japanese folklore. Learn about famous legends like Momotaro, the Peach Boy, and Tsukuyomi, the Moon God. These stories can provide inspiration and context for your adventures.
 
-**Glossary**: New to the world of Kwaidan? No worries! Here's a handy glossary of terms you might encounter during your journey:
+## Appendix B: Glossary
 
-- **Daimyo**: A feudal lord or noble who held power and land during ancient Japan.
-- **Ronin**: Masterless samurai, often wandering in search of purpose.
-- **Yokai**: Supernatural creatures and spirits found in Japanese folklore.
-- **Bushido**: The samurai code of conduct emphasizing honor, loyalty, and bravery.
-- **Ikebana**: The art of flower arrangement, reflecting the harmony of nature.
-- **Tea Ceremony**: A ritualistic preparation and presentation of matcha tea.
-- **Tanabata**: The Star Festival, celebrated by writing wishes on colorful paper.
-- **Obon**: A festival to honor ancestors and welcome their spirits back home.
+This glossary provides a comprehensive overview of terms related to the kwaidan genre and feudal Japan, encompassing both supernatural elements and cultural aspects that enrich the storytelling experience.
 
-## Inspirational Media
+**A**
+
+- **Akashita**: A ghostly hand that reaches up from beneath tatami mats, often used to startle or shock.
+
+- **Amanojaku**: Mischievous demons that enjoy causing chaos and confusion.
+
+- **Ancestral Spirits**: Believed to be the spirits of deceased ancestors who continue to influence and protect their living descendants.
+
+**B**
+
+- **Bakufu**: A feudal military government that ruled Japan from the 12th to the 19th centuries.
+
+- **Bunraku**: Traditional Japanese puppet theater.
+
+- **Bushi**: A samurai warrior or a person belonging to the warrior class.
+
+**C**
+
+- **Chonmage**: A traditional Japanese hairstyle associated with samurai, characterized by a shaved pate and a topknot.
+
+**D**
+
+- **Daimyo**: Feudal lords who governed specific territories in feudal Japan.
+
+- **Edo**: The former name of Tokyo, serving as the political and cultural center of Japan during the Edo period.
+
+**E**
+
+- **Edo Period**: A time of relative peace and stability in Japan from 1603 to 1868, characterized by the rule of the Tokugawa shogunate and isolation from the outside world.
+
+**F**
+
+- **Feudal System**: A hierarchical social structure where power and land ownership were concentrated in the hands of a ruling class, mainly samurai and daimyo.
+
+**G**
+
+- **Geisha**: Skilled entertainers who perform traditional Japanese arts, often including dance, music, and conversation.
+
+- **Genroku Era**: A period of cultural flourishing during the Edo period, known for its artistic and literary achievements.
+
+- **Geta**: Traditional Japanese wooden sandals, often worn with kimono.
+
+**H**
+
+- **Hanami**: The practice of enjoying the beauty of cherry blossoms (sakura) during spring.
+
+- **Heian Period**: A historical period from the late 8th to the late 12th century, characterized by the flourishing of literature and culture in the imperial court.
+
+**I**
+
+- **Inro**: A small, multi-compartmental container used to hold personal belongings, often worn by samurai.
+
+- **Irezumi**: Traditional Japanese tattoo art.
+
+**J**
+
+- **Jorogumo**: A spider that can transform into a beautiful woman, often used to seduce and trap victims.
+
+- **Joruri**: The narrative or dialogue in Bunraku puppet theater.
+
+- **Jukujo**: A type of ghost or spirit that embodies an elderly woman.
+
+- **Junihitoe**: An elaborate and multilayered kimono worn by noblewomen in the Heian period.
+
+**K**
+
+- **Kabuki**: A traditional form of Japanese theater known for its elaborate makeup, costumes, and dramatic performances.
+
+- **Kamaitachi**: A trio of weasel-like spirits associated with winds, known to cause mysterious cuts or wounds.
+
+- **Kamikakushi**: The phenomenon of people mysteriously disappearing, often attributed to supernatural causes.
+
+- **Kamidana**: A household Shinto shrine that enshrines ancestral spirits and guardian deities.
+
+- **Kappa**: Water-dwelling creatures resembling turtles or amphibians, known for their mischievous nature.
+
+- **Karuta**: Traditional Japanese playing cards.
+
+- **Katana**: A traditional Japanese sword, often associated with samurai warriors.
+
+- **Kimon**: The formal clothing worn by samurai, featuring a distinctive crest.
+
+- **Kimono**: Traditional Japanese clothing worn by men, women, and children, characterized by its T-shaped structure and wide sleeves.
+
+- **Koto**: A traditional Japanese stringed musical instrument.
+
+- **Kwaidan**: A genre of Japanese supernatural and ghost stories.
+
+**L**
+
+- **Lantern Festival**: An annual festival held to honor deceased ancestors, often involving the lighting of lanterns.
+
+**M**
+
+- **Meiji Restoration**: The period of political and social upheaval in Japan during the late 19th century, leading to the modernization of the country.
+
+- **Miko**: Shrine maidens who perform rituals and ceremonies at Shinto shrines.
+
+- **Mokumokuren**: A youkai that appears on torn, worn-out fusuma (sliding doors) and tatami mats.
+
+- **Mononoke**: Malevolent spirits or demons that bring misfortune or harm.
+
+**N**
+
+- **Nihonshu**: Traditional Japanese rice wine, commonly known as sake.
+
+- **Noh**: Traditional Japanese theater characterized by its slow and stylized performances, often featuring masked actors.
+
+- **Noppera-bo**: Faceless ghostly figures, often appearing as normal individuals until revealing their smooth, featureless visages.
+
+- **Nue**: A chimera-like creature with the head of a monkey, body of a tanuki, legs of a tiger, and a snake for a tail.
+
+- **Nurarihyon**: A youkai that enters empty homes, sits down, and makes itself at home.
+
+**O**
+
+- **Oni**: Malevolent demons or ogres that come in various forms and sizes, often depicted with vividly colored skin.
+
+- **Oyabun**: The leader or head of a yakuza crime syndicate.
+
+**R**
+
+- **Rai
+
+ju**: A creature associated with lightning, often depicted as a beast with the ability to control thunderstorms.
+
+- **Rokurokubi**: Humanoid spirits with the ability to stretch their necks, often appearing as normal individuals until revealing their supernatural trait.
+
+**S**
+
+- **Sakabashira**: A ritual where a human sacrifice is entombed within the foundations of a new building to ensure its stability.
+
+- **Samurai**: Members of a warrior class in feudal Japan, known for their strict code of conduct, Bushido.
+
+- **Satori**: A creature with the ability to read human minds and reveal their thoughts.
+
+- **Shogunate**: A feudal military government led by a shogun, the de facto ruler of Japan.
+
+- **Shrine Architecture**: Traditional Japanese architecture used in the construction of Shinto shrines, characterized by its torii gate, honden (main hall), and haiden (worship hall).
+
+- **Shuriken**: Traditional Japanese throwing weapons, often in the form of star-shaped blades.
+
+- **Swordsmithing**: The art of crafting traditional Japanese swords, often passed down through generations.
+
+**T**
+
+- **Tatami**: Traditional Japanese flooring material made of woven straw, often used as a base for sleeping, sitting, or other activities.
+
+- **Tengu**: Bird-like creatures with supernatural powers, often depicted with long noses.
+
+- **Tokonoma**: A recessed alcove in a traditional Japanese room used to display art or other decorative items.
+
+- **Tsukumogami**: Inanimate objects that come to life after 100 years of existence, often becoming mischievous spirits.
+
+**U**
+
+- **Umibozu**: A sea spirit known for causing treacherous storms and tempests.
+
+**Y**
+
+- **Yamabiko**: Echo spirits that mimic human voices, often found in mountainous areas.
+
+- **Yokai**: Supernatural creatures and spirits found in Japanese folklore, encompassing a wide range of beings with various abilities and forms.
+
+- **Yurei**: Ghostly spirits of the deceased, often depicted as pale figures in white burial kimono.
+
+- **Yuki-onna**: A spirit associated with snowstorms, often depicted as a beautiful woman with the power to freeze humans.
+
+- **Zashiki-warashi**: Child spirits that bring fortune or misfortune to households, often depicted as mischievous pranksters.
+
+## Appendix C: Inspirational Media
 
 Here are some recommended readings and media that can further immerse you in the world of feudal Japan, its culture, and supernatural elements:
 
-**Books:**
+### Books 
 
 1. "Kwaidan: Stories and Studies of Strange Things" by Lafcadio Hearn
 2. "The Book of Yokai: Mysterious Creatures of Japanese Folklore" by Michael Dylan Foster
@@ -880,7 +1043,7 @@ Here are some recommended readings and media that can further immerse you in the
 6. "The Samurai's Garden" by Gail Tsukiyama
 7. "The Night Parade of One Hundred Demons: A Field Guide to Japanese Yokai" by Matthew Meyer
 
-**Movies and TV Shows:**
+### Movies and TV Shows
 
 1. "Kwaidan" (1964) - A classic Japanese horror anthology film.
 2. "Princess Mononoke" (1997) - An animated fantasy film by Studio Ghibli that explores the relationship between humans and nature.
@@ -890,19 +1053,19 @@ Here are some recommended readings and media that can further immerse you in the
 6. "Onmyoji" (2001) - A fantasy film about an onmyoji (a practitioner of traditional Japanese esoteric cosmology) in the Heian period.
 7. "Sword of the Stranger" (2007) - An anime film featuring a ronin's encounter with a young boy and his quest for revenge.
 
-**Video Games:**
+### Video Games
 
 1. "Ghost of Tsushima" (2020) - An action-adventure game set in feudal Japan, where you play as a samurai warrior.
 2. "Nioh" (2017) - An action RPG inspired by Japanese history and mythology, featuring intense combat and supernatural elements.
 3. "Okami" (2006) - An action-adventure game where you control a wolf goddess, drawing on Japanese mythology and art style.
 4. "Way of the Samurai" series - A series of games that allow players to navigate feudal Japan's conflicts as a wandering samurai.
 
-**Documentaries:**
+### Documentaries
 
 1. "Japan: Memoirs of a Secret Empire" - A PBS documentary series that explores Japan's history, including its feudal period.
 2. "Kaidan: Ghosts and Demons of Japan" - A documentary that delves into Japanese ghost stories and folklore.
 
-**Online Resources:**
+### Online Resources
 
 1. Yokai.com - A website dedicated to Japanese yokai (supernatural creatures), complete with illustrations and descriptions.
 2. The Samurai Archives - An online resource for historical information about samurai, warfare, and culture.
