@@ -841,19 +841,19 @@ Delve into the realm of the unknown, where misty forests, deserted shrines, and 
 
 ## Appendix A: Cultural Insights and Glossary
 
-**Historical Context**: Feudal Japan was a time of samurai, warlords, and mysterious spirits. Dive into the history of warring clans, honor codes, and the rise of noble families that shape the backdrop of your adventures.
+- **Historical Context**: Feudal Japan was a time of samurai, warlords, and mysterious spirits. Dive into the history of warring clans, honor codes, and the rise of noble families that shape the backdrop of your adventures.
 
-**Cultural Traditions**: From the elegant art of the tea ceremony to the intricate world of ikebana (flower arranging), learn about the customs that defined daily life in old Japan. Understanding these traditions can guide your interactions with NPCs and reveal hidden clues.
+- **Cultural Traditions**: From the elegant art of the tea ceremony to the intricate world of ikebana (flower arranging), learn about the customs that defined daily life in old Japan. Understanding these traditions can guide your interactions with NPCs and reveal hidden clues.
 
-**Spiritual Beliefs**: Ghosts, demons, and shapeshifters are not just fantasy here; they're rooted in Japanese spiritual beliefs. Discover the rich mythology of yokai, the supernatural creatures that inhabit the world around you.
+- **Spiritual Beliefs**: Ghosts, demons, and shapeshifters are not just fantasy here; they're rooted in Japanese spiritual beliefs. Discover the rich mythology of yokai, the supernatural creatures that inhabit the world around you.
 
-**Samurai Code**: Uncover the principles of bushido, the way of the samurai. Loyalty, honor, and duty were central tenets that governed the lives of these noble warriors. Your character's actions can reflect or challenge these ideals.
+- **Samurai Code**: Uncover the principles of bushido, the way of the samurai. Loyalty, honor, and duty were central tenets that governed the lives of these noble warriors. Your character's actions can reflect or challenge these ideals.
 
-**Language and Honorifics**: Get a grip on common Japanese phrases, honorifics, and titles. Addressing NPCs with respect or familiarity can influence how they respond to you.
+- **Language and Honorifics**: Get a grip on common Japanese phrases, honorifics, and titles. Addressing NPCs with respect or familiarity can influence how they respond to you.
 
-**Festivals and Celebrations**: Participate in vibrant festivals like Tanabata, where wishes are written on paper and hung on bamboo, or Obon, a time to honor the spirits of the deceased. These celebrations provide unique opportunities for interaction and adventure.
+- **Festivals and Celebrations**: Participate in vibrant festivals like Tanabata, where wishes are written on paper and hung on bamboo, or Obon, a time to honor the spirits of the deceased. These celebrations provide unique opportunities for interaction and adventure.
 
-**Japanese Folklore**: Delve into the captivating world of Japanese folklore. Learn about famous legends like Momotaro, the Peach Boy, and Tsukuyomi, the Moon God. These stories can provide inspiration and context for your adventures.
+- **Japanese Folklore**: Delve into the captivating world of Japanese folklore. Learn about famous legends like Momotaro, the Peach Boy, and Tsukuyomi, the Moon God. These stories can provide inspiration and context for your adventures.
 
 ## Appendix B: Glossary
 
@@ -981,9 +981,7 @@ This glossary provides a comprehensive overview of terms related to the kwaidan 
 
 **R**
 
-- **Rai
-
-ju**: A creature associated with lightning, often depicted as a beast with the ability to control thunderstorms.
+- **Raiju**: A creature associated with lightning, often depicted as a beast with the ability to control thunderstorms.
 
 - **Rokurokubi**: Humanoid spirits with the ability to stretch their necks, often appearing as normal individuals until revealing their supernatural trait.
 
