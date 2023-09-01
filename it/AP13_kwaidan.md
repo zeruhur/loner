@@ -1,6 +1,6 @@
 # Kwaidan!
 
-Ehilà, compagni di avventura! Vi starete chiedendo cosa sia questo "Kwaidan", vero? Beh, preparatevi a entrare nel mondo di folklore giapponese. Con Kwaidan vi immergerete in un regno in cui fantasmi, demoni e ogni sorta di creature misteriose vagano liberamente. E indovinate un po'? È perfetto per un Pacchetto Avventura. Ecco perché.
+Salve, compagni di avventura! Vi starete chiedendo cosa sia questo "Kwaidan", vero? Beh, preparatevi a entrare nel mondo di folklore giapponese. Con Kwaidan vi immergerete in un regno in cui fantasmi, demoni e ogni sorta di creature misteriose vagano liberamente. E indovinate un po'? È perfetto per un Pacchetto Avventura. Ecco perché.
 
 Immaginate il Giappone feudale, un'epoca di clan in guerra e di forze soprannaturali nascoste. È come se la storia e il soprannaturale avessero deciso di fare una festa molto intrigante insieme. Le storie di Kwaidan sono come quei racconti da brivido che si condividono intorno a un falò, ma con un tocco in più: samurai, contadini e nobili alle prese con fenomeni che avvengono di notte.
 
@@ -532,38 +532,553 @@ Addentratevi nel regno dell'ignoto, dove fitte foreste, santuari abbandonati e g
 | 65 | Una bambina abbandonata è cresciuta nelle Paludi Nebbiose con il potere di comunicare con gli spiriti. Aiutala a trovare la sua vera famiglia. |
 | 66 | Una dea del fiume si è risvegliata ed è furiosa per l'inquinamento delle acque. Trova un modo per placare la sua ira. |
 
-## Appendice: Approfondimenti Culturali e Glossario
+## Bestiario
 
-**Contesto Storico**: Il Giappone feudale è stato un periodo di samurai, signori della guerra e spiriti misteriosi. Approfondisci la storia dei clan in guerra, dei codici d'onore e dell'ascesa delle nobili famiglie che formano lo sfondo delle tue avventure.
+### Akaname
+- **Concetto**: Spirito simile a un goblin che lecca lo sporco
+- **Abilità**: Manipolazione dello sporco, Aura disgustosa
+- **Debolezza**: Vulnerabile a pulizia o rituali di purificazione
+- **Attrezzatura**: Mani e lingua sporche
+- **Obiettivo**: Pulire spazi sporchi leccando lo sporco
+- **Motivazione**: Mantenere se stesso e adempiere al suo scopo
+- **Nemici**: Coloro che mantengono puliti i loro spazi o spiriti protettivi
 
-**Tradizioni Culturali**: Dall'elegante arte della cerimonia del tè all'intricato mondo dell'ikebana (composizione floreale), scopri le consuetudini che hanno definito la vita quotidiana nell'antico Giappone. Comprendere queste tradizioni può guidare le tue interazioni con PNG e rivelare indizi nascosti.
+### Akashita
+- **Concetto**: Mano spettrale sotto i tatami
+- **Abilità**: Attacco a sorpresa, Furtività
+- **Debolezza**: Vulnerabile alla luce o al sale
+- **Attrezzatura**: Mano spettrale
+- **Obiettivo**: Spaventare e sorprendere vittime inconsapevoli
+- **Motivazione**: Cercare divertimento o sorpresa
+- **Nemici**: Coloro che sigillano i tatami o amuleti protettivi
 
-**Credenze Spirituali**: Qui, fantasmi, demoni e mutaforma non sono solo fantasia; sono radicati nelle credenze spirituali giapponesi. Scopri la ricca mitologia degli yokai, le creature sovrannaturali che abitano il mondo intorno a te.
+### Amanojaku
+- **Concetto**: Demoni birichini che causano caos e confusione
+- **Abilità**: Istigazione, Manipolazione
+- **Debolezza**: Vulnerabile all'esorcismo o all'intervento divino
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Creare discordia e tumulto
+- **Motivazione**: Cercare divertimento o esercitare il controllo
+- **Nemici**: Individui esperti nella risoluzione dei conflitti o nell'armonia
 
-**Codice del Samurai**: Scopri i principi del bushido, la via del samurai. La lealtà, l'onore e il dovere erano principi centrali che governavano la vita di questi nobili guerrieri. Le azioni del tuo personaggio possono riflettere o sfidare questi ideali.
+### Enenra
+- **Concetto**: Creatura di fumo o nebbia
+- **Abilità**: Manipolazione del fumo, Intangibilità
+- **Debolezza**: Vulnerabile al vento forte o alla purificazione dell'aria
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Creare un'atmosfera fumosa e inquietante
+- **Motivazione**: Cercare confusione o paura
+- **Nemici**: Manipolatori dell'aria o coloro con abilità resistenti al fumo
 
-**Lingua ed Eufemismi di Onore**: Prendi confidenza con frasi giapponesi comuni, eufemismi e titoli. Rivolgerti ai PNG con rispetto o familiarità può influenzare il loro modo di risponderti.
+### Hitotsume-kozo
+- **Concetto**: Spirito monaco a un occhio solo
+- **Abilità**: Sguardo ipnotico, Furtività
+- **Debolezza**: Vulnerabile al sale o ai rituali di purificazione
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Spaventare e confondere gli esseri umani
+- **Motivazione**: Cercare divertimento o nutrimento
+- **Nemici**: Coloro con forte forza di volontà o abilità mistiche
 
-**Festival e Celebrazioni**: Partecipa a vivaci festival come Tanabata, dove i desideri vengono scritti su carta e appesi al bambù, o Obon, un momento per onorare gli spiriti dei defunti. Queste celebrazioni offrono opportunità uniche di interazione e avventura.
+### Hihi
+- **Concetto**: Creatura dall'aspetto simile a un uccello con controllo del fuoco
+- **Abilità**: Piromanzia, Aura infuocata
+- **Debolezza**: Vulnerabile all'acqua o ai metodi di estinzione del fuoco
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Manipolare e controllare il fuoco per vari scopi
+- **Motivazione**: Mantenere l'equilibrio tra gli aspetti distruttivi e creativi del fuoco
+- **Nemici**: Manipolatori dell'acqua o coloro con abilità resistenti al fuoco
 
-**Folclore Giapponese**: Approfondisci il coinvolgente mondo del folclore giapponese. Scopri leggende famose come Momotaro, il Ragazzo Pesca, e Tsukuyomi, il Dio della Luna. Queste storie possono offrire ispirazione e contesto alle tue avventure.
+### Hyakki Yagyō
+- **Concetto**: Processione di cento demoni e esseri soprannaturali
+- **Abilità**: Azione collettiva, Proiezione di illusioni
+- **Debolezza**: Vulnerabile a disturbi o magie dissolutive
+- **Attrezzatura**: Varie abilità youkai
+- **Obiettivo**: Vagare e causare caos durante la processione notturna
+- **Motivazione**: Cercare divertimento o confusione
+- **Nemici**: Guardiani dell'ordine o individui esperti nel contrastare le illusioni
 
-**Glossario**: Nuovo nel mondo di Kwaidan? Nessun problema! Ecco un pratico glossario di termini che potresti incontrare durante il tuo viaggio:
+### Jibakurei
+- **Concetto**: Spiriti legati al suolo attaccati a luoghi specifici
+- **Abilità**: Manifestazione, Influenza territoriale
+- **Debolezza**: Vulnerabile ai rituali di purificazione o allo spostamento
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Custodire il loro territorio e le persone al suo interno
+- **Motivazione**: Proteggere il loro dominio e mantenere l'equilibrio
+- **Nemici**: Individui che profanano o disturbano il loro territorio
 
-- **Daimyo**: Un signore feudale o nobile che deteneva potere e terra nell'antico Giappone.
-- **Ronin**: Samurai senza padrone, spesso in cerca di uno scopo.
-- **Yokai**: Creature sovrannaturali e spiriti presenti nel folclore giapponese.
-- **Bushido**: Il codice di condotta dei samurai che enfatizzava l'onore, la lealtà e la bravura.
-- **Ikebana**: L'arte dell'arrangiamento floreale, che riflette l'armonia della natura.
-- **Cerimonia del Tè**: La preparazione rituale e la presentazione del tè matcha.
-- **Tanabata**: Il Festival delle Stelle, celebrato scrivendo desideri su carta colorata.
-- **Obon**: Un festival per onorare gli antenati e dare il benvenuto ai loro spiriti a casa.
+### Jorogumo
+- **Concetto**: Seducente donna ragno
+- **Abilità**: Cambiamento di forma, Inganno
+- **Debolezza**: Vulnerabile al fuoco o ai rituali di purificazione
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Attirare le vittime e consumarle
+- **Motivazione**: Mantenersi attraverso l'inganno
+- **Nemici**: Individui che maneggiano il fuoco o viaggiatori cauti
 
-## Fonti di ispirazione
+### Kamagami
+- **Concetto**: Divinità o spiriti che risiedono negli elementi naturali
+- **Abilità**: Affinità elementare, Benedizioni
+- **Debolezza**: Vulnerabile all'inquinamento o alla contaminazione del loro elemento
+- **Attrezzatura**: Incarnazione del loro dominio naturale
+- **Obiettivo**: Proteggere e mantenere il loro regno naturale
+- **Motivazione**: Preservare l'equilibrio e l'armonia
+- **Nemici**: Coloro che sfruttano o abusano dei loro domini
+
+### Kamaitachi
+- **Concetto**: Trio di spiriti simili a donnole associati ai venti
+- **Abilità**: Velocità, Taglio del vento
+- **Debolezza**: Vulnerabili quando i venti sono calmi
+- **Attrezzatura**: Artigli affilati, movimenti rapidi
+- **Obiettivo**: Causare ferite minori o confusione
+- **Motivazione**: Scherzi giocosi o cercare cibo
+- **Nemici**: Individui che manipolano il vento o coloro con barriere robuste
+
+### Kamikakushi
+- **Concetto**: Fenomeno delle misteriose scomparse
+- **Abilità**: Invisibilità, Manipolazione dimensionale
+- **Debolezza**: Vulnerabile alla rilevazione o ai metodi di sigillatura
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Rapire e nascondere le persone
+- **Motivazione**: Sconosciuto, possibilmente fascinazione per il mondo umano
+- **Nemesi**: Viaggiatori dimensionali o esseri con abilità di rilevamento
+
+### Kamikiri
+- **Concetto**: Creatura taglia-capelli
+- **Abilità**: Furtività, Taglio di precisione
+- **Debolezza**: Vulnerabile a talismani protettivi o talismani per capelli
+- **Attrezzatura**: Piccole lame o forbici
+- **Obiettivo**: Raccogliere ciocche di capelli umani
+- **Motivazione**: Cercare capelli per il suo nido o per usarli in rituali
+- **Nemesi**: Persone con forti misure protettive o abilità per migliorare i capelli
+
+### Kappa
+- **Concetto**: Creature acquatiche birichine
+- **Abilità**: Nuoto, Scherzi
+- **Debolezza**: Vulnerabile a versare acqua dalla testa
+- **Attrezzatura**: Ciotola d'acqua sulla testa
+- **Obiettivo**: Fare scherzi o sfidare gli esseri umani
+- **Motivazione**: Cercare divertimento e cibo
+- **Nemesi**: Nuotatori esperti o esseri umani intelligenti
+
+### Kijo
+- **Concetto**: Demone femminile seducente e pericoloso
+- **Abilità**: Fascino, Inganno
+- **Debolezza**: Vulnerabile alla purezza o all'intervento divino
+- **Attrezzatura**: Aspetto incantevole, parole affascinanti
+- **Obiettivo**: Sedurre e corrompere gli esseri umani
+- **Motivazione**: Cercare piacere o diffondere caos
+- **Nemesi**: Individui virtuosi o coloro con una forte volontà
+
+### Kitsune
+- **Concetto**: Spiriti astuti di volpi
+- **Abilità**: Cambio di forma, Illusione
+- **Debolezza**: Vulnerabile a certi canti o rituali
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Proteggere i loro santuari o manipolare gli esseri umani
+- **Motivazione**: Ottenere potere o divertimento
+- **Nemesi**: Sacerdoti esperti o reliquie sacre
+
+### Konaki-jiji
+- **Concetto**: Vecchio youkai che piange come un bambino
+- **Abilità**: Mimica, Manipolazione emotiva
+- **Debolezza**: Vulnerabile al riconoscimento o ai canti protettivi
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Attirare e ingannare vittime inconsapevoli
+- **Motivazione**: Cercare divertimento o nutrirsi delle emozioni
+- **Nemesi**: Individui emotivamente resilienti o coloro che vedono attraverso la sua recita
+
+### Kubire-oni
+- **Concetto**: Demone o orco senza testa
+- **Abilità**: Forza bruta, Ruggito spaventoso
+- **Debolezza**: Vulnerabile ai rituali di sigillatura o ai simboli sacri
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Diffondere paura e caos
+- **Motivazione**: Cercare dominio o terrorizzare gli esseri umani
+- **Nemesi**: Esorcisti esperti o coraggiosi guerrieri
+
+### Kawa-no-kami
+- **Concetto**: Deità o spiriti dei fiumi
+- **Abilità**: Manipolazione dell'acqua, Comunicazione
+- **Debolezza**: Vulnerabili all'inquinamento o alla profanazione
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Proteggere il loro dominio e gli abitanti
+- **Motivazione**: Mantenere l'equilibrio della natura
+- **Nemesi**: Coloro che inquinano o danneggiano le fonti d'acqua
+
+### Kawa-uso
+- **Concetto**: Spiriti di lontra dei fiumi noti per gli scherzi
+- **Abilità**: Malizia, Cambio di forma
+- **Debolezza**: Vulnerabili a talismani protettivi o purificazione dell'acqua
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Fare scherzi agli esseri umani e causare caos
+- **Motivazione**: Cercare divertimento o intrattenimento
+- **Nemesi**: Coloro che li superano o li superano in astuzia
+
+### Nue
+- **Concetto**: Creatura simile a una chimera con varie parti di animali
+- **Abilità**: Affinità elementali, Cambio di forma
+- **Debolezza**: Vulnerabile a certi attacchi elementali
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Creare caos e confusione
+- **Motivazione**: Cerca di dominare o fare scherzi
+- **Nemesi**: Specialisti degli elementi o abili mutaforma
+
+### Nukarumi
+- **Concetto**: Spirito femminile che appare dalla vita in su nell'acqua
+- **Abilità**: Manipolazione dell'acqua, Manifestazione emotiva
+- **Debolezza**: Vulnerabile all'asciugatura o alla contenimento
+- **Attrezzatura**: Mani e parte superiore del corpo acquatiche
+- **Obiettivo**: Emergere da corpi d'acqua per interagire con gli umani
+- **Motivazione**: Cerca connessione o comunicazione
+- **Nemesi**: Manipolatori dell'acqua o individui con abilità per controllare le emozioni
+
+### Noppera-bo
+- **Concetto**: Figure spettrali senza volto
+- **Abilità**: Invisibilità, Travestimento
+- **Debolezza**: Vulnerabili alla luce o a certi amuleti
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Spaventare e sconcertare gli umani
+- **Motivazione**: Causare confusione e paura
+- **Nemesi**: Individui dallo sguardo acuto o quelli non influenzati dalle illusioni
+
+### Nurari
+- **Concetto**: Youkai che si rilassa nelle case non occupate
+- **Abilità**: Stealth, Inganno
+- **Debolezza**: Vulnerabile quando affrontato o esposto a una luce brillante
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Reclamare spazi non occupati e godere dell'ospitalità
+- **Motivazione**: Cerca comfort e lusso
+- **Nemesi**: Proprietari vigili o spiriti protettivi
+
+### Nurarihyon
+- **Concetto**: Youkai che si fa comodo nelle case vuote
+- **Abilità**: Stealth, Inganno
+- **Debolezza**: Vulnerabile quando affrontato o esposto a una luce brillante
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Reclamare case e spazi vuoti
+- **Motivazione**: Cerca comodità e convenienza
+- **Nemesi**: Proprietari vigilanti o spiriti protettivi
+
+### Oni
+- **Concetto**: Demoni o orchi malevoli
+- **Abilità**: Forza, Intimidazione
+- **Debolezza**: Vulnerabili a simboli sacri o esorcismi
+- **Attrezzatura**: Mazze, mazze chiodate, maschere demoniache
+- **Obiettivo**: Causare sofferenza e caos
+- **Motivazione**: Incutere paura e imporre dominio
+- **Nemesi**: Sacerdoti potenti o coraggiosi guerrieri
+
+### Raiju
+- **Concetto**: Creatura associata ai fulmini
+- **Abilità**: Manipolazione dei fulmini, Controllo delle tempeste
+- **Debolezza**: Vulnerabile alla messa a terra o alle abilità di controllo del tempo
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Sfruttare e controllare le tempeste di tuono
+- **Motivazione**: Mantenere l'equilibrio o scatenare il caos
+- **Nemesi**: Manipolatori delle tempeste o esseri resistenti ai fulmini
+
+### Rokurokubi
+- **Concetto**: Spiriti umanoidi con colli allungabili
+- **Abilità**: Estensione del collo, Stealth
+- **Debolezza**: Vulnerabile quando il collo è esteso
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Osservare gli umani o causare confusione
+- **Motivazione**: Cerca divertimento o esplorazione
+- **Nemesi**: Individui osservatori o quelli con abilità anti-magia
+
+### Satori
+- **Concetto**: Creatura che legge la mente
+- **Abilità**: Telepatia, Lettura della mente
+- **Debolezza**: Vulnerabile a barriere psichiche o volontà forte
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Apprendere i pensieri e i segreti degli umani
+- **Motivazione**: Cercare conoscenza o manipolare gli individui
+- **Nemesi**: Coloro con difese mentali solide o poteri psichici
+
+### Shirime
+- **Concetto**: Creatura con un occhio al posto dell'ano
+- **Abilità**: Sguardo sorprendente, Stealth
+- **Debolezza**: Vulnerabile al sale o contro-le illusioni
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Scioccare e sorprendere le vittime
+- **Motivazione**: Cerca divertimento o disturbare gli umani
+- **Nemesi**: Coloro che non sono influenzati dal suo sguardo o quelli con volontà forte
+
+### Tengu
+- **Concetto**: Creature simili a uccelli con poteri soprannaturali
+- **Abilità**: Volo, Arti marziali
+- **Debolezza**: Vulnerabili a talismani o intervento divino
+- **Attrezzatura**: Maschere dal naso lungo, ventagli magici
+- **Obiettivo**: Mantenere l'equilibrio nella natura o insegnare lezioni preziose
+- **Motivazione**: Promuovere l'armonia o la disciplina
+- **Nemesi**: Abili artisti marziali o esseri divini
+
+### Tesso
+- **Concetto**: Spirito vendicativo di un sacerdote o monaco maltrattato
+- **Abilità**: Lancio di maledizioni, Presenza disturbante
+- **Debolezza**: Vulnerabile ai rituali di purificazione o di redenzione
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Vendicarsi per maltrattamenti passati
+- **Motivazione**: Cercare giustizia o riparazione
+- **Nemesi**: Individui compassionevoli o coloro che cercano di correggere ingiustizie
+
+### Tanuki
+- **Concetto**: Spiriti giocherelloni simili a cani procioni che cambiano forma
+- **Abilità**: Cambio di forma, Inganno
+- **Debolezza**: Vulnerabili a amuleti o incantesimi
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Causare dispetti o cercare conforto
+- **Motivazione**: Divertimento e libertà
+- **Nemesi**: Divinità protettive o esorcisti abili
+
+### Umibozu
+- **Concetto**: Spirito marino che provoca tempeste
+- **Abilità**: Manipolazione dell'acqua, Creazione di tempeste
+- **Debolezza**: Vulnerabile a certi canti o rituali
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Creare mari insidiosi e tempeste
+- **Motivazione**: Cercare caos e distruzione
+- **Nemesi**: Marinai abili o protettori divini
+
+### Yamabiko
+- **Concetto**: Spiriti dell'eco che imitano le voci umane
+- **Abilità**: Imitazione dell'eco, Illusione
+- **Debolezza**: Vulnerabili al silenzio o a contro-illusione
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Ripetere e imitare suoni umani
+- **Motivazione**: Cercare interazione o divertimento
+- **Nemesi**: Ventriloqui abili o manipolatori del suono
+
+### Yuki-onna
+- **Concetto**: Spirito associato alle tempeste di neve
+- **Abilità**: Manipolazione del freddo, Illusione
+- **Debolezza**: Vulnerabile al calore o agli attacchi basati sul calore
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Ingannare i viaggiatori nelle tempeste di neve
+- **Motivazione**: Cercare compagnia o vendetta
+- **Nemesi**: Individui che manipolano il fuoco o coloro con una forte forza di volontà
+
+### Yokai
+- **Concetto**: Misteriose creature mutaforma
+- **Abilità**: Cambio di forma, Illusione
+- **Debolezza**: Vulnerabili al ferro puro
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Ingannare o ingannare gli esseri umani
+- **Motivazione**: Intenzioni maliziose o malevoli
+- **Nemesi**: Talismani o individui esperti nell'esorcismo
+
+### Yurei
+- **Concetto**: Spiriti spettrali dei defunti
+- **Abilità**: Manifestazione, Aura spaventosa
+- **Debolezza**: Vulnerabili a preghiere o placazioni
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Trovare pace o cercare vendetta
+- **Motivazione**: Risolvere affari incompiuti o cercare giustizia
+- **Nemesi**: Medium esperti o sacerdoti compassionevoli
+
+### Zashiki-warashi
+- **Concetto**: Spiriti infantili che portano fortuna o sfortuna
+- **Abilità**: Manipolazione della fortuna, Comportamento giocoso
+- **Debolezza**: Vulnerabili quando trascurati o arrabbiati
+- **Attrezzatura**: Nessuno
+- **Obiettivo**: Influire sulla fortuna della casa
+- **Motivazione**: Cerca attenzione e cure
+- **Nemesi**: Individui negligenti o ostili
+
+## Appendice A: Panoramica Culturale
+
+- **Contesto Storico**: Il Giappone feudale è stato un periodo di samurai, signori della guerra e spiriti misteriosi. Approfondisci la storia dei clan in guerra, dei codici d'onore e dell'ascesa delle nobili famiglie che formano lo sfondo delle tue avventure.
+
+- **Tradizioni Culturali**: Dall'elegante arte della cerimonia del tè all'intricato mondo dell'ikebana (composizione floreale), scopri le consuetudini che hanno definito la vita quotidiana nell'antico Giappone. Comprendere queste tradizioni può guidare le tue interazioni con PNG e rivelare indizi nascosti.
+
+- **Credenze Spirituali**: Qui, fantasmi, demoni e mutaforma non sono solo fantasia; sono radicati nelle credenze spirituali giapponesi. Scopri la ricca mitologia degli yokai, le creature sovrannaturali che abitano il mondo intorno a te.
+
+- **Codice del Samurai**: Scopri i principi del bushido, la via del samurai. La lealtà, l'onore e il dovere erano principi centrali che governavano la vita di questi nobili guerrieri. Le azioni del tuo personaggio possono riflettere o sfidare questi ideali.
+
+- **Lingua ed Eufemismi di Onore**: Prendi confidenza con frasi giapponesi comuni, eufemismi e titoli. Rivolgerti ai PNG con rispetto o familiarità può influenzare il loro modo di risponderti.
+
+- **Festival e Celebrazioni**: Partecipa a vivaci festival come Tanabata, dove i desideri vengono scritti su carta e appesi al bambù, o Obon, un momento per onorare gli spiriti dei defunti. Queste celebrazioni offrono opportunità uniche di interazione e avventura.
+
+- **Folclore Giapponese**: Approfondisci il coinvolgente mondo del folclore giapponese. Scopri leggende famose come Momotaro, il Ragazzo Pesca, e Tsukuyomi, il Dio della Luna. Queste storie possono offrire ispirazione e contesto alle tue avventure.
+
+## Appendice B: Glossario
+
+Questo glossario fornisce una panoramica completa dei termini legati al genere kwaidan e al Giappone feudale, comprendendo sia elementi soprannaturali che aspetti culturali che arricchiscono l'esperienza narrativa.
+
+**A**
+
+- **Akashita**: Una mano spettrale che si alza da sotto i tatami, spesso usata per spaventare o sorprendere.
+
+- **Amanojaku**: Demoni birichini che amano causare caos e confusione.
+
+- **Architettura del Santuario**: Architettura tradizionale giapponese utilizzata nella costruzione dei santuari shintoisti, caratterizzata dal torii, dall'honden (sala principale) e dall'haiden (sala di preghiera).
+
+**B**
+
+- **Bakufu**: Un governo militare feudale che ha governato il Giappone dal XII al XIX secolo.
+
+- **Bunraku**: Teatro tradizionale giapponese delle marionette.
+
+- **Bushi**: Un guerriero samurai o una persona appartenente alla classe guerriera.
+
+**C**
+
+- **Chonmage**: Una pettinatura tradizionale giapponese associata ai samurai, caratterizzata da un cranio rasato e un nodo superiore.
+
+**D**
+
+- **Daimyo**: Signori feudali che governavano specifici territori nel Giappone feudale.
+
+- **Edo**: L'ex nome di Tokyo, che ha servito come centro politico e culturale del Giappone durante il periodo Edo.
+
+**E**
+
+- **Edo, Periodo**: Un periodo di relativa pace e stabilità in Giappone dal 1603 al 1868, caratterizzato dal governo dello shogunato Tokugawa e dall'isolamento dal mondo esterno.
+
+**F**
+- **Forgiatura di Spade**: L'arte di creare spade tradizionali giapponesi, spesso tramandata attraverso le generazioni.
+
+**G**
+
+- **Geisha**: Esperte intrattenitrici che eseguono arti tradizionali giapponesi, spesso comprendenti danza, musica e conversazione.
+
+- **Genroku, Era**: Un periodo di fioritura culturale durante il periodo Edo, noto per i suoi successi artistici e letterari.
+
+- **Geta**: Zoccoli tradizionali giapponesi in legno, spesso indossati con il kimono.
+
+**H**
+
+- **Hanami**: La pratica di godersi la bellezza dei fiori di ciliegio (sakura) durante la primavera.
+
+- **Heian, Periodo**: Un periodo storico che va dalla fine dell'VIII alla fine del XII secolo, caratterizzato dalla fioritura della letteratura e della cultura nella corte imperiale.
+
+**I**
+
+- **Inro**: Un piccolo contenitore multi-comparto usato per contenere effetti personali, spesso indossato dai samurai.
+
+- **Irezumi**: Arte tradizionale giapponese dei tatuaggi.
+
+**J**
+
+- **Jorogumo**: Un ragno che può trasformarsi in una bellissima donna, spesso usato per sedurre e intrappolare le vittime.
+
+- **Joruri**: La narrazione o il dialogo nel teatro delle marionette Bunraku.
+
+- **Jukujo**: Un tipo di fantasma o spirito che incarna una donna anziana.
+
+- **Junihitoe**: Un elaborato kimono multistrato indossato dalle nobildonne nel periodo Heian.
+
+**K**
+
+- **Kabuki**: Una forma tradizionale di teatro giapponese nota per il trucco elaborato, i costumi e le performance drammatiche.
+
+- **Kamaitachi**: Un trio di spiriti simili a donnole associati ai venti, noti per causare tagli o ferite misteriose.
+
+- **Kamikakushi**: Il fenomeno delle persone che scompaiono misteriosamente, spesso attribuito a cause soprannaturali.
+
+- **Kamidana**: Un santuario domestico shintoista che ospita gli spiriti ancestrali e le divinità protettrici.
+
+- **Kappa**: Creature acquatiche che assomigliano a tartarughe o anfibi, conosciute per la loro natura birichina.
+
+- **Karuta**: Carte da gioco tradizionali giapponesi.
+
+- **Katana**: Una spada tradizionale giapponese, spesso associata ai guerrieri samurai.
+
+- **Kimon**: L'abbigliamento formale indossato dai samurai, caratterizzato da uno stemma distintivo.
+
+- **Kimono**: Abbigliamento tradizionale giapponese indossato da uomini, donne e bambini, caratterizzato dalla sua struttura a T e dalle ampie maniche.
+
+- **Koto**: Uno strumento musicale tradizionale giapponese a corde.
+
+- **Kwaidan**: Un genere di storie soprannaturali e di fantasmi giapponesi.
+
+**L**
+
+- **Lanterne, Festival delle**: Un festival annuale dedicato all'onore degli antenati defunti, spesso con la tradizione di accendere lanterne.
+
+**M**
+
+- **Meiji, Restaurazione**: Il periodo di agitazione politica e sociale in Giappone alla fine del XIX secolo, che ha portato alla modernizzazione del paese.
+
+- **Miko**: Vergini dei santuari che svolgono rituali e cerimonie nei santuari shintoisti.
+
+- **Mokumokuren**: Uno spirito youkai che appare su fusuma strappati e tatami consumati.
+
+- **Mononoke**: Spiriti o demoni malevoli che portano sfortuna o danni.
+
+**N**
+
+- **Nihonshu**: Vino di riso tradizionale giapponese, comunemente noto come sake.
+
+- **Noh**: Teatro tradizionale giapponese caratterizzato dalle sue performance lente e stilizzate, spesso con attori mascherati.
+
+- **Noppera-bo**: Figure spettrali senza volto, spesso appaiono come individui normali fino a quando non svelano il loro viso liscio e privo di tratti distintivi.
+
+- **Nue**: Una creatura chimera con la testa di una scimmia, il corpo di un tanuki, le zampe di una tigre e una coda di serpente.
+
+- **Nurarihyon**: Uno spirito youkai che entra nelle case vuote, si siede e si fa a casa.
+
+**O**
+
+- **Oni**: Demoni o orchi malevoli che assumono varie forme e dimensioni, spesso rappresentati con la pelle vivacemente colorata.
+
+- **Oyabun**: Il capo o il capo di una syndicate criminale yakuza.
+
+**R**
+
+- **Raiju**: Una creatura associata ai fulmini, spesso rappresentata come una bestia con la capacità di controllare i temporali.
+
+- **Rokurokubi**: Spiriti umanoidi con la capacità di allungare il collo, spesso appaiono come individui normali fino a quando non rivelano il loro tratto soprannaturale.
+
+**S**
+
+- **Sakabashira**: Un rituale in cui un sacrificio umano viene sepolto nelle fondamenta di un nuovo edificio per garantirne la stabilità.
+
+- **Samurai**: Membri di una classe guerriera nel Giappone feudale, noti per il loro rigoroso codice di condotta, il Bushido.
+
+- **Satori**: Una creatura con la capacità di leggere le menti umane e rivelare i loro pensieri.
+
+- **Shogunato**: Un governo militare feudale guidato da uno shogun, il regnante de facto del Giappone.
+
+- **Shuriken**: Armi da lancio tradizionali giapponesi, spesso sotto forma di lame a forma di stella.
+
+- **Sistema Feudale**: Una struttura sociale gerarchica in cui potere e possesso di terre erano concentrati nelle mani di una classe dominante, principalmente samurai e daimyo.
+
+- **Spiriti Ancestrali**: Si crede siano gli spiriti degli antenati defunti che continuano a influenzare e proteggere i loro discendenti viventi.
+
+**T**
+
+- **Tatami**: Materiale tradizionale per pavimenti giapponesi fatto di paglia intrecciata, spesso usato come base per dormire, sedersi o altre attività.
+
+- **Tengu**: Creature simili a uccelli con poteri soprannaturali, spesso rappresentate con un naso lungo.
+
+- **Tokonoma**: Un'alcova incassata in una stanza tradizionale giapponese usata per esporre opere d'arte o altri oggetti decorativi.
+
+- **Tsukumogami**: Oggetti inanimati che prendono vita dopo 100 anni di esistenza, diventando spesso spiriti birichini.
+
+**U**
+
+- **Umibozu**: Uno spirito marino noto per causare tempeste e burrasche pericolose.
+
+**Y**
+
+- **Yamabiko**: Spiriti dell'eco che imitano le voci umane, spesso trovati nelle zone montuose.
+
+- **Yokai**: Creature soprannaturali e spiriti presenti nel folklore giapponese, che comprendono una vasta gamma di esseri con abilità e forme diverse.
+
+- **Yurei**: Spiriti spettrali dei defunti, spesso raffigurati come figure pallide con kimono bianco funerario.
+
+- **Yuki-onna**: Uno spirito associato alle tempeste di neve, spesso raffigurato come una bellissima donna con il potere di congelare gli esseri umani.
+
+**Z**
+
+- **Zashiki-warashi**: Spiriti bambini che portano fortuna o sfortuna alle famiglie, spesso raffigurati come birichini imbroglioni.
+
+## Appendice C: Fonti di ispirazione
 
 Ecco alcuni suggerimenti di letture e media che possono immergerti ulteriormente nel mondo del Giappone feudale, nella sua cultura e negli elementi soprannaturali:
 
-**Libri:**
+### Libri
 
 1. "Kwaidan: Storie e studi di cose strane" di Lafcadio Hearn
 2. "Il Libro dei Yokai: Creature misteriose del folklore giapponese" di Michael Dylan Foster
@@ -573,7 +1088,7 @@ Ecco alcuni suggerimenti di letture e media che possono immergerti ulteriormente
 6. "Il giardino del samurai" di Gail Tsukiyama
 7. "Il corteo notturno dei cento demoni: Una guida ai yokai giapponesi" di Matthew Meyer
 
-**Film e Serie TV:**
+### Film e Serie TV
 
 1. "Kwaidan" (1964) - Un classico film antologico di orrore giapponese.
 2. "La principessa Mononoke" (1997) - Un film fantasy animato dello Studio Ghibli che esplora la relazione tra gli esseri umani e la natura.
@@ -583,19 +1098,19 @@ Ecco alcuni suggerimenti di letture e media che possono immergerti ulteriormente
 6. "Onmyoji" (2001) - Un film fantasy sulla vita di un onmyoji (un praticante di cosmologia esoterica giapponese) nel periodo Heian.
 7. "Spada senza nome" (2007) - Un film anime che narra dell'incontro tra un ronin, un giovane ragazzo e la sua ricerca di vendetta.
 
-**Videogiochi:**
+### Videogiochi
 
 1. "Ghost of Tsushima" (2020) - Un videogioco d'azione e avventura ambientato nel Giappone feudale, in cui si interpreta un samurai.
 2. "Nioh" (2017) - Un RPG d'azione ispirato alla storia e alla mitologia giapponese, con combattimenti intensi ed elementi soprannaturali.
 3. "Okami" (2006) - Un gioco d'azione e avventura in cui si controlla una dea lupa, attingendo alla mitologia e allo stile artistico giapponese.
 4. Serie "Way of the Samurai" - Una serie di giochi che consentono ai giocatori di navigare tra i conflitti del Giappone feudale nei panni di un samurai errante.
 
-**Documentari:**
+### Documentari
 
 1. "Giappone: Memorie di un Impero Segreto" - Una serie documentaristica di PBS che esplora la storia del Giappone, compreso il periodo feudale.
 2. "Kaidan: Fantasmi e Demoni del Giappone" - Un documentario che approfondisce le storie di fantasmi e il folklore giapponese.
 
-**Risorse Online:**
+### Risorse Online
 
 1. Yokai.com - Un sito web dedicato ai yokai giapponesi (creature soprannaturali), completo di illustrazioni e descrizioni.
 2. The Samurai Archives - Una risorsa online per informazioni storiche sui samurai, la guerra e la cultura.
