@@ -18,7 +18,7 @@ digraph consulting_oracle {
     id9[label = "ASK AGAIN \n (Max 3)"];
     id10[label = "OPEN-ENDED QUESTION"];
 
-    id1 -> id2 [xlabel = "Certaint"] ;
+    id1 -> id2 [xlabel = "Certain"] ;
     id2 -> id1 [label = "Next action"];
     id1 -> id3 [label = "Uncertain/\nOverconfident"];
     id3 -> id4 [xlabel = "Advantage"];
