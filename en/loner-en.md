@@ -45,14 +45,14 @@ Once the setting is established, now is the time to create your Protagonist.
 
 Your Protagonist is described by some fixed traits:
 
-- **Name**: the name should be iconic and consistent with the tone and setting of the story
+- **Name**: The name should be iconic and consistent with the tone and setting of the story.
 - **Concept**: A concise description of the character's profession, background, and abilities. The best are adjective-name pairings, like *"Venturous Smuggler"* or *"Child Prodigy"*.
-- **Skills** (x2): abilities not necessarily character-specific but not characteristics common to all. *"Smart"* is not a skill, *"Engine Whisperer"* is.
-- **Frailty**: something that could potentially get in the way of the character, either physically, mentally, or socially.
-- **Gear** (x2): particular equipment supplied to the character in coherence with the setting. Everyday items are taken for granted and do not fall under this trait.
-- **Goal**: the long-term objective.
-- **Motive**: what drives the pursuit of the goal.
-- **Nemesis**: a person or organization that hinders the protagonist. It can emerge during the first game sessions, it may or may or not be the direct antagonist of the story, ready to appear to make life even more difficult
+- **Skills** (x2): Abilities not necessarily character-specific but not characteristics common to all. *"Smart"* is not a skill, *"Engine Whisperer"* is.
+- **Frailty**: Something that could potentially get in the way of the character, either physically, mentally, or socially.
+- **Gear** (x2): Particular equipment supplied to the character in coherence with the setting. Everyday items are taken for granted and do not fall under this trait.
+- **Goal**: The long-term objective.
+- **Motive**: What drives the pursuit of the goal.
+- **Nemesis**: A person or organization that hinders the protagonist. It can emerge during the first game sessions, it may or may or not be the direct antagonist of the story, ready to appear to make life even more difficult
 - **Luck**: The measure of a character's ability to avoid ill fortune or an inauspicious outcome. It applies only in Conflicts and automatically recharges when they end. Luck starts and caps at 6.
 
 **Example**
