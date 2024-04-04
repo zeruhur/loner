@@ -1,12 +1,12 @@
-# Steampun
+# Steampunk
 
-Greetings, daring adventurers! Are you ready to dive into a realm where steam-powered marvels and clockwork wonders shape a world unlike any other? Welcome to the Steampunk Adventure Pack, a realm where gears turn, airships soar, and mysteries await your ingenious mind. Allow me to introduce you to a universe where technology and fantasy dance in perfect harmony.
+Greetings, daring adventurers! Are you ready to delve into a realm where steam-powered marvels and clockwork wonders shape a world unlike any other? Welcome to the Steampunk Adventure Pack, a domain where gears churn, airships glide, and mysteries beckon your ingenious spirit. Allow me to usher you into a universe where technology and fantasy coalesce in perfect harmony.
 
-Imagine a world much like the Victorian era but transformed by the power of steam and the art of invention. This is a time of airship explorations, mechanical wonders, and eccentric inventors. In the Steampunk Adventure Pack, you'll be thrust into a world where lone wolf characters rise to unravel secrets that could reshape the very fabric of society.
+Envision a world reminiscent of the Victorian era, yet transformed by steam's might and the artistry of invention. This is an age of airship voyages, mechanical marvels, and eccentric inventors. In the Steampunk Adventure Pack, you'll find yourself in a world where solitary characters emerge to uncover secrets capable of altering society's very framework.
 
-Whether you're a brilliant inventor, a rogue airship captain, or a resourceful detective, the steampunk world is yours to conquer. Your independence will shine as you navigate the twists and turns of a society teetering on the edge of innovation and upheaval. Dark conspiracies, hidden societies, and clockwork enigmas await your exploration.
+Whether you're a genius inventor, a rogue airship captain, or a savvy detective, the steampunk realm awaits your dominion. Your independence will be your beacon as you maneuver through the intricacies of a society on the brink of innovation and tumult. Dark conspiracies, clandestine societies, and mechanical mysteries are yours to solve.
 
-But remember, the true essence of steampunk isn't just about technology—it's about the spirit of discovery, the fusion of creativity and mechanics, and the quest for truth. As a lone adventurer in this world of gears and gadgets, you'll harness the power of innovation to forge your own path. So gear up, embrace the unknown, and let the Steampunk Adventure Pack transport you to a realm of limitless possibilities!
+Yet, remember, steampunk's true essence extends beyond mere technology—it embodies the spirit of exploration, the melding of creativity with machinery, and the pursuit of truth. As a solitary adventurer in this gear-driven world, you'll leverage innovation to carve your unique path. So, gear up, welcome the unknown, and allow the Steampunk Adventure Pack to whisk you away to a realm of boundless adventures!
 
 ## Setting Information
 
@@ -18,6 +18,8 @@ But remember, the true essence of steampunk isn't just about technology—it's a
 - **Historical Impact**: The setting has been molded by pivotal moments in its history. The Great Steam Revolution, a turning point in society, marked a radical shift from traditional power sources to steam-driven mechanisms. The discovery of Etherium energy, a potent and enigmatic force, ushered in a new era of possibilities and challenges, altering the course of technological development and opening avenues for exploration into the aetheric realm.
 
 ### Timeline
+
+This timeline happens in an alternative reality and it is expressed in Common Era (CE).
 
 - **1803**: The Age of Steam dawns as the brilliant inventor, Victoria Ironhart, unveils the first practical steam-powered machine. This invention sparks a wave of industrial innovation.
 
@@ -152,16 +154,113 @@ But remember, the true essence of steampunk isn't just about technology—it's a
 
 ## Special Rules
 
-- **Steam Resonance**: Characters in this world are attuned to the energy of steam. They have a Steam Resonance score that determines their connection to technological devices. Characters can perform daring feats by channeling steam resonance, but overuse may lead to overheating and negative effects.
-- **Clockwork Augmentations**: Characters can enhance their abilities through clockwork augmentations. These can range from steam-powered limbs for increased strength to cog-driven optics for improved perception. However, over-dependence on augmentations might lead to loss of organic abilities.
-- **Cogwork Familiars**: Characters can have cogwork animal companions. These steam-powered familiars can assist in various tasks, from scouting to combat. Players need to manage their familiars' steam reserves and perform maintenance.
-- **Smog Exposure**: The thick smog covering certain areas can be harmful. Characters exposed to prolonged smog might suffer from respiratory issues, reduced visibility, and even hallucinations. Protective gear and antidotes become essential.
+### Steam Resonance
+
+Characters in this world are attuned to the energy of steam. They have a Steam Resonance score that determines their connection to technological devices. Characters can perform daring feats by channeling steam resonance, but overuse may lead to overheating and negative effects.
+
+- Each character starts with a Steam Resonance (SR) score equal to 6. This reflects their natural affinity for steam technology. 
+- Steam Resonance can be used to enhance actions, operate steam-powered devices, or perform special abilities unique to the character. 
+- To perform an enhance action, the player spends a SR point and roll a die. If the result is higher than the current SR score the character overheats and suffers an impact and fails the action. Otherwise, the action is taken with advantage.
+- Characters regain SR points through rest or exposure to steam-rich environments, but can only regenerate a point per day naturally.
+
+### Clockwork Augmentations
+
+Characters can enhance their abilities through clockwork augmentations. These can range from steam-powered limbs for increased strength to cog-driven optics for improved perception. However, over-dependence on augmentations might lead to loss of organic abilities.
+
+1. **Cogspring Legs**: Increases a character's speed and jump height, enabling breathtaking leaps or rapid sprints across short distances.
+
+2. **Steamfist Gauntlets**: Enhances strength, allowing for devastating punches that can bend metal or shatter stone.
+
+3. **Opti-Gear Eyes**: Grants superior vision, including the ability to zoom or see in low light conditions, turning the wearer into an exceptional scout or sniper.
+
+4. **Aetheric Heart**: A rare and costly augmentation that significantly boosts stamina and healing rate by harnessing Etherium energy.
+
+5. **Gearwork Wings**: A pair of mechanical wings enabling short-duration flight or extended gliding, perfect for reaching high places or making dramatic entrances.
+
+6. **Pneumatic Arms**: Provides immense lifting capacity and crushing power, ideal for heavy labor or breaking through barriers.
+
+7. **Vocal Modulator**: Allows the user to mimic any voice heard previously or amplify their own, useful for deception or commanding attention.
+
+8. **Chrono-Link Bracelet**: Enhances reaction time to near-instantaneous levels for a few seconds, simulating a brief period of time dilation.
+
+9. **Echo-Locator Ears**: Sonar-based augmentation granting echolocation, enabling navigation and detection of objects or beings through solid walls or in complete darkness.
+
+10. **Smoke Filtration Lungs**: Offers protection against smog, gas attacks, and respiratory toxins, filtering out harmful particles and converting them into breathable air.
+
+11. **Auto-Repairing Skin**: A mesh of fine clockwork and nanogears beneath the skin that gradually repairs wounds, reducing healing time.
+
+12. **Etherium Conduit Spine**: Enhances neural conductivity, allowing faster processing of information and heightened reflexes, beneficial for strategists and duelists alike.
+
+13. **Mnemonic Storage Drive**: Implanted in the brain, this device significantly increases memory capacity and recall speed, making the user a walking library of information.
+
+14. **Hydraulic Crunch Claws**: Replaces the hands with powerful clamps capable of crushing or manipulating heavy objects, while retaining fine motor control for delicate tasks.
+
+15. **Wind-Up Heart**: A backup heart that kicks in if the original fails, providing a second chance at life in dire circumstances.
+
+16. **Gyro-Balanced Core**: Improves balance and agility, allowing the user to perform acrobatic feats or fight on uneven terrain without losing footing.
+
+17. **Steam-Boosted Sensors**: Heightens all five senses, offering superhuman perception that can detect lies through a change in heartbeat or track quarry by scent alone.
+
+18. **Circuit-Weave Brain**: Enhances cognitive functions with clockwork precision, boosting problem-solving abilities, calculation speed, and potentially unlocking telekinetic capabilities through concentrated thought.
+
+### Cogwork Familiars
+
+Characters can have cogwork animal companions. These steam-powered familiars can assist in various tasks, from scouting to combat. Players need to manage their familiars' steam reserves and perform maintenance.
+
+- Players can design their cogwork familiars, choosing from various animal forms that offer different abilities. For example, a cogwork owl could provide enhanced vision for scouting, while a cogwork wolf might offer combat support.
+- Familiars require steam to operate. Their steam reserves deplete with use and must be replenished through specific resources or by resting in a steam-enriched environment.
+- Regular maintenance is required to keep familiars operational. Neglect could lead to malfunctions or decreased efficiency in tasks.
+- Players can upgrade their familiars with parts obtained from quests, crafting, or trade, enhancing their abilities or adding new functions.
+
+#### Scoutwing Sparrow
+- **Concept**: Swift Scout
+- **Skills**: Skyline Navigator, Silent Glide
+- **Frailty**: Weather-Sensitive
+- **Gear**: Aether Lens Monocle, Message Capsule
+
+#### Guardhound Bulldog
+- **Concept**: Protective Guardian
+- **Skills**: Intruder Deterrent, Lockjaw Grip
+- **Frailty**: High Maintenance
+- **Gear**: Reinforced Plating, Olfactory Enhancer
+
+#### Puddlejumper Frog
+- **Concept**: Aquatic Explorer
+- **Skills**: Amphibious Mobility, Echo Resonance
+- **Frailty**: Pollution-Sensitive
+- **Gear**: Aetheric Bubble Generator, Retrieval Net
+
+#### Whiskertwist Mouse
+- **Concept**: Stealthy Spy
+- **Skills**: Wiretap Whiskers, Shadow Scamper
+- **Frailty**: Vulnerable Size
+- **Gear**: Data Storage Tail, Camouflage Coating
+
+#### Cogtail Peacock
+- **Concept**: Enchanting Performer
+- **Skills**: Hypnotic Display, Sonorous Call
+- **Frailty**: Elaborate Maintenance
+- **Gear**: Illumination Feathers, Aromatic Dispenser
+
+#### Geargrinder Owl
+- **Concept**: Nocturnal Watcher
+- **Skills**: Night Vision, Silent Surveillance
+- **Frailty**: Daylight Ineffective
+- **Gear**: Recording Eyes, Signal Jammer Claws
+
+### Smog Exposure
+
+The thick smog covering certain areas can be harmful.
+
+- Characters exposed to smog without protection suffer penalties, such as reduced visibility affecting combat and exploration, respiratory problems reducing stamina or health, and potential hallucinations impacting decision-making or causing illusions.
+- Protective gear like gas masks and antidotes can mitigate smog effects. Crafting or purchasing better protective equipment can offer greater resistance or immunity to specific smog-related penalties.
+- Smoggy areas pose navigation and survival challenges, requiring players to prepare adequately or find alternative routes. They can also be sources of unique quests, such as finding the cause of the smog, cleaning up an area, or rescuing affected NPCs.
 
 ## Optional Rules: Technomancing
 
 In this world, the dance of gears and the power of steam have granted some individuals the ability to bridge the gap between technology and magic, a practice known as Technomancing. By channeling their understanding of both the aetheric energies and the inner workings of machinery, these Technomancers can achieve feats that others can only dream of.
 
-Whenever you wish to employ your Technomantic talents, envision the outcome you desire. Channel your innate connection to machinery and the unseen aether, and pose a closed question to fate. Roll the dice, and let the range of possible answers guide your path:
+Roll the dice, and let the range of possible answers guide your path:
 
 - **1. No and**: Your attempt at Technomancy not only fails but also triggers an unforeseen complication, leading to unexpected consequences.
 - **2. No**: Your efforts to harness Technomancy falter, yielding no discernible result.
@@ -264,42 +363,42 @@ As you traverse the skies aboard your chosen airship, be prepared for a myriad o
 
 | D66 | Airship Encounter                                                     |
 | --- | --------------------------------------------------------------------- |
-| 11  | Aerial Battle: Witness a clash between rival airship fleets in the sky. |
-| 12  | Sky Pirates: Encounter a crew of ruthless sky pirates attempting a raid. |
-| 13  | Aetheric Storm: Navigate through a treacherous storm of aetheric energy. |
-| 14  | Stowaway: Discover an unexpected passenger hiding aboard the airship. |
-| 15  | Engine Malfunction: The airship's engines sputter, causing turbulence. |
-| 16  | Celestial Phenomenon: Witness a breathtaking display of aetheric lights. |
-| 21  | Skyward Obstacle: Navigate around a floating island or massive cloud. |
-| 22  | Lost Airship: Encounter a damaged airship drifting aimlessly in the sky. |
-| 23  | Airborne Market: Stumble upon a floating bazaar of traders and merchants. |
-| 24  | Aerial Espionage: Uncover a plot involving spies on a neighboring airship. |
-| 25  | Mechanical Failure: Help a stranded airship crew repair their vessel. |
-| 26  | Skyward Herd: Avoid a flock of aetheric-powered flying creatures. |
-| 31  | Cloudship Nomads: Meet a group of nomads who live aboard cloudships. |
-| 32  | Skyport Landing: Dock at a bustling airship port, encountering customs officials and traders. |
-| 33  | Aetheric Resonance: Experience a heightened connection to aetheric energy. |
-| 34  | Aerial Courier: Intercept a messenger airship delivering important news. |
-| 35  | Celestial Beacon: Follow a mysterious signal leading to a hidden skyward location. |
-| 36  | Airship Sabotage: Discover a sabotage attempt targeting your airship. |
-| 41  | Skyrace Challenge: Participate in an impromptu sky race with other airships. |
-| 42  | Sky Whale Sighting: Observe the majestic migration of massive sky whales. |
-| 43  | Floating Archive: Encounter a library suspended in the sky on an airship. |
-| 44  | Alchemical Skyport: Dock at a skyport known for its unique fuel and technology. |
-| 45  | Aetheric Vortex: Experience a temporary increase in aetheric abilities. |
-| 46  | Sky Chasers: Be pursued by a rival airship crew with unknown motives. |
-| 51  | Avian Riders: Encounter a group of adventurers riding aetheric-powered birds. |
-| 52  | Skyship Graveyard: Discover a hidden graveyard of abandoned airships. |
-| 53  | Aetheric Mirage: Witness illusions created by concentrated aetheric energy. |
-| 54  | Sky Sanctuary: Encounter a peaceful temple suspended in the sky. |
-| 55  | Celestial Emissaries: Meet beings from the aetheric realm seeking aid. |
-| 56  | Skystorm Dance: Maneuver through a mesmerizing storm of swirling aether. |
-| 61  | Aetheric Calm: Experience a serene, motionless pocket of the sky. |
-| 62  | Cloud Mining: Interact with miners extracting aetheric crystals from clouds. |
-| 63  | Celestial Confluence: Witness a rare celestial alignment with mystical effects. |
-| 64  | Midnight Regatta: Participate in a secretive airship race under moonlight. |
-| 65  | Skyborne Trade: Barter with a group of traders on a merchant airship. |
-| 66  | Aetheric Anomaly: Encounter an unstable rift releasing wild aetheric energy. |
+| 11  | **Aerial Battle:** Witness a clash between rival airship fleets in the sky. |
+| 12  | **Sky Pirates:** Encounter a crew of ruthless sky pirates attempting a raid. |
+| 13  | **Aetheric Storm:** Navigate through a treacherous storm of aetheric energy. |
+| 14  | **Stowaway:** Discover an unexpected passenger hiding aboard the airship. |
+| 15  | **Engine Malfunction:** The airship's engines sputter, causing turbulence. |
+| 16  | **Celestial Phenomenon:** Witness a breathtaking display of aetheric lights. |
+| 21  | **Skyward Obstacle:** Navigate around a floating island or massive cloud. |
+| 22  | **Lost Airship:** Encounter a damaged airship drifting aimlessly in the sky. |
+| 23  | **Airborne Market:** Stumble upon a floating bazaar of traders and merchants. |
+| 24  | **Aerial Espionage:** Uncover a plot involving spies on a neighboring airship. |
+| 25  | **Mechanical Failure:** Help a stranded airship crew repair their vessel. |
+| 26  | **Skyward Herd:** Avoid a flock of aetheric-powered flying creatures. |
+| 31  | **Cloudship Nomads:** Meet a group of nomads who live aboard cloudships. |
+| 32  | **Skyport Landing:** Dock at a bustling airship port, encountering customs officials and traders. |
+| 33  | **Aetheric Resonance:** Experience a heightened connection to aetheric energy. |
+| 34  | **Aerial Courier:** Intercept a messenger airship delivering important news. |
+| 35  | **Celestial Beacon:** Follow a mysterious signal leading to a hidden skyward location. |
+| 36  | **Airship Sabotage:** Discover a sabotage attempt targeting your airship. |
+| 41  | **Skyrace Challenge:** Participate in an impromptu sky race with other airships. |
+| 42  | **Sky Whale Sighting:** Observe the majestic migration of massive sky whales. |
+| 43  | **Floating Archive:** Encounter a library suspended in the sky on an airship. |
+| 44  | **Alchemical Skyport:** Dock at a skyport known for its unique fuel and technology. |
+| 45  | **Aetheric Vortex:** Experience a temporary increase in aetheric abilities. |
+| 46  | **Sky Chasers:** Be pursued by a rival airship crew with unknown motives. |
+| 51  | **Avian Riders:** Encounter a group of adventurers riding aetheric-powered birds. |
+| 52  | **Skyship Graveyard:** Discover a hidden graveyard of abandoned airships. |
+| 53  | **Aetheric Mirage:** Witness illusions created by concentrated aetheric energy. |
+| 54  | **Sky Sanctuary:** Encounter a peaceful temple suspended in the sky. |
+| 55  | **Celestial Emissaries:** Meet beings from the aetheric realm seeking aid. |
+| 56  | **Skystorm Dance:** Maneuver through a mesmerizing storm of swirling aether. |
+| 61  | **Aetheric Calm:** Experience a serene, motionless pocket of the sky. |
+| 62  | **Cloud Mining:** Interact with miners extracting aetheric crystals from clouds. |
+| 63  | **Celestial Confluence:** Witness a rare celestial alignment with mystical effects. |
+| 64  | **Midnight Regatta:** Participate in a secretive airship race under moonlight. |
+| 65  | **Skyborne Trade:** Barter with a group of traders on a merchant airship. |
+| 66  | **Aetheric Anomaly:** Encounter an unstable rift releasing wild aetheric energy. |
 
 ## Factions
 
@@ -574,42 +673,42 @@ As you traverse the skies aboard your chosen airship, be prepared for a myriad o
 
 | D66 | City District Encounter                                               |
 | --- | --------------------------------------------------------------------- |
-| 11  | Industrial District: Assist workers in a strike against factory owners. |
-| 12  | Noble Quarter: Attend an extravagant masquerade hosted by aristocrats. |
-| 13  | Artisan Alley: Help a struggling inventor showcase their latest creation. |
-| 14  | Waterfront Docks: Investigate smuggling activities along the docks. |
-| 15  | Market Square: Uncover a black market selling illegal aetheric artifacts. |
-| 16  | Techno-Carnival: Participate in a contest of technological prowess. |
-| 21  | Scholar's Enclave: Solve a puzzle in a hidden library of forgotten lore. |
-| 22  | Theatre District: Investigate the disappearance of a famous playwright. |
-| 23  | Sewer Depths: Confront a faction of rebels hiding in the city's underbelly. |
-| 24  | Aetheric Observatory: Decode mysterious messages from the stars. |
-| 25  | Cathedral District: Unravel a cult's plot to unleash an ancient evil. |
-| 26  | Clockwork Plaza: Defend against a malfunctioning automaton rampage. |
-| 31  | Pleasure Gardens: Encounter a secret society in pursuit of hedonistic thrills. |
-| 32  | Alchemist's Quarter: Solve an alchemical mystery causing strange mutations. |
-| 33  | Refugee Camp: Aid refugees seeking shelter from the ravages of industry. |
-| 34  | Underground Network: Infiltrate a hidden resistance against the ruling class. |
-| 35  | Scholarly Debate: Mediate a heated discussion among renowned academics. |
-| 36  | Smoggy Alleyways: Navigate a labyrinthine maze of smog-choked streets. |
-| 41  | Sporting Arena: Compete in a high-stakes mechanized gladiator match. |
-| 42  | Theater of Illusions: Dispel magical disturbances disrupting performances. |
-| 43  | Potion Peddler's Row: Uncover an illicit operation distributing harmful potions. |
-| 44  | Abandoned Factory: Confront a rogue automaton wreaking havoc. |
-| 45  | Mystic Enclave: Decode a cryptic prophecy that foretells impending doom. |
-| 46  | Technomancer's Workshop: Prevent a rogue mage from unleashing chaos. |
-| 51  | Garden Conservatory: Investigate the theft of rare and exotic plants. |
-| 52  | Skybridge Heist: Chase down a thief across the precarious city skybridges. |
-| 53  | Smuggler's Hideout: Infiltrate a den of smugglers trafficking aetheric artifacts. |
-| 54  | Clockwork Parade: Protect the city's grand clockwork parade from disruption. |
-| 55  | Aetheric Sanctuary: Seek guidance from mystics hidden within an ancient temple. |
-| 56  | The Abandoned Spire: Ascend a forgotten tower with secrets waiting to be uncovered. |
-| 61  | Guild Hall Challenge: Compete in a contest to prove mastery in a guild's craft. |
-| 62  | Haunted Alley: Confront vengeful spirits linked to the city's dark history. |
-| 63  | Inventor's Convention: Present your own creation among a host of inventors. |
-| 64  | Towering Factory: Infiltrate an oppressive factory overseen by tyrannical managers. |
-| 65  | Veiled Auction: Bid on rare aetheric artifacts in a shadowy auction house. |
-| 66  | Steamway Pursuit: Chase down thieves through the city's elaborate steamway system. |
+| 11  | **Industrial District:** Assist workers in a strike against factory owners. |
+| 12  | **Noble Quarter:** Attend an extravagant masquerade hosted by aristocrats. |
+| 13  | **Artisan Alley:** Help a struggling inventor showcase their latest creation. |
+| 14  | **Waterfront Docks:** Investigate smuggling activities along the docks. |
+| 15  | **Market Square:** Uncover a black market selling illegal aetheric artifacts. |
+| 16  | **Techno-Carnival:** Participate in a contest of technological prowess. |
+| 21  | **Scholar's Enclave:** Solve a puzzle in a hidden library of forgotten lore. |
+| 22  | **Theatre District:** Investigate the disappearance of a famous playwright. |
+| 23  | **Sewer Depths:** Confront a faction of rebels hiding in the city's underbelly. |
+| 24  | **Aetheric Observatory:** Decode mysterious messages from the stars. |
+| 25  | **Cathedral District:** Unravel a cult's plot to unleash an ancient evil. |
+| 26  | **Clockwork Plaza:** Defend against a malfunctioning automaton rampage. |
+| 31  | **Pleasure Gardens:** Encounter a secret society in pursuit of hedonistic thrills. |
+| 32  | **Alchemist's Quarter:** Solve an alchemical mystery causing strange mutations. |
+| 33  | **Refugee Camp:** Aid refugees seeking shelter from the ravages of industry. |
+| 34  | **Underground Network:** Infiltrate a hidden resistance against the ruling class. |
+| 35  | **Scholarly Debate:** Mediate a heated discussion among renowned academics. |
+| 36  | **Smoggy Alleyways:** Navigate a labyrinthine maze of smog-choked streets. |
+| 41  | **Sporting Arena:** Compete in a high-stakes mechanized gladiator match. |
+| 42  | **Theater of Illusions:** Dispel magical disturbances disrupting performances. |
+| 43  | **Potion Peddler's Row:** Uncover an illicit operation distributing harmful potions. |
+| 44  | **Abandoned Factory:** Confront a rogue automaton wreaking havoc. |
+| 45  | **Mystic Enclave:** Decode a cryptic prophecy that foretells impending doom. |
+| 46  | **Technomancer's Workshop:** Prevent a rogue mage from unleashing chaos. |
+| 51  | **Garden Conservatory:** Investigate the theft of rare and exotic plants. |
+| 52  | **Skybridge Heist:** Chase down a thief across the precarious city skybridges. |
+| 53  | **Smuggler's Hideout:** Infiltrate a den of smugglers trafficking aetheric artifacts. |
+| 54  | **Clockwork Parade:** Protect the city's grand clockwork parade from disruption. |
+| 55  | **Aetheric Sanctuary:** Seek guidance from mystics hidden within an ancient temple. |
+| 56  | **The Abandoned Spire:** Ascend a forgotten tower with secrets waiting to be uncovered. |
+| 61  | **Guild Hall Challenge:** Compete in a contest to prove mastery in a guild's craft. |
+| 62  | **Haunted Alley:** Confront vengeful spirits linked to the city's dark history. |
+| 63  | **Inventor's Convention:** Present your own creation among a host of inventors. |
+| 64  | **Towering Factory:** Infiltrate an oppressive factory overseen by tyrannical managers. |
+| 65  | **Veiled Auction:** Bid on rare aetheric artifacts in a shadowy auction house. |
+| 66  | **Steamway Pursuit:** Chase down thieves through the city's elaborate steamway system. |
 
 ### Urban Legends or Rumors
 
