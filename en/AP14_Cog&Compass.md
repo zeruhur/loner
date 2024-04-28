@@ -201,7 +201,7 @@ You can use these traits to create a character on the fly, mix them, or just use
 | 5   | Acrobatics        | Technological Lore | Research        | Networking    | Disguise        | Steam Channeling |
 | 6   | Aerial Maneuvers | Automaton Design | Forensics        | Public Speaking | Deception      | Steam Augmentation |
 
-#### Flaws
+#### Frailties
 
 |     | 1   | 2   | 3   | 4   | 5   | 6   |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -461,8 +461,6 @@ Characters can have cogwork animal companions. These steam-powered familiars can
 - Regular maintenance is required to keep familiars operational. Neglect could lead to malfunctions or decreased efficiency in tasks.
 - Players can upgrade their familiars with parts obtained from quests, crafting, or trade, enhancing their abilities or adding new functions.
 
-Certainly! Here's a table filled out for Cogwork Familiars, detailing their various types, skills, frailties, and gear in a manner consistent with a steampunk setting.
-
 ### Cogwork Familiar Traits
 
 #### Concepts
@@ -563,7 +561,7 @@ Certainly! Here's a template filled out with airship traits based on various arc
 | 3   | Luxury Liner       | Icebreaker         | Spymaster's Zeppelin | Prison Transport   | Battle Frigate     | Weather Monitor    |
 | 4   | Medical Frigate    | High-Altitude Surveyor | Cultural Envoy   | Treasure Hunter     | Patrol Airship     | Mining Platform    |
 | 5   | Entertainment Palace | Disaster Relief Carrier | Propaganda Blimp | Salvage Vessel     | Mercenary Carrier  | Scientific Expedition|
-| 6   | Mobile Fortress    | Wilderness Explorer | Royal Guard Airship | Transport Behemoth  | Rebel Command Ship | Deep-Space Probe   |
+| 6   | Mobile Fortress    | Wilderness Explorer | Royal Guard Airship | Transport Behemoth  | Rebel Command Ship | High-Atmosphere Probe   |
 
 #### Skills
 
@@ -574,7 +572,7 @@ Certainly! Here's a template filled out with airship traits based on various arc
 | 3   | Luxury Amenities    | Ice-Cutting Hull    | Secure Communication | Prisoner Cells    | Broadside Cannons | Atmospheric Analysis |
 | 4   | Medical Facilities  | High-Altitude Capability | Cultural Exhibits | Treasure Scanners | Patrol Radar     | Resource Extraction |
 | 5   | Entertainment Systems | Emergency Response Systems | Propaganda Broadcasters | Deep Sea Recovery Gear | Mercenary Quarters | Experimental Labs |
-| 6   | Siege Weapons       | Wilderness Survival Kits | Elite Guard Quarters | Massive Storage | Command Center   | Deep Space Communications |
+| 6   | Siege Weapons       | Wilderness Survival Kits | Elite Guard Quarters | Massive Storage | Command Center   | High-Atmosphere Communications |
 
 ### Frailties
 
@@ -596,7 +594,7 @@ Certainly! Here's a template filled out with airship traits based on various arc
 | 3   | Opulent Decor       | Heated Outer Shell  | Encrypted Radios | Secure Holding Cells | Automated Turrets | Weather Instruments |
 | 4   | Hospital Bay        | Oxygen Tanks        | Cultural Artifacts | Submersible Scouts | Radar Systems   | Mining Lasers      |
 | 5   | Theater Stage       | Rapid Relief Equipment | Loudspeakers  | Salvage Drones    | Mercenary Armory | Research Modules   |
-| 6   | Fortified Command Center | Rugged Terrain Kits | Royal Sigils | Massive Cargo Holds | Strategic War Room | Deep-Space Antennas |
+| 6   | Fortified Command Center | Rugged Terrain Kits | Royal Sigils | Massive Cargo Holds | Strategic War Room | High-Atmosphere Antennas |
 
 ### Shipyard
 
