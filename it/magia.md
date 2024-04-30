@@ -144,12 +144,12 @@ Quando si usa la magia nel gioco e si vuole determinare il successo di un incant
    - Usa i **Dadi Rischio** per valutare il potenziale per incidenti o effetti indesiderati. 
 
 4. **Interpretazione dei Risultati**:
-   - **Sì, e...:** l'incantesimo ha successo e gli effetti sono più potenti o estesi del previsto
-   - "Sì": l'incantesimo ha successo come previsto.
-   - "Sì, ma...": l'incantesimo ha successo , ma si verifica un incidente magico minore.
-   - "No, ma..:": l'incantesimo fallisce, ma senza incidenti.
-   - "No": l'incantesimo fallisce o ha effetti negativi.
-   - "No, e...": l'incantesimo fallisce e si verifica un incidente grave.
+   - **Sì, e...:** l'incantesimo ha successo e gli effetti sono più potenti o estesi del previsto.
+   - **Sì:** l'incantesimo ha successo come previsto.
+   - **Sì, ma...**: l'incantesimo ha successo, ma si aggiunge una condizione o un dettaglio avverso.
+   - **No, ma..**: l'incantesimo fallisce e si verifica un incidente blando.
+   - **No:** l'incantesimo fallisce e si verifica un incidente moderato.
+   - **No, e...**: l'incantesimo fallisce e si verifica un incidente grave.
 
 ## Esempi di combinazioni magiche
 
