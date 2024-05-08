@@ -1069,3 +1069,10 @@ Here are some recommended readings and media that can further immerse you in the
 2. The Samurai Archives - An online resource for historical information about samurai, warfare, and culture.
 3. Kyoto National Museum Virtual Gallery - Explore virtual exhibitions showcasing traditional Japanese art and artifacts.
 
+## License
+
+Loner: Kwaidan!
+
+(CC) 2023 Roberto Bisceglie
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
