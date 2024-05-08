@@ -6,7 +6,7 @@ title: Mech Requiem
 # Introduction
 
 ## Overview
-"Mech Requiem" unfolds in a future Earth, now fractured by decades of conflict and high-tech warfare. By the 2300s, the world has evolved into a complex web of alliances and rivalries among great powers, leading to a continuous state of proxy wars fought through advanced technology and specialized mechs.
+_Mech Requiem_ unfolds in a future Earth, now fractured by decades of conflict and high-tech warfare. By the 2300s, the world has evolved into a complex web of alliances and rivalries among great powers, leading to a continuous state of proxy wars fought through advanced technology and specialized mechs.
 
 ## Key Setting Points
 
@@ -36,7 +36,7 @@ title: Mech Requiem
 
 ## Playable Themes
 
-For players in *Mech Requiem*, these minor nations and their proxy wars provide rich narrative soil. Players can engage in stories that explore:
+For players in _Mech Requiem_, these minor nations and their proxy wars provide rich narrative soil. Players can engage in stories that explore:
   
 - **Diplomacy and Espionage**: Navigating the delicate politics of alliances and subterfuge, influencing local leaders, or uncovering plots that could shift the balance of power.
   
@@ -88,7 +88,74 @@ For players in *Mech Requiem*, these minor nations and their proxy wars provide 
 
 # Characters
 
-TDB
+Before you embark on your journey through the war-torn landscapes, soar above the devastated cities, or navigate the treacherous waters of the _Mech Requiem_*_ era, let’s explore how you can craft and manage your Protagonist and other characters. This guide will equip you with the tools to shape their traits, hone their skills, and prepare them for the challenges that lie ahead in this tumultuous world.
+
+### Everything is a Character!
+
+In _Mech Requiem_ Non-Playing Characters (NPCs), Foes, Organizations, Monsters, and even relevant objects like vehicles are characters too! (But remember that mechs follow special rules, see below!)
+
+Your Protagonist is described by some fixed traits:
+
+- **Name**: The name should be iconic and consistent with the tone and setting of the story.
+- **Concept**: A concise description of the character's profession, background, and abilities. The best are adjective-name pairings, like *"Venturous Smuggler"* or *"Child Prodigy"*.
+- **Skills** (x2): Abilities not necessarily character-specific but not characteristics common to all. *"Smart"* is not a skill, *"Engine Whisperer"* is.
+- **Frailty**: Something that could potentially get in the way of the character, either physically, mentally, or socially.
+- **Gear** (x2): Particular equipment supplied to the character in coherence with the setting. Everyday items are taken for granted and do not fall under this trait.
+- **Goal**: The long-term objective.
+- **Motive**: What drives the pursuit of the goal.
+- **Nemesis**: A person or organization that hinders the protagonist. It can emerge during the first game sessions, it may or may or not be the direct antagonist of the story, ready to appear to make life even more difficult
+- **Luck**: The measure of a character's ability to avoid ill fortune or an inauspicious outcome. It applies only in Conflicts and automatically recharges when they end. Luck starts and caps at 6.
+
+These **traits** are described by **tags**, descriptive words or phrases that can identify anything in the game world. Even the **details** of the environment in which the action moves and **conditions** (physical or mental) of the characters are tags. 
+
+**They are qualitative representations. They are not quantitative measures.**
+
+### Character Traits
+
+#### Concepts
+
+|     | 1                 | 2                 | 3                | 4                  | 5              | 6                |
+| --- | ----------------- | ----------------- | ---------------- | ------------------ | -------------- | ---------------- |
+| 1   | Mech Pilot        | Field Medic       | Rebel Spy        | War Correspondent  | Drone Operator | Political Envoy  |
+| 2   | Combat Engineer   | Smuggler          | Corporate Agent  | Propaganda Officer | Scavenger      | Mercenary Leader |
+| 3   | Black Market Dealer | Survivalist     | Intelligence Analyst | Diplomat      | Cyber Hacker   | Resistance Fighter |
+| 4   | Research Scientist | Urban Explorer   | Guerrilla Fighter | Logistics Coordinator | Bounty Hunter | Environmental Activist |
+| 5   | AI Specialist     | Mech Technician   | Espionage Operative | Weapons Developer | Negotiator    | Security Officer |
+| 6   | Bioengineer       | Historian         | Ethical Hacker   | Peacekeeper Force Member | Sniper    | Refugee Leader  |
+
+#### Skills
+
+|     | 1                 | 2               | 3                | 4                | 5                | 6                  |
+| --- | ----------------- | --------------- | ---------------- | ---------------- | ---------------- | ------------------ |
+| 1   | Urban Warfare     | Emergency First Aid | Stealth Operations | High-Stakes Negotiation | Electronic Warfare | Sniper Precision  |
+| 2   | Mech Repair       | Black Market Networking | Psychological Warfare | Explosives Handling | Advanced Piloting | Cyber Defense     |
+| 3   | Terrain Scouting  | Biochemical Survival | Cryptographic Coding | Aerial Recon    | Underwater Combat | Hostage Negotiation |
+| 4   | Propaganda Crafting | Smuggling Routes | Tech Salvaging    | Arms Trading    | Drone Synchronization | Crowd Control    |
+| 5   | Resource Allocation | Advanced Hacking | Interrogation Techniques | Structural Engineering | Guerrilla Tactics | Psychological Profiling |
+| 6   | Environmental Reclamation | Historical Knowledge | Deep Cover Operations | Crisis Management | Precision Engineering | Advanced Meditech |
+
+#### Frailties
+
+|     | 1                 | 2                | 3                | 4                  | 5                  | 6               |
+| --- | ----------------- | ---------------- | ---------------- | ------------------ | ------------------ | --------------- |
+| 1   | Paranoia          | PTSD             | Greed            | Fear of Heights    | Technophobia       | Impulsiveness   |
+| 2   | Chronic Pain      | Old War Injury   | Addictive Tendencies | Overcautious    | Debt to a Crime Lord | Susceptible to Blackmail |
+| 3   | Trust Issues      | Obsession with Revenge | Claustrophobia  | Haunted by the Past | Overly Idealistic  | Heat Intolerance |
+| 4   | Radiation Sickness | Prone to Illness | Ethical Dilemmas  | Perfectionism      | Insomnia            | Allergy to Synthetic Materials |
+| 5   | Limited Social Skills | Family Obligations | High-Value Target | Poor People Skills | Vengeful | Compromised Security Clearance |
+| 6   | Vulnerable Loved Ones | Illegal Background | Suspected Traitor | Notorious Past | Burnout | Phobia of AI |
+
+#### Gear
+
+|     | 1                 | 2               | 3               | 4               | 5                  | 6               |
+| --- | ----------------- | --------------- | --------------- | --------------- | ------------------ | --------------- |
+| 1   | Enhanced Combat Suit | Field Surgery Kit | Stealth Gear   | Satellite Phone | Advanced Hacking Kit | Sniper Rifle   |
+| 2   | EMP Grenades       | Illegal Mods    | Personal Drone  | Armored Vest    | Signal Jammer       | Night Vision Goggles |
+| 3   | Portable Mech Repair Kit | Black Market Passcodes | Chemical Gas Mask | Explosive Charges | Counterintelligence Devices | Reinforced Exoskeleton |
+| 4   | High-Powered Binoculars | Smuggler's Cache | Environmental Biosuit | Subdermal Armor | Drone Control Unit | Tactical Shield |
+| 5   | Encryption Devices | Custom Weaponry | Emergency Beacon | Energy Shield Generator | Undercover ID | Long-Range Comms Device |
+| 6   | Resource Scanner   | Antique Sidearm | Press Credentials | Biohazard Suit | Remote Access Tools | Advanced Surveillance Equipment |
+
 
 # Mechs
 
@@ -104,195 +171,60 @@ TDB
 
 - **Utility:** Beyond weapons, mechs have other equipment that aids in fulfilling their roles. This could be defensive systems, surveillance tools, or special adaptations allowing them to operate in unique environments.
 
-### 1. **Frame**
-1. Assault Vanguard
-2. Recon Sentinel
-3. Urban Pacifier
-4. Heavy Demolisher
-5. Tactical Infiltrator
-6. Rapid Raider
-7. Stealth Hunter
-8. Siege Breaker
-9. Defense Guardian
-10. Combat Engineer
-11. Aerial Dominator
-12. Amphibious Invader
-13. Arctic Explorer
-14. Disaster Responder
-15. Jungle Striker
-16. Mountain Climber
-17. Urban Rescuer
-18. Subterranean Driller
-19. Hazardous Material Handler
-20. Medical Support Unit
-21. Supply Transporter
-22. Electronic Warfare Specialist
-23. Sniper Elite
-24. Close Quarters Combatant
-25. Artillery Support
-26. Anti-Aircraft Enforcer
-27. Search and Rescue Operative
-28. Environmental Recon
-29. Fire Suppression Specialist
-30. Orbital Drop Shock Trooper
-31. Riot Control Officer
-32. Long-Range Scout
-33. Cyber Defense Platform
-34. Mobile Command Center
-35. Underwater Saboteur
-36. Space Operations Leader
+### Frames
 
-### 2. **Systems**
-1. Stealth Navigation
-2. Precision Targeting
-3. Rapid Deployment
-4. Impact Shock Absorbers
-5. Heavy Lift Capability
-6. Advanced Optics
-7. Terrain Adaptation
-8. High-Speed Maneuvering
-9. Deep Sea Navigation
-10. Heat Dissipation Systems
-11. Energy Shielding
-12. EMP Hardening
-13. Radar Jamming
-14. Sonar Detection
-15. Low-Light Vision
-16. Magnetic Field Manipulation
-17. Vertical Takeoff and Landing
-18. Cryo-Stabilization
-19. Radiation Shielding
-20. Infrared Tracking
-21. Gravimetric Sensors
-22. Hyper-Accurate Positioning
-23. Drone Coordination
-24. Hazard Detection
-25. Anti-Hacking Defenses
-26. Kinetic Energy Recovery
-27. Solar Energy Conversion
-28. High-Altitude Operation
-29. Long-Duration Life Support
-30. Atmospheric Re-Entry Capable
-31. Quantum Computation
-32. Force Field Projection
-33. Nano-Repair Systems
-34. Adaptive Camouflage
-35. Biohazard Containment
-36. Pulse-Detonation Propulsion
+|     | 1                      | 2                      | 3                      | 4                      | 5                      | 6                      |
+|-----|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|
+| **1** | Assault Vanguard        | Recon Sentinel         | Urban Pacifier         | Heavy Demolisher       | Tactical Infiltrator   | Rapid Raider           |
+| **2** | Stealth Hunter          | Siege Breaker          | Defense Guardian       | Combat Engineer        | Aerial Dominator       | Amphibious Invader     |
+| **3** | Arctic Explorer         | Disaster Responder     | Jungle Striker         | Mountain Climber       | Urban Rescuer          | Subterranean Driller   |
+| **4** | Hazardous Material Handler | Medical Support Unit | Supply Transporter     | Electronic Warfare Specialist | Sniper Elite         | Close Quarters Combatant |
+| **5** | Artillery Support       | Anti-Aircraft Enforcer | Search and Rescue Operative | Environmental Recon | Fire Suppression Specialist | Orbital Drop Shock Trooper |
+| **6** | Riot Control Officer    | Long-Range Scout       | Cyber Defense Platform | Mobile Command Center  | Underwater Saboteur   | Space Operations Leader |
 
-### 3. **Vulnerabilities**
-1. Overheats Quickly
-2. Loud and Easily Detected
-3. Slow Reactor Startup
-4. Vulnerable to EMP Attacks
-5. Poor Performance in Cold Climates
-6. Limited Ammunition Capacity
-7. Requires Frequent Maintenance
-8. Weak Underbelly
-9. Susceptible to Cyber Attacks
-10. Limited Visibility
-11. Unshielded Sensor Arrays
-12. Prone to Hydraulic Failure
-13. Fuel Inefficiency
-14. Difficult to Repair
-15. Heavy and Slow
-16. Complicated Controls
-17. High Radar Signature
-18. Fragile Antenna
-19. Light Armor
-20. Unstable in High Winds
-21. Limited Operational Range
-22. Poor Handling at High Speeds
-23. Inefficient in Urban Terrain
-24. Exposed Cockpit
-25. Dependent on Rare Fuel Source
-26. High Electrical Draw
-27. Prone to Overloading Circuits
-28. Rigid Movement Mechanisms
-29. Suboptimal in Water
-30. Faulty Cooling Systems
-31. Delicate Propulsion Systems
-32. Inadequate Sealing Against Contaminants
-33. Vulnerable to Sonic Weapons
-34. Weak Point at Joint Connections
-35. Sensitive to Magnetic Fields
-36. Low Tolerance to Radiation
+### Systems
 
-### 4. **Armaments**
-1. Dual Rail Cannons
-2. EMP Pulse Generators
-3. Tear Gas Launchers
-4. Cluster Missile Array
-5. High-Energy Laser System
-6. Chain Gun
-7. Plasma Rifle
-8. Flamethrower
-9. Sonic Blaster
-10. Guided Torpedoes
-11. Napalm Spreaders
-12. Anti-Tank Missiles
-13. Railgun
-14. Energy Sword
-15. Particle Beam
-16. Shockwave Bomb
-17. Arc Thrower
-18. Sticky Mines
-19. Incendiary Bombs
-20. Cryogenic Spray
-21. Acid Projector
-22. Smart Bullets
-23. Sniper Cannon
-24. Airburst Rockets
-25. Graviton Pulser
-26. Disruptor Beam
-27. Gauss Rifle
-28. Harpoon Gun
-29. Net Launcher
-30. Stasis Field Projector
-31. Quantum Disruptor
-32. Molecular Cutter
-33. Fusion Lance
-34. Lightning Arc
-35. Kinetic Burst Cannon
-36. Drone Swarm Deployer
+|     | 1                      | 2                      | 3                      | 4                      | 5                      | 6                      |
+|-----|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|
+| **1** | Stealth Navigation      | Precision Targeting    | Rapid Deployment       | Impact Shock Absorbers | Heavy Lift Capability  | Advanced Optics        |
+| **2** | Terrain Adaptation      | High-Speed Maneuvering | Deep Sea Navigation    | Heat Dissipation Systems | Energy Shielding    | EMP Hardening          |
+| **3** | Radar Jamming           | Sonar Detection        | Low-Light Vision       | Magnetic Field Manipulation | Vertical Takeoff and Landing | Cryo-Stabilization |
+| **4** | Radiation Shielding     | Infrared Tracking      | Gravimetric Sensors    | Hyper-Accurate Positioning | Drone Coordination | Hazard Detection       |
+| **5** | Anti-Hacking Defenses   | Kinetic Energy Recovery | Solar Energy Conversion | High-Altitude Operation | Long-Duration Life Support | Atmospheric Re-Entry Capable |
+| **6** | Quantum Computation     | Force Field Projection | Nano-Repair Systems    | Adaptive Camouflage    | Biohazard Containment | Pulse-Detonation Propulsion |
 
-### 5. **Utility Systems**
-1. Reinforced Armor Plating
-2. 360-Degree Surveillance Drones
-3. Amphibious Conversion Kit
-4. Auto-Repair Nanites
-5. Invisibility Cloak
-6. Advanced Ejection System
-7. Integrated Medical Station
-8. Environmental Adaptation Kit
-9. Signature Masking
-10. Orbital Communication Relay
-11. Multi-Terrain Treads
-12. Emergency Shield Booster
-13. Olfactory Stealth Module
-14. High-Gain Antennas
-15. Satellite Uplink
-16. Emergency Power Cells
-17. Seismic Footsteps
-18. Jetpack
-19. Retractable Blade
-20. Auxiliary Power Unit
-21. Cargo Storage Compartment
-22. Deployable Barrier
-23. Drone Recharging Station
-24. Electromagnetic Pulse Shield
-25. Holographic Decoy Projector
-26. Long-Range Scanner
-27. Underwater Propulsion Module
-28. AI Co-Pilot
-29. Radiation Filtration System
-30. Thermal Insulation
-31. Bio-Medical Scanner
-32. Magnetic Grappling System
-33. Chemical Sniffer
-34. Weather Control Device
-35. Emergency Beacon
-36. Optical Cloak
+### Vulnerabilities
+
+|     | 1                             | 2                               | 3                                | 4                             | 5                                 | 6                               |
+|-----|-------------------------------|---------------------------------|----------------------------------|-------------------------------|-----------------------------------|---------------------------------|
+| **1** | Overheats Quickly             | Loud and Easily Detected        | Slow Reactor Startup             | Vulnerable to EMP Attacks     | Poor Performance in Cold Climates | Limited Ammunition Capacity     |
+| **2** | Requires Frequent Maintenance | Weak Underbelly                 | Susceptible to Cyber Attacks     | Limited Visibility            | Unshielded Sensor Arrays         | Prone to Hydraulic Failure      |
+| **3** | Fuel Inefficiency             | Difficult to Repair             | Heavy and Slow                   | Complicated Controls          | High Radar Signature             | Fragile Antenna                 |
+| **4** | Light Armor                   | Unstable in High Winds          | Limited Operational Range        | Poor Handling at High Speeds  | Inefficient in Urban Terrain     | Exposed Cockpit                 |
+| **5** | Dependent on Rare Fuel Source | High Electrical Draw            | Prone to Overloading Circuits    | Rigid Movement Mechanisms     | Suboptimal in Water              | Faulty Cooling Systems          |
+| **6** | Delicate Propulsion Systems   | Inadequate Sealing Against Contaminants | Vulnerable to Sonic Weapons | Weak Point at Joint Connections | Sensitive to Magnetic Fields     | Low Tolerance to Radiation      |
+
+### Armaments
+
+|     | 1                    | 2                     | 3                  | 4                     | 5                   | 6                   |
+|-----|----------------------|-----------------------|--------------------|-----------------------|---------------------|---------------------|
+| **1** | Dual Rail Cannons    | EMP Pulse Generators  | Tear Gas Launchers | Cluster Missile Array | High-Energy Laser System | Chain Gun          |
+| **2** | Plasma Rifle         | Flamethrower          | Sonic Blaster      | Guided Torpedoes      | Napalm Spreaders    | Anti-Tank Missiles  |
+| **3** | Railgun              | Energy Sword          | Particle Beam      | Shockwave Bomb        | Arc Thrower         | Sticky Mines        |
+| **4** | Incendiary Bombs     | Cryogenic Spray       | Acid Projector     | Smart Bullets         | Sniper Cannon       | Airburst Rockets    |
+| **5** | Graviton Pulser      | Disruptor Beam        | Gauss Rifle        | Harpoon Gun           | Net Launcher        | Stasis Field Projector |
+| **6** | Quantum Disruptor    | Molecular Cutter      | Fusion Lance       | Lightning Arc         | Kinetic Burst Cannon | Drone Swarm Deployer |
+
+### Utilities
+
+|     | 1                           | 2                           | 3                           | 4                           | 5                           | 6                           |
+|-----|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
+| **1** | Reinforced Armor Plating   | 360-Degree Surveillance Drones | Amphibious Conversion Kit   | Auto-Repair Nanites         | Invisibility Cloak          | Advanced Ejection System    |
+| **2** | Integrated Medical Station | Environmental Adaptation Kit | Signature Masking           | Orbital Communication Relay | Multi-Terrain Treads        | Emergency Shield Booster    |
+| **3** | Olfactory Stealth Module   | High-Gain Antennas           | Satellite Uplink            | Emergency Power Cells       | Seismic Footsteps           | Jetpack                     |
+| **4** | Retractable Blade          | Auxiliary Power Unit         | Cargo Storage Compartment   | Deployable Barrier          | Drone Recharging Station    | Electromagnetic Pulse Shield |
+| **5** | Holographic Decoy Projector | Long-Range Scanner          | Underwater Propulsion Module | AI Co-Pilot                 | Radiation Filtration System | Thermal Insulation          |
+| **6** | Bio-Medical Scanner        | Magnetic Grappling System    | Chemical Sniffer            | Weather Control Device      | Emergency Beacon            | Optical Cloak               |
 
 ## Models
 
@@ -550,16 +482,16 @@ TDB
 
 # Rules
 
-*Mech Requiem* is a minimalist Solo Role Playing Game designed to be played with only one character (the Protagonist). You'll guide them through the story that will unravel during the game, asking closed questions to an Oracle which will help you overturn your expectations.
+_Mech Requiem_ is a minimalist Solo Role Playing Game designed to be played with only one character (the Protagonist). You'll guide them through the story that will unravel during the game, asking closed questions to an Oracle which will help you overturn your expectations.
 
 Every now and then you will be surprised with an unexpected twist!
 
 ## Keep The Action In Motion
 
-A game in *Mech Requiem* is a succession of scenes. 
+A game in _Mech Requiem_ is a succession of scenes. 
 A scene is a unit of time in which a certain action takes place in pursuit of a certain short-term goal. 
 
-In *Mech Requiem* at each scene:
+In _Mech Requiem_ at each scene:
 
 1. **Identify what you expect from the scene**. Compared to traits, goal, and motivation determine the Protagonist's action. What might be the reaction of the game world?
 2. **Test your expectations**. When you are uncertain (or overconfident) about the reaction to your actions, [ask the Oracle](#consulting-the-oracle) a closed question (answer is Yes or No), considering the tags involved to determine if there is an [Advantage or Disadvantage](#advantage-and-disadvantage).
@@ -622,7 +554,7 @@ So, a Conflict is not only limited to combat (or fighting) in the strict sense b
 Conflicts can be resolved in different ways depending on preferences and context:
 1. Ask a single closed question. The Oracle's answer determines the outcome of the conflict.
 2. Ask a series of closed questions to resolve current single actions.
-3. Use the rules of Harm & Luck below.
+3. Use the rules of Harm & Luck below (**this does not apply to Mech Conflicts!**).
 
 Note that the Twist Counter **does not apply** to Harm & Luck. Instead, it is used regularly if the Conflict is handled with closed questions.
 
@@ -659,6 +591,35 @@ At the end of the current scene sometimes you will be clear about the direction 
 
 To answer an Open-Ended question, roll 1d6 once on each of the following tables (roll at least a verb and a noun, adjectives are optional).
 
+| Verbs |     1    |    2    |    3    |     4    |    5    |    6    |
+|:-----:|:--------:|:------:|:-------:|:--------:|:-------:|:-------:|
+|   1   |  command  |  navigate |   hack   |  deploy  |   fortify  |  salvage |
+|   2   | operate   |  synthesize |   interrogate | fortify | encode | strategize |
+|   3   |  augment  |  recalibrate | substitute | sabotage | reconstruct | maneuver |
+|   4   |   network |  transmit  |   simulate |  clarify | enhance | disrupt |
+|   5   |   confront | adapt | establish | assemble | prioritize | integrate |
+|   6   |   patrol  |  demand |   detect  |    encrypt   |  mobilize | annihilate |
+
+
+| Adjectives |      1      |       2       |     3     |       4       |      5      |     6     |
+|:----------:|:-----------:|:-------------:|:---------:|:-------------:|:-----------:|:---------:|
+|      1     |   armored   |     faulty    |  encrypted  |     scarce    |    reinforced    | strategic |
+|      2     |   stealthy  | advanced |  legitimate | high-tech | astonishing |  utilitarian |
+|      3     | efficient |   covert   |    vulnerable   |     robust     |  dynamic |  critical  |
+|      4     |    sleek    |   obsolete   |   stabilized   |     modular     |   adaptive   |    harsh   |
+|      5     |    silent    |     hostile    |   elusive  |   volatile   |    integral   |    delayed   |
+|      6     | fortified |    commanding   | hazardous |    massive   |  aggressive  |  resilient |
+
+
+| Nouns |      1     |    2    |    3   |    4   |     5     |     6    |
+|:-----:|:----------:|:-------:|:------:|:------:|:---------:|:--------:|
+|   1   |    mission   |  outpost  | upgrade |  protocol |   data  |   zone   |
+|   2   |    frontline   |  operation  |  network |   device  |  algorithm  |   blueprint  |
+|   3   |    interface   |  maneuver |  transaction | firmware |   opportunity  |   signal   |
+|   4   | module |  ally |  command | fluid |    intel   |   value   |
+|   5   |    directive    | dawn | boundary  |  chamber  |   architecture  |   encampment   |
+|   6   |     key    |  revenue |   function  |  anomaly | strategy | confrontation |
+
 ## When the story ends
 
 At the end of the adventure you may add another trait to the character. It is better that this is related to how the story just ended and can be either a Skill, Gear, a new Frailty, or even a new Nemesis! You can also modify an existing trait to better represent an enhanced expertise.
@@ -667,9 +628,19 @@ Also update the list of **NPCs**, **Locations**, and **Events** that may show up
 
 ## Mech Specific Rules
 
+### Mech Conflict Resolution
+
+Mech Conflicts, a pivotal aspect of gameplay in _Mech Requiem_, can be resolved in one of two ways:
+1. Ask a single closed question. The Oracle's answer determines the outcome of the conflict.
+2. Ask a series of closed questions to resolve current single actions.
+
+When determining the outcome of mech battles, consider the various tags associated with each mech (see below). These tags help establish whether you have an Advantage or a Disadvantage in the conflict based on a positive balance of factors.
+
+**It’s also important to take into account the pilot’s attributes**. For instance, an experienced pilot might tip the scales in your favor, offering additional Chances, as opposed to a War Correspondent who might find themselves at a disadvantage due to their lack of combat piloting experience.
+
 ### Advanced Damage System
 
-In "Mech Requiem," the damage system is designed to be immersive and detailed, enhancing the gameplay by dividing mech damage into four critical areas: Mobility, Weapons Systems, Sensors, and Armor. This categorization aligns with the tag-based, non-numeric mechanics of the game, ensuring a deep, narrative-driven experience.
+In _Mech Requiem_, the damage system is designed to be immersive and detailed, enhancing the gameplay by dividing mech damage into four critical areas: Mobility, Weapons Systems, Sensors, and Armor. This categorization aligns with the tag-based, non-numeric mechanics of the game, ensuring a deep, narrative-driven experience.
 
 #### Damage Categories and Tags
 
@@ -793,7 +764,7 @@ Once the environmental conditions are established, they directly influence mech 
 
 ### Enviromental Conditions Tables
 
-To effectively integrate environmental conditions into gameplay for "Mech Requiem," let's create specific tables using dice rolls to determine various environmental factors. These tables use d6 (six-sided dice) to maintain simplicity and accessibility. Each category—Terrain Effects, Weather Conditions, and Localized Damage—will have its own table to determine the impact on mech operations.
+To effectively integrate environmental conditions into gameplay for _Mech Requiem_, let's create specific tables using dice rolls to determine various environmental factors. These tables use d6 (six-sided dice) to maintain simplicity and accessibility. Each category—Terrain Effects, Weather Conditions, and Localized Damage—will have its own table to determine the impact on mech operations.
 
 - At the start of each encounter or mission, the player rolls according to the appropriate table to determine the environmental conditions. This random element adds a layer of unpredictability and requires players to adapt their strategies.
 - The tags assigned by these conditions should meaningfully impact the decisions players make during gameplay, affecting movement, combat effectiveness, and visibility.
@@ -839,7 +810,7 @@ Roll 1d6 to determine the type of localized damage or battlefield remnants that 
 
 Players can customize and upgrade their mechs by selecting enhancements from a variety of systems and armaments. These upgrades are not just aesthetic; they significantly affect mech capabilities, performance, and role in combat and missions. Upgrades can be obtained through experience gained in battle, discoveries made during missions, and resources secured throughout the campaign.
 
-To facilitate this, "Mech Requiem" includes a tech tree or upgrade path for each mech, categorized by systems such as weapons, armor, sensors, mobility, and utility systems. Each category offers a range of upgrades that provide distinct advantages but also come with specific prerequisites and costs:
+To facilitate this, _Mech Requiem_ includes a tech tree or upgrade path for each mech, categorized by systems such as weapons, armor, sensors, mobility, and utility systems. Each category offers a range of upgrades that provide distinct advantages but also come with specific prerequisites and costs:
 
 - **Tech Tree Structure**: Each mech starts with a basic set of capabilities and a number of potential upgrade paths. These paths might include improvements like enhanced armor plating, advanced targeting systems, or stealth capabilities. Each path has several stages, with each stage offering increased benefits.
 
@@ -951,7 +922,7 @@ The current era, defined by the Proxy Wars, sees these powers continuously maneu
 
 ### **Major Blocs and Alliances**
 
-In the world of "Mech Requiem," the geopolitical landscape is dominated by several major power blocs, each with distinct ideologies, strategic goals, and alliances that drive the ongoing global dynamics. These blocs have emerged from the historical and political evolution of the 21st and 22nd centuries, forming new alignments based on technology mastery, economic interests, and territorial dominion.
+In the world of _Mech Requiem_, the geopolitical landscape is dominated by several major power blocs, each with distinct ideologies, strategic goals, and alliances that drive the ongoing global dynamics. These blocs have emerged from the historical and political evolution of the 21st and 22nd centuries, forming new alignments based on technology mastery, economic interests, and territorial dominion.
 
 #### 1. The Eurasian Dominion (ED)
 - **Ideology**: Combines state-controlled economic practices with aggressive expansionism, prioritizing regional stability and economic growth over individual freedoms.
@@ -983,7 +954,7 @@ The interactions among these blocs are characterized by a complex web of diploma
 
 ### Minor Nations and Proxy Wars
 
-In the shadow of the colossal struggles between the major power blocs, a multitude of smaller nations find themselves ensnared in the high-stakes game of international politics and warfare that defines the world of "Mech Requiem." These minor nations often bear the brunt of conflicts, serving as battlegrounds, strategic assets, or pawns in the larger powers’ relentless quest for dominance.
+In the shadow of the colossal struggles between the major power blocs, a multitude of smaller nations find themselves ensnared in the high-stakes game of international politics and warfare that defines the world of _Mech Requiem_. These minor nations often bear the brunt of conflicts, serving as battlegrounds, strategic assets, or pawns in the larger powers’ relentless quest for dominance.
 
 #### Role of Minor Nations
 
@@ -995,7 +966,7 @@ In the shadow of the colossal struggles between the major power blocs, a multitu
 
 #### Proxy Wars
 
-- **Origins and Execution**: Proxy wars in "Mech Requiem" begin when major powers choose to extend their influence covertly, avoiding direct conflict that could escalate into full-scale nuclear war. They achieve this by supporting local factions, insurgent groups, or national governments that align with their strategic interests. This support might include supplying advanced mechs, military training, economic assistance, or cyberwar capabilities.
+- **Origins and Execution**: Proxy wars in _Mech Requiem_ begin when major powers choose to extend their influence covertly, avoiding direct conflict that could escalate into full-scale nuclear war. They achieve this by supporting local factions, insurgent groups, or national governments that align with their strategic interests. This support might include supplying advanced mechs, military training, economic assistance, or cyberwar capabilities.
   
 - **Impact on the Nations**: The consequences for these proxy battlegrounds are profound. Infrastructure suffers immense damage, populations endure great hardship, and political instability becomes the norm rather than the exception. The continuous state of war stifles development, perpetuates dependency, and often leads to humanitarian crises.
   
@@ -1007,7 +978,7 @@ In the shadow of the colossal struggles between the major power blocs, a multitu
 
 ### Mech Technology
 
-The evolution of mech technology stands as a pillar of military and societal change in the world of "Mech Requiem." Originating from industrial and construction platforms, mechs have been transformed into symbols of national power and technological prowess, playing pivotal roles in both warfare and civil applications.
+The evolution of mech technology stands as a pillar of military and societal change in the world of _Mech Requiem_. Originating from industrial and construction platforms, mechs have been transformed into symbols of national power and technological prowess, playing pivotal roles in both warfare and civil applications.
 
 #### Evolution of Mech Technology
 
@@ -1019,7 +990,7 @@ The evolution of mech technology stands as a pillar of military and societal cha
 
 #### Current State of Mech Technology
 
-- **Combat Mechs**: These are the backbone of any modern military force in "Mech Requiem." Equipped with a variety of weapons such as lasers, railguns, and missile systems, combat mechs are designed to engage in a range of military operations. They are classified into classes such as Light, Medium, and Heavy, each offering different balances of speed, firepower, and armor.
+- **Combat Mechs**: These are the backbone of any modern military force in _Mech Requiem_. Equipped with a variety of weapons such as lasers, railguns, and missile systems, combat mechs are designed to engage in a range of military operations. They are classified into classes such as Light, Medium, and Heavy, each offering different balances of speed, firepower, and armor.
   
 - **Utility Mechs**: Beyond warfare, utility mechs serve crucial roles in society. They are used in construction, rescue operations, and even urban maintenance. Equipped with specialized tools instead of weapons, these mechs are designed to operate in hazardous environments like radioactive zones, deep underwater, or in disaster-stricken areas.
   
@@ -1037,7 +1008,7 @@ The evolution of mech technology stands as a pillar of military and societal cha
 
 ### Other Advanced Technologies
 
-In the world of "Mech Requiem," mech technology is just one facet of a broader spectrum of advancements that define both everyday life and the nature of warfare. From artificial intelligence to novel energy solutions, these technologies play crucial roles in shaping the future landscape.
+In the world of _Mech Requiem_, mech technology is just one facet of a broader spectrum of advancements that define both everyday life and the nature of warfare. From artificial intelligence to novel energy solutions, these technologies play crucial roles in shaping the future landscape.
 
 #### Artificial Intelligence (AI)
 
@@ -1077,13 +1048,13 @@ In the world of "Mech Requiem," mech technology is just one facet of a broader s
 
 ### Integrated Impact
 
-The integration of these technologies has not only transformed the battlefield but also society at large. Their convergence—AI with quantum computing, cybernetics with biotechnology, and advanced materials with new energy sources—creates synergies that continuously push the boundaries of what's possible, painting a complex picture of a future where humanity and technology are inextricably linked. This backdrop in "Mech Requiem" offers players a rich tapestry of exploration, conflict, and potential, within a world that is both wondrous and intimidating.
+The integration of these technologies has not only transformed the battlefield but also society at large. Their convergence—AI with quantum computing, cybernetics with biotechnology, and advanced materials with new energy sources—creates synergies that continuously push the boundaries of what's possible, painting a complex picture of a future where humanity and technology are inextricably linked. This backdrop in _Mech Requiem_ offers players a rich tapestry of exploration, conflict, and potential, within a world that is both wondrous and intimidating.
 
 ## Societal and Cultural Impact
 
 ### Life in War-Torn Earth
 
-In "Mech Requiem," the ongoing proxy wars and the omnipresence of advanced technology have profound effects on societies worldwide. While the advancements in technology have brought about significant improvements in many aspects of life, the continuous state of warfare has also created stark disparities and profound challenges.
+In _Mech Requiem_, the ongoing proxy wars and the omnipresence of advanced technology have profound effects on societies worldwide. While the advancements in technology have brought about significant improvements in many aspects of life, the continuous state of warfare has also created stark disparities and profound challenges.
 
 #### Disparities in Living Conditions
 
@@ -1111,7 +1082,7 @@ In "Mech Requiem," the ongoing proxy wars and the omnipresence of advanced techn
 
 ### Cultural Aspects of Mechs
 
-In the world of "Mech Requiem," mechs are not merely instruments of war or tools of labor; they have woven themselves into the cultural fabric of societies globally, taking on symbolic meanings and influencing cultural identities in profound ways.
+In the world of _Mech Requiem_, mechs are not merely instruments of war or tools of labor; they have woven themselves into the cultural fabric of societies globally, taking on symbolic meanings and influencing cultural identities in profound ways.
 
 #### Mechs as Cultural Symbols
 
@@ -1141,7 +1112,7 @@ In the world of "Mech Requiem," mechs are not merely instruments of war or tools
 
 ### Mech Units and Warfare Tactics
 
-In "Mech Requiem," the integration of mechs into military operations has fundamentally transformed the tactics, unit structures, and mission profiles across the globe. Mechs serve as the centerpiece of modern military strategy, their roles varying from frontline combatants to specialized support units.
+In _Mech Requiem_, the integration of mechs into military operations has fundamentally transformed the tactics, unit structures, and mission profiles across the globe. Mechs serve as the centerpiece of modern military strategy, their roles varying from frontline combatants to specialized support units.
 
 #### Unit Structures
 
@@ -1173,7 +1144,7 @@ In "Mech Requiem," the integration of mechs into military operations has fundame
 
 ### Rules of Engagement and Warfare Ethics
 
-In the high-tech battlefield of "Mech Requiem," where destructive power and surveillance capabilities are immense, rules of engagement and ethical considerations are crucial in maintaining a semblance of order and humanity. These rules are both formally codified in treaties and informally understood among the combatants.
+In the high-tech battlefield of _Mech Requiem_, where destructive power and surveillance capabilities are immense, rules of engagement and ethical considerations are crucial in maintaining a semblance of order and humanity. These rules are both formally codified in treaties and informally understood among the combatants.
 
 #### **Formal Treaties and Regulations**
 
@@ -1203,7 +1174,7 @@ In the high-tech battlefield of "Mech Requiem," where destructive power and surv
 
 ### Transformed Landscapes
 
-The relentless advancements in mech technology and the sustained periods of warfare have dramatically altered the natural and urban landscapes in the world of "Mech Requiem." These changes have created unique environments and battlefields, each with its own set of challenges and strategic considerations.
+The relentless advancements in mech technology and the sustained periods of warfare have dramatically altered the natural and urban landscapes in the world of _Mech Requiem_. These changes have created unique environments and battlefields, each with its own set of challenges and strategic considerations.
 
 #### Urban Ruins
 
@@ -1227,13 +1198,13 @@ The relentless advancements in mech technology and the sustained periods of warf
 
 ### Strategic and Tactical Implications
 
-Each type of environment in "Mech Requiem" presents unique strategic and tactical implications. Commanders must consider the mobility of their mechs, the visibility conditions, and the defensive advantages or vulnerabilities created by the terrain. Environmental factors can affect mech systems, requiring regular maintenance and adaptations to local conditions.
+Each type of environment in _Mech Requiem_ presents unique strategic and tactical implications. Commanders must consider the mobility of their mechs, the visibility conditions, and the defensive advantages or vulnerabilities created by the terrain. Environmental factors can affect mech systems, requiring regular maintenance and adaptations to local conditions.
 
 These transformed landscapes not only serve as backdrops for the game's narrative but also actively shape the mechanics of gameplay, challenging players to adapt their strategies and technologies to a world marked by both human conflicts and environmental changes.
 
 ### Resource Scarcity and Environmental Issues
 
-The persistent warfare and the extensive use of advanced technology in "Mech Requiem" have severe repercussions on the planet's ecological balance. This impact manifests through resource depletion, widespread pollution, and significant climate changes, each affecting the world in profound ways.
+The persistent warfare and the extensive use of advanced technology in _Mech Requiem_ have severe repercussions on the planet's ecological balance. This impact manifests through resource depletion, widespread pollution, and significant climate changes, each affecting the world in profound ways.
 
 #### Resource Depletion
 
@@ -1261,15 +1232,15 @@ The persistent warfare and the extensive use of advanced technology in "Mech Req
 
 ### Adaptation and Mitigation Efforts
 
-In response to these environmental crises, factions within "Mech Requiem" have begun to implement various adaptation and mitigation strategies. These include engineering projects to reclaim and detoxify lands, programs to repopulate and conserve biodiversity, and innovations aimed at sustainable resource usage. The war itself is a driver for both destruction and the push for technological solutions to environmental problems, creating a complex dynamic where survival depends not only on military might but also on ecological resilience.
+In response to these environmental crises, factions within _Mech Requiem_ have begun to implement various adaptation and mitigation strategies. These include engineering projects to reclaim and detoxify lands, programs to repopulate and conserve biodiversity, and innovations aimed at sustainable resource usage. The war itself is a driver for both destruction and the push for technological solutions to environmental problems, creating a complex dynamic where survival depends not only on military might but also on ecological resilience.
 
 ## Game-Specific World Elements
 
-These scenarios are crafted to draw players immediately into the action, requiring them to utilize both their strategic skills and moral judgment, reflecting the complex interplay of military might, diplomatic finesse, and survival instinct that defines "Mech Requiem." Each scenario not only sets the stage for rich narrative development but also highlights the diverse gameplay mechanics and world elements, from mech combat to political intrigue and environmental challenges.
+These scenarios are crafted to draw players immediately into the action, requiring them to utilize both their strategic skills and moral judgment, reflecting the complex interplay of military might, diplomatic finesse, and survival instinct that defines _Mech Requiem_. Each scenario not only sets the stage for rich narrative development but also highlights the diverse gameplay mechanics and world elements, from mech combat to political intrigue and environmental challenges.
 
 ### Starting Scenarios
 
-In "Mech Requiem," the starting scenarios are designed to immerse players directly into the complex world shaped by war, technology, and political intrigue. These scenarios serve as the initial spark for adventures, providing context and motivation for the players as they begin navigating the challenges of the game.
+In _Mech Requiem_, the starting scenarios are designed to immerse players directly into the complex world shaped by war, technology, and political intrigue. These scenarios serve as the initial spark for adventures, providing context and motivation for the players as they begin navigating the challenges of the game.
 
 #### Scenario 1: Urban Recovery Mission
 
@@ -1311,7 +1282,7 @@ In "Mech Requiem," the starting scenarios are designed to immerse players direct
 
 ### Adventure Hooks and Plot Ideas
 
-To enrich the narrative and offer diverse gameplay opportunities in "Mech Requiem," here are two distinct d66 tables designed for generating adventure hooks and plot ideas. Players can roll two six-sided dice, with the first die determining the row and the second the column, to discover compelling scenarios for their campaigns.
+To enrich the narrative and offer diverse gameplay opportunities in _Mech Requiem_, here are two distinct d66 tables designed for generating adventure hooks and plot ideas. Players can roll two six-sided dice, with the first die determining the row and the second the column, to discover compelling scenarios for their campaigns.
 
 #### Table 1: Military and Political Intrigue
 
@@ -1339,7 +1310,7 @@ To enrich the narrative and offer diverse gameplay opportunities in "Mech Requie
 
 ### Glossary of Terms
 
-The world of "Mech Requiem" is rich with specialized terminology reflecting its advanced technological and military landscape. This glossary provides definitions for key terms used throughout the game, helping players and game masters navigate the complex setting more easily.
+The world of _Mech Requiem_ is rich with specialized terminology reflecting its advanced technological and military landscape. This glossary provides definitions for key terms used throughout the game, helping players and game masters navigate the complex setting more easily.
 
 - **AI Accord**: A set of international agreements that regulate the use of artificial intelligence in warfare, specifically limiting AI autonomy in making lethal decisions.
 
