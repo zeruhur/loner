@@ -1793,3 +1793,11 @@ This section lists books, films, and games that embody the steampunk genre's cor
 - **"The Men That Will Not Be Blamed For Nothing"** - A band that combines punk rock with lyrical content focused on the Victorian era and industrial steam-powered machinery.
 - **"Vernian Process"** - An ensemble that blends elements of industrial music with steampunk themes, focusing on the Victorian fascination with technology and exploration.
 - **"Abney Park"** - A band that incorporates themes of airship piracy and Victorian-era steampunk into their music.
+
+## License
+
+Cog & Compass
+
+(CC) 2024 Roberto Bisceglie
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
