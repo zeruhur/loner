@@ -1344,3 +1344,41 @@ The world of _Mech Requiem_ is rich with specialized terminology reflecting its 
 
 - **War Economy**: An economic system that prioritizes military capabilities and readiness over civilian needs, often characterized by increased production of arms and military technology.
 
+### Recommended Media
+
+For players looking to immerse themselves further into such themes, or for game masters seeking inspiration for their campaigns, the following recommended media provides a rich source of ideas and concepts that resonate with the game’s setting. These selections include films, books, television series, and video games, each chosen for their relevance to the atmospheric and thematic elements of _Mech Requiem_.
+
+### Recommended Media
+
+For fans and players of "Mech Requiem" who are drawn to the intense drama and tactical depth of mech-centered stories, this Recommended Media chapter highlights films, books, TV series, anime, and video games specifically chosen for their focus on mechs and their impact on human conflict and technology. These selections delve into themes of war, identity, and the symbiotic relationship between pilots and their powerful mech suits, offering valuable insights and inspiration for your gameplay.
+
+#### Films
+1. **Pacific Rim** - A cinematic experience that brings massive mech battles to life, showcasing human-pilot synchronicity and interdimensional conflict.
+2. **Transformers Series** - While more fantastical, these films explore the integration of sentient mechanical beings in human warfare and their personal narratives.
+3. **Robot Jox** - A cult classic that depicts gladiatorial combat between giant robots, highlighting both the spectacle and the strategic aspects of mech warfare.
+
+#### Books
+1. **The Mech Wars series by Scott Bartlett** - A military science fiction saga that explores mech warfare within a well-drawn universe of interstellar conflict.
+2. **Mech Warrior: Dark Age series** - Set in the BattleTech universe, these books offer a complex narrative of mech combat, political intrigue, and the mercenary lifestyle.
+3. **Bolo series by Keith Laumer** - Focuses on highly advanced tanks (akin to ground-based mechs) with AI, emphasizing themes of duty, war, and AI ethics.
+
+#### Anime
+1. **Mobile Suit Gundam series** - Explores war, politics, and human drama through the lens of mech pilots and the machines that define futuristic warfare.
+2. **Code Geass** - While also focusing on supernatural elements, it includes strategic military battles involving advanced mechs known as Knightmare Frames.
+3. **Neon Genesis Evangelion** - A deeply psychological series that intersects giant mech battles with complex human emotions and existential threats.
+1. **Mobile Suit Gundam: Iron-Blooded Orphans** - A more recent installment in the Gundam franchise, focusing on child soldiers and mercenary groups piloting mechs in a colonial uprising.
+2. **Knight's & Magic** - An anime series that blends fantasy with mecha, focusing on a protagonist’s journey to pilot and enhance magical mechs.
+3. **Robotech** - An influential series that combines transforming mechs with human drama across multiple generations.
+
+#### Video Games
+1. **MechWarrior series** - Provides a comprehensive experience of piloting mechs (BattleMechs) in a detailed universe, with a focus on combat and customization.
+2. **Titanfall series** - Features agile mechs (Titans) in fast-paced combat, emphasizing pilot and mech synergy.
+3. **Armored Core series** - Known for its customization depth and tactical mech combat, set in a dystopian future.
+
+# License
+
+Mech Requiem
+
+(CC) 2024 Roberto Bisceglie
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
