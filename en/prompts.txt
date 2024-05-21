@@ -1,0 +1,19 @@
+I want to compile the following text by developing a setting that has these features:
+- The main theme is King Arthur and Camelot
+- Medieval setting in England/Britain during the 6th century AD.
+- Presence of fantasy elements such as magic, mythological creatures (dragons, fairies, etc.) and magical objects (Excalibur, Holy Grail, etc.)
+- The court of Camelot as the center of the setting, with the castle and the Round Table
+- King Arthur as a just and legendary ruler, but with some human weaknesses
+- The Knights of the Round Table as epic heroes with codes of honor and chivalric virtues
+- Iconic characters such as Merlin, Morgana, Lancelot, Guinevere, etc.
+- Driudic setting with sacred woods, ancient rituals and ancient Celtic beliefs
+- Presence of enemies such as the invading Saxons or the evil Mordred
+- Epic quests related to Arthurian legends (Grail quest, defense of Camelot, etc.)
+- Court intrigues, betrayals and internal conflicts among knights
+- Romantic and tragic elements in love stories (Lancelot and Guinevere, Tristan and Isolde, etc.)
+
+instructions:
+- follow the compilation instructions in the square brackets
+- fill all the empty tables
+- everything else in the text should be left unchanged
+- always consider that this is a solo tabletop roleplaying game
