@@ -8,4 +8,4 @@
   - [Regolamento](it/loner-ita.md)
   - [Pacchetti Avventura](it/pacchetti-avventura.md)
   - [Domande Frequenti](it/domande_frequenti.md)
-- [Loner Assistant](https://zeruhur.space/loner-assistant/)
+- [Loner Assistant](https://loner.zotiquestgames.com/loner-assistant/)

@@ -27,4 +27,4 @@ I strongly support the open source ethos.
 
 The more we spread this logic of sharing and reciprocity the more widespread and free our hobby will become.
 
-You can play online with the [Loner Assistant](https://zeruhur.icu/loner-assistant/)!
+You can play online with the [Loner Assistant](https://loner.zotiquestgames.com/loner-assistant)!
