@@ -1,0 +1,231 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link href="https://cdn.quilljs.com/1.3.6/quill.snow.css" rel="stylesheet">
+    <title>Loner Assistant</title>
+</head>
+<body>
+    <script src="js/data.js"></script>
+    <script src="js/icons.js"></script>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <span  class="navbar-brand" href="#">
+                <img src="assets/logo.svg" alt="" width="30" height="24" class="d-inline-block align-text-top">
+                Loner Assistant
+            </span>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="nav-link" target="_blank" href="https://loner.zotiquestgames.com">Home Page</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#about" data-bs-toggle="offcanvas">About</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" target="_blank" href="https://zeruhur.itch.io/loner/">Loner on itch.io</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" target="_blank" href="https://github.com/zeruhur/loner-assistant/">Github</a>
+                  </li>
+              </div>
+        </div>
+    </nav>
+
+    <div class="offcanvas offcanvas-start" tabindex="-1" id="about" aria-labelledby="aboutLabel">
+        <div class="offcanvas-header">
+          <h5 class="offcanvas-title" id="aboutLabel">About</h5>
+          <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+          <div>
+            <h4>Loner Assistant v0.6</h4>
+            <h5>A digital companion to Loner RPG</h5>
+            <p>Loner is a bare-bone freeform solo RPG designed to play with a solo character in “narrative” mode. 
+               You’ll guide your character through the story that will unravel during the game, 
+               asking closed questions to an oracle who will assume the role of Game Master. 
+               Every now and then the game will surprise you when an unexpected plot twist happens!
+            </p></br>
+            <p>Use the control buttons to invoke the Oracle. You can also generate a game prompt 
+                and the tone of the next scene to play
+            </p>
+            <p>You can also keep track on the text editor below. It autosaves every 5 seconds</p>
+            <p>The complete ruleset is available on the <a href="https://zeruhur.space/loner/">website</a> 
+                or on the <a href="https://zeruhur.itch.io/loner/">itch.io page</a>
+            </p>
+            <p>Loner 2021 by Roberto Bisceglie is released under Creative Commons License Attribution 4.0 </p>
+            <p>Story Dice make use of <a href="https://game-icons.net/">game-icons.net</a> collection, 
+                released under Creative Commons License Attribution 3.0 Unported
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="offcanvas offcanvas-end" tabindex="-1" id="character" aria-labelledby="characterLabel">
+        <div class="offcanvas-header">
+          <h5 class="offcanvas-title" id="characterLabel">Character Sheet</h5>
+          <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            <div>
+                <strong>Name: </strong><span id="name" class="border" contenteditable="false">Character Name</span><br>
+                <strong>Concept: </strong><span id="concept" class="border" contenteditable="false">Concept</span><br>
+                <strong>Skills: </strong>
+                <ul id="skills-list" class="border">
+                  <!-- Qui verranno aggiunti dinamicamente gli elementi delle skills -->
+                </ul>
+                <button type="button" class="btn btn-secondary" onclick="addToList('skills')">Add Skill</button><br>
+                <strong>Frailty: </strong>
+                <ul id="frailty-list" class="border">
+                  <!-- Qui verranno aggiunti dinamicamente gli elementi delle frailty -->
+                </ul>
+                <button type="button" class="btn btn-secondary" onclick="addToList('frailty')">Add Frailty</button><br>
+                <strong>Gear: </strong>
+                <ul id="gear-list" class="border">
+                  <!-- Qui verranno aggiunti dinamicamente gli elementi delle gear -->
+                </ul>
+                <button type="button" class="btn btn-secondary" onclick="addToList('gear')">Add Gear</button><br>
+                <strong>Goal and Motive: </strong><span id="goal-motive" class="border" contenteditable="false">Goal and Motive</span><br>
+                <strong>Nemesis: </strong><span id="nemesis" class="border" contenteditable="false">Nemesis</span><br>
+              </div>
+              <div>
+                <button type="button" id="reset-char-sheet" class="btn btn-danger m-1" onclick="confirmResetCharSheet()">Reset</button>
+                <button type="button" id="edit-char-sheet" class="btn btn-success m-1" onclick="toggleEdit()">Edit</button>
+                <button type="button" id="save-char-sheet" class="btn btn-danger m-1" onclick="saveCharSheet()" style="display: none;">Save</button>
+              </div>                                           
+        </div>
+      </div>
+
+
+    <div class="container">
+        <div class="row m-1">
+            <div class="col-md-4 text-center">
+                <div class="card m-2 h-100" id="combat">
+                    <div class="card-body">
+                        <h3 class="card-header my-1 card text-white bg-danger">Combat</h3>
+                        <p class="card-text p-1 mb-0">
+                            <p><strong>Character's Luck</strong></br><span id="char-luck"></span></p>
+                            <div id="start-combat">
+                                <button type="button" class="btn btn-lg btn-outline-danger m-1" onclick="startCombat()">START!</button>
+                            </div>
+                            <div id="combat-run" style="display: none;">
+                                <p id="combat-outcome" class="display-6"></p>
+                                <button type="button" class="btn btn-sm btn-success m-1" onclick="endCombat()">End Combat</button>
+                                <button id="fight-button" type="button" class="btn btn-sm btn-danger m-1" onclick="fight()">Fight!</button>
+                                <select id="fight-modifiers" type="button" class="btn btn-sm m-1" onchange="selectModifier()">
+                                    <option value="advantage">Advantage</option> 
+                                    <option selected value="normal">Normal</option>
+                                    <option value="disadvantage">Disadvantage</option>
+                                </select>
+                                <!-- <button  id="reset-luck" type="button" class="btn btn-sm btn-dark m-1" onclick="resetLuck()">Reset Luck</button> -->
+                            </div>
+                            <p"><strong>Opponent's Luck</strong></br><span id="opponent-luck"></span></p>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 text-center">
+                <div class="card m-2 h-100" id="oracle-card">
+                    <div class="card-body">
+                        <h3 class="card-header my-1 card text-white bg-dark">The Oracle</h3>
+                        <p class="fw-bold">Twist Counter <span id="twist-counter" class="badge bg-dark"></span></p>
+                        
+                        <!-- <p id="twist-counter"></p> -->
+                        <p id="oracle" class="display-2"></p>
+                        <p id="subject-action" class="d-none">
+                            <span id="hook-title" class="display-6 fw-bold">A twist happens!</span></br>
+                            <span id="twist" class="display-5"></span>
+                        </p>
+                        <p id="next-scene" class="d-none">
+                            <span id="nxt-scn" class="display-6"></span>
+                        </p>
+                        <p id="hook-p" class="d-none">
+                            <span id="hook-title" class="display-6 fw-bold">Game Prompt:</span></br>
+                            <span id="who" class="display-7"></span></br>
+                            <span id="what" class="display-7"></span></br>
+                            <span id="why" class="display-7"></span></br>
+                            <span id="where" class="display-7"></span></br>
+                            <span id="how" class="display-7"></span></br>
+                            <span id="obstacle" class="display-7"></span></br>
+                        </p>
+                        <p id="open-question" class="d-none">
+                            <span id="oq-title" class="display-6 fw-bold">Open Answer:</span></br>
+                            <span id="verb" class="display-6 text-capitalize"></span> 
+                            <span id="adjective" class="display-6 text-capitalize"></span> 
+                            <span id="noun" class="display-6 text-capitalize"></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 text-center">
+                <div class="card m-2 h-100" id="buttons">
+                    <div class="card-body align-middle">
+                        <button type="button" class="btn btn-outline-dark m-1" onclick="generateHook()">Game Prompt</button>
+                        <a class="btn btn-danger m-1" href="#character" data-bs-toggle="offcanvas">Character Sheet</a>
+                        <hr>
+                        <button type="button" class="btn btn-dark m-1" onclick="invokeOracle()">Ask the oracle</button>
+                        <select id="modifiers" type="button" class="btn m-1" onchange="selectModifier()"  data-bs-placement="bottom" title="Select (dis)advantage">
+                            <option value="advantage">Advantage</option> 
+                            <option selected value="normal">Normal</option>
+                            <option value="disadvantage">Disadvantage</option>
+                        </select>
+                        <hr>
+                        <button type="button" class="btn btn-outline-secondary m-1" onclick="askOpenQuestion()">Open question</button>
+                        <button type="button" class="btn btn-success m-1" onclick="askNextScene()">Next Scene</button>
+                        <hr>
+                        <button id="story-dice-button" type="button" class="btn btn-dark m-1" data-bs-toggle="modal" data-bs-target="#story-dice">
+                            Story Dice
+                        </button>
+                        <select id="story-dice-n" type="button" class="btn m-1" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Select number of dice to roll">
+                            <option value="1">1</option> 
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option> 
+                            <option value="5">5</option>
+                            <option value="6">6</option>
+                            <option value="7">7</option> 
+                            <option value="8">8</option>
+                            <option value="9">9</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="row m-1">
+            <div id="col-12">
+                <div class="card m-4 h-100" id="character">
+                    <div id="editor">
+                    </div>
+                </div>    
+            </div>
+        </div>
+    </div>
+
+    <div id="story-dice" class="modal" tabindex="-1">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title">Story Dice</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+                <div class="modal-body">
+                    <div class="container-fluid">
+                        <div id="story-dice-body" class="row text-center"></div>
+                    </div>
+                </div>
+          </div>
+        </div>
+      </div>
+
+    <script src="js/main.js"></script>
+    <script src="https://cdn.quilljs.com/1.3.6/quill.js"></script>
+    <script src="js/quillsettings.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+</body>
+</html>
