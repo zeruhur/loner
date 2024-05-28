@@ -1,16 +1,76 @@
 I want to compile the following text by developing a setting that has these features:
-- The main theme is King Arthur and Camelot
-- Medieval setting in England/Britain during the 6th century AD.
-- Presence of fantasy elements such as magic, mythological creatures (dragons, fairies, etc.) and magical objects (Excalibur, Holy Grail, etc.)
-- The court of Camelot as the center of the setting, with the castle and the Round Table
-- King Arthur as a just and legendary ruler, but with some human weaknesses
-- The Knights of the Round Table as epic heroes with codes of honor and chivalric virtues
-- Iconic characters such as Merlin, Morgana, Lancelot, Guinevere, etc.
-- Driudic setting with sacred woods, ancient rituals and ancient Celtic beliefs
-- Presence of enemies such as the invading Saxons or the evil Mordred
-- Epic quests related to Arthurian legends (Grail quest, defense of Camelot, etc.)
-- Court intrigues, betrayals and internal conflicts among knights
-- Romantic and tragic elements in love stories (Lancelot and Guinevere, Tristan and Isolde, etc.)
+- The main theme is Arabian Nights
+1. **Exotic Locations**:
+   - Bustling cities like Baghdad, Damascus, and Cairo, with their vibrant markets, mosques, and winding alleys
+   - Vast deserts with shifting sands and treacherous sandstorms
+   - Oasis towns with palm trees and cool, refreshing waters
+   - Mystical islands and hidden paradises
+   - Towering mountains and treacherous passes
+   - Ancient ruins and lost cities filled with treasures and secrets
+
+2. **Diverse Cultures and Peoples**:
+   - Arabic, Persian, and Turkish influences
+   - Nomadic desert tribes and their customs
+   - Merchant caravans and trade routes
+   - Powerful sultans, viziers, and their lavish palaces
+   - Skilled artisans, poets, and scholars
+   - Mysterious sorcerers and mystics
+
+3. **Mythical Beings and Creatures**:
+   - Djinns (genies) with immense power and the ability to grant wishes
+   - Powerful sorcerers and wizards wielding arcane magic
+   - Legendary beasts like rocs (giant birds), ghuls (desert demons), and marids (jinns of the sea)
+   - Talking animals and shape-shifting creatures
+   - Enchanted objects and artifacts with magical properties
+
+4. **Fantastical Adventures and Quests**:
+   - Embarking on perilous journeys across vast deserts and treacherous lands
+   - Exploring ancient ruins and uncovering lost treasures
+   - Navigating treacherous palace intrigues and political machinations
+   - Encountering powerful sorcerers and engaging in battles of wits and magic
+   - Seeking out legendary artifacts and relics with immense power
+   - Unraveling ancient mysteries and solving intricate riddles
+
+5. **Themes and Narratives**:
+   - Tales of cunning and wit, exemplified by characters like Scheherazade and Aladdin
+   - Stories of love, betrayal, and loyalty
+   - Rags-to-riches narratives and the power of fortune
+   - Moral lessons and wisdom embedded in the tales
+   - Themes of justice, mercy, and the consequences of greed and corruption
+
+6. **Magic and Mysticism**:
+   - Powerful arcane magic and spellcasting
+   - Divination and fortune-telling practices
+   - Alchemical experiments and the pursuit of immortality
+   - Ancient rituals and incantations
+   - Mystical orders and secret societies
+
+7. **Intrigue and Espionage**:
+   - Palace intrigues and political machinations
+   - Assassins and thieves' guilds
+   - Spies and double agents
+   - Conspiracy theories and hidden agendas
+   - Treacherous plots and betrayals
+
+8. **Trade and Commerce**:
+   - Merchant caravans and trade routes
+   - Exotic goods and valuable commodities
+   - Negotiation and bargaining skills
+   - Merchant guilds and economic power
+   - Piracy and banditry on trade routes
+
+9. **Art and Culture**:
+   - Calligraphy and intricate patterns in architecture
+   - Poetry and storytelling traditions
+   - Music and dance performances
+   - Exquisite craftsmanship in metalwork, glassblowing, and textile weaving
+   - Elaborate cuisines and exotic spices
+
+10. **Elements from Folklore and Mythology**:
+    - Themes and motifs from Middle Eastern folklore and legends
+    - Incorporation of elements from the Quran and Islamic mythology
+    - Influences from Persian, Turkish, and other regional mythologies
+    - Exploration of ancient beliefs and superstitions
 
 instructions:
 - follow the compilation instructions in the square brackets
