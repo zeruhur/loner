@@ -467,33 +467,235 @@ Also update the list of **NPCs**, **Locations**, and **Events** that may show up
 
 ## Setting Information
 
-### Geography
-- **Detailed Landscapes**: Describe the various regions, terrains, and significant landmarks.
-- **Maps and Locations**: Include maps and important cities or hidden places.
+### Aesthetics & Tone
 
-### Cultures & People
-- **Societal Structures**: Outline the social hierarchy and norms.
-- **Daily Life**: Describe the everyday life of different cultures.
+By incorporating these elements, *Pulp Adventures* creates a rich, immersive experience that captures the spirit of classic pulp fiction. Each aspect of the aesthetics and tone works together to draw players into a world of vibrant colors, dynamic action, and thrilling storytelling.
 
-### Trade and Commerce
-- **Economic Systems**: Explain how trade operates, currency, and major trade routes.
-- **Major Goods**: List commonly traded items and valuable resources.
+#### Vibrant and Bold Colors
+The visual style of *Pulp Adventures* is characterized by a vivid and eye-catching color palette. Posters and book covers burst with primary colors—bold reds, striking blues, and vibrant yellows—creating a sense of urgency and excitement. Shadows are dramatic, enhancing the tension and action in each scene. This colorful aesthetic extends to the world itself, with exotic locations and characters that seem to leap off the page.
 
-### Art and Culture
-- **Cultural Practices**: Highlight festivals, traditions, and customs.
-- **Arts and Entertainment**: Detail popular forms of art, music, literature, and entertainment.
+- **Primary Colors**: Dominant use of reds, blues, and yellows to create a striking visual impact.
+- **Dramatic Shadows**: Heavy use of shadows to add depth and intensity to scenes.
+- **High Contrast**: Sharp contrasts between light and dark areas to emphasize action and emotion.
 
-### Magic and Mysticism
-- **Magical Practices**: Describe how magic works, who can use it, and its rules.
-- **Mystical Artifacts**: Include descriptions of powerful or legendary items.
+#### Dynamic and Action-Packed Scenes
+The heart of *Pulp Adventures* lies in its relentless action. Characters are often depicted in mid-action, whether they're swinging from vines, engaging in fistfights, or racing through city streets. These scenes are designed to convey a sense of constant movement and excitement, immersing players in the fast-paced world of pulp fiction.
 
-### Folklore and Mythology
-- **Legends and Tales**: Narrate famous legends and myths of the setting.
-- **Supernatural Beings**: Detail creatures, gods, and spirits from folklore.
+- **Mid-Action Depictions**: Characters caught in the midst of daring feats and intense battles.
+- **Movement Emphasis**: Scenes that highlight motion, from high-speed chases to dramatic leaps.
+- **Adrenaline-Pumping Moments**: Frequent climactic moments that keep the narrative thrilling and unpredictable.
 
-### Technology and Innovation
-- **Technological Advances**: Describe the level of technology and notable inventions.
-- **Influential Innovators**: Highlight key figures in the advancement of technology.
+#### Sensational Language
+The dialogue and narrative descriptions in *Pulp Adventures* are sensationalized, packed with exclamation marks and hyperbolic language. This over-the-top style enhances the dramatic tone of the game, making every interaction feel larger than life. Characters speak in bold, decisive terms, and narrations describe events with vivid and emotionally charged language.
+
+- **Exclamation Marks**: Frequent use of exclamation points to heighten the excitement of dialogue and narration.
+- **Hyperbole**: Exaggerated language to emphasize the stakes and drama of situations.
+- **Dramatic Descriptions**: Rich, evocative descriptions that bring scenes to life in a grandiose manner.
+
+#### Retro Futurism
+*Pulp Adventures* blends the nostalgic style of the 1930s-1950s with futuristic elements, creating a unique retro-futuristic aesthetic. This includes technologies like zeppelins, ray guns, and experimental aircraft coexisting with period-appropriate fashion and architecture. The result is a world that feels both familiar and fantastical.
+
+- **Period Style**: Fashion, architecture, and cultural elements from the 1930s-1950s.
+- **Futuristic Technology**: Ray guns, robotic companions, and other advanced gadgets.
+- **Blended Elements**: Seamless integration of historical and futuristic features to create a cohesive world.
+
+#### Mystery and Suspense
+A core element of the pulp genre, mystery and suspense permeate *Pulp Adventures*. Every storyline includes cliffhangers, unresolved plotlines, and twists that keep players on the edge of their seats. The narrative is designed to constantly tease the unknown, drawing players deeper into the adventure.
+
+- **Cliffhangers**: Endings that leave questions unanswered, urging players to continue.
+- **Twists and Turns**: Frequent plot twists that subvert expectations and keep the story engaging.
+- **Suspenseful Atmosphere**: A pervasive sense of mystery and tension that keeps players intrigued.
+
+#### Romanticized Adventure
+*Pulp Adventures* features idealized heroes and heroines who embark on grand, larger-than-life quests. These characters are often portrayed as paragons of bravery and virtue, facing incredible odds with unwavering determination. The adventures they undertake are epic in scope, filled with romance, danger, and the promise of great reward.
+
+- **Idealized Heroes**: Characters who embody courage, charisma, and moral integrity.
+- **Epic Quests**: Grand adventures that span continents and challenge the limits of human endurance.
+- **Romantic Elements**: Tales of love and heroism intertwined, adding emotional depth to the adventure.
+
+### Exotic Places
+
+Each of these exotic places provides a rich and dynamic setting for adventures in *Pulp Adventures*, offering endless opportunities for exploration, discovery, and thrilling encounters.
+
+#### Uncharted Islands
+*Pulp Adventures* takes you to remote, uncharted islands—lost worlds brimming with hidden treasures, ancient ruins, and undiscovered species. These islands are often shrouded in mystery and difficult to reach, providing the perfect backdrop for thrilling adventures.
+
+- **Hidden Treasures**: Secret caches of gold, jewels, and valuable artifacts waiting to be discovered.
+- **Ancient Ruins**: Remnants of forgotten civilizations with crumbling structures and cryptic inscriptions.
+- **Undiscovered Species**: Exotic and often dangerous wildlife, ranging from prehistoric creatures to mythical beasts.
+- **Treacherous Terrain**: Volcanic landscapes, dense forests, and rocky cliffs that challenge even the bravest explorers.
+
+#### Hidden Valleys
+Inaccessible and isolated, hidden valleys in *Pulp Adventures* are like Eden-like paradises, often enclosed by towering mountains and accessible only through perilous paths or secret entrances. These valleys hold secrets of the past and untouched beauty.
+
+- **Edenic Landscapes**: Lush, fertile land with breathtaking flora and fauna, untouched by modern civilization.
+- **Secret Entrances**: Hidden pathways, tunnels, or magical portals leading into these secluded paradises.
+- **Undisturbed Cultures**: Indigenous tribes or communities living in harmony with nature, often with unique customs and knowledge.
+- **Mystical Elements**: Magical properties or phenomena, such as healing springs, enchanted forests, or mythical guardians.
+
+#### Bustling Metropolises
+Cities like Cairo, Shanghai, and New York serve as vibrant settings in *Pulp Adventures*, filled with secrets, underground networks, and diverse cultures. These metropolises are bustling with life, intrigue, and opportunities for adventure.
+
+- **Urban Secrets**: Hidden passages, secret societies, and concealed treasures within the cityscape.
+- **Underground Networks**: Extensive sewer systems, hidden tunnels, and criminal underworlds operating beneath the surface.
+- **Diverse Cultures**: Melting pots of different ethnicities, traditions, and lifestyles, offering a rich tapestry of interactions.
+- **Dynamic Markets**: Bustling bazaars, black markets, and trading hubs where anything can be bought or sold.
+
+#### Ancient Temples
+Ancient temples in *Pulp Adventures* are sites of great mystery and danger, such as Mayan pyramids or the mythical Atlantis. These locations are rich with history, filled with traps, and protected by ancient knowledge.
+
+- **Architectural Marvels**: Majestic structures with intricate carvings, hidden chambers, and monumental statues.
+- **Deadly Traps**: Ingenious and deadly mechanisms designed to protect the temple's secrets, such as hidden spikes, collapsing floors, and poison darts.
+- **Ancient Knowledge**: Cryptic texts, mystical symbols, and lost technologies waiting to be deciphered.
+- **Guardians**: Sentinels, whether human, magical, or mechanical, that protect the sanctity of the temple.
+
+#### Remote Jungles
+Dense and unexplored, remote jungles in *Pulp Adventures* are teeming with mystery, danger, and hidden relics. These jungles are home to mysterious tribes, dangerous wildlife, and relics lost to time.
+
+- **Thick Canopy**: Dense foliage that obscures the sky and creates a labyrinthine environment.
+- **Mysterious Tribes**: Indigenous people with their own unique customs, knowledge, and possibly magical abilities.
+- **Dangerous Wildlife**: Predatory animals, venomous creatures, and aggressive insects that pose constant threats.
+- **Forgotten Relics**: Ancient artifacts, overgrown ruins, and remnants of long-lost civilizations.
+
+#### Mysterious Deserts
+Vast and barren, mysterious deserts in *Pulp Adventures* hide lost cities, secretive nomads, and supernatural phenomena. These deserts are places of extremes, where the relentless sun and shifting sands conceal many secrets.
+
+- **Lost Cities**: Buried under the sands, ancient cities waiting to be uncovered and explored.
+- **Nomadic Tribes**: Secretive and resourceful desert dwellers with deep knowledge of the harsh environment.
+- **Supernatural Phenomena**: Mirages, sandstorms, and otherworldly occurrences that challenge the mind and body.
+- **Hidden Oases**: Rare and vital sources of water and life, often guarded by fierce protectors or hidden behind illusions.
+
+### Globetrotting & Discovery
+
+These elements of globetrotting and discovery provide endless opportunities for adventure, excitement, and intrigue in *Pulp Adventures*, ensuring that every journey is a memorable and thrilling experience.
+
+#### Expeditions and Quests
+*Pulp Adventures* revolves around high-stakes missions that take characters across the globe. These expeditions and quests are fraught with danger and promise great rewards, whether it's discovering lost artifacts, rescuing kidnapped scientists, or mapping uncharted territories.
+
+- **Lost Artifacts**: Search for powerful and mysterious objects hidden in remote locations.
+- **Rescue Missions**: Brave perilous environments to save captured allies or important figures.
+- **Mapping Expeditions**: Chart unknown regions, from dense jungles to frozen tundras.
+- **Treasure Hunts**: Follow cryptic maps and ancient clues to unearth forgotten riches.
+- **Scientific Exploration**: Conduct research in uncharted areas, uncovering new species and phenomena.
+
+#### Cultural Exchanges
+Interactions with diverse civilizations are a key element of *Pulp Adventures*. Characters will encounter various cultures, each with its unique traditions, knowledge, and way of life. These exchanges can lead to alliances, conflicts, and invaluable learning opportunities.
+
+- **Learning Ancient Traditions**: Gain wisdom and techniques passed down through generations.
+- **Forming Alliances**: Build relationships with local tribes and communities.
+- **Cultural Artifacts**: Collect unique items that represent the culture’s heritage and history.
+- **Linguistic Challenges**: Overcome language barriers to communicate and understand different peoples.
+- **Rituals and Ceremonies**: Participate in or observe local customs, gaining insight into their beliefs and practices.
+
+#### Hidden Secrets
+The world of *Pulp Adventures* is filled with hidden truths waiting to be unveiled. Characters will uncover the mysteries of the world's history, secret societies operating in the shadows, and forgotten technologies that could change the course of their adventures.
+
+- **Historical Mysteries**: Discover the true stories behind ancient legends and myths.
+- **Secret Societies**: Unmask hidden groups with their own agendas and secrets.
+- **Forgotten Technologies**: Find advanced devices from past civilizations or futuristic inventors.
+- **Cryptic Manuscripts**: Decipher old texts that reveal lost knowledge or prophecies.
+- **Conspiracies**: Uncover plots that have shaped the world’s events and power dynamics.
+
+#### Dangerous Encounters
+Exploration and discovery in *Pulp Adventures* often lead to perilous situations. Characters will face rival explorers, endure natural disasters, and navigate treacherous landscapes that test their survival skills and resolve.
+
+- **Rival Explorers**: Compete against other adventurers seeking the same goals.
+- **Natural Disasters**: Survive earthquakes, hurricanes, avalanches, and other environmental hazards.
+- **Hostile Terrain**: Traverse dangerous landscapes like swamps, mountains, and deserts.
+- **Wild Beasts**: Defend against aggressive animals and predators.
+- **Bandits and Pirates**: Deal with lawless groups looking to take advantage of vulnerable explorers.
+
+#### Archaeological Digs
+Archaeological digs are a staple of *Pulp Adventures*, providing opportunities to uncover relics and evidence of ancient civilizations. These digs can lead to groundbreaking discoveries and significant historical insights.
+
+- **Excavation Sites**: Dig through layers of history to find artifacts and ruins.
+- **Relic Identification**: Analyze and interpret the significance of found objects.
+- **Ancient Tombs**: Explore burial sites that reveal the customs and secrets of past societies.
+- **Historical Evidence**: Uncover clues that piece together lost stories and civilizations.
+- **Preservation Efforts**: Protect and preserve fragile and significant finds for future generations.
+
+#### Mythical Creatures
+The world of *Pulp Adventures* is rich with mythical creatures from various legends and folklore. Characters will discover these beings in their natural habitats, adding an element of the fantastical to their journeys.
+
+- **Dragons in Mountain Caves**: Encounter fearsome dragons guarding their hoards in remote mountain ranges.
+- **Sea Monsters in the Depths**: Face colossal creatures lurking in the ocean's depths.
+- **Forest Spirits**: Meet benevolent or malevolent entities inhabiting ancient woods.
+- **Cryptids**: Investigate sightings of legendary creatures like the Yeti or Chupacabra.
+- **Guardian Beasts**: Encounter mythical animals that protect sacred places and relics.
+
+### Supernatural & Occult
+
+These supernatural and occult elements provide a rich tapestry of mystery and danger in *Pulp Adventures*, ensuring that players are constantly engaged and challenged by the unknown.
+
+#### Ancient Curses
+Artifacts and tombs in *Pulp Adventures* are often protected by deadly curses that present significant challenges. These curses are not just obstacles but integral parts of the storyline, requiring heroes to use their wit and courage to overcome them.
+
+- **Artifact Curses**: Objects imbued with malevolent magic that bring misfortune or death to those who possess them.
+- **Tomb Curses**: Ancient spells that activate when a burial site is disturbed, causing traps to spring or spirits to awaken.
+- **Curse-breaking Rituals**: Complex ceremonies and tasks required to lift a curse and make an artifact safe to use.
+- **Symptoms of Curses**: Victims may suffer from hallucinations, physical ailments, or unnatural bad luck until the curse is broken.
+- **Historical Legends**: Stories and warnings about these curses passed down through generations, often holding the key to breaking them.
+
+#### Mystical Artifacts
+Powerful relics with extraordinary abilities are scattered throughout the world of *Pulp Adventures*. These mystical artifacts can alter the course of events, offering immense power to those who wield them.
+
+- **Time Manipulation**: Artifacts that allow control over time, such as stopping or reversing moments.
+- **Mind Control**: Objects that can influence or dominate the thoughts and actions of others.
+- **Healing Relics**: Items with the ability to cure any ailment or bring people back from the brink of death.
+- **Elemental Artifacts**: Objects that control the forces of nature, such as conjuring storms or causing earthquakes.
+- **Protection Amulets**: Talismans that provide invincibility or shield the bearer from harm.
+
+#### Dark Rituals
+Sinister ceremonies are a staple of *Pulp Adventures*, often performed by cults with nefarious intentions. These rituals are dramatic and fraught with danger, aiming to summon otherworldly beings or gain forbidden knowledge.
+
+- **Summoning Ceremonies**: Rituals designed to call forth demons, spirits, or gods.
+- **Sacrificial Rites**: Dark rituals that require sacrifices, often human, to achieve their aims.
+- **Forbidden Knowledge**: Ceremonies that reveal hidden truths or grant the caster extraordinary powers.
+- **Protective Measures**: Precautions taken by cultists to prevent interference, such as magical barriers or deadly traps.
+- **Disruption Tactics**: Methods for heroes to interrupt and thwart these rituals, often at great risk.
+
+#### Haunted Locations
+Haunted places in *Pulp Adventures* are filled with restless spirits and supernatural occurrences. These locations are eerie and dangerous, requiring courage and resourcefulness to navigate.
+
+- **Abandoned Mansions**: Old, decaying homes filled with ghostly apparitions and eerie sounds.
+- **Ghost Ships**: Vessels lost at sea, now drifting aimlessly with spectral crews aboard.
+- **Cursed Forests**: Woodlands where spirits of the dead wander, creating an unsettling atmosphere.
+- **Spectral Guardians**: Ghosts or spirits bound to protect a specific location or item.
+- **Unfinished Business**: Spirits with unresolved issues that can be laid to rest through the heroes' actions.
+
+#### Occult Societies
+Secret groups wielding dark magic operate from the shadows in *Pulp Adventures*. These occult societies manipulate events to further their sinister agendas, often clashing with the heroes.
+
+- **Secret Cults**: Groups dedicated to worshipping dark deities or practicing forbidden magic.
+- **Magical Cabals**: Alliances of powerful sorcerers working together to achieve their goals.
+- **Influence Networks**: Extensive connections that these societies have within political, economic, and social spheres.
+- **Hidden Lairs**: Secret meeting places and headquarters where these societies plot their schemes.
+- **Internal Politics**: Power struggles and rivalries within the societies, which can be exploited by the heroes.
+
+#### Unexplainable Phenomena
+Events that defy logic and scientific explanation add a layer of mystery and intrigue to *Pulp Adventures*. These phenomena challenge the heroes to find rational explanations or accept the supernatural.
+
+- **Spontaneous Combustions**: People or objects bursting into flames without any apparent cause.
+- **Ghostly Apparitions**: Specters that appear unexpectedly, often bringing messages or warnings.
+- **Time Anomalies**: Distortions in time, such as time loops, time travel, or periods of missing time.
+- **Reality Shifts**: Sudden and inexplicable changes in the environment or reality itself.
+- **Paranormal Activity**: Unexplained occurrences like objects moving on their own, strange noises, and disembodied voices.
+
+### Antagonists and Villains
+- **Criminal Masterminds**: Leaders of vast criminal networks with grandiose plans for power and wealth.
+- **Mad Scientists**: Inventors of dangerous technologies and bizarre experiments, often driven by obsessive goals.
+- **Corrupt Officials**: Politicians and military leaders using their power for personal gain and oppression.
+- **Cult Leaders**: Charismatic and manipulative figures leading their followers towards dark and destructive goals.
+- **Rival Adventurers**: Competitors seeking the same treasures and secrets, often using underhanded tactics.
+- **Mythical Creatures**: Powerful and intelligent beings from legend, such as vampires, werewolves, and ancient gods.
+
+### Cutting-Edge Technology
+- **Experimental Aircraft**: Advanced planes and airships capable of unprecedented speeds and maneuvers.
+- **Ray Guns**: Futuristic weapons emitting powerful energy beams, used by heroes and villains alike.
+- **Robotic Companions**: Automatons designed for assistance, combat, or espionage.
+- **Gadgets and Gizmos**: Multi-functional devices like grappling hooks, miniature cameras, and portable radios.
+- **Advanced Vehicles**: High-speed cars, submarines, and motorcycles equipped with the latest technology.
+- **Scientific Marvels**: Inventions like invisibility cloaks, teleportation devices, and anti-gravity boots pushing the boundaries of the possible.
 
 ## Factions & Organizations
 
