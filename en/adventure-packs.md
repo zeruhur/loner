@@ -17,3 +17,4 @@ Use them as non-binding guidelines and inspiration, let your imagination run wil
 - [Western Adventure Pack](en/AP11_western.md)
 - [Cyberpunk Adventure Pack](en/AP12_cyberpunk.md)
 - [Kwaidan!](en/AP13_kwaidan.md)
+- [Cog & Compass](en/AP14_Cog&Compass.md)
