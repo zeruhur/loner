@@ -115,47 +115,47 @@ You can use these traits to create a character on the fly, mix them, or just use
 
 #### Concepts
 
-|     | 1                | 2             | 3                | 4              | 5             | 6             |
-| --- | ---------------- | ------------- | ---------------- | -------------- | ------------- | ------------- |
-| 1   | Daring Explorer  | Resourceful PI| Intrepid Reporter| Fearless Pilot | Cunning Spy   | Mysterious Thief |
-| 2   | Brave Adventurer | Tough Detective | Bold Journalist | Sky Ace         | Secret Agent | Stealthy Infiltrator |
-| 3   | Relentless Hunter| Streetwise Cop| Sharp-eyed Photo | Reckless Racer | Shadow Operative | Agile Cat Burglar |
-| 4   | Resilient Seeker | Wise Criminologist | Tenacious Newsman | Charismatic Aviator | Tech Savvy Engineer | Ingenious Swindler |
-| 5   | Fearless Pioneer | Determined Sleuth | Curious Chronicler | Bold Balloonist | Undercover Expert | Deft Smuggler |
-| 6   | Venturous Smuggler| Clever Consultant | Unyielding Newshound | Courageous Airman | Covert Operative | Artful Thief |
+|     | 1                  | 2                  | 3                    | 4                   | 5                   | 6                    |
+| --- | ------------------ | ------------------ | -------------------- | ------------------- | ------------------- | -------------------- |
+| 1   | Daring Explorer    | Resourceful PI     | Intrepid Reporter    | Fearless Pilot      | Cunning Spy         | Mysterious Thief     |
+| 2   | Brave Adventurer   | Tough Detective    | Bold Journalist      | Sky Ace             | Secret Agent        | Stealthy Infiltrator |
+| 3   | Relentless Hunter  | Streetwise Cop     | Sharp-eyed Photo     | Reckless Racer      | Shadow Operative    | Agile Cat Burglar    |
+| 4   | Resilient Seeker   | Wise Criminologist | Tenacious Newsman    | Charismatic Aviator | Tech Savvy Engineer | Ingenious Swindler   |
+| 5   | Fearless Pioneer   | Determined Sleuth  | Curious Chronicler   | Bold Balloonist     | Undercover Expert   | Deft Smuggler        |
+| 6   | Venturous Smuggler | Clever Consultant  | Unyielding Newshound | Courageous Airman   | Covert Operative    | Artful Thief         |
 
 #### Skills
 
-|     | 1               | 2                  | 3                  | 4                  | 5              | 6               |
-| --- | --------------- | ------------------ | ------------------ | ------------------ | -------------- | --------------- |
-| 1   | Quick Thinker   | Keen Observer      | Lock Picking       | Mechanical Genius  | Master Disguise| Survival Expert |
-| 2   | Expert Tracker  | Persuasive Speaker | Intuition          | Pilot Expert       | Cryptography   | Escape Artist   |
-| 3   | Combat Pro      | Negotiation        | Sleight of Hand    | Engineering        | Tech Savvy     | Stunt Driver    |
-| 4   | Linguist        | Streetwise         | Journalism         | Navigation         | Gadgeteer      | Acrobatics      |
-| 5   | Archeology      | Forensic Science   | Stealth            | Map Reading        | Robotics       | Parkour         |
-| 6   | Ancient History | Investigation      | Interrogation      | Aerodynamics       | Weapon Specialist | Marksman        |
+|     | 1               | 2                  | 3               | 4                 | 5                 | 6               |
+| --- | --------------- | ------------------ | --------------- | ----------------- | ----------------- | --------------- |
+| 1   | Quick Thinker   | Keen Observer      | Lock Picking    | Mechanical Genius | Master Disguise   | Survival Expert |
+| 2   | Expert Tracker  | Persuasive Speaker | Intuition       | Pilot Expert      | Cryptography      | Escape Artist   |
+| 3   | Combat Pro      | Negotiation        | Sleight of Hand | Engineering       | Tech Savvy        | Stunt Driver    |
+| 4   | Linguist        | Streetwise         | Journalism      | Navigation        | Gadgeteer         | Acrobatics      |
+| 5   | Archeology      | Forensic Science   | Stealth         | Map Reading       | Robotics          | Parkour         |
+| 6   | Ancient History | Investigation      | Interrogation   | Aerodynamics      | Weapon Specialist | Marksman        |
 
 #### Frailties
 
-|     | 1             | 2               | 3             | 4               | 5             | 6             |
-| --- | ------------- | --------------- | ------------- | --------------- | ------------- | ------------- |
-| 1   | Overconfident | Haunted by Past | Impulsive     | Reckless        | Distrustful   | Superstitious |
-| 2   | Arrogant      | Claustrophobic  | Headstrong    | Thrill-seeker   | Cynical       | Haunted       |
-| 3   | Secretive     | Emotionally Scarred | Stubborn  | Hot-headed      | Skeptical     | Paranoid      |
-| 4   | Obsessed      | Guilt-ridden    | Impatient     | Risk-addicted   | Jaded         | Delusional    |
-| 5   | Ambitious     | Traumatized     | Reckless      | Adrenaline Junkie | Untrusting   | Haunted       |
-| 6   | Paranoid      | Secretive       | Headstrong    | Hot-headed      | Skeptical     | Jaded         |
+|     | 1             | 2                   | 3          | 4                 | 5           | 6             |
+| --- | ------------- | ------------------- | ---------- | ----------------- | ----------- | ------------- |
+| 1   | Overconfident | Haunted by Past     | Impulsive  | Reckless          | Distrustful | Superstitious |
+| 2   | Arrogant      | Claustrophobic      | Headstrong | Thrill-seeker     | Cynical     | Haunted       |
+| 3   | Secretive     | Emotionally Scarred | Stubborn   | Hot-headed        | Skeptical   | Paranoid      |
+| 4   | Obsessed      | Guilt-ridden        | Impatient  | Risk-addicted     | Jaded       | Delusional    |
+| 5   | Ambitious     | Traumatized         | Reckless   | Adrenaline Junkie | Untrusting  | Haunted       |
+| 6   | Paranoid      | Secretive           | Headstrong | Hot-headed        | Skeptical   | Jaded         |
 
 #### Gear
 
-|     | 1                 | 2               | 3                | 4               | 5                | 6              |
-| --- | ----------------- | --------------- | ---------------- | --------------- | ---------------- | -------------- |
-| 1   | Revolver          | Lockpicks       | Compass          | Flight Goggles  | Spy Camera       | Grappling Hook |
-| 2   | Fedora            | Trench Coat     | Flashlight       | Aviator Jacket  | Concealed Weapon | Crowbar        |
-| 3   | Magnifying Glass  | Notebook        | Satchel          | Pilot's License | Codebook         | Disguise Kit   |
-| 4   | Binoculars        | Reporter Badge  | Map              | Pilot's Log     | Cipher Disk      | Infiltration Kit|
-| 5   | Ancient Talisman  | Tape Recorder   | Artifact         | Parachute       | Surveillance Gear| Rope           |
-| 6   | Silver Bullet     | Press Pass      | Explorer's Hat   | Flight Manual   | Microphone       | Climbing Gear  |
+|     | 1                | 2              | 3              | 4               | 5                 | 6                |
+| --- | ---------------- | -------------- | -------------- | --------------- | ----------------- | ---------------- |
+| 1   | Revolver         | Lockpicks      | Compass        | Flight Goggles  | Spy Camera        | Grappling Hook   |
+| 2   | Fedora           | Trench Coat    | Flashlight     | Aviator Jacket  | Concealed Weapon  | Crowbar          |
+| 3   | Magnifying Glass | Notebook       | Satchel        | Pilot's License | Codebook          | Disguise Kit     |
+| 4   | Binoculars       | Reporter Badge | Map            | Pilot's Log     | Cipher Disk       | Infiltration Kit |
+| 5   | Ancient Talisman | Tape Recorder  | Artifact       | Parachute       | Surveillance Gear | Rope             |
+| 6   | Silver Bullet    | Press Pass     | Explorer's Hat | Flight Manual   | Microphone        | Climbing Gear    |
 
 ### Names
 
@@ -332,14 +332,15 @@ Explorers in *Pulp Adventures* often find themselves navigating treacherous and 
 - **Resource Management**: Track supplies (e.g., food, water, ammunition). Deplete one unit of supplies after each significant encounter or at the end of each day of travel. If supplies run out, apply a Frailty tag such as "Starving" or "Dehydrated."
 
 **Exploration Encounters**
-| D6 | Encounter |
-| -- | --------- |
-| 1  | Treacherous terrain requires an immediate Survival Check. |
-| 2  | Encounter with a hostile tribe or dangerous wildlife. |
-| 3  | Discover a hidden path leading to an ancient ruin. |
-| 4  | Find a valuable resource (e.g., fresh water, medicinal plants). |
-| 5  | Sudden weather change complicates travel (e.g., storm, sandstorm). |
-| 6  | Encounter a rival explorer or treasure hunter. |
+
+| D6  | Encounter                                                          |
+| --- | ------------------------------------------------------------------ |
+| 1   | Treacherous terrain requires an immediate Survival Check.          |
+| 2   | Encounter with a hostile tribe or dangerous wildlife.              |
+| 3   | Discover a hidden path leading to an ancient ruin.                 |
+| 4   | Find a valuable resource (e.g., fresh water, medicinal plants).    |
+| 5   | Sudden weather change complicates travel (e.g., storm, sandstorm). |
+| 6   | Encounter a rival explorer or treasure hunter.                     |
 
 #### Supernatural and Occult Elements
 
@@ -362,14 +363,15 @@ In *Pulp Adventures*, characters frequently encounter the eerie and unexplained.
     Characters who fail to overcome their fear might experience hallucinations, irrational behavior, or temporary paralysis, adding to the tension and unpredictability of supernatural encounters.
 
 **Occult Encounters**
-| D6 | Encounter |
-| -- | --------- |
-| 1  | An ancient curse is activated, bringing misfortune. |
-| 2  | A ghost or spirit demands justice or retribution. |
-| 3  | Discover a mystical artifact with unknown powers. |
-| 4  | Encounter a secret society performing dark rituals. |
-| 5  | Face a monstrous creature from folklore. |
-| 6  | Unravel a cryptic prophecy that impacts the current adventure. |
+
+| D6  | Encounter                                                      |
+| --- | -------------------------------------------------------------- |
+| 1   | An ancient curse is activated, bringing misfortune.            |
+| 2   | A ghost or spirit demands justice or retribution.              |
+| 3   | Discover a mystical artifact with unknown powers.              |
+| 4   | Encounter a secret society performing dark rituals.            |
+| 5   | Face a monstrous creature from folklore.                       |
+| 6   | Unravel a cryptic prophecy that impacts the current adventure. |
 
 #### Cutting-Edge Technology and Mad Science
 
@@ -391,14 +393,15 @@ In *Pulp Adventures*, characters often engage with futuristic gadgets and daring
   - **No, and...**: The experiment fails disastrously, creating significant new dangers.
 
 **Technology Encounters**
-| D6 | Encounter |
-| -- | --------- |
-| 1  | A malfunctioning device causes a dangerous situation. |
-| 2  | A rival scientist attempts to steal or sabotage your invention. |
-| 3  | Discover blueprints for a groundbreaking technology. |
-| 4  | Encounter a futuristic vehicle or mode of transportation. |
-| 5  | An experiment unleashes a strange or hostile entity. |
-| 6  | Gain a temporary technological advantage (e.g., experimental weapon, advanced surveillance tool). |
+
+| D6  | Encounter                                                                                         |
+| --- | ------------------------------------------------------------------------------------------------- |
+| 1   | A malfunctioning device causes a dangerous situation.                                             |
+| 2   | A rival scientist attempts to steal or sabotage your invention.                                   |
+| 3   | Discover blueprints for a groundbreaking technology.                                              |
+| 4   | Encounter a futuristic vehicle or mode of transportation.                                         |
+| 5   | An experiment unleashes a strange or hostile entity.                                              |
+| 6   | Gain a temporary technological advantage (e.g., experimental weapon, advanced surveillance tool). |
 
 #### Crime and Detective Work
 
@@ -464,6 +467,202 @@ In *Pulp Adventures*, characters embark on daring quests and face perilous situa
 At the end of the adventure you may add another trait to the character. It is better that this is related to how the story just ended and can be either a Skill, Gear, a new Frailty, or even a new Nemesis! You can also modify an existing trait to better represent an enhanced expertise.
 
 Also update the list of **NPCs**, **Locations**, and **Events** that may show up again in future adventures.
+
+## Vehicles
+
+In *Pulp Adventures*, a diverse array of vehicles enhances the thrill of exploration and adventure. From land to sea to air, these marvels of engineering combine period-appropriate technology with innovative flair to meet the diverse needs of daring adventurers.
+
+### Land Vehicles
+
+#### Thunder Roadsters
+**Concept**: Sleek, high-speed cars equipped with powerful engines and advanced suspension systems, designed for rapid travel across varied terrains. These "thunder roadsters" are perfect for chases and long-distance travel.
+
+**Common Uses**:
+- **High-Speed Chases**: Outrunning enemies or pursuing targets across city streets and open roads.
+- **Long-Distance Travel**: Traversing vast distances quickly, with a focus on speed and agility.
+
+#### Jungle Crawlers
+**Concept**: Robust, all-terrain vehicles designed for exploration and survival in harsh environments. These vehicles are equipped with features like reinforced chassis, powerful engines, and survival gear for uncharted territories.
+
+**Common Uses**:
+- **Exploration**: Navigating dense jungles, rocky deserts, and other difficult terrains.
+- **Survival Missions**: Providing essential support and equipment for long-term expeditions.
+
+#### Armored Juggernauts
+**Concept**: Heavy-duty, armored vehicles built for combat and defense. These juggernauts are fortified with thick plating and armed with various weapons, making them formidable in hostile environments.
+
+**Common Uses**:
+- **Combat Operations**: Engaging in battles and skirmishes with enhanced protection and firepower.
+- **Secure Transport**: Safely transporting valuable cargo or personnel through dangerous areas.
+
+#### Desert Racers
+**Concept**: Agile and fast vehicles optimized for desert conditions, with reinforced tires and dust-resistant engines. These racers are built for speed and maneuverability in sandy and arid landscapes.
+
+**Common Uses**:
+- **Desert Racing**: Competing in high-speed races across vast desert expanses.
+- **Quick Escapes**: Evading pursuers in challenging desert terrain.
+
+#### Urban Speedsters
+**Concept**: Compact and nimble cars designed for navigating crowded city streets. These speedsters are ideal for quick getaways and urban exploration, with advanced steering and braking systems.
+
+**Common Uses**:
+- **City Navigation**: Swiftly maneuvering through tight streets and heavy traffic.
+- **Urban Espionage**: Conducting covert operations in densely populated areas.
+
+#### Luxury Cruisers
+**Concept**: Elegant, high-comfort vehicles designed for leisurely travel and diplomatic missions. These cruisers offer luxurious amenities and smooth rides, reminiscent of grand ocean liners but on wheels.
+
+**Common Uses**:
+- **Leisure Travel**: Providing luxury tours through scenic and culturally rich routes.
+- **Diplomatic Missions**: Transporting dignitaries and officials in style and comfort.
+
+### Sea Vehicles
+
+#### Ocean Liners
+**Concept**: Large, luxurious ships designed for long-distance travel across the seas. These ocean liners offer comfort and opulence, making them perfect for extended voyages.
+
+**Common Uses**:
+- **Transatlantic Travel**: Comfortable journeys across vast oceans, connecting distant continents.
+- **Luxury Cruises**: Leisurely tours featuring onboard entertainment, dining, and relaxation.
+
+#### Submersibles
+**Concept**: Small, maneuverable underwater vessels equipped for deep-sea exploration. These submersibles are designed to withstand extreme pressure and provide a window into the ocean's depths.
+
+**Common Uses**:
+- **Deep-Sea Exploration**: Investigating oceanic trenches, coral reefs, and underwater ruins.
+- **Scientific Research**: Conducting marine biology studies and geological surveys.
+
+#### Pirate Ships
+**Concept**: Fast, agile ships equipped with cannons and other weaponry, designed for swift raids and battles on the high seas.
+
+**Common Uses**:
+- **Naval Combat**: Engaging enemy vessels in high-stakes sea battles.
+- **Smuggling Operations**: Transporting contraband stealthily across maritime borders.
+
+#### Coastal Patrol Boats
+**Concept**: Small, fast boats used by coast guards and adventurers for patrolling and quick-response missions.
+
+**Common Uses**:
+- **Patrol Missions**: Monitoring coastal areas for illegal activities and emergencies.
+- **Rescue Operations**: Quick response to maritime distress signals and rescues.
+
+### Air Vehicles
+
+#### Zeppelins
+**Concept**: Large airships designed for long-distance travel and observation, equipped with spacious cabins and observation decks.
+
+**Common Uses**:
+- **Scenic Tours**: Offering panoramic views of landscapes and cityscapes from the sky.
+- **Aerial Surveillance**: Conducting reconnaissance and gathering intelligence from above.
+
+#### Biplanes
+**Concept**: Agile, two-winged aircraft used for dogfights, reconnaissance, and short-range travel. These biplanes are staples of early aviation.
+
+**Common Uses**:
+- **Aerial Combat**: Engaging in thrilling dogfights with enemy aircraft.
+- **Reconnaissance**: Observing enemy movements and mapping terrain from the air.
+
+#### Gyrocopters
+**Concept**: Small, rotor-winged aircraft capable of vertical takeoff and landing, perfect for navigating difficult terrains and urban environments.
+
+**Common Uses**:
+- **Quick Transport**: Rapidly moving between locations, avoiding ground obstacles.
+- **Urban Exploration**: Maneuvering through tight city spaces and rooftops.
+
+#### Jetpacks
+**Concept**: Personal flying devices that allow for individual flight, enabling quick travel and spectacular aerial maneuvers.
+
+**Common Uses**:
+- **Rapid Deployment**: Quickly reaching high or inaccessible areas.
+- **Aerial Stunts**: Performing daring feats and evasive maneuvers in the air.
+
+### Vehicle Garage
+
+Each of these vehicles showcases the innovative integration of advanced technology and period charm, highlighting their unique capabilities and limitations.
+
+#### Armored Juggernaut
+- **Concept**: Battle Fortress
+- **Skills**: Heavy Armor, Weapon Mounts
+- **Frailty**: Slow and Unwieldy
+- **Gear**: Mounted Cannons, Reinforced Plating
+
+#### Biplane
+- **Concept**: Aerial Scout
+- **Skills**: Dogfighting, Reconnaissance
+- **Frailty**: Limited Range
+- **Gear**: Mounted Machine Guns, Binoculars
+
+#### Coastal Patrol Boat
+- **Concept**: Quick Responder
+- **Skills**: High Speed, Maneuverability
+- **Frailty**: Limited Armament
+- **Gear**: Searchlights, Rescue Equipment
+
+#### Desert Racer
+- **Concept**: Sand Speedster
+- **Skills**: Sand Navigation, High Speed
+- **Frailty**: Limited Cargo Capacity
+- **Gear**: Sand Tires, Dust Filters
+
+#### Gyrocopter
+- **Concept**: Urban Aviator
+- **Skills**: Vertical Takeoff, Tight Maneuvering
+- **Frailty**: Limited Speed
+- **Gear**: Compact Frame, Enhanced Rotors
+
+#### Jetpack
+- **Concept**: Personal Flyer
+- **Skills**: Quick Deployment, Aerial Acrobatics
+- **Frailty**: Limited Flight Duration
+- **Gear**: Fuel Pack, Stabilizing Fins
+
+#### Jungle Crawler
+- **Concept**: All-Terrain Explorer
+- **Skills**: Terrain Adaptability, Enhanced Durability
+- **Frailty**: Slow Speed on Roads
+- **Gear**: Survival Kit, Winch System
+
+#### Luxury Cruiser
+- **Concept**: Diplomatic Transport
+- **Skills**: Smooth Ride, Luxurious Comfort
+- **Frailty**: High Maintenance Costs
+- **Gear**: Plush Interior, Soundproofing
+
+#### Ocean Liner
+- **Concept**: Luxury Voyager
+- **Skills**: Long-Distance Travel, Onboard Amenities
+- **Frailty**: Slow Speed
+- **Gear**: Lavish Cabins, Dining Halls
+
+#### Pirate Ship
+- **Concept**: Sea Raider
+- **Skills**: Fast Maneuvering, Heavy Cannons
+- **Frailty**: Requires Large Crew
+- **Gear**: Cannons, Hidden Compartments
+
+#### Submersible
+- **Concept**: Deep-Sea Explorer
+- **Skills**: Deep-Water Navigation, Pressure Resistance
+- **Frailty**: Limited Range
+- **Gear**: Sonar Systems, Robotic Arms
+
+#### Thunder Roadster
+- **Concept**: High-Speed Pursuer
+- **Skills**: Rapid Acceleration, High Maneuverability
+- **Frailty**: Vulnerable to Rough Terrain
+- **Gear**: Turbo Boosters, Reinforced Tires
+
+#### Urban Speedster
+- **Concept**: City Navigator
+- **Skills**: Agile Handling, Quick Stops
+- **Frailty**: Limited Off-Road Capability
+- **Gear**: Advanced Braking System, Compact Size
+
+#### Zeppelin
+- **Concept**: Sky Observer
+- **Skills**: Long-Range Flight, Aerial Surveillance
+- **Frailty**: Vulnerable to Weather
+- **Gear**: Observation Decks, Radio Communication
 
 ## Setting Information
 
@@ -681,21 +880,121 @@ Events that defy logic and scientific explanation add a layer of mystery and int
 - **Reality Shifts**: Sudden and inexplicable changes in the environment or reality itself.
 - **Paranormal Activity**: Unexplained occurrences like objects moving on their own, strange noises, and disembodied voices.
 
-### Antagonists and Villains
-- **Criminal Masterminds**: Leaders of vast criminal networks with grandiose plans for power and wealth.
-- **Mad Scientists**: Inventors of dangerous technologies and bizarre experiments, often driven by obsessive goals.
-- **Corrupt Officials**: Politicians and military leaders using their power for personal gain and oppression.
-- **Cult Leaders**: Charismatic and manipulative figures leading their followers towards dark and destructive goals.
-- **Rival Adventurers**: Competitors seeking the same treasures and secrets, often using underhanded tactics.
-- **Mythical Creatures**: Powerful and intelligent beings from legend, such as vampires, werewolves, and ancient gods.
-
 ### Cutting-Edge Technology
-- **Experimental Aircraft**: Advanced planes and airships capable of unprecedented speeds and maneuvers.
-- **Ray Guns**: Futuristic weapons emitting powerful energy beams, used by heroes and villains alike.
-- **Robotic Companions**: Automatons designed for assistance, combat, or espionage.
-- **Gadgets and Gizmos**: Multi-functional devices like grappling hooks, miniature cameras, and portable radios.
-- **Advanced Vehicles**: High-speed cars, submarines, and motorcycles equipped with the latest technology.
-- **Scientific Marvels**: Inventions like invisibility cloaks, teleportation devices, and anti-gravity boots pushing the boundaries of the possible.
+
+These cutting-edge technologies add a thrilling, futuristic dimension to the adventures in *Pulp Adventures*. They provide heroes and villains alike with tools to achieve their goals, overcome challenges, and engage in epic confrontations.
+
+#### Experimental Aircraft
+In *Pulp Adventures*, the skies are filled with advanced planes and airships that boast unprecedented speeds and maneuvers. These experimental aircraft are the products of cutting-edge engineering and bold experimentation.
+
+- **Supersonic Jets**: Aircraft capable of breaking the sound barrier, enabling rapid travel and thrilling dogfights.
+- **Stealth Airships**: Large, silent vessels that can evade radar detection and deliver covert operations.
+- **Vertical Takeoff and Landing (VTOL) Planes**: Planes that can hover and land in tight spaces, perfect for secret missions.
+- **Amphibious Planes**: Aircraft designed to take off and land on water, expanding the reach of adventurers.
+- **Custom Modifications**: Personal touches like hidden compartments, enhanced armor, and advanced weaponry.
+
+#### Ray Guns
+Futuristic and powerful, ray guns are a staple in *Pulp Adventures*. These energy weapons are used by both heroes and villains, adding a sci-fi twist to classic battles.
+
+- **Disintegration Rays**: Weapons that can dissolve matter on impact, making them highly dangerous.
+- **Stun Blasters**: Non-lethal options that can incapacitate targets with a burst of energy.
+- **Heat Rays**: Guns that emit intense heat, capable of melting metal or igniting flammable materials.
+- **Pulse Cannons**: Devices that fire concentrated bursts of energy, effective against multiple targets.
+- **Plasma Rifles**: High-powered guns that shoot superheated plasma, causing explosive damage.
+
+#### Robotic Companions
+Automatons designed for various purposes accompany heroes on their adventures. These robotic companions provide assistance, combat support, and espionage capabilities.
+
+- **Combat Drones**: Armed robots designed for battle, providing firepower and tactical support.
+- **Spy Bots**: Small, stealthy robots equipped with cameras and recording devices for gathering intelligence.
+- **Utility Robots**: Versatile companions capable of performing a range of tasks, from repairs to medical assistance.
+- **AI Assistants**: Advanced robots with artificial intelligence, able to make decisions and provide strategic advice.
+- **Mech Suits**: Wearable robots that enhance the user's strength, agility, and durability in combat situations.
+
+#### Gadgets and Gizmos
+Inventive and multi-functional devices are essential tools for adventurers in *Pulp Adventures*. These gadgets and gizmos offer creative solutions to complex problems.
+
+- **Grappling Hooks**: Compact devices that allow for quick and easy scaling of walls and cliffs.
+- **Miniature Cameras**: Tiny, concealed cameras perfect for espionage and surveillance.
+- **Portable Radios**: Lightweight communication devices that keep adventurers connected across vast distances.
+- **Lockpicking Tools**: Sophisticated sets designed to bypass the most secure locks.
+- **Holographic Projectors**: Devices that create realistic holograms for deception and distraction.
+
+#### Advanced Vehicles
+High-speed and highly advanced, the vehicles in *Pulp Adventures* are equipped with the latest technology. These vehicles are built for speed, endurance, and versatility.
+
+- **Supercars**: High-performance cars capable of reaching incredible speeds and equipped with advanced gadgets.
+- **Submarines**: Underwater vessels designed for deep-sea exploration and covert operations.
+- **Motorcycles**: Agile and fast bikes with advanced features like cloaking devices and built-in weaponry.
+- **Hovercrafts**: Vehicles that can travel over land and water, ideal for navigating diverse terrains.
+- **Armored Trucks**: Heavily fortified vehicles designed for transporting valuable cargo and withstanding attacks.
+
+#### Scientific Marvels
+Inventions that push the boundaries of what is possible play a key role in *Pulp Adventures*. These scientific marvels provide heroes and villains with extraordinary capabilities.
+
+- **Invisibility Cloaks**: Devices that render the wearer invisible, perfect for stealth missions and escapes.
+- **Teleportation Devices**: Machines that can instantly transport individuals or objects across vast distances.
+- **Anti-Gravity Boots**: Footwear that allows the wearer to defy gravity, enabling walking on walls or ceilings.
+- **Energy Shields**: Portable barriers that provide protection against physical and energy-based attacks.
+- **Nanotechnology**: Microscopic machines that can heal injuries, enhance abilities, or manipulate matter.
+
+### Antagonists and Villains
+
+These antagonists and villains provide a diverse range of challenges and conflicts for players in *Pulp Adventures*. Their unique characteristics and motives ensure that every encounter is thrilling and unpredictable.
+
+#### Criminal Masterminds
+Leaders of vast criminal networks, these villains have grandiose plans for power and wealth. Their operations span continents, involving intricate plots and vast resources.
+
+- **Global Syndicates**: Organizations involved in smuggling, blackmail, extortion, and other illicit activities.
+- **Elaborate Heists**: Masterminds behind complex and high-stakes robberies targeting banks, museums, and treasuries.
+- **Manipulative Tactics**: Using threats, bribery, and deceit to control and influence others.
+- **Hidden Lairs**: Luxurious and well-guarded hideouts where they plan their next moves.
+- **Charismatic Leadership**: Strong, persuasive personalities capable of rallying and controlling large groups of henchmen.
+
+#### Mad Scientists
+Inventors and researchers pushing the boundaries of science, often with catastrophic results. Their obsessive goals drive them to create dangerous technologies and conduct unethical experiments.
+
+- **Frankenstein Complex**: Creating life or reanimating the dead with disastrous consequences.
+- **Dangerous Inventions**: Developing unstable weapons, mind-control devices, or other hazardous gadgets.
+- **Ethical Blind Spots**: Prioritizing scientific advancement over morality, leading to reckless experimentation.
+- **Secret Laboratories**: Hidden facilities filled with advanced technology and experimental subjects.
+- **Obsessive Goals**: Driven by a desire for recognition, revenge, or a warped vision of progress.
+
+#### Corrupt Officials
+Politicians and military leaders who use their power for personal gain and oppression. They manipulate systems and people to maintain control and expand their influence.
+
+- **Political Corruption**: Engaging in bribery, fraud, and manipulation to stay in power.
+- **Military Tyranny**: Using military forces to suppress dissent and control populations.
+- **Economic Exploitation**: Profiting from unethical business practices and exploiting resources.
+- **Double Lives**: Publicly appearing respectable while secretly engaging in nefarious activities.
+- **Network of Allies**: Building alliances with other corrupt individuals to consolidate power.
+
+#### Cult Leaders
+Charismatic and manipulative figures leading their followers towards dark and destructive goals. They often seek to summon otherworldly beings or gain forbidden knowledge.
+
+- **Charismatic Influence**: Using charm and persuasive rhetoric to recruit and control followers.
+- **Dark Rituals**: Conducting ceremonies to summon supernatural entities or gain dark powers.
+- **Fanatical Devotion**: Cult members willing to sacrifice anything for their leader’s vision.
+- **Secret Compounds**: Isolated and heavily guarded locations where the cult conducts its activities.
+- **Apocalyptic Goals**: Plans to bring about world-ending events or radical transformations of society.
+
+#### Rival Adventurers
+Competitors who seek the same treasures and secrets as the heroes, often using underhanded tactics to get ahead. They can be formidable opponents, matching the heroes in skill and resourcefulness.
+
+- **Treasure Hunters**: Skilled in archaeology and exploration, but morally flexible in their methods.
+- **Espionage**: Using spies and informants to stay one step ahead of the heroes.
+- **Sabotage**: Deliberately undermining the heroes’ efforts through traps and misinformation.
+- **Temporary Alliances**: Forming uneasy partnerships with the heroes, only to betray them later.
+- **Bragging Rights**: Driven by the desire to be recognized as the best in their field, often leading to reckless decisions.
+
+#### Mythical Creatures
+Powerful and intelligent beings from legend, these antagonists can range from ancient gods to mythical beasts. Their motives can vary from territorial defense to a desire for domination.
+
+- **Vampires**: Immortal beings with a thirst for blood, often controlling minions and influencing local populations.
+- **Werewolves**: Shape-shifters with incredible strength and a primal connection to nature.
+- **Ancient Gods**: Deities seeking worship and power, often with agendas that conflict with the mortal world.
+- **Dragons**: Enormous, intelligent reptiles with a hoard of treasure and a fierce protective instinct.
+- **Elemental Spirits**: Beings embodying natural forces, such as fire, water, earth, and air, with agendas tied to their element.
 
 ## Factions & Organizations
 
@@ -765,94 +1064,92 @@ The Royal Navy is a disciplined and bureaucratic organization tasked with protec
 
 The Archaeological Society is a group of scholarly investigators dedicated to uncovering ancient secrets. They are experts in archaeology and linguistics, but their naivety can lead them into dangerous situations involving grave robbers and supernatural guardians.
 
-## Political Entities
+### Relationship Matrix
 
-### Diplomatic Relationship Matrix
-
-|              | Adventurer's Guild | Shadow Syndicate | Order of the Serpent | Technocracy | Royal Navy | Archaeological Society |
-|--------------|--------------------|------------------|----------------------|-------------|------------|------------------------|
-| Adventurer's Guild | Neutral               | Hostile          | Tense                | Cordial     | Cordial    | Friendly               |
-| Shadow Syndicate   | Hostile               | Neutral          | Allied               | Cold        | Hostile    | Tense                  |
-| Order of the Serpent | Tense                | Allied           | Neutral              | Neutral     | Tense      | Hostile                |
-| Technocracy        | Cordial               | Cold             | Neutral              | Neutral     | Tense      | Cordial                |
-| Royal Navy         | Cordial               | Hostile          | Tense                | Tense       | Neutral    | Friendly               |
-| Archaeological Society | Friendly             | Tense            | Hostile              | Cordial     | Friendly   | Neutral                |
+|                        | Adventurer's Guild | Shadow Syndicate | Order of the Serpent | Technocracy | Royal Navy | Archaeological Society |
+| ---------------------- | ------------------ | ---------------- | -------------------- | ----------- | ---------- | ---------------------- |
+| Adventurer's Guild     | Neutral            | Hostile          | Tense                | Cordial     | Cordial    | Friendly               |
+| Shadow Syndicate       | Hostile            | Neutral          | Allied               | Cold        | Hostile    | Tense                  |
+| Order of the Serpent   | Tense              | Allied           | Neutral              | Neutral     | Tense      | Hostile                |
+| Technocracy            | Cordial            | Cold             | Neutral              | Neutral     | Tense      | Cordial                |
+| Royal Navy             | Cordial            | Hostile          | Tense                | Tense       | Neutral    | Friendly               |
+| Archaeological Society | Friendly           | Tense            | Hostile              | Cordial     | Friendly   | Neutral                |
 
 ## Adventure Tables
 
-| D66 | Adventure Hook                                         |
-| --- | ------------------------------------------------------ |
-| 11  | A mysterious artifact is discovered in a remote jungle.|
-| 12  | A renowned explorer goes missing in the desert.        |
-| 13  | A secret society plans a dangerous ritual in a city.   |
-| 14  | A powerful crime lord is plotting a major heist.       |
-| 15  | A haunted mansion hides a dark secret.                 |
-| 16  | A mad scientist's invention goes out of control.       |
-| 21  | A cursed relic brings misfortune to its owner.         |
-| 22  | A lost civilization is rumored to exist in the mountains.|
-| 23  | A daring rescue mission is needed in hostile territory.|
-| 24  | A smuggling ring is operating under the authorities' noses.|
-| 25  | An ancient prophecy predicts a world-changing event.   |
-| 26  | A series of bizarre murders baffles local authorities. |
-| 31  | A treasure map leads to an uncharted island.           |
-| 32  | A powerful organization is blackmailing prominent figures.|
-| 33  | A ghost ship is sighted off the coast.                 |
-| 34  | A high-profile trial attracts public attention.        |
-| 35  | A strange creature is terrorizing a rural village.     |
-| 36  | A forbidden book is stolen from a museum.              |
-| 41  | A rebellion is brewing in a distant colony.            |
-| 42  | A spy network is uncovered within the government.      |
-| 43  | A rare mineral is discovered with incredible properties.|
-| 44  | A series of natural disasters hints at supernatural causes.|
-| 45  | An old enemy returns seeking revenge.                  |
-| 46  | A secret laboratory is experimenting on humans.        |
-| 51  | A powerful storm threatens to destroy a settlement.    |
-| 52  | A political scandal rocks the capital.                 |
-| 53  | A notorious pirate is terrorizing the seas.            |
-| 54  | A new weapon is being developed by a rival nation.     |
-| 55  | A hidden valley is discovered with prehistoric creatures.|
-| 56  | A famous relic hunter is framed for theft.             |
-| 61  | A dangerous cult is recruiting new members.            |
-| 62  | A valuable shipment is hijacked by bandits.            |
-| 63  | A series of kidnappings has the city on edge.          |
-| 64  | A corrupt official is exposed by a brave journalist.   |
-| 65  | A forbidden romance causes a major conflict.           |
-| 66  | A miraculous cure is discovered but has deadly side effects.|
+| D66 | Adventure Hook                                               |
+| --- | ------------------------------------------------------------ |
+| 11  | A mysterious artifact is discovered in a remote jungle.      |
+| 12  | A renowned explorer goes missing in the desert.              |
+| 13  | A secret society plans a dangerous ritual in a city.         |
+| 14  | A powerful crime lord is plotting a major heist.             |
+| 15  | A haunted mansion hides a dark secret.                       |
+| 16  | A mad scientist's invention goes out of control.             |
+| 21  | A cursed relic brings misfortune to its owner.               |
+| 22  | A lost civilization is rumored to exist in the mountains.    |
+| 23  | A daring rescue mission is needed in hostile territory.      |
+| 24  | A smuggling ring is operating under the authorities' noses.  |
+| 25  | An ancient prophecy predicts a world-changing event.         |
+| 26  | A series of bizarre murders baffles local authorities.       |
+| 31  | A treasure map leads to an uncharted island.                 |
+| 32  | A powerful organization is blackmailing prominent figures.   |
+| 33  | A ghost ship is sighted off the coast.                       |
+| 34  | A high-profile trial attracts public attention.              |
+| 35  | A strange creature is terrorizing a rural village.           |
+| 36  | A forbidden book is stolen from a museum.                    |
+| 41  | A rebellion is brewing in a distant colony.                  |
+| 42  | A spy network is uncovered within the government.            |
+| 43  | A rare mineral is discovered with incredible properties.     |
+| 44  | A series of natural disasters hints at supernatural causes.  |
+| 45  | An old enemy returns seeking revenge.                        |
+| 46  | A secret laboratory is experimenting on humans.              |
+| 51  | A powerful storm threatens to destroy a settlement.          |
+| 52  | A political scandal rocks the capital.                       |
+| 53  | A notorious pirate is terrorizing the seas.                  |
+| 54  | A new weapon is being developed by a rival nation.           |
+| 55  | A hidden valley is discovered with prehistoric creatures.    |
+| 56  | A famous relic hunter is framed for theft.                   |
+| 61  | A dangerous cult is recruiting new members.                  |
+| 62  | A valuable shipment is hijacked by bandits.                  |
+| 63  | A series of kidnappings has the city on edge.                |
+| 64  | A corrupt official is exposed by a brave journalist.         |
+| 65  | A forbidden romance causes a major conflict.                 |
+| 66  | A miraculous cure is discovered but has deadly side effects. |
 
 ### Inspiration Tables
 
 #### Verbs
 
-| Verbs      | 1        | 2        | 3        | 4        | 5        | 6        |
-|------------|----------|----------|----------|----------|----------|----------|
-| 1          | Discover | Rescue   | Escape   | Investigate | Explore | Battle  |
-| 2          | Decipher | Sneak    | Defend   | Capture   | Navigate | Elude   |
-| 3          | Sabotage | Confront | Uncover  | Retrieve  | Infiltrate | Pursue |
-| 4          | Recover  | Decoy    | Steal    | Protect   | Examine  | Observe |
-| 5          | Betray   | Aid      | Summon   | Create    | Destroy  | Survive |
-| 6          | Challenge| Solve    | Expose   | Unravel   | Conceal  | Transport|
+| Verbs | 1         | 2        | 3       | 4           | 5          | 6         |
+| ----- | --------- | -------- | ------- | ----------- | ---------- | --------- |
+| 1     | Discover  | Rescue   | Escape  | Investigate | Explore    | Battle    |
+| 2     | Decipher  | Sneak    | Defend  | Capture     | Navigate   | Elude     |
+| 3     | Sabotage  | Confront | Uncover | Retrieve    | Infiltrate | Pursue    |
+| 4     | Recover   | Decoy    | Steal   | Protect     | Examine    | Observe   |
+| 5     | Betray    | Aid      | Summon  | Create      | Destroy    | Survive   |
+| 6     | Challenge | Solve    | Expose  | Unravel     | Conceal    | Transport |
 
 #### Adjectives
 
-| Adjectives   | 1        | 2        | 3        | 4        | 5        | 6        |
-|--------------|----------|----------|----------|----------|----------|----------|
-| 1            | Ancient  | Mysterious| Hidden  | Dangerous| Forbidden| Sacred   |
-| 2            | Powerful | Enigmatic | Lost    | Sinister | Unknown  | Exotic   |
-| 3            | Cursed   | Arcane   | Forgotten| Secret   | Rare     | Precious |
-| 4            | Treacherous| Haunted | Desolate| Eldritch | Legendary| Unseen   |
-| 5            | Fragile  | Disguised | Swift   | Rugged   | Perilous | Trapped  |
-| 6            | Dark     | Gleaming | Hidden  | Rugged   | Swift    | Eldritch |
+| Adjectives | 1           | 2          | 3         | 4         | 5         | 6        |
+| ---------- | ----------- | ---------- | --------- | --------- | --------- | -------- |
+| 1          | Ancient     | Mysterious | Hidden    | Dangerous | Forbidden | Sacred   |
+| 2          | Powerful    | Enigmatic  | Lost      | Sinister  | Unknown   | Exotic   |
+| 3          | Cursed      | Arcane     | Forgotten | Secret    | Rare      | Precious |
+| 4          | Treacherous | Haunted    | Desolate  | Eldritch  | Legendary | Unseen   |
+| 5          | Fragile     | Disguised  | Swift     | Rugged    | Perilous  | Trapped  |
+| 6          | Dark        | Gleaming   | Hidden    | Rugged    | Swift     | Eldritch |
 
 #### Nouns
 
-| Nouns       | 1          | 2          | 3          | 4          | 5          | 6          |
-|-------------|------------|------------|------------|------------|------------|------------|
-| 1           | Artifact   | Temple     | Creature   | Relic      | Society    | Ship       |
-| 2           | Jungle     | Villain    | Amulet     | Treasure   | Cult       | Scientist  |
-| 3           | Island     | Machine    | Hero       | Tomb       | Myth       | Ghost      |
-| 4           | City       | Map        | Monster    | Fortress   | Legend     | Library    |
-| 5           | Ruins      | Crystal    | Explorer   | Mansion    | Prodigy    | Lab        |
-| 6           | Valley     | Portal     | Detective  | Ruin       | Legend     | Spy        |
+| Nouns | 1        | 2       | 3         | 4        | 5       | 6         |
+| ----- | -------- | ------- | --------- | -------- | ------- | --------- |
+| 1     | Artifact | Temple  | Creature  | Relic    | Society | Ship      |
+| 2     | Jungle   | Villain | Amulet    | Treasure | Cult    | Scientist |
+| 3     | Island   | Machine | Hero      | Tomb     | Myth    | Ghost     |
+| 4     | City     | Map     | Monster   | Fortress | Legend  | Library   |
+| 5     | Ruins    | Crystal | Explorer  | Mansion  | Prodigy | Lab       |
+| 6     | Valley   | Portal  | Detective | Ruin     | Legend  | Spy       |
 
 ## Creatures & Foes
 
@@ -913,19 +1210,39 @@ The Archaeological Society is a group of scholarly investigators dedicated to un
 ## Appendix: Inspirational Media
 
 ### Books
-- *The Lost World* by Arthur Conan Doyle
-- *At the Mountains of Madness* by H.P. Lovecraft
-- *Tarzan of the Apes* by Edgar Rice Burroughs
+
+- The Shadow novels by Walter B. Gibson
+- Doc Savage stories by Lester Dent 
+- The Adventures of the Avenger by Paul Ernst
+- Conan the Barbarian stories by Robert E. Howard
+- The Spider stories by Norvell W. Page
+- Operator #5 series by Frederick C. Davis
+- G-8 and His Battle Aces aviation stories
+- The Black Mask detective fiction magazine
 
 ### Films
-- *Indiana Jones* series
-- *The Mummy* (1999)
-- *Sky Captain and the World of Tomorrow*
 
-### TV Series
-- *Tales of the Gold Monkey*
-- *The Adventures of Brisco County, Jr.*
-- *Penny Dreadful*
+- The Rocketeer (1991)
+- The Phantom (1996) 
+- The Shadow (1994)
+- Sky Captain and the World of Tomorrow (2004)
+- Indiana Jones series
+- The Mummy (1999) and sequels
+
+### Comic Books/Graphic Novels
+
+- The Spider comic adapations
+- The Shadow comics
+- Doc Savage comics
+- Rocketeer comics by Dave Stevens
+- The Adventures of Tintin by Hergé
+
+###  Other Media
+
+- Old-time radio dramas like The Shadow
+- Pulp-influenced video games like BioShock Infinite
+- Arte Moderne illustrations and cover art
+- Two-fisted "men's adventure" magazine art
 
 ## License
 
