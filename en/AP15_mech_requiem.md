@@ -35,7 +35,7 @@ To play *Legends of Camelot* you will need:
 - **Character sheet**: you may use the provided sheet at the back or a simple index card.
 - **Notebook**: *Legends of Camelot* is not a solo journaling game, you can easily play it in the "theater of mind". But you can keep track of your game if you feel the need!
 
-## Setting introduction
+## Setting Outline
 
 1. **World Powers and Politics**:
    - Earth is divided among several Great Powers, successors to today’s nations, each with its own ideologies, economies, and military capabilities.
@@ -700,7 +700,7 @@ At the end of the adventure you may add another trait to the character. It is be
 
 Also update the list of **NPCs**, **Locations**, and **Events** that may show up again in future adventures.
 
-## Mech Specific Rules
+## Mech Rules
 
 ### Mech Conflict Resolution
 
