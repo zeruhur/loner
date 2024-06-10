@@ -284,7 +284,7 @@ At the end of the current scene sometimes you will be clear about the direction 
 
 ### Open-Ended Question or Get Inspired
 
-To answer an Open-Ended question, roll 1d6 once on each of the following tables (roll at least a verb and a noun, adjectives are optional).
+To answer an Open-Ended question, roll 1d6 once on each of the Inspiration Tables (roll at least a verb and a noun, adjectives are optional).
 
 ### When the story ends
 
