@@ -351,6 +351,19 @@ Upon reaching your destination, consult your map or the Oracle for details about
 
 [Matrix of diplomatic relations among the various tribes in tabular form, I imagine that in the columns and rows there are the names of the political entities and in the boxes the type of relationship on this scale: Hostile, Tense, Cold, Neutral, Cordial, Friendly, Allied]
 
+## Creatures & Foes
+
+[Bestiary for the setting, 36 creatures, each in the following format:]
+
+### [Creature Name]
+- **Concept**: [Adjective + Noun]
+- **Skills**: [Two general traits that help to do things]
+- **Frailty**: [One general trait that hinder the owner]
+- **Gear**: [Two pieces of special equipment]
+- **Goal**: [Long term objective]
+- **Motive**: [General motivation]
+- **Nemesis**: 
+
 ## Adventure Tables
 
 [All the relevant random tables to flesh out the setting and the play in the following format]
@@ -430,19 +443,6 @@ Upon reaching your destination, consult your map or the Oracle for details about
 | 5   |     |     |     |     |     |     |
 | 6   |     |     |     |     |     |     |
 
-
-## Creatures & Foes
-
-[Bestiary for the setting, 36 creatures, each in the following format:]
-
-### [Creature Name]
-- **Concept**: 
-- **Skills**: 
-- **Frailty**: 
-- **Gear**: 
-- **Goal**:
-- **Motive**: 
-- **Nemesis**:
 
 ## Appendix: Inspirational Media
 
