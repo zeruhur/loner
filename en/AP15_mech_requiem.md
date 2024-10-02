@@ -5,10 +5,37 @@ title: Mech Requiem
 
 # Introduction
 
-## Overview
-_Mech Requiem_ unfolds in a future Earth, now fractured by decades of conflict and high-tech warfare. By the 2300s, the world has evolved into a complex web of alliances and rivalries among great powers, leading to a continuous state of proxy wars fought through advanced technology and specialized mechs.
+_Mech Requiem_ is a solo tabletop RPG adventure in a future Earth, now fractured by decades of conflict and high-tech warfare. By the 2300s, the world has evolved into a complex web of alliances and rivalries among great powers, leading to a continuous state of proxy wars fought through advanced technology and specialized mechs.
 
-## Key Setting Points
+*Legends of Camelot* follows the following design principles:
+
+1. **Portable**: To play you will need a few common (six-sided) dice and writing materials. Anything else is optional and not essential.
+2. **Rules-Light**: The game relies on a few rules and only one solving mechanic, easy to learn and eventually to memorize.
+3. **Tag-based**: Characters and situations are defined only by qualitative descriptors and no quantitative characteristics.
+
+With a focus on quick resolutions, Mech: Requiem throws you headfirst into the heart of the action. Your character will be defined by thematic tags, allowing you to craft a hero that perfectly embodies the spirit of this era - be it a “Mech Pilot” or a “Guerrilla Fighter”.
+
+### What is a Role Playing Game (RPG)?
+A role-playing game (RPG) is a type of game in which players assume the roles of fictional characters and act out their actions and decisions within a narrative or imaginary setting. The outcome of these actions and decisions is often determined by a set of rules and game mechanics, such as dice rolls or statistical attributes of the characters. Players may also collaborate to create a shared story or narrative through their characters' actions and interactions.
+
+### What is a Solo RPG?
+
+In a solo RPG a single player takes on the roles of one or more characters, while also simultaneously managing some elements of the game world. These games typically involve the use of a rule system and game mechanics to determine the outcome of actions taken by the player-controlled characters. 
+Unlike a gamebook (such as the Fighting Fantasy, Lone Wolf, and Tunnels & Trolls series) a solo RPG is not a form of interactive, forked narrative in which outcomes are pre-determined and limited by the author's choices.
+
+Through the interaction of player, oracle, tools, and prompts, the character's actions will build an **emergent narrative** within whose boundaries anything can be attempted, without predetermined limits.
+
+### Safety Tools
+You will play alone, but be sure to play in an environment that is comfortable for you, without overexerting yourself, and reserve the option to stop as soon as you feel uncomfortable for any reason, physical or emotional. Don't be afraid to tackle new themes, but do so in full awareness of your boundaries.
+
+### Minimum Requirements
+To play *Legends of Camelot* you will need:
+- **4 six-sided dice** (also known as d6s): two pairs of different colors
+- **Paper and writing tools**: at least a sheet of scrap paper and a pencil, but index cards or sticky notes are a fine addition
+- **Character sheet**: you may use the provided sheet at the back or a simple index card.
+- **Notebook**: *Legends of Camelot* is not a solo journaling game, you can easily play it in the "theater of mind". But you can keep track of your game if you feel the need!
+
+## Setting Outline
 
 1. **World Powers and Politics**:
    - Earth is divided among several Great Powers, successors to today’s nations, each with its own ideologies, economies, and military capabilities.
@@ -156,8 +183,55 @@ These **traits** are described by **tags**, descriptive words or phrases that ca
 | 5   | Encryption Devices | Custom Weaponry | Emergency Beacon | Energy Shield Generator | Undercover ID | Long-Range Comms Device |
 | 6   | Resource Scanner   | Antique Sidearm | Press Credentials | Biohazard Suit | Remote Access Tools | Advanced Surveillance Equipment |
 
+### Names
+
+#### Male Names
+
+|     | 1       | 2       | 3       | 4       | 5       | 6       |
+| --- | ------- | ------- | ------- | ------- | ------- | ------- |
+| 1   | Aiden   | Blake   | Connor  | Dylan   | Ethan   | Felix   |
+| 2   | Gavin   | Hugo    | Isaac   | Jasper  | Kyle    | Logan   |
+| 3   | Mason   | Nolan   | Oscar   | Ryan    | Shane   | Trent   |
+| 4   | Victor  | Wyatt   | Zane    | Alex    | Brett   | Carter  |
+| 5   | Devon   | Finn    | Grant   | Heath   | Jonas   | Lance   |
+| 6   | Mark    | Neal    | Owen    | Reid    | Seth    | Theo    |
+
+#### Female Names
+
+|     | 1       | 2       | 3       | 4       | 5       | 6       |
+| --- | ------- | ------- | ------- | ------- | ------- | ------- |
+| 1   | Ava     | Bella   | Chloe   | Daisy   | Ella    | Fiona   |
+| 2   | Grace   | Hazel   | Iris    | Jade    | Kara    | Lily    |
+| 3   | Mia     | Nora    | Ruby    | Sara    | Tess    | Zoe     |
+| 4   | Lila    | Nia     | Quinn   | Paige   | Rose    | Skye    |
+| 5   | Claire  | Emma    | Faith   | Hope    | Ivy     | June    |
+| 6   | Kate    | Leah    | Maya    | Nina    | Olive   | Piper   |
+
+#### Surnames
+
+|     | 1       | 2       | 3       | 4       | 5       | 6       |
+| --- | ------- | ------- | ------- | ------- | ------- | ------- |
+| 1   | Adams   | Blake   | Carter  | Davis   | Evans   | Foster  |
+| 2   | Grant   | Harris  | Jenkins | Keller  | Lewis   | Morgan  |
+| 3   | Nelson  | Parker  | Quinn   | Rogers  | Sanders | Taylor  |
+| 4   | Vaughn  | Walker  | Young   | Bennett | Collins | Foster  |
+| 5   | Green   | Hall    | Mason   | Powell  | Turner  | Watson  |
+| 6   | Brooks  | Cooper  | Dixon   | Fisher  | Grant   | Hughes  |
+
+#### Nicknames
+
+|     | 1       | 2       | 3       | 4       | 5       | 6       |
+| --- | ------- | ------- | ------- | ------- | ------- | ------- |
+| 1   | Ace     | Blade   | Buzz    | Dash    | Hawk    | Jinx    |
+| 2   | Maverick| Tank    | Viper   | Wolf    | Ghost   | Nitro   |
+| 3   | Flash   | Rocket  | Shadow  | Storm   | Blaze   | Spike   |
+| 4   | Bolt    | Colt    | Dagger  | Falcon  | Grit    | Phantom |
+| 5   | Rook    | Ranger  | Scout   | Stryker | Talon   | Trigger |
+| 6   | Wraith  | Zephyr  | Arrow   | Echo    | Rebel   | Swift   |
 
 # Mechs
+
+In the world of _Mech: Requiem_, mechs are at the forefront of conflict and survival. These towering machines are not just tools of war but symbols of power, technological prowess, and human ingenuity. Each mech is a complex amalgamation of advanced systems, specialized equipment, and inherent vulnerabilities. Understanding these traits is crucial for effectively deploying and commanding these machines on the battlefield or within any mission scenario.
 
 ## Traits
 
@@ -626,7 +700,7 @@ At the end of the adventure you may add another trait to the character. It is be
 
 Also update the list of **NPCs**, **Locations**, and **Events** that may show up again in future adventures.
 
-## Mech Specific Rules
+## Mech Rules
 
 ### Mech Conflict Resolution
 
@@ -1286,25 +1360,85 @@ To enrich the narrative and offer diverse gameplay opportunities in _Mech Requie
 
 #### Table 1: Military and Political Intrigue
 
-|     | 1                         | 2                           | 3                             | 4                               | 5                               | 6                               |
-|-----|---------------------------|-----------------------------|-------------------------------|---------------------------------|---------------------------------|---------------------------------|
-| **1** | **Coup Attempt** - Uncover a plot to overthrow a local leader dependent on your faction’s support. | **Spy Network** - Dismantle a spy network leaking critical mech tech to rivals. | **Prisoner Exchange** - Negotiate or sabotage a high-stakes prisoner exchange between factions. | **Ambassador Assassination** - Prevent the assassination of a key ambassador at a peace summit. | **Treaty Violation** - Investigate and expose a violation of international warfare treaties. | **Border Dispute** - Resolve a volatile dispute over resource-rich territory newly discovered. |
-| **2** | **AI Uprising** - Suppress or ally with an AI uprising seeking autonomy from human control. | **Secret Weapons Test** - Uncover the truth behind a secret weapons test in a neutral zone. | **Diplomatic Marriage** - Secure or disrupt a marriage meant to unite two warring factions. | **Insurgent Uprising** - Aid or quell an uprising by oppressed peoples in a mech production region. | **Election Interference** - Discover who is behind the interference in a critical democratic election. | **Terrorist Threat** - Thwart a plan to use stolen mechs in a major terrorist attack. |
-| **3** | **Peacekeeper Corruption** - Investigate corruption within the international peacekeeping forces. | **War Crimes Tribunal** - Protect a witness crucial to an international war crimes tribunal. | **Nuclear Threat** - De-escalate a situation where rogue elements threaten to use nuclear weapons. | **Corporate Espionage** - Track down corporate spies stealing mech designs for a rival company. | **Ceasefire Negotiation** - Facilitate or sabotage ceasefire negotiations between hostile nations. | **Smuggling Ring** - Bust a smuggling ring dealing in illegal mech parts and forbidden technologies. |
-| **4** | **Refugee Crisis** - Manage or assist in a crisis involving refugees displaced by mech warfare. | **Resource Hoarding** - Expose a scheme by a major power to hoard critical resources during a shortage. | **Mutiny Within Ranks** - Address a mutiny within your own ranks, driven by moral or ethical disputes. | **Bioweapon Scare** - Contain a bioweapon outbreak mistakenly released during a military skirmish. | **Information Leak** - Trace a leak that has exposed sensitive operational details to enemy factions. | **Civil War** - Navigate the complexities of a civil war where mechs play a central role. |
-| **5** | **Historical Relics** - Protect or capture ancient relics that hold strategic or symbolic importance. | **VIP Protection** - Secure the safety of a VIP who holds the key to stabilizing a volatile region. | **Mech Arena Sabotage** - Investigate sabotage in a mech arena that has geopolitical implications. | **Illegal Experiments** - Uncover illegal genetic experiments on soldiers to enhance mech operation. | **Rebellion Support** - Decide whether to support a rebellion against a tyrannical ruler exploiting mech technology. | **Satellite Hijacking** - Prevent the hijacking of military satellites crucial for mech navigation. |
-| **6** | **Undercover Mission** - Go undercover in a hostile nation to gather intelligence on mech advancements. | **Hostage Crisis** - Resolve a hostage crisis involving key military engineers in a besieged compound. | **Defector Protection** - Protect a defector who possesses critical information on enemy mechs. | **Rogue Mech Hunter** - Track down and neutralize a rogue mech that has gone haywire in a civilian area. | **Technological Cold War** - Engage in covert operations to gain an edge in a technological cold war. | **Environmental Sabotage** - Investigate environmental sabotage aimed at crippling mech fuel sources. |
+| D66 | Intrigue                                               |
+| --- | --------------------------------------------------------------------- |
+| 11  | **Coup Attempt** - Uncover a plot to overthrow a local leader dependent on your faction’s support. |
+| 12  | **Spy Network** - Dismantle a spy network leaking critical mech tech to rivals. |
+| 13  | **Prisoner Exchange** - Negotiate or sabotage a high-stakes prisoner exchange between factions. |
+| 14  | **Ambassador Assassination** - Prevent the assassination of a key ambassador at a peace summit. |
+| 15  | **Treaty Violation** - Investigate and expose a violation of international warfare treaties. |
+| 16  | **Border Dispute** - Resolve a volatile dispute over resource-rich territory newly discovered. |
+| 21  | **AI Uprising** - Suppress or ally with an AI uprising seeking autonomy from human control. |
+| 22  | **Secret Weapons Test** - Uncover the truth behind a secret weapons test in a neutral zone. |
+| 23  | **Diplomatic Marriage** - Secure or disrupt a marriage meant to unite two warring factions. |
+| 24  | **Insurgent Uprising** - Aid or quell an uprising by oppressed peoples in a mech production region. |
+| 25  | **Election Interference** - Discover who is behind the interference in a critical democratic election. |
+| 26  | **Terrorist Threat** - Thwart a plan to use stolen mechs in a major terrorist attack. |
+| 31  | **Peacekeeper Corruption** - Investigate corruption within the international peacekeeping forces. |
+| 32  | **War Crimes Tribunal** - Protect a witness crucial to an international war crimes tribunal. |
+| 33  | **Nuclear Threat** - De-escalate a situation where rogue elements threaten to use nuclear weapons. |
+| 34  | **Corporate Espionage** - Track down corporate spies stealing mech designs for a rival company. |
+| 35  | **Ceasefire Negotiation** - Facilitate or sabotage ceasefire negotiations between hostile nations. |
+| 36  | **Smuggling Ring** - Bust a smuggling ring dealing in illegal mech parts and forbidden technologies. |
+| 41  | **Refugee Crisis** - Manage or assist in a crisis involving refugees displaced by mech warfare. |
+| 42  | **Resource Hoarding** - Expose a scheme by a major power to hoard critical resources during a shortage. |
+| 43  | **Mutiny Within Ranks** - Address a mutiny within your own ranks, driven by moral or ethical disputes. |
+| 44  | **Bioweapon Scare** - Contain a bioweapon outbreak mistakenly released during a military skirmish. |
+| 45  | **Information Leak** - Trace a leak that has exposed sensitive operational details to enemy factions. |
+| 46  | **Civil War** - Navigate the complexities of a civil war where mechs play a central role. |
+| 51  | **Historical Relics** - Protect or capture ancient relics that hold strategic or symbolic importance. |
+| 52  | **VIP Protection** - Secure the safety of a VIP who holds the key to stabilizing a volatile region. |
+| 53  | **Mech Arena Sabotage** - Investigate sabotage in a mech arena that has geopolitical implications. |
+| 54  | **Illegal Experiments** - Uncover illegal genetic experiments on soldiers to enhance mech operation. |
+| 55  | **Rebellion Support** - Decide whether to support a rebellion against a tyrannical ruler exploiting mech technology. |
+| 56  | **Satellite Hijacking** - Prevent the hijacking of military satellites crucial for mech navigation. |
+| 61  | **Undercover Mission** - Go undercover in a hostile nation to gather intelligence on mech advancements. |
+| 62  | **Hostage Crisis** - Resolve a hostage crisis involving key military engineers in a besieged compound. |
+| 63  | **Defector Protection** - Protect a defector who possesses critical information on enemy mechs. |
+| 64  | **Rogue Mech Hunter** - Track down and neutralize a rogue mech that has gone haywire in a civilian area. |
+| 65  | **Technological Cold War** - Engage in covert operations to gain an edge in a technological cold war. |
+| 66  | **Environmental Sabotage** - Investigate environmental sabotage aimed at crippling mech fuel sources. |
 
 #### Table 2: Exploration and Recovery Operations
 
-|     | 1                             | 2                         | 3                            | 4                             | 5                                | 6                              |
-|-----|-------------------------------|---------------------------|------------------------------|--------------------------------|----------------------------------|--------------------------------|
-| **1** | **Lost City Exploration** - Explore a city abandoned after a catastrophic mech battle. | **Artifact Recovery** - Recover a powerful pre-war artifact that could change the balance of power. | **Ghost Mech** - Investigate sightings of a "ghost mech" appearing in war ruins across the continent. | **Black Box Retrieval** - Retrieve the black box from a downed mech before enemy forces locate it. | **Relic Weapon** - Secure an ancient weapon that has resurfaced, now highly effective against mechs. | **Scientific Expedition** - Protect a scientific expedition studying the effects of war on local ecosystems. |
-| **2** | **Drone Swarm** - Stop a swarm of combat drones that have malfunctioned and are attacking civilians. | **Old Battlefield** - Survey an old battlefield where new, valuable resources have been discovered. | **Time Capsule** - Locate and secure a time capsule believed to contain advanced pre-war technologies. | **Forbidden Zone** - Venture into a zone forbidden due to high radiation and uncover its secrets. | **Escapees** - Track down prisoners who have escaped from a remote penal colony using jury-rigged mechs. | **Ancient Ruins** - Explore ancient ruins that are rumored to be powered by unknown technology. |
-| **3** | **Mech Graveyard** - Salvage rare parts from a mech graveyard that is said to be haunted by fallen pilots. | **Island Base** - Reestablish contact with a remote island base that has gone silent after a storm. | **Contaminated River** - Clean up a river contaminated by mech waste, saving a region's water supply. | **Cryogenics Vault** - Discover a hidden vault with cryogenically frozen individuals from before the war. | **Abandoned Lab** - Investigate an abandoned lab where experimental mechs were developed. | **Weapon Disarmament** - Disarm a decommissioned mech that is threatening to explode in a populated area. |
-| **4** | **Rescue Operation** - Conduct a daring rescue operation for civilians trapped in a siege. | **Supply Convoy** - Secure a vital supply convoy passing through a region known for mech pirate attacks. | **Wreckage Analysis** - Analyze wreckage to trace the source of mech parts used in illegal modifications. | **Forgotten Colony** - Help a forgotten colony that was cut off during the war and now seeks aid. | **Underwater Recovery** - Recover important data from a mech that sank in deep waters during a battle. | **Wildlife Preservation** - Assist in preserving wildlife that has adapted unusually to post-war environments. |
-| **5** | **Energy Crisis** - Resolve an energy crisis by reclaiming a power plant taken over by mech insurgents. | **Orbital Debris** - Clear orbital debris threatening space operations, remnants of a destroyed mech satellite. | **Cyber Hack** - Trace a cyber hack back to its source, a facility using illegal AI to control mech operations. | **Militia Disbandment** - Disband a militia that has been terrorizing locals with a stolen mech. | **Desert Crossing** - Guide a caravan across a mech-war-scarred desert that's rife with unexploded ordnances. | **Mountain Stronghold** - Break a siege on a mountain stronghold where key personnel are trapped. |
-| **6** | **Volcanic Activity** - Investigate increased volcanic activity potentially triggered by deep-earth mining mechs. | **Frozen Tundra** - Retrieve samples from a tundra where an experimental mech has altered the ecosystem. | **Bioweapon Cleanup** - Clean up a region affected by a bioweapon that was accidentally released from a mech. | **Secret Facility** - Infiltrate a secret facility rumored to be developing a new type of stealth mech. | **Catastrophe Simulation** - Participate in a high-stakes simulation of a catastrophic mech malfunction. | **Jungle Labs** - Secure hidden labs in the jungle where illegal genetic experiments on mechs are conducted. |
+| D66 | Operation                                               |
+| --- | --------------------------------------------------------------------- |
+| 11  | **Lost City Exploration** - Explore a city abandoned after a catastrophic mech battle. |
+| 12  | **Artifact Recovery** - Recover a powerful pre-war artifact that could change the balance of power. |
+| 13  | **Ghost Mech** - Investigate sightings of a "ghost mech" appearing in war ruins across the continent. |
+| 14  | **Black Box Retrieval** - Retrieve the black box from a downed mech before enemy forces locate it. |
+| 15  | **Relic Weapon** - Secure an ancient weapon that has resurfaced, now highly effective against mechs. |
+| 16  | **Scientific Expedition** - Protect a scientific expedition studying the effects of war on local ecosystems. |
+| 21  | **Drone Swarm** - Stop a swarm of combat drones that have malfunctioned and are attacking civilians. |
+| 22  | **Old Battlefield** - Survey an old battlefield where new, valuable resources have been discovered. |
+| 23  | **Time Capsule** - Locate and secure a time capsule believed to contain advanced pre-war technologies. |
+| 24  | **Forbidden Zone** - Venture into a zone forbidden due to high radiation and uncover its secrets. |
+| 25  | **Escapees** - Track down prisoners who have escaped from a remote penal colony using jury-rigged mechs. |
+| 26  | **Ancient Ruins** - Explore ancient ruins that are rumored to be powered by unknown technology. |
+| 31  | **Mech Graveyard** - Salvage rare parts from a mech graveyard that is said to be haunted by fallen pilots. |
+| 32  | **Island Base** - Reestablish contact with a remote island base that has gone silent after a storm. |
+| 33  | **Contaminated River** - Clean up a river contaminated by mech waste, saving a region's water supply. |
+| 34  | **Cryogenics Vault** - Discover a hidden vault with cryogenically frozen individuals from before the war. |
+| 35  | **Abandoned Lab** - Investigate an abandoned lab where experimental mechs were developed. |
+| 36  | **Weapon Disarmament** - Disarm a decommissioned mech that is threatening to explode in a populated area. |
+| 41  | **Rescue Operation** - Conduct a daring rescue operation for civilians trapped in a siege. |
+| 42  | **Supply Convoy** - Secure a vital supply convoy passing through a region known for mech pirate attacks. |
+| 43  | **Wreckage Analysis** - Analyze wreckage to trace the source of mech parts used in illegal modifications. |
+| 44  | **Forgotten Colony** - Help a forgotten colony that was cut off during the war and now seeks aid. |
+| 45  | **Underwater Recovery** - Recover important data from a mech that sank in deep waters during a battle. |
+| 46  | **Wildlife Preservation** - Assist in preserving wildlife that has adapted unusually to post-war environments. |
+| 51  | **Energy Crisis** - Resolve an energy crisis by reclaiming a power plant taken over by mech insurgents. |
+| 52  | **Orbital Debris** - Clear orbital debris threatening space operations, remnants of a destroyed mech satellite. |
+| 53  | **Cyber Hack** - Trace a cyber hack back to its source, a facility using illegal AI to control mech operations. |
+| 54  | **Militia Disbandment** - Disband a militia that has been terrorizing locals with a stolen mech. |
+| 55  | **Desert Crossing** - Guide a caravan across a mech-war-scarred desert that's rife with unexploded ordnances. |
+| 56  | **Mountain Stronghold** - Break a siege on a mountain stronghold where key personnel are trapped. |
+| 61  | **Volcanic Activity** - Investigate increased volcanic activity potentially triggered by deep-earth mining mechs. |
+| 62  | **Frozen Tundra** - Retrieve samples from a tundra where an experimental mech has altered the ecosystem. |
+| 63  | **Bioweapon Cleanup** - Clean up a region affected by a bioweapon that was accidentally released from a mech. |
+| 64  | **Secret Facility** - Infiltrate a secret facility rumored to be developing a new type of stealth mech. |
+| 65  | **Catastrophe Simulation** - Participate in a high-stakes simulation of a catastrophic mech malfunction. |
+| 66  | **Jungle Labs** - Secure hidden labs in the jungle where illegal genetic experiments on mechs are conducted. |
 
 ## Appendices
 

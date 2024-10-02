@@ -3,6 +3,7 @@
 - **English Version**
   - [Core Rules](en/loner-en.md)
   - [Adventure Packs](en/adventure-packs.md)
+  - [Geared Towards Loner games](en/geared-towards-loner.md)
   - [FAQ](/en/faq.md)
 - **Versione Italiana**
   - [Regolamento](it/loner-ita.md)

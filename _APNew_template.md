@@ -284,7 +284,7 @@ At the end of the current scene sometimes you will be clear about the direction 
 
 ### Open-Ended Question or Get Inspired
 
-To answer an Open-Ended question, roll 1d6 once on each of the following tables (roll at least a verb and a noun, adjectives are optional).
+To answer an Open-Ended question, roll 1d6 once on each of the Inspiration Tables (roll at least a verb and a noun, adjectives are optional).
 
 ### When the story ends
 
@@ -316,11 +316,17 @@ Upon reaching your destination, consult your map or the Oracle for details about
 
 ## Setting Information
 
-### Economy
+### Geography
 
-### Culture
+### Cultures & People
 
-### Technology
+### Trade and Commerce
+
+### Art and Culture
+
+### Magic and Mysticism
+
+### Folklore and Mythology
 
 ## Factions & Organizations
 
@@ -344,6 +350,19 @@ Upon reaching your destination, consult your map or the Oracle for details about
 ### Diplomatic Relationship Matrix
 
 [Matrix of diplomatic relations among the various tribes in tabular form, I imagine that in the columns and rows there are the names of the political entities and in the boxes the type of relationship on this scale: Hostile, Tense, Cold, Neutral, Cordial, Friendly, Allied]
+
+## Creatures & Foes
+
+[Bestiary for the setting, 36 creatures, each in the following format:]
+
+### [Creature Name]
+- **Concept**: [Adjective + Noun]
+- **Skills**: [Two general traits that help to do things]
+- **Frailty**: [One general trait that hinder the owner]
+- **Gear**: [Two pieces of special equipment]
+- **Goal**: [Long term objective]
+- **Motive**: [General motivation]
+- **Nemesis**: 
 
 ## Adventure Tables
 
@@ -424,19 +443,6 @@ Upon reaching your destination, consult your map or the Oracle for details about
 | 5   |     |     |     |     |     |     |
 | 6   |     |     |     |     |     |     |
 
-
-## Creatures & Foes
-
-[Bestiary for the setting, 36 creatures, each in the following format:]
-
-### [Creature Name]
-- **Concept**: 
-- **Skills**: 
-- **Frailty**: 
-- **Gear**: 
-- **Goal**:
-- **Motive**: 
-- **Nemesis**:
 
 ## Appendix: Inspirational Media
 
