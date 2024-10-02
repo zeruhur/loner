@@ -16,5 +16,10 @@ Use them as non-binding guidelines and inspiration, let your imagination run wil
 - [Pirates Adventure Pack](en/AP10_pirates.md) 
 - [Western Adventure Pack](en/AP11_western.md)
 - [Cyberpunk Adventure Pack](en/AP12_cyberpunk.md)
+
+## Geared Towards Loner Games
+
 - [Kwaidan!](en/AP13_kwaidan.md)
 - [Cog & Compass](en/AP14_Cog&Compass.md)
+- [Mech: Requiem](en/AP15_mech_requiem)
+- [Legends of Camelot](en/AP16_legends_of_camelot.md)
