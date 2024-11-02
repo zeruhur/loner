@@ -1,204 +1,206 @@
 # Loner Companion
 
+# Loner Companion
+
 ## Introduction
 
 ### Purpose of This Handbook
 
-Welcome to the **Loner Companion**, a guide to enhance your experience with *Loner*, a solo RPG focused on minimalist, emergent storytelling. This guide goes beyond the core rules to explore the principles and philosophy that make *Loner* immersive and story-driven. This guide provides insights into how *Loner* balances simplicity with depth, explaining the design choices behind each mechanic and the narrative tools available to you.
+Welcome to the **Loner Companion**! Think of this guide as your travel buddy for diving deeper into *Loner*, a solo RPG focused on minimalist, emergent storytelling. We're not just covering the rules here—we're taking a look under the hood, talking about why *Loner* works the way it does and how you can make it sing in your own adventures. It's about getting to the core of what makes *Loner* special and how you can bring that magic to life.
 
-This guide clarifies gameplay and offers a deeper understanding of the game's philosophy, helping you adapt it to your solo RPG adventures.
+Consider this a conversation between us, where I share insights to help you get the most out of your journey. Whether you're just starting out or have already played a few sessions, this guide is here to offer clarity, inspiration, and a deeper understanding of the game's philosophy.
 
 ### Understanding the Philosophy of Loner
 
-At its heart, *Loner* embodies a storytelling approach built around three core principles: **Fiction First**, **Emergent Narrative**, and **Fictional Positioning**. Each principle emphasizes narrative-driven gameplay, enabling you to create rich stories with a single protagonist in any setting.
+At its heart, *Loner* is all about telling a story—your story. There are three key ideas that shape the way we play: **Fiction First**, **Emergent Narrative**, and **Fictional Positioning**. These principles are all about letting the narrative take center stage, so you can create deep, compelling stories with your protagonist, no matter where your imagination takes you.
 
-- **Fiction First**: In *Loner*, the story always takes precedence over rules and mechanics. Instead of focusing on dice rolls or numeric stats, the game relies on qualitative tags. These tags, along with player intuition, guide character actions and world reactions. This approach keeps gameplay fluid, allowing you to focus on character motivations and the unfolding story.
+- **Fiction First**: In *Loner*, the story comes before everything else—even the rules. Instead of getting bogged down by numbers or endless dice rolls, we use simple tags and our instincts. These tags help guide the flow of the game, but really, it’s all about keeping things moving and making choices that feel true to your character. This keeps things fluid and lets you focus on what matters most: what your character wants, and what’s happening in the story right now.
 
-- **Emergent Narrative**: The story in *Loner* is not predefined or fully directed by you as the player; instead, it develops naturally from the choices you make and the unpredictable twists introduced by the Oracle. This emergent storytelling style enables a unique narrative to unfold each time you play, surprising you and offering new perspectives on your protagonist’s journey.
+- **Emergent Narrative**: The magic of *Loner* is that the story grows naturally as you play. There’s no pre-written script to follow, no set path to walk. Your choices—combined with the twists and turns thrown in by the Oracle—shape the journey. This means every game session is different, filled with surprises, and reveals new sides of your protagonist and their world. It’s storytelling where you’re both the author and the audience, discovering what happens next right alongside your character.
 
-- **Fictional Positioning**: This concept anchors your protagonist’s actions and interactions within the story world. Fictional positioning defines what your character can reasonably achieve based on their skills, traits, and the scene's context. By considering your character’s background, motives, and the environment, you make choices that feel true to their role in the story.
+- **Fictional Positioning**: This concept is all about grounding your character in the story. It’s not just about what they can do, but why it makes sense for them to do it. Your character’s skills, their experiences, and the scene’s context all come together to determine what’s possible. By thinking about your character's background, motives, and the world around them, you can make choices that feel real and true to the story you're telling.
 
-Together, these principles encourage a form of play where the story’s evolution feels natural and immersive, creating a memorable solo experience. As you explore this handbook, you’ll gain tools to harness these concepts, empowering you to approach each scene with creativity and confidence, letting the story come to life through your character’s decisions. *Loner* is designed as a journey of discovery—of your character, the world, and the unfolding narrative.
+Together, these principles make *Loner* a game of discovery—about your character, about the world they live in, and about the story that unfolds as you play. This handbook is here to help you lean into these ideas, giving you the tools to approach every scene with confidence and creativity. Let the story breathe, let it surprise you, and enjoy the journey as it reveals itself, one decision at a time.
 
 ## Core Philosophies of Loner
 
-The following principles make *Loner* an RPG that goes beyond traditional mechanics, focusing on creativity, adaptability, and immersion. By placing story at the heart of gameplay and encouraging unexpected developments, *Loner* offers a distinctive solo role-playing experience. The story is as much a surprise to you as it is to your protagonist.
+The core principles of *Loner* are what make it stand out from traditional RPGs. This game isn't just about mechanics—it's about creativity, adaptability, and diving deep into immersive storytelling. By keeping the story at the center and encouraging the unexpected, *Loner* offers a unique solo role-playing experience where the journey is as surprising for you as it is for your protagonist.
 
-### 1. Fiction First: Prioritizing Story Over Mechanics
+### 1. Fiction First: Story Leads the Way
 
-In *Loner*, the narrative always leads, guiding mechanics and gameplay decisions. The game minimizes rules, such as those for combat and skills, to let you focus on storytelling and character growth instead of statistical calculations. Rather than numbers or complex systems, *Loner* uses *tags*—descriptive phrases that capture skills, attributes, or distinctive traits—placing the character and world within a framework that feels real and dynamic without bogging down in detail. Tags are qualitative, such as 'skilled locksmith' or 'keen observer,' letting gameplay flow naturally based on your story intuition. The emphasis on *fiction first* keeps you in a state of immersion, focusing on how each scene unfolds and what makes the story memorable.
+In *Loner*, the story is always in charge, guiding how mechanics and gameplay decisions unfold. The rules are intentionally kept light—especially when it comes to things like combat and skills—so you can focus on the story and character growth instead of getting tangled up in numbers. Instead of complex systems, *Loner* uses *tags*: simple, descriptive phrases that capture skills, attributes, or unique traits, like "skilled locksmith" or "keen observer." These tags keep things real and dynamic without overwhelming you with details. The emphasis on *fiction first* keeps you fully immersed, focusing on what makes each scene special and memorable.
 
-### 2. Emergent Narrative: Letting the Story Unfold Naturally
+### 2. Emergent Narrative: Let the Story Surprise You
 
-*Loner*'s emergent narrative approach is key to the game’s unique storytelling style. Unlike a set narrative path, *Loner* allows the story to develop from the choices your protagonist makes, along with twists and surprises introduced by the Oracle. This system builds tension, complexity, and authenticity in unexpected ways. No two stories will be the same. The Oracle answers closed questions about character actions and world reactions, providing unpredictable outcomes. For example, you might ask, 'Does the door open quietly?' or 'Is there anyone nearby who notices?' Each twist and turn can change your protagonist’s journey, challenging you to adapt to new scenarios and revealing parts of the story you might never have planned. Emergent narrative brings excitement and depth to every playthrough, making your experience feel organic and alive.
+One of the most exciting parts of *Loner* is the emergent narrative. There's no set storyline to follow; instead, the story grows naturally from your protagonist's choices and the twists introduced by the Oracle. This creates tension, complexity, and authenticity in ways you might not expect. Every game is different, with surprises around every corner. The Oracle helps guide these surprises by answering questions about character actions and the world around them. You might ask, "Does the door open quietly?" or "Is there anyone nearby who notices?" Each answer changes the course of the story, challenging you to adapt and revealing new parts of your character's journey. This approach brings excitement and depth to every playthrough, making each experience feel fresh and alive.
 
-### 3. Fictional Positioning: Defining Your Role in the Story
+### 3. Fictional Positioning: Finding Your Place in the Story
 
-In *Loner*, fictional positioning is a powerful narrative tool, grounding your character’s actions within the logical framework of their role in the story. Instead of relying on hard stats or complex numbers, you think about what your protagonist’s abilities, personality, and context allow them to do within each scene. This perspective makes your decisions feel both natural and meaningful. For instance, a skilled locksmith would find breaking into a building easier than someone without that skill, but in *Loner*, this is conveyed through tags and descriptive positioning rather than numbers. Your protagonist’s backstory, motives, and interactions with the world shape how they influence the narrative, giving depth to each decision and outcome. For example, a character with a tragic past might be more reluctant to trust others, which could affect their choices during key moments, adding layers to the story.
+In *Loner*, fictional positioning is all about grounding your character's actions within the story's logic. Instead of relying on hard stats or numbers, you think about what makes sense for your character—their abilities, personality, and the context of each scene. This makes your decisions feel natural and meaningful. For instance, a skilled locksmith would naturally have an easier time breaking into a building compared to someone without that skill, and this is conveyed through tags and descriptive positioning rather than numbers. Your character's backstory, motives, and interactions with the world shape how they influence the story, adding depth to every decision. Maybe your protagonist has a tragic past that makes them hesitant to trust others, which could affect their choices at key moments, layering extra meaning into the story as it unfolds.
 
 ## The Design Principles Behind Loner
 
-These design principles ensure that Loner delivers a straightforward yet powerful storytelling experience, encouraging immersion and adaptability while keeping the focus on the unfolding narrative. Each principle works together to support a minimalist, story-centered RPG that’s easy to pick up, carry, and dive into, wherever your journey might take you.
+These design principles make *Loner* a straightforward yet powerful storytelling experience, encouraging immersion and adaptability while keeping the focus on the unfolding narrative. Each principle works together to support a minimalist, story-driven RPG that’s easy to pick up, carry, and dive into, wherever your journey takes you.
 
 ### 1. Minimalism and Portability
 
-*Loner* is designed with simplicity in mind, requiring only a few basic items to play: a set of six-sided dice (for resolving challenges), some writing materials (for note-taking and tracking character progression), and a character sheet (to keep track of tags and important character details). These simple components reflect *Loner*'s minimalist philosophy, enhancing the gameplay by keeping the focus on storytelling rather than complex setups. This minimalism makes the game highly portable, allowing you to play anywhere, without the need for elaborate setups or multiple components. *Loner* emphasizes narrative over materials, which are optional for enhancing play. The game’s lean structure and small footprint mean you can immerse yourself in storytelling without being weighed down by excessive gear or rules.
+*Loner* is all about simplicity. You only need a few basic items to play: a set of six-sided dice (for resolving challenges), some writing materials (for jotting down notes and tracking your character's journey), and a character sheet (to keep track of tags and important details). These simple tools reflect *Loner*'s minimalist philosophy—keeping the focus on the story, not on complex setups. This minimalism makes the game incredibly portable, letting you play anywhere without fuss. The emphasis is on narrative, with optional materials that enhance play but aren’t necessary. With its lean structure, *Loner* lets you immerse yourself in storytelling without being weighed down by gear or rules.
 
 ### 2. Rules-Light Mechanics
 
-The core mechanics of *Loner* are designed to be intuitive and easy to remember, allowing you to quickly learn and internalize the rules so you can focus on the story. By using a single resolution mechanic, *Loner* provides a streamlined experience where the dice simply add an element of chance to your expectations. In most situations, you roll a six-sided die to determine success or failure, with higher rolls indicating favorable outcomes. Instead of managing numerous stats or crunching numbers, *Loner* uses a straightforward *Oracle* system, which lets you ask closed questions and receive “yes” or “no” answers to guide the narrative. For example, you might ask, 'Does the door open quietly?' or 'Is there anyone nearby who notices?' This rules-light approach keeps gameplay flowing smoothly, reducing interruptions and maximizing engagement with the story.
+The mechanics of *Loner* are designed to be intuitive and easy to remember, so you can dive straight into the story. With a single, streamlined resolution system, *Loner* keeps things simple: you roll a six-sided die to determine success or failure, with higher rolls meaning better outcomes. There are no endless stats or number-crunching—just a straightforward *Oracle* system that helps guide the story by answering your questions with a “yes” or “no.” You might ask, "Does the door open quietly?" or "Is there anyone nearby who notices?" The rules-light approach keeps things moving, minimizing interruptions and keeping you immersed in the story.
 
 ### 3. Tag-Based Descriptions
 
-In place of numeric stats, *Loner* uses *tags* — short, descriptive phrases that highlight your protagonist’s skills, weaknesses, and characteristics, as well as details about other elements in the world. Tags offer a qualitative way to depict abilities, differing from traditional numeric stats by focusing on descriptive traits instead of values. This approach helps maintain immersion, simplifies gameplay, and allows players to make decisions based on narrative context rather than numbers. For example, a tag like 'skilled archer' can influence gameplay by making tasks related to archery easier, while a tag such as 'afraid of heights' might limit your character's actions when faced with climbing challenges. Each tag represents something important about the character or situation without complex point systems, inviting you to focus on what matters in the story. Tags allow for flexibility, encouraging creative interpretation and meaningful decisions while keeping gameplay balanced. By defining characters and scenarios through tags, *Loner* keeps the storytelling immersive and character-centered.
+Instead of numeric stats, *Loner* uses *tags*: short, descriptive phrases that highlight your protagonist’s skills, weaknesses, and defining traits, as well as key elements in the world. Tags are a qualitative way to describe abilities—focusing on what your character is good at, what they struggle with, and how they interact with the world. This keeps you in the story, making decisions based on the narrative rather than crunching numbers. For example, a tag like "skilled archer" makes archery tasks easier, while "afraid of heights" might make climbing a real challenge. Each tag captures something important about your character or the world, inviting you to focus on what matters most in the story. Tags offer flexibility, encouraging creative interpretation and meaningful choices while keeping things balanced.
 
 ### 4. Generic Yet Focused Gameplay
 
-While *Loner* can be played in any genre or setting, it is not a universal RPG like those designed for broad adaptability across all play styles. Instead, *Loner* is focused on quick resolutions and narrative exploration, without aiming for tactical depth or strict simulation. This focus allows *Loner* to excel at telling compact, evocative stories, and you can shape its scenarios to fit any theme, from fantasy and sci-fi to mystery or horror. The game’s generic system adapts easily to different styles. It remains focused on its core strengths: simplicity, emergent storytelling, and fictional positioning. Whether you’re exploring a haunted house or a distant planet, *Loner* keeps the mechanics and structure light, allowing you to focus on narrative creativity rather than learning complex rules. This light structure helps you explore new worlds without overwhelming details.
+*Loner* can be played in any genre or setting, but it’s not trying to be a universal RPG that fits every play style. Instead, it’s focused on quick resolutions and narrative exploration, without aiming for tactical depth or detailed simulation. This focus allows *Loner* to excel at telling compact, evocative stories, and you can adapt it to fit any theme—whether it’s fantasy, sci-fi, mystery, or horror. The game’s system is versatile enough to suit different styles, but always stays true to its strengths: simplicity, emergent storytelling, and fictional positioning. Whether you’re exploring a haunted house or a distant planet, *Loner* keeps the mechanics light and lets you focus on creative storytelling, helping you explore new worlds without getting bogged down by overwhelming details.
 
 ## Preparing for Your Journey
 
 ### 1. Choosing a Genre or Setting
 
-The journey in *Loner* begins with selecting a genre or setting that will define the tone, themes, and atmosphere of your adventure. This step is essential in shaping the narrative, as it helps you visualize the world your protagonist will inhabit and the types of challenges they may face. Here are some ways to approach this process.
+Your journey in *Loner* starts with picking a genre or setting that sets the tone, themes, and atmosphere for your adventure. This step is key to shaping your story—it helps you picture the world your protagonist will navigate and the kinds of challenges they'll face. Here are some ways to approach it.
 
 #### Embracing Familiar or New Worlds
 
-You might choose to set your adventure in a familiar genre or setting that resonates with you, such as the world of a favorite TV series, a book saga, or an established RPG setting. Playing in familiar settings can help streamline the start of the game, as you’ll have an intuitive sense of the world’s rules, characters, and story possibilities.
+You might decide to set your adventure in a familiar genre or setting that resonates with you—maybe a favorite TV series, book saga, or an established RPG world. Playing in a familiar setting can make it easier to get started since you already have a sense of the world's rules, characters, and story possibilities.
 
-Alternatively, *Loner* also encourages you to explore new or unconventional worlds. If you’re drawn to a particular genre or setting you haven’t played before, this is a great opportunity to expand your storytelling range. You can experiment with genre-blending, like combining elements of science fiction with horror, or medieval fantasy with noir. This freedom allows you to create a one-of-a-kind narrative landscape, filled with intriguing surprises.
+On the other hand, *Loner* also invites you to explore new or unconventional worlds. If there's a genre or setting you've never tried before, this is a perfect opportunity to expand your storytelling horizons. You can even mix genres—like blending science fiction with horror, or medieval fantasy with noir. This freedom lets you craft a unique narrative landscape, filled with unexpected twists and turns.
 
 #### Utilizing Tropes and Adventure Packs
 
-If you’re unsure where to begin or want an extra layer of inspiration, consider using common tropes or the **Adventure Packs** provided in the second part of the *Loner* core rules. Tropes—such as the “reluctant hero,” “haunted location,” or “lost artifact” serve as narrative building blocks, familiar yet adaptable, to spark story ideas and anchor your character in a genre or theme. 
+If you're not sure where to begin or want some extra inspiration, consider leaning on familiar tropes or the **Adventure Packs** found in the second part of the *Loner* core rules. Tropes—like the “reluctant hero,” “haunted location,” or “lost artifact”—are great narrative building blocks that can spark ideas and help ground your character in a particular genre or theme.
 
-You can even generate a random list of tropes and let the results guide your choices, or decide on a genre and let tropes specific to that genre emerge naturally. For a faster start, you might skip worldbuilding entirely by diving straight into an Adventure Pack, which offers a ready-made setup with a selection of themes, plot hooks, and potential story beats.
+You could even generate a random list of tropes and let those guide your choices, or pick a genre and let its specific tropes unfold naturally. For a quick start, you might skip the worldbuilding entirely and dive straight into an Adventure Pack, which offers a ready-made setup with themes, plot hooks, and story beats.
 
-The flexibility *Loner* offers in choosing a genre or setting ensures that each playthrough is as unique as the world you envision. Whether you’re drawn to a well-known universe or a completely original landscape, this initial decision serves as the foundation of the narrative that will unfold. Once you’ve set the stage, you’re ready to bring your protagonist to life and begin their story.
+The flexibility *Loner* gives you in choosing a genre or setting means every playthrough can be as unique as the world you dream up. Whether you're drawn to a familiar universe or want to create something entirely your own, this initial choice lays the foundation for the adventure ahead. Once you've set the stage, it's time to bring your protagonist to life and start telling their story.
 
 ### 2. Creating Your Protagonist
 
-Your protagonist is the heart of your *Loner* adventure, a character whose traits, goals, and background will shape the story as it unfolds. Crafting a well-rounded protagonist not only makes the game more engaging but also provides a clear perspective from which to navigate the challenges and surprises of the narrative. 
+Your protagonist is the heart of your *Loner* adventure—a character whose traits, goals, and background will shape the unfolding story. Crafting a well-rounded protagonist makes the game more engaging and gives you a clear perspective to navigate the challenges and surprises that come your way.
 
 #### Importance of a Strong Concept
 
-A strong concept is the cornerstone of a memorable protagonist. Begin by defining who your character is in a way that captures their essence. This might be a brief phrase that combines personality and role, like *"Witty Street Cat"* or *"Cunning Alchemist."* Such a description instantly conveys not just what your character does, but how they might approach the world and their interactions with it. This concept should be iconic, offering a sense of identity that makes them distinctive and aligned with the setting.
+A strong concept is the cornerstone of a memorable protagonist. Start by defining who your character is in a way that captures their essence. This could be a simple phrase that blends personality and role, like *"Witty Street Cat"* or *"Cunning Alchemist."* This kind of description not only tells you what your character does, but also hints at how they approach the world. Your concept should be iconic, offering a sense of identity that makes your character stand out and feel perfectly suited to the setting.
 
 #### Defining Traits with Tags
 
-Tags are the primary descriptors of your protagonist’s abilities, quirks, and limitations. Unlike traditional RPG stats, tags are qualitative, allowing for nuanced and flexible character portrayals. There are a few key tags to consider:
+Tags are the main descriptors for your protagonist’s abilities, quirks, and limitations. Unlike traditional RPG stats, tags are qualitative, giving you a nuanced and flexible way to portray your character. Here are the key tags to consider:
 
-- **Skills**: Two unique abilities that define what your protagonist is particularly adept at. Skills should capture specialized knowledge or talents, like *"Engine Whisperer"* or *"Sharp-Eyed Tracker."* Avoid generic skills that everyone might have; choose ones that make your character unique and give insight into their backstory.
+- **Skills**: Choose two unique abilities that define what your protagonist is particularly good at. Skills should capture specialized knowledge or talents, like *"Engine Whisperer"* or *"Sharp-Eyed Tracker."* Avoid generic skills that anyone could have—pick ones that make your character unique and offer insight into their backstory.
   
-- **Frailty**: This tag identifies a vulnerability or weakness that might complicate the protagonist’s journey. It could be a physical limitation, a personal fear, or a flaw in their social interactions, like *"Quick to Anger"* or *"Easily Distracted."* Frailties add depth and invite narrative tension, creating opportunities for growth or challenge.
+- **Frailty**: This tag represents a vulnerability or weakness that might complicate your protagonist’s journey. It could be a physical limitation, a personal fear, or a flaw in their social interactions, like *"Quick to Anger"* or *"Easily Distracted."* Frailties add depth and invite narrative tension, creating opportunities for growth and challenge.
   
-- **Gear**: Essential items or equipment that your protagonist carries with them, chosen in line with the setting. These items might serve as tools, weapons, or even symbolic pieces, such as *"Old Compass"* or *"Hacker’s Toolkit."* Everyday items are assumed and need not be tagged unless they hold special narrative weight.
+- **Gear**: Essential items or equipment that your protagonist carries, chosen to fit the setting. These items might be tools, weapons, or even symbolic objects, like *"Old Compass"* or *"Hacker’s Toolkit."* Everyday items are assumed, so only tag items that hold special narrative importance.
 
-These tags don’t provide mechanical advantages but serve to guide how your protagonist might react to situations, giving your story a richer and more personal feel.
+These tags don’t provide mechanical bonuses—they guide how your protagonist reacts to situations, giving your story a richer and more personal feel.
 
 #### Setting Goals, Motives, and Nemesis
 
-These elements help frame your protagonist’s journey, shaping both the direction of the story and the types of challenges they may encounter:
+These elements help frame your protagonist’s journey, shaping the story’s direction and the challenges they may face:
 
-- **Goal**: A long-term objective your protagonist is driven to achieve. This should be ambitious yet grounded in the character’s background and concept. Examples might include *"Reclaim a Lost Artifact,"* *"Discover the Truth about a Conspiracy,"* or *"Save Their Hometown."* A clear goal offers direction and motivation, even in open-ended scenarios.
+- **Goal**: A long-term objective your protagonist is driven to achieve. This should be ambitious but grounded in their background and concept. Examples include *"Reclaim a Lost Artifact,"* *"Discover the Truth about a Conspiracy,"* or *"Save Their Hometown."* A clear goal gives direction and motivation, even in open-ended scenarios.
   
-- **Motive**: The underlying reason your protagonist pursues their goal. Motives bring emotional weight to your character’s actions, adding a layer of personal investment to the journey. Is it revenge, a desire for redemption, or a quest for justice? A defined motive makes your protagonist’s actions feel meaningful, shaping their approach to challenges.
+- **Motive**: The reason your protagonist pursues their goal. Motives bring emotional weight to their actions, adding personal investment to the journey. Is it revenge, redemption, or a quest for justice? A defined motive makes your protagonist’s actions meaningful, shaping how they face challenges.
   
-- **Nemesis**: An adversary or obstacle that stands in direct opposition to your protagonist’s goals. This could be a person, organization, or even a force of nature that complicates the journey, such as *"The Syndicate,"* *"Corrupt Officials,"* or *"The Treacherous Terrain."* A well-defined nemesis adds stakes to the story, providing conflict that keeps the protagonist on their toes and brings tension to the narrative.
+- **Nemesis**: An adversary or obstacle that stands in direct opposition to your protagonist’s goals. This could be a person, organization, or even a force of nature, like *"The Syndicate,"* *"Corrupt Officials,"* or *"The Treacherous Terrain."* A well-defined nemesis adds stakes to the story, keeping your protagonist on their toes and bringing tension to the narrative.
 
-Together, these elements create a dynamic character that feels real and compelling. A strong concept, descriptive tags, and clear motivations make it easier to step into the role of your protagonist, adding depth to every choice they make. With a well-defined protagonist, you’re ready to step into the world of *Loner* and let their story begin.
+Together, these elements create a dynamic, compelling character. A strong concept, descriptive tags, and clear motivations make it easy to step into your protagonist’s shoes, adding depth to every choice they make. With a well-defined protagonist, you’re ready to step into the world of *Loner* and let their story unfold.
 
 ### 3. Expanding the World
 
-A key part of any adventure is the world around the protagonist. In *Loner*, you can enrich the narrative by introducing Non-Player Characters (NPCs), organizations, significant locations, and key events. These elements serve as anchors, shaping the story’s direction, introducing challenges, and creating relationships that add depth to your protagonist’s journey.
+A key part of any adventure is the world around your protagonist. In *Loner*, you can enrich the narrative by adding Non-Player Characters (NPCs), organizations, significant locations, and key events. These elements act as anchors, shaping the story’s direction, presenting challenges, and creating relationships that add depth to your protagonist’s journey.
 
 #### Crafting NPCs and Organizations
 
-NPCs and organizations add texture to the world, giving your protagonist allies, rivals, mentors, or enemies to interact with. While *Loner* is a solo game, these characters and groups make the setting feel populated and alive, providing interaction points that add tension, support, or surprises to the story.
+NPCs and organizations add texture to the world, giving your protagonist allies, rivals, mentors, or enemies to interact with. While *Loner* is a solo game, these characters and groups make the setting feel alive, providing interaction points that add tension, support, or surprises to the story.
 
-- **NPCs**: Like your protagonist, NPCs can be defined by a concept and a few tags. These tags should convey the character’s role in the story and their relationship to the protagonist. For example, *"Tobias, Loyal Informant"* or *"Selene, Ambitious Rival"* immediately set up expectations for their behavior and possible conflicts. A well-placed NPC can bring an unexpected twist, present moral dilemmas, or even inspire your protagonist to grow.
+- **NPCs**: Like your protagonist, NPCs can be defined by a concept and a few tags. These tags should convey the character’s role in the story and their relationship to the protagonist. For example, *"Tobias, Loyal Informant"* or *"Selene, Ambitious Rival"* instantly set up expectations for their behavior and possible conflicts. A well-placed NPC can bring unexpected twists, present moral dilemmas, or inspire your protagonist to grow.
   
-- **Organizations**: Organizations act as forces within the world that can support or hinder the protagonist’s goals. Whether it’s a shadowy syndicate, a government agency, or a renegade guild, organizations can be used to represent complex, larger-than-life antagonists or sources of assistance. Defining an organization’s key goals, motives, and influence in the world helps you anticipate how they might affect your protagonist’s journey. For instance, *"The Naturalist Order"* might be a secretive organization opposing technological advancements, adding tension if your protagonist relies on advanced gear or futuristic settings.
+- **Organizations**: Organizations act as forces within the world that can either support or hinder your protagonist’s goals. Whether it’s a shadowy syndicate, a government agency, or a renegade guild, organizations can represent larger-than-life antagonists or sources of assistance. Defining an organization’s key goals, motives, and influence in the world helps you anticipate how they might affect your protagonist’s journey. For instance, *"The Naturalist Order"* might be a secretive group opposing technological advancements, adding tension if your protagonist relies on advanced gear in a futuristic setting.
 
-Use NPCs and organizations strategically, giving them motivations that intersect with your protagonist’s journey. This interplay builds emotional stakes, making choices more consequential and enriching the emergent narrative.
+Use NPCs and organizations strategically, giving them motivations that intersect with your protagonist’s journey. This interplay builds emotional stakes, making choices more impactful and enriching the emergent narrative.
 
 #### Listing Locations and Events
 
-Locations and events are the environmental backdrop and historical moments that influence the unfolding story. Having a list of notable locations and events makes it easy to visualize the world and provides you with potential story elements to draw on when needed.
+Locations and events form the backdrop and history that influence your story. Having a list of notable locations and events makes it easy to visualize the world and provides potential story elements to draw from when needed.
 
-- **Locations**: Crafting distinctive locations helps make the world feel consistent and engaging. Locations can be detailed or loosely defined, depending on their significance to the plot. Each location should reflect the chosen genre and setting, from gritty urban alleys to ancient temples in lost jungles. Describe them in terms of a few key features, like *"The Smoke-Filled Alley"* or *"The Shattered Observatory"*, which hint at possible encounters, moods, or dangers your protagonist may face.
+- **Locations**: Crafting distinctive locations helps make the world feel consistent and engaging. Locations can be detailed or loosely defined, depending on their significance to the plot. Each location should reflect the chosen genre and setting, from gritty urban alleys to ancient temples in lost jungles. Describe them with a few key features, like *"The Smoke-Filled Alley"* or *"The Shattered Observatory"*, which hint at possible encounters, moods, or dangers your protagonist may face.
 
-- **Events**: Listing major events provides context and background for the story, helping shape the world and adding narrative weight. Events can be historical occurrences, like *"The Fall of the Crimson Empire,"* or recent incidents, like *"The Disappearance of Key Scientists."* These events can serve as plot hooks, influencing how NPCs interact with the protagonist or impacting the character’s own motivations and goals.
+- **Events**: Listing major events provides context and background for the story, adding depth to the world. Events can be historical, like *"The Fall of the Crimson Empire,"* or recent, like *"The Disappearance of Key Scientists."* These events can serve as plot hooks, influencing how NPCs interact with the protagonist or impacting the character’s own motivations and goals.
 
-By weaving together well-defined NPCs, organizations, locations, and events, you create a world that feels immersive and layered. These elements provide the protagonist with a network of relationships, potential conflicts, and places to explore, allowing the story to feel rich and engaging. As the journey unfolds, this expanded world will offer unexpected surprises and complexities that make each playthrough unique.
+By weaving together well-defined NPCs, organizations, locations, and events, you create a world that feels immersive and layered. These elements provide your protagonist with a network of relationships, potential conflicts, and places to explore, making the story rich and engaging. As the journey unfolds, this expanded world will offer unexpected surprises and complexities that make each playthrough unique.
 
 ## The Mechanics of Play
 
 ### 1. Understanding Tags and Descriptors
 
-In *Loner*, tags and descriptors are the primary tools for shaping the narrative and guiding gameplay. Tags are short, descriptive phrases or words that convey essential details about characters, scenes, and objects in the world, while descriptors provide additional context. Rather than using numbers, *Loner* relies on tags to capture the qualities, abilities, and challenges within the story, making each scene feel dynamic and true to the character and setting.
+In *Loner*, tags and descriptors are the main tools for shaping the narrative and guiding gameplay. Tags are short, descriptive phrases that convey essential details about characters, scenes, and objects in the world, while descriptors provide additional context. Instead of relying on numbers, *Loner* uses tags to capture the qualities, abilities, and challenges in the story, making each scene feel dynamic and true to the character and setting.
 
 #### Types of Tags: Traits, Details, Conditions
 
-Tags in *Loner* are generally divided into three types, each adding a layer of depth and nuance to the narrative:
+Tags in *Loner* come in three main types, each adding depth and nuance to the narrative:
 
-- **Traits**: Traits describe your protagonist's and other characters’ unique abilities, flaws, or defining characteristics. For your protagonist, traits include skills and frailties, such as *“Stealthy”* or *“Hot-Tempered.”* Traits are versatile and highlight aspects of a character’s personality, strengths, or weaknesses, allowing you to anticipate how they might respond to specific challenges.
+- **Traits**: Traits describe your protagonist's and other characters’ unique abilities, flaws, or defining characteristics. For your protagonist, traits include skills and frailties, like *"Stealthy"* or *"Hot-Tempered."* Traits highlight a character’s personality, strengths, or weaknesses, helping you anticipate how they might respond to challenges.
+  
+- **Details**: These tags describe specific elements in the environment or scene that can impact gameplay. For example, a location might have tags like *"Dimly Lit"* or *"Crowded Market."* Details help set the tone and inform your protagonist’s actions, giving context that may lead to advantages or disadvantages in different situations.
 
-- **Details**: These tags describe specific elements within the environment or scene that can impact gameplay. For example, a location might have tags like *“Dimly Lit”* or *“Crowded Market.”* Details help set the tone and can inform your protagonist’s actions, giving context that may lead to advantage or disadvantage in different situations.
-
-- **Conditions**: Conditions represent temporary physical, mental, or social states that affect the protagonist or other characters. Conditions can result from certain actions, conflicts, or encounters, like *“Injured,”* *“Stressed,”* or *“Distrusted.”* Conditions often introduce challenges that shape the protagonist’s choices and interactions in the immediate scene or subsequent events.
+- **Conditions**: Conditions represent temporary physical, mental, or social states affecting the protagonist or other characters. Conditions can result from actions, conflicts, or encounters, like *"Injured,"* *"Stressed,"* or *"Distrusted."* Conditions introduce challenges that shape your protagonist’s choices and interactions in the immediate scene or in future events.
 
 #### Using Tags to Influence the Narrative
 
-Tags are qualitative and interpretive rather than quantitative, meaning they shape the story based on how you use them. This flexibility allows you to determine when a tag might influence a scene or a character’s actions, without slowing down play with calculations or stat comparisons.
+Tags in *Loner* are qualitative and interpretive rather than quantitative, meaning they shape the story based on how you use them. This flexibility lets you decide when a tag might influence a scene or a character’s actions without slowing down play with calculations or stat comparisons.
 
-For example, if your protagonist has the *“Agile”* trait and is trying to climb a cliff, you might decide that this tag offers an **advantage** in their attempt. Conversely, if they have a condition like *“Exhausted,”* it could create a **disadvantage** for similar physical actions. By using tags intuitively, you maintain a smooth flow while making decisions that align with the story’s context.
+For example, if your protagonist has the *"Agile"* trait and is trying to climb a cliff, you might decide that this tag offers an **advantage** in their attempt. On the other hand, if they have a condition like *"Exhausted,"* it could create a **disadvantage** for similar physical actions. By using tags intuitively, you can keep the gameplay flowing smoothly while making decisions that align with the story’s context.
 
-In *Loner*, tags influence the narrative without setting hard limits on what your protagonist can or cannot do. They invite you to think creatively, using the tags as a guide to enrich scenes, define interactions, and ultimately build an immersive and cohesive story. Whether the protagonist succeeds or faces setbacks, tags ensure that the outcomes feel true to the character and the world they inhabit, maintaining a balance between structure and narrative freedom.
+In *Loner*, tags influence the narrative without setting hard limits on what your protagonist can or cannot do. They encourage creative thinking, using the tags as a guide to enrich scenes, define interactions, and build an immersive story. Whether your protagonist succeeds or faces setbacks, tags ensure that the outcomes feel true to the character and the world they inhabit, balancing structure with narrative freedom.
 
 ### 2. Scene Structure and Flow
 
-In *Loner*, the story unfolds through scenes — units of time in which specific actions or events take place. Each scene serves as a building block in the protagonist's journey, and how you initiate and navigate these scenes affects the narrative’s pace and depth. Effective scene structure and flow help you maintain momentum while allowing the story to evolve organically.
+In *Loner*, the story unfolds through scenes—units of time where specific actions or events happen. Each scene serves as a building block in your protagonist's journey, and how you initiate and navigate these scenes affects the narrative’s pace and depth. Effective scene structure and flow help maintain momentum while allowing the story to evolve naturally.
 
 #### Starting Scenes with Purpose
 
-Every scene in *Loner* should start with a clear purpose or question to focus on, even if it’s simply exploring an environment or interacting with an NPC. The purpose gives the scene direction and connects it to the protagonist’s goals, helping you determine the protagonist’s next steps and how they approach challenges.
+Every scene in *Loner* should start with a clear purpose or question, even if it’s as simple as exploring an environment or interacting with an NPC. The purpose gives the scene direction and connects it to your protagonist’s goals, helping you determine their next steps and how they face challenges.
 
 To start a scene, consider the following:
 
-1. **Set a Goal**: What does the protagonist hope to accomplish? This could be finding a clue, escaping danger, or having a meaningful conversation. Establishing a goal keeps the story moving toward a resolution and clarifies what success or failure might mean.
+1. **Set a Goal**: What does your protagonist hope to accomplish? This could be finding a clue, escaping danger, or having a meaningful conversation. Establishing a goal keeps the story moving toward a resolution and clarifies what success or failure might mean.
    
-2. **Ask Key Questions**: Begin each scene by asking questions about what you expect or want to explore. This could be a simple “Is the room empty?” or “Does the contact show up as expected?” These questions frame the scene’s action and give you points to consult the Oracle for unexpected outcomes.
+2. **Ask Key Questions**: Begin each scene by asking questions about what you expect or want to explore. This could be something like, “Is the room empty?” or “Does the contact show up as expected?” These questions frame the scene’s action and give you points to consult the Oracle for unexpected outcomes.
    
-3. **Define the Scene’s Mood**: Determine whether the scene is tense, quiet, or suspenseful. Mood affects how characters interact with each other and the world, coloring the protagonist’s choices and responses. The Oracle can help define mood if you’re unsure, using a quick roll to set the tone as either *Dramatic*, *Quiet*, or *Meanwhile...* for varied pacing.
+3. **Define the Scene’s Mood**: Decide whether the scene is tense, quiet, or suspenseful. Mood affects how characters interact and how your protagonist responds to the world. If you’re unsure, use a quick roll with the Oracle to set the tone—whether it’s *Dramatic*, *Quiet*, or *Meanwhile...*—to vary the pacing.
 
-By starting each scene with a goal, questions, and mood, you set the stage for engaging and purposeful storytelling, keeping the protagonist’s journey coherent and immersive.
+By starting each scene with a goal, questions, and mood, you set the stage for engaging storytelling that keeps your protagonist’s journey coherent and immersive.
 
 #### Keeping the Action in Motion
 
-Once a scene begins, the key to a compelling solo RPG experience is keeping the action dynamic and fluid. In *Loner*, each scene follows a simple structure that allows you to maintain narrative momentum without overplanning or getting bogged down in mechanics.
+Once a scene begins, the key to a compelling solo RPG experience is keeping the action dynamic and fluid. In *Loner*, each scene follows a simple structure that helps maintain narrative momentum without overplanning or getting bogged down in mechanics.
 
-1. **Identify Expectations and Challenges**: As you guide the protagonist through each scene, anticipate their expectations based on their traits and the situation. When there’s uncertainty about the outcome of an action, ask the Oracle a closed question, using tags to decide if the protagonist has an advantage or disadvantage. This process adds structure without interrupting the narrative flow.
+1. **Identify Expectations and Challenges**: As you guide your protagonist through each scene, anticipate their expectations based on their traits and the situation. When there’s uncertainty about the outcome of an action, ask the Oracle a closed question, using tags to decide if your protagonist has an advantage or disadvantage. This process adds structure without breaking the narrative flow.
 
-2. **Use the Oracle to Propel Events**: The Oracle’s answers, especially when coupled with modifiers like *“but...”* or *“and...”*, introduce twists and complications that add depth to the scene. If an unexpected outcome occurs, consider how it impacts the protagonist’s goal, potentially shifting the story or creating a new challenge. The Oracle’s answers should be treated as prompts to react to creatively, using the context to interpret their implications.
+2. **Use the Oracle to Propel Events**: The Oracle’s answers, especially when modified with *“but...”* or *“and...”*, introduce twists and complications that add depth to the scene. If an unexpected outcome occurs, think about how it impacts your protagonist’s goal—does it shift the story or create a new challenge? The Oracle’s answers are prompts to react to creatively, interpreting their implications within the context of the story.
 
-3. **Transition Smoothly to New Scenes**: Once the scene’s purpose is resolved, prepare to transition by considering where the story naturally leads next. This could be the direct result of the protagonist’s actions, or you might roll to determine the mood of the next scene, using the Scene Mood Table for guidance. Whether the scene ends dramatically or with a moment of calm, transitions allow the story to progress seamlessly.
+3. **Transition Smoothly to New Scenes**: Once the scene’s purpose is resolved, prepare to transition by considering where the story naturally leads next. This could be the direct result of your protagonist’s actions, or you could roll to determine the mood of the next scene using the Scene Mood Table. Whether the scene ends with drama or a moment of calm, smooth transitions help the story progress seamlessly.
 
 ### 3. Making Decisions Through the Oracle
 
-The Oracle in *Loner* is your guide for handling uncertainty and adding an element of unpredictability to the story. When you encounter moments where the outcome of an action is unclear or the narrative could take multiple paths, the Oracle provides a quick and flexible way to determine the result, keeping the story fluid and engaging. 
+The Oracle in *Loner* is your guide for handling uncertainty and adding unpredictability to the story. When you face moments where the outcome of an action is unclear or the narrative could take multiple paths, the Oracle provides a quick and flexible way to determine the result, keeping the story fluid and engaging.
 
 #### Asking Effective Closed Questions
 
-The Oracle is most effective when asked closed questions—questions that can be answered with “yes” or “no.” Asking questions in this way allows you to interpret the responses in a manner that keeps the story moving forward. 
+The Oracle works best when asked closed questions—questions that can be answered with “yes” or “no.” Asking questions in this way allows you to interpret the responses in a way that keeps the story moving forward.
 
-To create strong closed questions, keep the following in mind:
+To create effective closed questions, keep the following in mind:
 
-1. **Stay Specific and Focused**: Narrow questions produce clearer, more actionable answers. For example, rather than asking, “Does the protagonist escape unharmed?” consider breaking it down: “Does the guard notice the protagonist?” or “Does the protagonist find an unlocked exit?” These questions break down the situation into manageable parts, allowing for nuanced results.
-
-2. **Use Context for Meaningful Questions**: Consider the current scene, the protagonist’s goals, and the tags in play. Questions should be grounded in the immediate context to maintain narrative cohesion. If your protagonist is skilled in stealth, you might ask, “Does their stealth skill help them go unnoticed?” rather than a general question, like, “Do they succeed?”
-
-3. **Let the Oracle Shape the Story**: Use the Oracle to surprise yourself. Avoid framing questions where a “yes” or “no” answer would lead to dead ends. Each response should open possibilities, so consider how both outcomes could push the story forward, regardless of whether they meet the protagonist’s expectations.
+1. **Stay Specific and Focused**: Narrow questions produce clearer, more actionable answers. For example, instead of asking, “Does the protagonist escape unharmed?” try breaking it down: “Does the guard notice the protagonist?” or “Does the protagonist find an unlocked exit?” These questions break the situation into manageable parts, allowing for more nuanced results.
+   
+2. **Use Context for Meaningful Questions**: Consider the current scene, the protagonist’s goals, and the tags in play. Questions should be grounded in the immediate context to maintain narrative cohesion. If your protagonist is skilled in stealth, you might ask, “Does their stealth skill help them go unnoticed?” rather than a general question like, “Do they succeed?”
+   
+3. **Let the Oracle Shape the Story**: Use the Oracle to surprise yourself. Avoid framing questions where a “yes” or “no” answer would lead to a dead end. Each response should open possibilities, so consider how both outcomes could push the story forward, regardless of whether they meet the protagonist’s expectations.
 
 #### Rolling Dice: Chance and Risk
 
@@ -217,9 +219,9 @@ These results add layers to the Oracle’s answers, creating richer storytelling
 
 #### Advantage and Disadvantage Explained
 
-*Loner* uses a simple system of **Advantage** and **Disadvantage** to reflect the influence of the protagonist’s traits, conditions, and the environment on any given action. 
+*Loner* uses a simple system of **Advantage** and **Disadvantage** to reflect the influence of the protagonist’s traits, conditions, and the environment on any given action.
 
-- **Advantage**: When circumstances or positive tags favor the protagonist’s action, add an extra **Chance Die**. Roll both Chance Dice and keep the higher one as the result. This represents an increased likelihood of a favorable outcome.
+- **Advantage**: When circumstances or positive tags favor the protagonist’s action, add an extra **Chance Die**. Roll both Chance Dice and keep the higher one. This represents an increased likelihood of a favorable outcome.
   
 - **Disadvantage**: When hindrances or negative tags work against the protagonist, add an extra **Risk Die**. Roll both Risk Dice and keep the higher one. This represents increased difficulty or potential for failure.
 
@@ -229,23 +231,23 @@ The use of Advantage and Disadvantage keeps gameplay balanced and adds a realist
 
 ### 4. Interpreting Oracle Responses
 
-Interpreting the Oracle’s responses is a vital part of making decisions in *Loner*. The dice rolls provide an answer — usually “yes” or “no” — but often with additional modifiers that shape the response, adding layers of complexity and unpredictability to the story. Knowing how to interpret these responses allows you to bring out the nuances in each scene, building tension, drama, and narrative depth.
+Interpreting the Oracle’s responses is a vital part of decision-making in *Loner*. The dice rolls provide an answer—usually “yes” or “no”—but often with additional modifiers that add complexity and unpredictability to the story. Knowing how to interpret these responses allows you to bring out the nuances in each scene, building tension, drama, and narrative depth.
 
 #### Reading Modifiers: Yes/No, And/But
 
-Each Oracle response can have additional modifiers that add context to a simple “yes” or “no” answer. These modifiers — *“and…”* or *“but…”* — can shift the outcome, either complicating or enhancing the result. Here’s how to interpret them effectively:
+Each Oracle response can come with modifiers that add context to a simple “yes” or “no” answer. These modifiers—*“and…”* or *“but…”*—can shift the outcome, either complicating or enhancing the result. Here’s how to interpret them effectively:
 
 - **Yes**: A straightforward positive result that meets your character’s expectations. The action or decision succeeds without complications.
   
-- **No**: A simple negative result, meaning that the attempt does not succeed as expected.
+- **No**: A simple negative result, meaning the attempt does not succeed as expected.
 
-- **Yes, and…**: The action succeeds, with an extra benefit. This could be something that furthers the protagonist’s goal, adds information, or makes the situation even more advantageous than expected.
+- **Yes, and…**: The action succeeds, with an extra benefit. This could be something that furthers your protagonist’s goal, adds information, or makes the situation even more advantageous than expected.
   
-- **Yes, but…**: The action succeeds, but there’s a drawback or minor complication. The character may achieve their immediate goal but face a new obstacle, delay, or consequence.
+- **Yes, but…**: The action succeeds, but there’s a drawback or minor complication. Your character may achieve their immediate goal but face a new obstacle, delay, or consequence.
   
 - **No, and…**: The action fails, and something else goes wrong. This modifier indicates a particularly unfavorable outcome, making the situation more challenging or introducing a new threat or setback.
   
-- **No, but…**: The action fails, but with a silver lining. While the protagonist doesn’t achieve their goal, they may gain some small benefit or avoid a worse outcome.
+- **No, but…**: The action fails, but there’s a silver lining. While the protagonist doesn’t achieve their goal, they may gain some small benefit or avoid a worse outcome.
 
 Using these modifiers enriches the narrative, turning simple outcomes into multi-dimensional events. A “Yes, but…” response, for example, can lead to unexpected directions, prompting your protagonist to overcome new challenges or adapt to changing circumstances.
 
@@ -257,7 +259,7 @@ When both the Chance and Risk dice show the same number, it signals a special ou
   
 - **Twist Counter**: Each time equal dice are rolled, add 1 to the Twist Counter. When the counter reaches a certain threshold (typically 3), a **Twist** occurs, resetting the counter to 0. A Twist is a narrative event that disrupts the flow of the story in surprising ways, such as introducing a new character, altering the setting, or shifting the protagonist’s goals.
 
-To determine the nature of the Twist, you can roll 2d6 and consult the Twist Table for inspiration or interpret it based on the current context. Twists keep the story fresh, unpredictable, and rich with possibilities, ensuring that the narrative doesn’t become too linear or predictable.
+To determine the nature of the Twist, you can roll 2d6 and consult the Twist Table for inspiration or interpret it based on the current context. Twists keep the story fresh, unpredictable, and rich with possibilities, ensuring the narrative doesn’t become too linear or predictable.
 
 #### Dealing with Ambiguous Answers
 
@@ -275,55 +277,55 @@ Interpreting Oracle responses is about balancing the structure provided by the m
 
 ### 1. Allowing the Story to Guide You
 
-An emergent narrative is one of *Loner*’s defining strengths, unfolding naturally through the protagonist’s choices, the Oracle’s guidance, and the twists that arise along the way. Rather than crafting a story with a rigid beginning, middle, and end, *Loner* encourages you to discover the plot as it happens, making each playthrough unique and filled with surprises. To fully embrace this emergent storytelling, it's essential to let the story guide you, creating a narrative that’s dynamic, unpredictable, and deeply personal.
+An emergent narrative is one of *Loner*’s defining strengths, unfolding naturally through your protagonist’s choices, the Oracle’s guidance, and the twists that arise along the way. Rather than crafting a story with a rigid beginning, middle, and end, *Loner* encourages you to discover the plot as it happens, making each playthrough unique and filled with surprises. To fully embrace this emergent storytelling, it's essential to let the story guide you, creating a narrative that’s dynamic, unpredictable, and deeply personal.
 
 #### Letting Go of Preconceptions
 
-One of the most challenging yet rewarding aspects of *Loner* is learning to let go of preconceptions about how the story “should” unfold. In a traditional RPG, you might begin with a clear storyline in mind, but in *Loner*, the narrative emerges from the interactions between your protagonist’s actions, Oracle responses, and the world around them.
+One of the most challenging yet rewarding aspects of *Loner* is learning to let go of preconceptions about how the story “should” unfold. In a traditional RPG, you might start with a clear storyline in mind, but in *Loner*, the narrative emerges from the interactions between your protagonist’s actions, Oracle responses, and the world around them.
 
-- **Release Narrative Control**: Instead of planning every plot point, start each scene with an open mind, allowing the Oracle’s responses and scene events to shape the story. Letting go of preconceived outcomes frees you to explore paths you might not have initially considered, opening up new possibilities and directions.
-
-- **Stay Open to Surprises**: Be willing to follow where the Oracle leads, even if it takes you in unexpected directions. The Oracle’s modifiers, twists, and “Yes, but…” answers can introduce surprising elements that may steer the story off course from your initial expectations. Embracing these changes fosters a sense of adventure, allowing you to experience the story as a participant, not just a creator.
+- **Release Narrative Control**: Instead of planning every plot point, start each scene with an open mind, letting the Oracle’s responses and scene events shape the story. Letting go of preconceived outcomes frees you to explore paths you might not have initially considered, opening up new possibilities and directions.
+  
+- **Stay Open to Surprises**: Be willing to follow where the Oracle leads, even if it takes you in unexpected directions. The Oracle’s modifiers, twists, and “Yes, but…” answers can introduce surprising elements that may steer the story away from your initial expectations. Embracing these changes fosters a sense of adventure, allowing you to experience the story as a participant, not just a creator.
 
 #### Building the Narrative Through Play
 
-As you let go of preconceptions, you begin to build the narrative through the choices, reactions, and outcomes that emerge during play. Each Oracle response and twist can serve as a foundation for new developments in the story, allowing the plot to evolve organically.
+As you let go of preconceptions, you begin to build the narrative through the choices, reactions, and outcomes that emerge during play. Each Oracle response and twist serves as a foundation for new developments in the story, allowing the plot to evolve organically.
 
-- **Layering Scenes**: Each scene adds layers to the story. As the protagonist encounters challenges, overcomes obstacles, or interacts with NPCs, the narrative gains depth. Start each scene with a goal or question, but let the events unfold naturally, drawing connections between scenes to create continuity and meaning.
+- **Layering Scenes**: Each scene adds layers to the story. As your protagonist encounters challenges, overcomes obstacles, or interacts with NPCs, the narrative gains depth. Start each scene with a goal or question, but let the events unfold naturally, drawing connections between scenes to create continuity and meaning.
 
-- **Developing Character Arcs**: In *Loner*, character development happens through the emergent narrative. The protagonist’s goals, motives, and relationships evolve as they face new situations. For instance, a “Yes, and…” Oracle response could reveal hidden strengths or vulnerabilities in your protagonist, while a “No, but…” could lead to moments of doubt or self-reflection. These shifts contribute to the protagonist’s growth, giving their journey emotional resonance.
+- **Developing Character Arcs**: In *Loner*, character development happens through the emergent narrative. Your protagonist’s goals, motives, and relationships evolve as they face new situations. For instance, a “Yes, and…” Oracle response could reveal hidden strengths or vulnerabilities in your protagonist, while a “No, but…” could lead to moments of doubt or self-reflection. These shifts contribute to your protagonist’s growth, giving their journey emotional resonance.
 
-- **Using Twists as Turning Points**: Twists are an essential element in creating turning points in the narrative, changing the protagonist’s course and injecting fresh momentum into the story. When a Twist happens, interpret it as an opportunity for something major to shift—perhaps a new antagonist appears, or the protagonist discovers an unexpected ally. These moments keep the story engaging, creating memorable and pivotal scenes that move the protagonist’s journey forward.
+- **Using Twists as Turning Points**: Twists are essential for creating turning points in the narrative, changing your protagonist’s course and injecting fresh momentum into the story. When a Twist happens, interpret it as an opportunity for something major to shift—perhaps a new antagonist appears, or your protagonist discovers an unexpected ally. These moments keep the story engaging, creating memorable and pivotal scenes that move your protagonist’s journey forward.
 
 By allowing the story to guide you, you create a narrative that’s not only unique but also filled with depth and authenticity. In *Loner*, every decision, Oracle response, and unexpected twist contributes to a world that feels alive and evolving, building a story that’s as compelling as it is unpredictable. Embracing the emergent narrative transforms the gameplay experience, making each moment a step into the unknown—a journey of discovery for both you and your protagonist.
 
 ### 2. Incorporating Twists and Surprises
 
-Twists and surprises are the lifeblood of an emergent narrative, adding unexpected elements that reshape the protagonist’s journey and keep the story engaging. In *Loner*, twists often arise when the Twist Counter reaches a threshold, signaling a narrative shift that can introduce new conflicts, reveal hidden truths, or alter the story’s direction. Learning to incorporate twists effectively enriches the gameplay, bringing fresh layers of intrigue and challenge to the protagonist’s path.
+Twists and surprises are the lifeblood of an emergent narrative, adding unexpected elements that reshape your protagonist’s journey and keep the story engaging. In *Loner*, twists often arise when the Twist Counter reaches a threshold, signaling a narrative shift that can introduce new conflicts, reveal hidden truths, or alter the story’s direction. Learning to incorporate twists effectively enriches the gameplay, bringing fresh layers of intrigue and challenge to your protagonist’s path.
 
 #### Using the Twist Counter Effectively
 
 The Twist Counter serves as a tension-building tool, indicating when the story may benefit from a surprising turn. Each time a pair of equal dice is rolled when consulting the Oracle, you add 1 to the Twist Counter. Once the Twist Counter hits its threshold (typically 3), a twist is triggered, resetting the counter to zero. This mechanism ensures that twists are paced naturally, preventing the story from becoming too predictable while avoiding an overload of sudden changes.
 
 - **Building Anticipation**: As the Twist Counter approaches its threshold, there’s a rising sense of anticipation. Use this build-up to enhance scenes, leaning into the potential for change and foreshadowing unexpected developments. This pacing keeps each scene dynamic, as you’re aware that a twist could be right around the corner.
-
-- **Timing Twists Strategically**: While the Twist Counter determines when a twist happens, you can decide the best moment to introduce it within the current scene. If the scene’s flow is naturally winding down, you might trigger the twist at the end, giving it maximum impact. Alternatively, introducing a twist mid-scene can elevate tension and disrupt the protagonist’s plans, adding immediate stakes.
+  
+- **Timing Twists Strategically**: While the Twist Counter determines when a twist happens, you can decide the best moment to introduce it within the current scene. If the scene’s flow is naturally winding down, you might trigger the twist at the end, giving it maximum impact. Alternatively, introducing a twist mid-scene can elevate tension and disrupt your protagonist’s plans, adding immediate stakes.
 
 #### Generating Twists and Integrating Them
 
 When the Twist Counter signals a twist, it’s time to interpret this event in a way that complements the current narrative and keeps the story fresh. You can roll 2d6 and consult the Twist Table provided in *Loner*, which offers simple prompts like *“A third party appears”* or *“The goal changes”*. These prompts serve as starting points, but how you interpret them is up to you, allowing for flexibility and creativity.
 
-- **Adapting the Twist to the Scene**: Consider the context of the scene and the protagonist’s current goals. For example, if the Twist Table indicates *“An encounter hinders the hero,”* think about who or what might suddenly disrupt the protagonist’s plan. An ally could turn on them, or a long-lost foe might reappear. Tailoring the twist to the protagonist’s situation ensures it feels meaningful and enhances the narrative’s coherence.
-
-- **Creating Pivotal Moments**: A well-integrated twist can serve as a pivotal moment in the story, changing the protagonist’s motivations or shifting the course of their journey. For instance, a twist like *“An object ends the scene”* could mean the discovery of a significant artifact that reveals new information or poses a challenge. Such twists can deepen the story’s stakes, giving the protagonist fresh reasons to push forward or reassess their goals.
+- **Adapting the Twist to the Scene**: Consider the context of the scene and your protagonist’s current goals. For example, if the Twist Table indicates *“An encounter hinders the hero,”* think about who or what might suddenly disrupt your protagonist’s plan. An ally could turn on them, or a long-lost foe might reappear. Tailoring the twist to the protagonist’s situation ensures it feels meaningful and enhances the narrative’s coherence.
+  
+- **Creating Pivotal Moments**: A well-integrated twist can serve as a pivotal moment in the story, changing your protagonist’s motivations or shifting the course of their journey. For instance, a twist like *“An object ends the scene”* could mean the discovery of a significant artifact that reveals new information or poses a challenge. Such twists can deepen the story’s stakes, giving your protagonist fresh reasons to push forward or reassess their goals.
 
 - **Balancing Surprise and Continuity**: While twists are meant to surprise, they should also feel plausible within the established story. Avoid introducing twists that feel out of place or disrupt continuity. Instead, consider them as natural extensions of the existing narrative, adding depth rather than detracting from it. A twist might uncover hidden aspects of an NPC’s motives or introduce a new dimension to the setting, weaving seamlessly into the story’s fabric.
 
-Incorporating twists thoughtfully allows the narrative to remain flexible, with each twist acting as a narrative pivot that can propel the story in exciting new directions. By using the Twist Counter to manage the frequency of surprises and creatively integrating twists into the existing plot, you’ll create a storytelling experience that feels both coherent and filled with anticipation, adding layers of depth and discovery to the protagonist’s journey in *Loner*.
+Incorporating twists thoughtfully allows the narrative to remain flexible, with each twist acting as a narrative pivot that can propel the story in exciting new directions. By using the Twist Counter to manage the frequency of surprises and creatively integrating twists into the existing plot, you’ll create a storytelling experience that feels both coherent and filled with anticipation, adding layers of depth and discovery to your protagonist’s journey in *Loner*.
 
 ### 3. Developing Characters and Relationships
 
-As the story unfolds in *Loner*, the protagonist will encounter a range of NPCs, each with their own motives, personalities, and potential for impact. These relationships add emotional depth and complexity to the story, making it more engaging and immersive. Developing these characters and the connections between them creates a rich narrative landscape where the protagonist’s choices resonate, and the stakes feel personal.
+As the story unfolds in *Loner*, your protagonist will encounter a range of NPCs, each with their own motives, personalities, and potential for impact. These relationships add emotional depth and complexity to the story, making it more engaging and immersive. Developing these characters and the connections between them creates a rich narrative landscape where your protagonist’s choices resonate, and the stakes feel personal.
 
 #### Evolving NPCs and Their Roles
 
@@ -331,23 +333,23 @@ In *Loner*, NPCs can be allies, antagonists, mentors, or even ambiguous figures 
 
 - **Dynamic Motivations**: Allow NPCs to evolve by considering how their goals and interests might shift over time. A once-helpful ally may develop conflicting objectives, or an adversary could become sympathetic in certain circumstances. By letting NPCs adapt to the story’s twists and turns, you make them feel like active participants in the narrative rather than static figures.
 
-- **Revisiting Key Characters**: Don’t be afraid to bring back NPCs who played a significant role in earlier scenes. This continuity creates a sense of realism and builds emotional connections. For example, a rival encountered in an early scene might reappear, having changed in some way due to previous interactions with the protagonist. These recurring NPCs add depth to the story, as the protagonist’s actions have lasting impacts on the people they encounter.
+- **Revisiting Key Characters**: Don’t be afraid to bring back NPCs who played a significant role in earlier scenes. This continuity creates a sense of realism and builds emotional connections. For example, a rival encountered in an early scene might reappear, having changed in some way due to previous interactions with your protagonist. These recurring NPCs add depth to the story, as your protagonist’s actions have lasting impacts on the people they encounter.
 
-- **Using Tags to Show Growth**: Just as the protagonist has tags that define their traits and skills, NPCs can also evolve through new or altered tags. A tag like *“Reluctant Ally”* could shift to *“Loyal Confidant”* if trust is established, or to *“Betrayed Associate”* if trust is broken. By updating tags to reflect changes in their roles or attitudes, you keep NPCs dynamic and responsive to the narrative.
+- **Using Tags to Show Growth**: Just as your protagonist has tags that define their traits and skills, NPCs can also evolve through new or altered tags. A tag like *“Reluctant Ally”* could shift to *“Loyal Confidant”* if trust is established, or to *“Betrayed Associate”* if trust is broken. By updating tags to reflect changes in their roles or attitudes, you keep NPCs dynamic and responsive to the narrative.
 
 #### Deepening Connections and Conflicts
 
-The connections the protagonist forms with NPCs can serve as sources of support or tension, influencing their motivations and decisions. These relationships can range from alliances to rivalries, each offering unique storytelling possibilities that make the narrative more complex and emotionally engaging.
+The connections your protagonist forms with NPCs can serve as sources of support or tension, influencing their motivations and decisions. These relationships can range from alliances to rivalries, each offering unique storytelling possibilities that make the narrative more complex and emotionally engaging.
 
-- **Building Trust and Loyalty**: Relationships with allies can grow stronger over time, providing the protagonist with support and assistance during critical moments. As the protagonist repeatedly interacts with an NPC, trust can be earned (or lost), adding depth to the alliance. Small acts, like sharing secrets or risking safety for each other, can build loyalty, giving these relationships weight and influence within the story.
+- **Building Trust and Loyalty**: Relationships with allies can grow stronger over time, providing your protagonist with support and assistance during critical moments. As your protagonist repeatedly interacts with an NPC, trust can be earned (or lost), adding depth to the alliance. Small acts, like sharing secrets or risking safety for each other, can build loyalty, giving these relationships weight and influence within the story.
 
-- **Creating Personal Stakes Through Conflict**: Rivals, antagonists, and even allies with differing agendas bring tension and personal stakes to the protagonist’s journey. Conflicts don’t have to be adversarial; they can be rooted in clashing values, competing objectives, or unspoken grievances. For example, an ally might disagree with the protagonist’s methods, creating moral dilemmas and forcing the protagonist to consider their actions carefully.
+- **Creating Personal Stakes Through Conflict**: Rivals, antagonists, and even allies with differing agendas bring tension and personal stakes to your protagonist’s journey. Conflicts don’t have to be adversarial; they can be rooted in clashing values, competing objectives, or unspoken grievances. For example, an ally might disagree with your protagonist’s methods, creating moral dilemmas and forcing your protagonist to consider their actions carefully.
 
-- **Weaving Emotional Complexity**: Relationships can grow complicated, especially as NPCs reveal their own flaws and vulnerabilities. An NPC might struggle with a personal crisis or betray the protagonist under pressure. These complex dynamics add realism and make the connections feel authentic. For example, a trusted friend might betray the protagonist, not out of malice, but due to external circumstances or desperation. These moments of complexity enrich the story and deepen the emotional stakes.
+- **Weaving Emotional Complexity**: Relationships can grow complicated, especially as NPCs reveal their own flaws and vulnerabilities. An NPC might struggle with a personal crisis or betray your protagonist under pressure. These complex dynamics add realism and make the connections feel authentic. For example, a trusted friend might betray your protagonist, not out of malice, but due to external circumstances or desperation. These moments of complexity enrich the story and deepen the emotional stakes.
 
-- **Shaping the Narrative Through Relationships**: Connections with NPCs often provide the protagonist with new motivations or challenges, driving the story forward. A close friend’s plea for help or an antagonist’s personal vendetta against the protagonist can change the course of events, adding urgency and weight to the protagonist’s choices. By weaving these relationships into the story, you create a narrative where character interactions feel essential, not just background detail.
+- **Shaping the Narrative Through Relationships**: Connections with NPCs often provide your protagonist with new motivations or challenges, driving the story forward. A close friend’s plea for help or an antagonist’s personal vendetta against your protagonist can change the course of events, adding urgency and weight to your protagonist’s choices. By weaving these relationships into the story, you create a narrative where character interactions feel essential, not just background detail.
 
-Developing characters and relationships in *Loner* allows the protagonist to engage with a world that feels populated, meaningful, and dynamic. By letting NPCs evolve and deepening the protagonist’s connections and conflicts with them, you build a story that’s more than just a series of events—it becomes an emotionally charged journey where every interaction matters, shaping the protagonist’s path and personal growth.
+Developing characters and relationships in *Loner* allows your protagonist to engage with a world that feels populated, meaningful, and dynamic. By letting NPCs evolve and deepening your protagonist’s connections and conflicts with them, you build a story that’s more than just a series of events—it becomes an emotionally charged journey where every interaction matters, shaping your protagonist’s path and personal growth.
 
 ## Fictional Positioning in Practice
 
@@ -357,25 +359,25 @@ Fictional positioning is a core concept in *Loner*, anchoring your protagonist�
 
 #### Aligning Actions with Character Traits
 
-Your protagonist’s traits — skills, frailties, and motivations—are the foundation of their fictional position. By aligning their actions with these traits, you ensure their choices and responses are believable and coherent within the story.
+Your protagonist’s traits—skills, frailties, and motivations—are the foundation of their fictional position. By aligning their actions with these traits, you ensure their choices and responses are believable and coherent within the story.
 
-- **Use Traits as Decision-Making Guides**: When faced with a choice, consider how the protagonist’s traits might influence their actions. For instance, a character with the *“Stealthy”* trait would naturally favor subtle, cautious approaches, while a character tagged as *“Impulsive”* might lean toward bold, risky actions. These traits add depth and consistency to your character’s decisions, shaping their behavior in a way that feels authentic.
+- **Use Traits as Decision-Making Guides**: When faced with a choice, consider how your protagonist’s traits might influence their actions. For instance, a character with the *“Stealthy”* trait would naturally favor subtle, cautious approaches, while a character tagged as *“Impulsive”* might lean toward bold, risky actions. These traits add depth and consistency to your character’s decisions, shaping their behavior in a way that feels authentic.
 
-- **Respond to Situations Based on Frailties**: Your protagonist’s frailties add dimension to their fictional positioning, introducing realistic limitations and challenges. A character with *“Fear of Heights”* may struggle in high places, or one with *“Easily Distracted”* may lose focus during critical moments. These limitations bring tension and vulnerability to the story, making the protagonist’s journey more relatable and their accomplishments more meaningful.
+- **Respond to Situations Based on Frailties**: Your protagonist’s frailties add dimension to their fictional positioning, introducing realistic limitations and challenges. A character with *“Fear of Heights”* may struggle in high places, or one with *“Easily Distracted”* may lose focus during critical moments. These limitations bring tension and vulnerability to the story, making your protagonist’s journey more relatable and their accomplishments more meaningful.
 
-- **Let Goals and Motives Inform Choices**: The protagonist’s goals and motives are also key to their fictional positioning. If their motive is *“Protecting a Loved One,”* they may choose protective actions over self-interest. Aligning decisions with their motives and goals deepens their connection to the story, helping the narrative feel purpose-driven and cohesive.
+- **Let Goals and Motives Inform Choices**: Your protagonist’s goals and motives are also key to their fictional positioning. If their motive is *“Protecting a Loved One,”* they may choose protective actions over self-interest. Aligning decisions with their motives and goals deepens their connection to the story, helping the narrative feel purpose-driven and cohesive.
 
 #### Influencing the World Through Decisions
 
-In *Loner*, the protagonist’s actions don’t just passively play out in a static world—they actively shape the world around them. Through fictional positioning, your protagonist can create meaningful changes, impacting their environment, NPCs, and even the story’s direction.
+In *Loner*, your protagonist’s actions don’t just passively play out in a static world—they actively shape the world around them. Through fictional positioning, your protagonist can create meaningful changes, impacting their environment, NPCs, and even the story’s direction.
 
-- **Interact Meaningfully with the Setting**: Think about how the protagonist’s skills and knowledge might allow them to affect their surroundings. For example, if they have a tag like *“Technically Skilled,”* they may be able to manipulate machinery or disable traps in a high-tech environment. By using their traits in ways that influence the world, you create a sense of agency and realism, as the protagonist interacts with the environment based on their unique abilities.
+- **Interact Meaningfully with the Setting**: Think about how your protagonist’s skills and knowledge might allow them to affect their surroundings. For example, if they have a tag like *“Technically Skilled,”* they may be able to manipulate machinery or disable traps in a high-tech environment. By using their traits in ways that influence the world, you create a sense of agency and realism, as your protagonist interacts with the environment based on their unique abilities.
 
-- **Affect NPC Relationships**: The protagonist’s traits and decisions also shape their relationships with NPCs. A protagonist tagged as *“Charismatic”* might sway characters to their side, while a *“Gruff”* character may face resistance or mistrust. These interactions add nuance to their fictional position, reflecting the protagonist’s personality in how NPCs react, trust, or oppose them.
+- **Affect NPC Relationships**: Your protagonist’s traits and decisions also shape their relationships with NPCs. A protagonist tagged as *“Charismatic”* might sway characters to their side, while a *“Gruff”* character may face resistance or mistrust. These interactions add nuance to their fictional position, reflecting your protagonist’s personality in how NPCs react, trust, or oppose them.
 
-- **Create Consequences Through Actions**: Every decision has the potential to produce lasting consequences that ripple throughout the story. If your protagonist chooses a path aligned with their frailties, such as recklessness, it may lead to setbacks, conflicts, or opportunities for growth. Conversely, actions taken with skills or goals in mind may bring rewards, alliances, or advancement toward their objectives. By letting choices shape the world, you allow the protagonist to leave an impact, making the story feel like a collaborative dance between character and environment.
+- **Create Consequences Through Actions**: Every decision has the potential to produce lasting consequences that ripple throughout the story. If your protagonist chooses a path aligned with their frailties, such as recklessness, it may lead to setbacks, conflicts, or opportunities for growth. Conversely, actions taken with skills or goals in mind may bring rewards, alliances, or advancement toward their objectives. By letting choices shape the world, you allow your protagonist to leave an impact, making the story feel like a collaborative dance between character and environment.
 
-Understanding your character’s place in the world through fictional positioning brings depth and cohesion to *Loner*, transforming each action into a meaningful expression of who they are. By aligning decisions with their traits and allowing those choices to impact the world, you create a story where the protagonist’s identity shapes their journey in a way that’s organic, immersive, and true to their fictional position.
+Understanding your character’s place in the world through fictional positioning brings depth and cohesion to *Loner*, transforming each action into a meaningful expression of who they are. By aligning decisions with their traits and allowing those choices to impact the world, you create a story where your protagonist’s identity shapes their journey in a way that’s organic, immersive, and true to their fictional position.
 
 ### 2. Interacting with the Game World
 
@@ -385,9 +387,9 @@ Interacting with the game world in *Loner* involves navigating various challenge
 
 The challenges your protagonist faces can fall into different categories, each demanding a distinct approach and inviting a range of storytelling possibilities:
 
-- **Social Challenges**: Social challenges revolve around interactions with NPCs and groups, often requiring diplomacy, persuasion, or intuition. These situations are shaped by the protagonist’s personality and social skills, such as *“Charismatic,”* *“Empathetic,”* or *“Intimidating.”* In social encounters, consider how the protagonist’s traits influence their approach to negotiation, deception, or alliance-building, and use these traits to sway the outcome in their favor—or deal with the consequences if things go awry.
+- **Social Challenges**: Social challenges revolve around interactions with NPCs and groups, often requiring diplomacy, persuasion, or intuition. These situations are shaped by your protagonist’s personality and social skills, such as *“Charismatic,”* *“Empathetic,”* or *“Intimidating.”* In social encounters, consider how your protagonist’s traits influence their approach to negotiation, deception, or alliance-building, and use these traits to sway the outcome in their favor—or deal with the consequences if things go awry.
 
-- **Physical Challenges**: Physical challenges include tasks requiring endurance, strength, agility, or dexterity, like climbing, sneaking, or combat. Traits such as *“Athletic,”* *“Stealthy,”* or *“Resilient”* can offer advantages in physical scenarios, making it easier for the protagonist to overcome obstacles that test their body and reflexes. These challenges can also involve environmental factors, so consider how your protagonist’s physical skills and frailties interact with the world around them.
+- **Physical Challenges**: Physical challenges include tasks requiring endurance, strength, agility, or dexterity, like climbing, sneaking, or combat. Traits such as *“Athletic,”* *“Stealthy,”* or *“Resilient”* can offer advantages in physical scenarios, making it easier for your protagonist to overcome obstacles that test their body and reflexes. These challenges can also involve environmental factors, so consider how your protagonist’s physical skills and frailties interact with the world around them.
 
 - **Mental Challenges**: Mental challenges test your protagonist’s knowledge, problem-solving, and resolve. They might need to interpret clues, resist psychological stress, or solve puzzles. Traits like *“Logical,”* *“Observant,”* or *“Calm Under Pressure”* can be invaluable when dealing with mental obstacles. Frailties such as *“Impulsive”* or *“Distracted”* may create additional difficulties, adding layers to decision-making and potentially increasing tension in high-stakes situations.
 
@@ -397,13 +399,13 @@ By encountering a range of challenges, your protagonist’s journey becomes more
 
 Tags in *Loner* represent your protagonist’s strengths and weaknesses, shaping how they interact with the world. In any given situation, you can use these tags to gain an **advantage** or, conversely, face a **disadvantage**. Knowing when and how to leverage these tags enhances the storytelling experience, helping you interpret outcomes that feel authentic and grounded in your character’s abilities.
 
-- **Leveraging Strengths for Advantage**: When a situation aligns with one of the protagonist’s positive traits, you can grant them an advantage by adding an extra **Chance Die** to the Oracle roll. This increased chance of success reflects the protagonist’s expertise or natural ability. For instance, a character with the tag *“Persuasive”* would gain an advantage in social negotiations, while one with *“Quick Reflexes”* would benefit in situations requiring rapid response. This intuitive use of tags keeps interactions smooth and context-driven, without adding excessive mechanics.
+- **Leveraging Strengths for Advantage**: When a situation aligns with one of your protagonist’s positive traits, you can grant them an advantage by adding an extra **Chance Die** to the Oracle roll. This increased chance of success reflects your protagonist’s expertise or natural ability. For instance, a character with the tag *“Persuasive”* would gain an advantage in social negotiations, while one with *“Quick Reflexes”* would benefit in situations requiring rapid response. This intuitive use of tags keeps interactions smooth and context-driven, without adding excessive mechanics.
 
-- **Accepting Weaknesses for Disadvantage**: In contrast, if the protagonist’s frailty or an environmental factor hinders them, add an extra **Risk Die** to the roll. This disadvantage introduces an increased risk of failure, representing the protagonist’s struggle with that specific situation. For example, a protagonist tagged as *“Insecure”* might struggle in high-stakes social encounters, while one with *“Physically Weak”* would be at a disadvantage in feats of strength. Embracing these disadvantages makes each success feel earned and adds depth to the character’s journey.
+- **Accepting Weaknesses for Disadvantage**: In contrast, if your protagonist’s frailty or an environmental factor hinders them, add an extra **Risk Die** to the roll. This disadvantage introduces an increased risk of failure, representing your protagonist’s struggle with that specific situation. For example, a protagonist tagged as *“Insecure”* might struggle in high-stakes social encounters, while one with *“Physically Weak”* would be at a disadvantage in feats of strength. Embracing these disadvantages makes each success feel earned and adds depth to your character’s journey.
 
 - **Using Tags Creatively**: Tags can also be applied in unexpected ways. If your protagonist has the *“Observant”* trait, it could offer an advantage not only in investigative scenarios but also in spotting subtle shifts in NPC behavior or environmental cues. Think creatively about how tags might apply, using them as flexible tools that enrich storytelling rather than rigid categories.
 
-By exploring diverse challenges and using tags for advantage or disadvantage, interactions in *Loner* feel organic, balanced, and connected to your protagonist’s identity. This approach keeps gameplay rooted in the character’s traits and abilities, allowing you to navigate a world that feels responsive and shaped by the protagonist’s unique skills and limitations. Each encounter thus becomes an opportunity to deepen the story, reflect the character’s growth, and reveal new facets of their journey.
+By exploring diverse challenges and using tags for advantage or disadvantage, interactions in *Loner* feel organic, balanced, and connected to your protagonist’s identity. This approach keeps gameplay rooted in the character’s traits and abilities, allowing you to navigate a world that feels responsive and shaped by your protagonist’s unique skills and limitations. Each encounter thus becomes an opportunity to deepen the story, reflect the character’s growth, and reveal new facets of their journey.
 
 ### 3. Impacting the Narrative
 
@@ -411,27 +413,27 @@ In *Loner*, every decision your protagonist makes has the potential to shape the
 
 #### Recognizing Opportunities for Growth
 
-Opportunities for growth often emerge naturally within the unfolding story, arising from challenges, setbacks, and unexpected twists. Recognizing these moments allows you to deepen the protagonist’s character and make their journey one of discovery and transformation.
+Opportunities for growth often emerge naturally within the unfolding story, arising from challenges, setbacks, and unexpected twists. Recognizing these moments allows you to deepen your protagonist’s character and make their journey one of discovery and transformation.
 
-- **Learning from Failures and Setbacks**: Failure is not an endpoint in *Loner*; it’s an opportunity for growth. When the protagonist faces a setback—whether it’s a failed attempt, a lost ally, or an unforeseen consequence—consider how they might adapt, learn, or shift their perspective. These moments reveal resilience and flexibility, allowing the character to develop depth through perseverance.
+- **Learning from Failures and Setbacks**: Failure is not an endpoint in *Loner*; it’s an opportunity for growth. When your protagonist faces a setback—whether it’s a failed attempt, a lost ally, or an unforeseen consequence—consider how they might adapt, learn, or shift their perspective. These moments reveal resilience and flexibility, allowing your character to develop depth through perseverance.
 
-- **Exploring Relationships as Growth Catalysts**: Interactions with NPCs can bring about personal growth by challenging the protagonist’s beliefs, behaviors, or goals. An ally might inspire them to act selflessly, while a rival could force them to confront unresolved conflicts. By considering how these relationships affect the protagonist’s outlook or motivations, you add layers to the story, making each relationship an avenue for potential change.
+- **Exploring Relationships as Growth Catalysts**: Interactions with NPCs can bring about personal growth by challenging your protagonist’s beliefs, behaviors, or goals. An ally might inspire them to act selflessly, while a rival could force them to confront unresolved conflicts. By considering how these relationships affect your protagonist’s outlook or motivations, you add layers to the story, making each relationship an avenue for potential change.
 
-- **Embracing Personal Reflections**: When the story reaches quieter moments, allow the protagonist time for introspection. Reflect on recent events and consider how they’ve shaped the character’s thoughts or attitudes. If the protagonist has made difficult choices, these moments of reflection can reveal doubts, affirmations, or shifts in values, making their growth feel gradual and natural within the narrative.
+- **Embracing Personal Reflections**: When the story reaches quieter moments, allow your protagonist time for introspection. Reflect on recent events and consider how they’ve shaped your character’s thoughts or attitudes. If your protagonist has made difficult choices, these moments of reflection can reveal doubts, affirmations, or shifts in values, making their growth feel gradual and natural within the narrative.
 
 #### Making Meaningful Choices
 
-In *Loner*, meaningful choices are those that go beyond immediate outcomes, resonating with the protagonist’s values, relationships, and long-term goals. By making thoughtful, impactful decisions, you create a narrative where each action feels significant and purposeful.
+In *Loner*, meaningful choices are those that go beyond immediate outcomes, resonating with your protagonist’s values, relationships, and long-term goals. By making thoughtful, impactful decisions, you create a narrative where each action feels significant and purposeful.
 
-- **Aligning Choices with Goals and Motives**: When faced with a decision, think about the protagonist’s long-term goals and personal motives. Does this choice bring them closer to their objectives, or does it sidetrack them? A protagonist with a motive to protect others may prioritize altruistic actions, even if it means sacrificing something personally valuable. By grounding decisions in their goals, each choice reinforces the character’s direction and depth.
+- **Aligning Choices with Goals and Motives**: When faced with a decision, think about your protagonist’s long-term goals and personal motives. Does this choice bring them closer to their objectives, or does it sidetrack them? A protagonist with a motive to protect others may prioritize altruistic actions, even if it means sacrificing something personally valuable. By grounding decisions in their goals, each choice reinforces the character’s direction and depth.
 
-- **Considering the Weight of Relationships**: Relationships often complicate decision-making, adding stakes and emotional weight. When the protagonist must choose between helping an ally or pursuing their primary goal, consider how this choice might affect their connections. Prioritizing an ally can strengthen loyalty but may delay progress, while choosing the main objective over an ally’s needs could introduce tension. Such choices make relationships feel genuine, with outcomes that reflect the protagonist’s values.
+- **Considering the Weight of Relationships**: Relationships often complicate decision-making, adding stakes and emotional weight. When your protagonist must choose between helping an ally or pursuing their primary goal, consider how this choice might affect their connections. Prioritizing an ally can strengthen loyalty but may delay progress, while choosing the main objective over an ally’s needs could introduce tension. Such choices make relationships feel genuine, with outcomes that reflect your protagonist’s values.
 
-- **Balancing Risks and Rewards**: Many choices come with both potential rewards and risks. Deciding whether to confront a powerful enemy, take a dangerous shortcut, or trust an unpredictable ally should feel like a calculated risk. By weighing these risks against potential gains, the protagonist’s choices feel consequential, creating suspense and investment in the outcome. Every risk the protagonist takes adds texture to the story, revealing aspects of their bravery, caution, or desperation.
+- **Balancing Risks and Rewards**: Many choices come with both potential rewards and risks. Deciding whether to confront a powerful enemy, take a dangerous shortcut, or trust an unpredictable ally should feel like a calculated risk. By weighing these risks against potential gains, your protagonist’s choices feel consequential, creating suspense and investment in the outcome. Every risk your protagonist takes adds texture to the story, revealing aspects of their bravery, caution, or desperation.
 
-- **Adapting to Twists and Surprises**: When the Oracle introduces a twist, the protagonist’s ability to adapt becomes crucial. Embrace these narrative shifts by making choices that respond directly to the new situation. Whether it’s accepting a sudden change of goal, dealing with an unexpected ally’s arrival, or facing an unforeseen threat, these choices show the protagonist’s flexibility and resolve, highlighting their role as an active force in the story.
+- **Adapting to Twists and Surprises**: When the Oracle introduces a twist, your protagonist’s ability to adapt becomes crucial. Embrace these narrative shifts by making choices that respond directly to the new situation. Whether it’s accepting a sudden change of goal, dealing with an unexpected ally’s arrival, or facing an unforeseen threat, these choices show your protagonist’s flexibility and resolve, highlighting their role as an active force in the story.
 
-By recognizing opportunities for growth and making meaningful choices, the protagonist’s journey in *Loner* becomes a tapestry of personal evolution, values, and interactions. Each decision they make is a step toward defining who they are, both within the context of the story and as an evolving character. In this way, the narrative becomes an immersive experience where growth and choice intersect, making the protagonist’s journey as impactful and resonant as the world they explore.
+By recognizing opportunities for growth and making meaningful choices, your protagonist’s journey in *Loner* becomes a tapestry of personal evolution, values, and interactions. Each decision they make is a step toward defining who they are, both within the context of the story and as an evolving character. In this way, the narrative becomes an immersive experience where growth and choice intersect, making your protagonist’s journey as impactful and resonant as the world they explore.
 
 ## Balancing Story and Mechanics
 
