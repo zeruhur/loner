@@ -2,10 +2,10 @@
 
 The following games are intended to be a new generation of Adventure Packs: self-contained, stand-alone games with all the basic rules plus everything you need to play in a specific adventure world!
 
-- [Kwaidan!](en/AP13_kwaidan.md)
-- [Cog & Compass](en/ap14_Cog&Compass.md)
-- [Mech: Requiem](en/ap15_mech_requiem.md)
-- [Legends of Camelot](en/AP16_legends_of_camelot.md)
+- [Kwaidan!](en/geared_towards_loner/kwaidan.md)
+- [Cog & Compass](en/geared_towards_loner/cog_compass.md)
+- [Mech: Requiem](en/geared_towards_loner/mech_requiem.md)
+- [Legends of Camelot](en/geared_towards_loner/legends_of_camelot.md)
 
 ## Creator's Kit
 
