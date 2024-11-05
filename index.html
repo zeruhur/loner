@@ -8,15 +8,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+  <link rel="stylesheet" href="assets/css/navbar_fixed.css">
+  <!-- Adds the default breadcrumb styling -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-breadcrumb@latest/dist/breadcrumb.min.css">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
       name: 'LONER',
-      repo: 'https://github.com/zeruhur/loner',
+      //repo: 'https://github.com/zeruhur/loner',
       // loadSidebar: '_navigation/_sidebar.md',
-      loadFooter: '_navigation/_footer.md',
+      //loadFooter: '_navigation/_footer.md',
+      homepage: 'home.md',
       subMaxLevel: 1,
       auto2top: true,
       search: 'auto',
@@ -29,7 +34,15 @@
         crossChapter: true,
         crossChapterText: true
       },
-      onlyCover: false
+      onlyCover: false,
+      footer: {
+        copy: '<span>Loner &copy; 2023</span>',
+        auth: 'Roberto Bisceglie',
+        pre: '',
+        style: 'text-align: center;',
+        class: 'className',
+        },
+        mergeNavbar: true,
     }
   </script>
   <!-- Docsify v4 -->
@@ -38,5 +51,8 @@
   <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/LIGMATV/docsify-dark-switcher@latest/docsify-dark-switcher.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-breadcrumb@latest/dist/index.min.js"></script>
+  <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
 </body>
 </html>

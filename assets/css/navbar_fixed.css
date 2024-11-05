@@ -1,0 +1,66 @@
+.app-nav {
+    position: fixed;
+    background-color: var(--theme-color, #000000);
+    width: 100%;
+    margin: 0;
+    margin-right: 0 !important;
+    padding: 12px;
+    color: #ffffff;
+    transition: 0.2s;
+  }
+  
+  .app-nav li {
+    padding: 0;
+  }
+  
+  .app-nav p img:nth-child(1) {
+    width: 24px;
+    float: left;
+  }
+  
+  .app-nav p:nth-child(2) {
+    float: left;
+    font-weight: 600;
+    margin-left: 16px;
+  }
+  
+  .app-nav li ul {
+    color: #000000;
+  }
+  
+  .app-nav .badge {
+    min-width: 85px !important;
+    max-width: 85px;
+    float: right !important;
+    margin-left: 10px;
+  }
+  
+  .search input, .search .clear-button {
+    margin-top: 15%;
+  }
+  
+  section.cover img:first-child {
+    margin-top: 4%;
+  }
+  
+  .markdown-section h1 {
+    font-size: 2rem;
+    padding: 40px 0 1rem;
+    margin: 0 !important;
+  }
+  .markdown-section h2 {
+    font-size: 1.75rem;
+    padding: 45px 0 0.8rem;
+    margin: 0 !important;
+  }
+  .markdown-section h3 {
+    font-size: 1.5rem;
+    padding: 40px 0 0.6rem;
+    margin: 0 !important;
+  }
+  
+  @media screen and (max-width: 770px) {
+    .search input, .search .clear-button {
+      margin-top: 0%;
+    }
+  }
