@@ -2,13 +2,32 @@
 
 ## Introduction
 
+In September 2021, I created Loner as a free ten-page document. It was simply my own way of playing solo games, with simple rules, no fancy dice, and a focus on character and story.
+
+Loner was downloaded more than a thousand times. I was amazed! It was just a collection of other people's material, arranged to support my game. Its development was over. I used it often and decided to share it with the wider community. I had declared there would never be a second edition, but then something happened.
+
+An Italian Solo RPG community was born. They were curious to try a game that was easy to play solo. They demanded that I translate Loner. I did, but I wasn't convinced. 
+
+People asked me lots of questions about the game. I had to add more examples, diagrams, and explanations. This led to the second edition of Loner.
+
+The Italian community also came up with Adventure Packs. They needed ready-to-use tags and asked for a lot of them!
+Thank the Italian community if you have the current edition of Loner!
+
+I indeed liked it so much, I keep creating new settings!
+ 
+There was still something missing. I thought that using qualifiers (tags) in solo games was now common among role-players. It was not actually the case, and many have asked for help on how to play Loner.
+
+I'm a concise writer, and Loner reflects that. With this Companion I try to fill the gap: to explain well how to play Loner and to accompany this by the extension of the example contained in the Core Rules. You will find again Zahra and her world here. She is dear to me because she was in my first playtest!
+
+I hope you find this useful!
+
 ### Purpose of This Handbook
 
 Welcome to the **Loner Companion**! Think of this guide as the seasoned friend by your side, ready to dive deeper into *Loner*, a solo RPG crafted for minimalist, emergent storytelling. This isn’t just a handbook; it’s a peek behind the curtain to uncover *why* *Loner* functions the way it does and how you can unlock its full potential in your adventures. We’re exploring the core of what makes *Loner* unique and how you can make that magic come to life.
 
 This isn’t a lecture — it’s a conversation. Whether you're just starting out or already in the thick of your story, this guide offers insights and guidance to help you deepen your journey. It’s here to clarify, inspire, and, above all, enhance your understanding of what makes *Loner* special.
 
-### The Heart of Loner: Core Philosophies
+### Core Principles
 
 *Loner* is about telling *your* story — one that unfolds in the quiet and wonder of solo play. Three key ideas shape the experience: **Fiction First**, **Emergent Narrative**, and **Fictional Positioning**. Together, they invite you to let narrative take the lead, so that every twist and turn feels natural and compelling.
 
@@ -18,9 +37,7 @@ This isn’t a lecture — it’s a conversation. Whether you're just starting o
 
 - **Fictional Positioning**: This idea is all about rooting your character’s actions within the story’s context. Your character’s abilities, history, and the scene itself combine to shape what’s possible. It’s not about stats but about the choices that feel *real*. This principle allows your character’s background and motivations to breathe life into each action, shaping the journey in ways that feel authentic and grounded.
 
-Together, these principles create a game of discovery — of your character, their world, and the story that emerges as you play. This handbook is here to help you lean into these ideas, giving you tools to approach each scene with confidence and creativity. Let the story breathe and surprise you as it unfolds, one decision at a time.
-
-## The Core of Loner: Story-Driven Play
+## The Story-Driven Play
 
 *Loner* isn’t just about mechanics; it’s about creativity, adaptability, and getting swept up in immersive storytelling. By keeping the story at the center, *Loner* provides a unique, unpredictable solo RPG experience, where the journey is a revelation—for you and your character alike.
 
@@ -36,7 +53,7 @@ One of the joys of *Loner* is its emergent narrative. There’s no fixed storyli
 
 In *Loner*, fictional positioning grounds actions within the story itself, rather than in rigid numbers. Decisions are guided by what’s true for your character: their skills, experiences, and the context of each scene. Imagine a skilled locksmith breaking into a building — the action makes sense without needing a number to validate it. A tag like “skilled archer” eases archery tasks, while “afraid of heights” could make a rooftop chase a harrowing ordeal. By focusing on what makes sense for your character, every choice is rooted in narrative, giving weight and meaning to every turn of the story.
 
-## What Drives Loner: The Design Principles
+## What Drives Loner
 
 These principles make *Loner* an approachable, story-driven experience that values immersion and adaptability. Each idea supports a minimalist RPG where storytelling takes the spotlight, keeping it portable, quick to pick up, and perfect for a solo journey, wherever it might lead.
 
@@ -97,7 +114,7 @@ The flexibility of *Loner* means each journey can be as unique as the world you 
 
 > For an alternate route, you decide to try one of the *Loner* Adventure Packs, **The Artifact Retrieval Mission**. In this scenario, Zahra’s mission shifts to recovering a legendary piece of lost tech, rumored to be hidden in an abandoned research station in deep space. The research station is filled with eerie remnants of past experiments, lending a “haunted location” vibe as Zahra explores the dark, echoing corridors. Each clue she finds points to the tech’s immense power and potential consequences, making her wonder if retrieving it is truly worth the risk. With random encounters and spooky details from the Adventure Pack, you’re ready to guide Zahra through a harrowing journey full of tension and eerie discoveries.
 
-### Creating Your Protagonist
+### Your Protagonist
 
 Your protagonist is the heart of your *Loner* adventure — a character with unique traits, goals, and a background that will drive the story forward. Building a well-rounded protagonist makes the game more immersive and provides you with a clear lens through which to navigate the twists, turns, and challenges that lie ahead.
 
@@ -182,7 +199,7 @@ Use NPCs and organizations thoughtfully, giving them motivations that intersect 
 
 > - **Organizations**:  
 >   - *The Naturalist Order*: This secretive organization advocates for planetary “purity” and believes that failing ecosystems should be left to “natural evolution” without artificial intervention. To them, Zahra’s mission is misguided and dangerous, as it disrupts their idea of natural balance. The Order is highly organized, with operatives who can infiltrate government and corporate ranks. Their goals are tagged as *Ruthless* and *Eco-Purist*, which directly oppose Zahra’s tech-driven solutions. The Naturalist Order’s reach is vast, and they are willing to use sabotage, propaganda, and political influence to counter her efforts.
->   - *Leton Corporation*: A powerful entity that monopolizes technology on Zahra’s planet and controls the trade of advanced tech. While they don’t directly oppose environmental preservation, Leton’s sole interest is profit, and they view Zahra’s efforts as a disruption to their market. Tagged as *Greedy* and *Well-Connected*, Leton often indirectly aids the Naturalist Order’s cause by restricting access to the technology Zahra seeks. Their influence over trade and resources introduces obstacles that force Zahra to make tough moral choices, such as whether to steal from them or negotiate under their exploitative terms.
+>   - *Leton Corporation*: A powerful entity that monopolizes technology on Zahra’s planet and controls the trade of advanced tech. While they don’t directly oppose environmental preservation, Leton’s sole interest is profit, and they view Zahra’s efforts as a disruption to their market. Tagged as *Greedy* and *Well-Connected*, Leton often indirectly aids the Naturalist Order’s cause by restricting access to the technology Zahra seeks.
 
 #### Defining Locations and Events
 
@@ -299,8 +316,6 @@ Once you’re into the scene, the key to an engaging solo experience is keeping 
 2. **Let the Oracle Drive the Story Forward**: The Oracle’s responses — especially ones with a “but…” or “and…” modifier—are perfect for injecting twists that add depth and complication. When something unexpected happens, think about how it impacts your protagonist’s goal. Does it shift the stakes or open a new challenge? The Oracle is a prompt, nudging you to interpret creatively and adapt in ways that feel natural to the story.
 
 3. **Transition Smoothly to the Next Scene**: Once the scene’s main purpose is wrapped up, think about where the story leads next. This might come from your protagonist’s actions, or you might roll for the next scene’s mood to set the tone. Whether the next scene arrives with drama or a moment of calm, seamless transitions keep the story moving, helping you maintain the narrative’s flow.
-
-With purposeful scenes and fluid transitions, your *Loner* story will unfold with a natural rhythm, letting your protagonist’s journey feel vivid and alive. Each scene builds on the last, creating a story that evolves in real time, one decision at a time. 
 
 **Example**  
 > Zahra finally reaches the Leton Corporation’s data room door. She’s mentally prepared for a straightforward hack — after all, Melina’s given her some pointers, and Zahra’s *Streetwise* trait gives her confidence in handling unfamiliar tech. However, you recognize that the situation may not be as expected, so you consult the Oracle.
@@ -586,8 +601,6 @@ The connections your protagonist builds with NPCs create a web of support, tensi
 
 - **Letting Relationships Shape the Story**: Interactions with NPCs can provide your protagonist with new motivations or challenges that drive the narrative forward. A plea for help from a close friend or an adversary’s vendetta could shift the course of events, giving your protagonist fresh reasons to act. Weaving these relationships into the plot ensures that character interactions are more than just side elements — they’re integral parts of the story that shape your protagonist’s journey.
 
-By developing characters and relationships in *Loner*, you create a world that feels dynamic, meaningful, and interconnected. Allowing NPCs to evolve, building complex relationships, and letting these connections impact the story turns the journey into an emotionally charged experience where every interaction matters, adding depth to your protagonist’s path and personal growth.
-
 **Example**  
 > Throughout her mission, Zahra encounters various NPCs who bring complexity to her journey and influence her decisions, each developing a unique relationship with her.
 
@@ -653,8 +666,6 @@ As your protagonist moves through the story, they’ll encounter different kinds
 - **Physical Challenges**: Physical challenges test attributes like strength, agility, or endurance. These might involve sneaking, climbing, or even fighting, and tags like *“Stealthy,”* *“Strong,”* or *“Quick”* can make a difference. But don’t forget about how the setting and environment play a role here too. Sometimes, the environment’s tags interact with your protagonist’s abilities in unexpected ways, adding depth to the scene and requiring them to adapt on the fly.
 
 - **Mental Challenges**: These test your protagonist’s mind — whether it’s solving a puzzle, resisting a mental strain, or thinking on their feet. Tags like *“Logical,”* *“Sharp-Eyed,”* or *“Calm Under Pressure”* help them navigate these situations, while frailties like *“Impatient”* or *“Easily Distracted”* might make things tougher. These moments reveal their mental strengths and struggles, creating tension and allowing for growth when they’re pushed to their limits.
-
-Each type of challenge not only tests your character but also shows different sides of them. Success or failure becomes a chance to deepen your understanding of their personality and motivations.
 
 #### Using Tags for Advantage and Disadvantage
 
@@ -842,8 +853,6 @@ Setting the mood for each scene is key to crafting an emotionally resonant solo 
 
 By focusing on atmosphere, visualization, and emotional depth, you transform solo play in *Loner* into a truly immersive experience. Each scene becomes a unique chapter in your protagonist’s journey, filled with moments that resonate and draw you further into the story’s world. Embracing these techniques ensures that your solo sessions are engaging, memorable, and full of life.
 
-## Enhancing Solo Play Experience
-
 ### Journaling and Record-Keeping
 
 In *Loner*, journaling and keeping track of the story are key practices that bring depth to your solo play experience. By documenting your protagonist’s journey, their encounters, and critical choices, you create a lasting narrative record that enriches the story’s continuity and helps you stay connected to your character’s evolution over time.
@@ -874,7 +883,7 @@ From simple notes to detailed reflections, there are many ways to keep track of 
 
 By combining journaling with simple record-keeping, you make each session of *Loner* feel like a story unfolding in real time. These notes not only give continuity to your protagonist’s journey but also serve as a touchstone for their growth, decisions, and the world they navigate. The result is a story that feels immersive and cohesive, with each recorded detail adding weight and meaning to the path your character treads.
 
-## Managing Pace and Tension
+### Managing Pace and Tension
 
 In *Loner*, a well-paced rhythm of dramatic and quiet scenes creates a dynamic and engaging story. Alternating between high-stakes moments and quieter interludes allows you to build tension, provide space for reflection, and keep the protagonist’s journey varied and compelling. Using tools like the **Scene Mood Table** helps you guide the tone of each scene, ensuring a natural flow that moves seamlessly between action, suspense, and calm.
 
@@ -987,8 +996,6 @@ Everyone approaches storytelling differently — some focus on character introsp
 - **Historical Drama or Period Piece**: For a story set in a past era, tailor tags and scenes to fit historical context. Tags like *“Court Etiquette”* or *“Swordsmanship”* bring period authenticity, and you can weave real historical events or societal tensions into the story. A historical setting adds depth, exploring themes like loyalty, honor, or forbidden love in a rich, specific world.
 
 - **Mystery and Noir**: In a mystery or noir setting, every shadow hides a secret, and every choice has consequences. Tags like *“Observant Detective”* or *“Black Market Ties”* work well in this genre, and the Oracle can lead you through clues, red herrings, and reveals. A mystery story builds suspense with each twist, creating a trail of intrigue for your protagonist to unravel.
-
-By personalizing *Loner* to fit your preferences and experimenting with genres that excite you, you create a game that feels deeply tailored to your imagination. This customization invites you to explore worlds, themes, and characters in a way that resonates uniquely with you, making each adventure a reflection of your own storytelling passion and vision. Whether you’re battling mythical beasts, unraveling mysteries, or exploring alien worlds, every session of *Loner* becomes a journey uniquely yours.
 
 ## License
 
