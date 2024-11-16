@@ -7,7 +7,7 @@ title: Mech Requiem
 
 _Mech Requiem_ is a solo tabletop RPG adventure in a future Earth, now fractured by decades of conflict and high-tech warfare. By the 2300s, the world has evolved into a complex web of alliances and rivalries among great powers, leading to a continuous state of proxy wars fought through advanced technology and specialized mechs.
 
-*Legends of Camelot* follows the following design principles:
+*Mech Requiem* follows the following design principles:
 
 1. **Portable**: To play you will need a few common (six-sided) dice and writing materials. Anything else is optional and not essential.
 2. **Rules-Light**: The game relies on a few rules and only one solving mechanic, easy to learn and eventually to memorize.
@@ -29,11 +29,11 @@ Through the interaction of player, oracle, tools, and prompts, the character's a
 You will play alone, but be sure to play in an environment that is comfortable for you, without overexerting yourself, and reserve the option to stop as soon as you feel uncomfortable for any reason, physical or emotional. Don't be afraid to tackle new themes, but do so in full awareness of your boundaries.
 
 ### Minimum Requirements
-To play *Legends of Camelot* you will need:
+To play *Mech Requiem* you will need:
 - **4 six-sided dice** (also known as d6s): two pairs of different colors
 - **Paper and writing tools**: at least a sheet of scrap paper and a pencil, but index cards or sticky notes are a fine addition
 - **Character sheet**: you may use the provided sheet at the back or a simple index card.
-- **Notebook**: *Legends of Camelot* is not a solo journaling game, you can easily play it in the "theater of mind". But you can keep track of your game if you feel the need!
+- **Notebook**: *Mech Requiem* is not a solo journaling game, you can easily play it in the "theater of mind". But you can keep track of your game if you feel the need!
 
 ## Setting Outline
 
