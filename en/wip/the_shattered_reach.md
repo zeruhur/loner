@@ -54,58 +54,40 @@ Another generation has since passed, but the **embers of division** smolder bene
 
 ### **I. The Earth Exodus (c. 2200 - 3000 CE)**  
 **Themes**: Desperation, Unity in Crisis, Innovation  
-1. **2200 CE - Climate Catastrophe and Global Collapse**:  
-   - Earth's environment becomes uninhabitable due to climate change and ecological collapse. Wars erupt over dwindling resources.  
-2. **2250 CE - The Exodus Initiative**:  
-   - United Earth factions pool resources to build generational ships. These massive, self-sufficient vessels are humanity’s last hope.  
-3. **2300 CE - The Launch of the Generational Fleet**:  
-   - Thousands leave Earth on dozens of generational ships. Each vessel is designed to function independently, with a wide genetic pool, hydroponic systems, and cultural archives.  
-4. **2300-3000 CE - The Long Journey**:  
-   - The fleet faces near-extinction from resource failures, internal strife, and technical breakdowns. Some ships are lost, while others merge with fellow travelers.  
+1. **2200 CE - Climate Catastrophe and Global Collapse**: Earth's environment becomes uninhabitable due to climate change and ecological collapse. Wars erupt over dwindling resources.  
+2. **2250 CE - The Exodus Initiative**: United Earth factions pool resources to build generational ships. These massive, self-sufficient vessels are humanity’s last hope.  
+3. **2300 CE - The Launch of the Generational Fleet**: Thousands leave Earth on dozens of generational ships. Each vessel is designed to function independently, with a wide genetic pool, hydroponic systems, and cultural archives.  
+4. **2300-3000 CE - The Long Journey**: The fleet faces near-extinction from resource failures, internal strife, and technical breakdowns. Some ships are lost, while others merge with fellow travelers.  
 
 ### **II. The Founding Era (c. 3000 - 3100 CE)**  
 **Themes**: Hope, Division, Adaptation  
-1. **3015 CE - Arrival in the Quaternary Sector**:  
-   - The first generational ships reach the sector and begin surveying planets.  
-2. **3020 CE - The Core Settlements Begin**:  
-   - Terraforming and settlement of the first habitable planets commence. These colonies—later the Core Worlds—quickly establish a technological and agricultural base.  
-3. **3030 CE - Harsh Planets Claim Early Lives**:  
-   - Struggler colonies face brutal environments, with many lives lost to harsh gravity, toxic atmospheres, or resource scarcity.  
-4. **3050 CE - The Harvester Worlds Emerge**:  
-   - Resource colonies are established on mineral-rich moons and asteroids, often under the control of more powerful planets.  
+1. **3015 CE - Arrival in the Quaternary Sector**: The first generational ships reach the sector and begin surveying planets.  
+2. **3020 CE - The Core Settlements Begin**:  Terraforming and settlement of the first habitable planets commence. These colonies—later the Core Worlds—quickly establish a technological and agricultural base.  
+3. **3030 CE - Harsh Planets Claim Early Lives**: Struggler colonies face brutal environments, with many lives lost to harsh gravity, toxic atmospheres, or resource scarcity.  
+4. **3050 CE - The Harvester Worlds Emerge**: Resource colonies are established on mineral-rich moons and asteroids, often under the control of more powerful planets.  
 
 ### **III. The Colonial Expansion (3100 - 3300 CE)**  
 **Themes**: Expansion, Inequality, Cultural Divergence  
-1. **3100 CE - Formation of Trade Networks**:  
-   - Orbital mechanics-based trade routes form between colonies, fostering interdependence but also exposing disparities.  
-2. **3150 CE - Divergence of Cultures**:  
-   - Isolated colonies develop unique languages, customs, and even physiological adaptations.  
-3. **3180 CE - The “Three Tiers” System Solidifies**:  
-   - The Core, Struggler, and Harvester worlds emerge as distinct socio-economic categories.  
-4. **3250 CE - First Space Conflicts**:  
-   - Disputes over trade and resources spark the first armed skirmishes in space. These are largely small-scale and localized.  
+1. **3100 CE - Formation of Trade Networks**: Orbital mechanics-based trade routes form between colonies, fostering interdependence but also exposing disparities.  
+2. **3150 CE - Divergence of Cultures**: Isolated colonies develop unique languages, customs, and even physiological adaptations.  
+3. **3180 CE - The “Three Tiers” System Solidifies**: The Core, Struggler, and Harvester worlds emerge as distinct socio-economic categories.  
+4. **3250 CE - First Space Conflicts**: Disputes over trade and resources spark the first armed skirmishes in space. These are largely small-scale and localized.  
 
 ### **IV. The War of the Colonies (3300 - 3350 CE)**  
 **Themes**: War, Betrayal, Consequences  
-1. **3300 CE - Economic Collapse on Struggler Worlds**:  
-   - Exploitation by Core Worlds leads to unrest in struggling colonies. Calls for economic reform are ignored, igniting rebellion.  
-2. **3310 CE - The War of the Colonies Begins**:  
-   - Struggler colonies form an alliance and declare war on the Core Worlds. Harvester worlds are drawn in as battlegrounds.  
-3. **3330 CE - The AI Schism**:  
-   - Desperate Struggler factions deploy rogue AI in combat, leading to massive civilian casualties. Post-war, AI is heavily restricted.  
-4. **3350 CE - The Concordat Treaty**:  
-   - The war ends with a negotiated truce. The Core Worlds form the **Concordat**, an alliance promoting trade and stability. Struggler colonies form the **Frontier League**, fostering independence.  
+1. **3300 CE - Economic Collapse on Struggler Worlds**: Exploitation by Core Worlds leads to unrest in struggling colonies. Calls for economic reform are ignored, igniting rebellion.  
+2. **3310 CE - The War of the Colonies Begins**: Struggler colonies form an alliance and declare war on the Core Worlds. Harvester worlds are drawn in as battlegrounds.  
+3. **3330 CE - The AI Schism**: Desperate Struggler factions deploy rogue AI in combat, leading to massive civilian casualties. Post-war, AI is heavily restricted.  
+4. **3350 CE - The Concordat Treaty**: The war ends with a negotiated truce. The Core Worlds form the **Concordat**, an alliance promoting trade and stability. Struggler colonies form the **Frontier League**, fostering independence.  
 
 ### **V. The Reconstruction Era (3350 - 3500 CE)**  
 **Themes**: Recovery, Mistrust, Uneven Progress  
-1. **3360 CE - Technological Renaissance on Core Worlds**:  
-   - Advanced terraforming and FTL technologies emerge but remain prohibitively expensive.  
-2. **3380 CE - Rise of Privateering**:  
-   - Pirates and privateers flourish as tensions persist between Concordat and Frontier League factions.  
-3. **3400 CE - Alien Ruins Discovered**:  
-   - Expeditions to the Outer Reaches uncover evidence of an extinct alien civilization. This discovery fuels both scientific curiosity and religious fervor.  
-4. **3450 CE - Alien Artifacts Activate**:  
-   - Strange signals and encrypted warnings are triggered by human presence in alien ruins. Rumors of a coming threat spread, dismissed as superstition by most.  
+1. **3360 CE - Technological Renaissance on Core Worlds**: Advanced terraforming and FTL technologies emerge but remain prohibitively expensive.  
+2. **3380 CE - Rise of Privateering**: Pirates and privateers flourish as tensions persist between Concordat and Frontier League factions.  
+3. **3400 CE - Alien Ruins Discovered**: Expeditions to the Outer Reaches uncover evidence of an extinct alien civilization. This discovery fuels both scientific curiosity and religious fervor.  
+4. **3450 CE - Alien Artifacts Activate**: Strange signals and encrypted warnings are triggered by human presence in alien ruins. Rumors of a coming threat spread, dismissed as superstition by most.
+5. **3475 CE - First Encounter with Dominion Probes**: A mysterious asteroid-sized bioship is destroyed by Concordat forces after it scans a Core colony.  
+6. **3485 CE - The Nexus Uprising**: A rebellion on the Nexus trade hub reveals hidden Frontier League sympathies, deepening Concordat distrust.  
 
 ### **VI. The Present Day (3500 CE)**  
 **Themes**: Fragile Peace, Rising Threats, Uncertainty  
@@ -117,14 +99,8 @@ Another generation has since passed, but the **embers of division** smolder bene
    - Strange phenomena, such as geometric patterns on moons and genetically altered microbes, hint at Elder Dominion surveillance.  
 4. **Military Buildups Resume**:  
    - Both Concordat and Frontier forces prepare for the possibility of another war—while whispers of an external threat grow louder.  
-
-## **Optional: Significant Flashpoints**  
-- **First Encounter with Dominion Probes (c. 3475 CE)**:  
-   - A mysterious asteroid-sized bioship is destroyed by Concordat forces after it scans a Core colony.  
-- **The Nexus Uprising (c. 3485 CE)**:  
-   - A rebellion on the Nexus trade hub reveals hidden Frontier League sympathies, deepening Concordat distrust.  
-- **Deciphering the Warning (Present Day)**:  
-   - Archaeologists partially decode alien messages, suggesting humanity is being evaluated for extermination by the Elder Dominion.  
+5. **Deciphering the Warning (Present Day)**:  
+   - Archaeologists partially decode alien messages, suggesting humanity is being evaluated for extermination by the Elder Dominion. 
 
 ### **Playable Themes**  
 
