@@ -12,7 +12,7 @@ This minimalist Solo Role Playing Game is designed to be an immersive experience
 2. **Rules-Light**: the game relies on a few rules and only one solving mechanic, easy to learn and eventually to memorize.
 3. **Tag-based**: characters and situations are defined only by qualitative descriptors and no quantitative characteristics.
 
-With a focus on quick resolutions, **The Shattered Reach** throws you headfirst into the heart of the action. Your character will be defined by thematic tags, [example of tags].
+With a focus on quick resolutions, **The Shattered Reach** throws you headfirst into the heart of the action. Your character will be defined by thematic tags, such as "Cunning Smuggler", "Reluctant Diplomat", "Ruthless Opportunist", or "Haunted Survivor". Situations and challenges in the game are also shaped by evocative tags, like "Predecessor Ruins", "Barren Wasteland", or "Hostile Wildlife".
 
 ### What is a Role Playing Game (RPG)?
 A role-playing game (RPG) is a type of game in which players assume the roles of fictional characters and act out their actions and decisions within a narrative or imaginary setting. The outcome of these actions and decisions is often determined by a set of rules and game mechanics, such as dice rolls or statistical attributes of the characters. Players may also collaborate to create a shared story or narrative through their characters' actions and interactions.
@@ -619,6 +619,52 @@ Here in the Shipyard, vessels of every kind are constructed to fulfill a wide ar
 - **Frailty**: Inflexible Design  
 - **Gear**: Diplomatic Clearance Codes, Holographic Displays  
 
+## **Planet/Moon Generator**  
+
+#### **Concepts**  
+
+|     | 1               | 2               | 3                 | 4                 | 5                  | 6                  |  
+| --- | --------------- | --------------- | ----------------- | ----------------- | ------------------ | ------------------ |  
+| 1   | Arid Wasteland  | Ocean World     | Cracked Volcanic  | Frozen Ice Moon   | Dense Jungle World | Rocky Plateau      |  
+| 2   | Gas Giant       | Ringed Beauty   | Desert Expanse    | Irradiated Crater | Foggy Swamp Moon   | Shifting Dunes     |  
+| 3   | Tidal Lock Moon | Industrialized  | Terraforming Site | Metallic Core     | Lush Biodome       | Radioactive Plains |  
+| 4   | Ruined Colony   | Predecessor Ruin| Mining Outpost    | Orbiting Station  | Lava Flows         | Magnetic Mountain  |  
+| 5   | Barren Crater   | Crystalline World| Acidic Oceans    | Hollowed Core     | Refugee Settlement | Storm-Laden Clouds|  
+| 6   | Dense Urban Sprawl| Cracked Ice Sheet| Overgrown Ruins | Floating Islands  | Expanding Canyon   | Hidden Labyrinth   |  
+
+#### **Resources (Skills)**  
+
+|     | 1               | 2               | 3                | 4                  | 5                | 6                |  
+| --- | --------------- | --------------- | ---------------- | ------------------ | ---------------- | ---------------- |  
+| 1   | Rare Minerals   | Ample Water     | Fertile Soil     | Predecessor Tech  | Solar Energy     | Exotic Wildlife  |  
+| 2   | Fuel Deposits   | Valuable Gas    | Radioactive Ore  | Dense Forests     | Unique Alloys    | Bioluminescent Flora |  
+| 3   | Thermal Vents   | Crystalline Growth| Atmosphere Gases | Natural Caverns   | Medicinal Plants | Ancient Artifacts |  
+| 4   | Lava Channels   | Subterranean Lakes| Magnetic Fields | Ice Deposits      | Fossilized Fuel  | Microbial Life   |  
+| 5   | Abundant Metals | Endless Wind    | Stellar Proximity| Underground Water | Rare Isotopes    | Gravity Wells    |  
+| 6   | Alien Ecosystem | Hydrogen Clouds | Shielded Shelter | Terraforming Progress | Nutrient-Rich Oceans | Geological Hotspots |  
+
+#### **Hazards (Frailties)**  
+
+|     | 1                 | 2               | 3                | 4                  | 5               | 6                |  
+| --- | ----------------- | --------------- | ---------------- | ------------------ | --------------- | ---------------- |  
+| 1   | Unstable Terrain  | Toxic Atmosphere| Hostile Wildlife | Seismic Activity   | Frequent Storms | Extreme Cold     |  
+| 2   | High Radiation    | Lethal Gravity  | Magnetic Anomalies| Erupting Volcanoes | Constant Darkness | Thin Atmosphere |  
+| 3   | Inhospitable Heat | Electrical Storms| Acidic Rains     | Dust Storms        | Intense Pressure | Cracked Surface |  
+| 4   | Constant Quakes   | Pirate Activity | Terraforming Failure | Rogue AI          | Dangerous Tides | Isolated Location |  
+| 5   | Ancient Traps     | Unknown Pathogens | Dominion Presence | Fuel Scarcity     | Contaminated Water | Dense Fog       |  
+| 6   | Shifting Craters  | Hidden Sinkholes| Predecessor Defenses | Mind-Altering Fields | Unpredictable Winds | Sudden Collapses |  
+
+#### **Features (Gear)**  
+
+|     | 1                | 2                  | 3                 | 4                | 5                 | 6                |  
+| --- | ---------------- | ------------------ | ----------------- | ---------------- | ----------------- | ---------------- |  
+| 1   | Ringed System    | Underground Labyrinth| Towering Spires  | Floating Crystals| Bioluminescent Lakes | Expansive Ruins |  
+| 2   | Subsurface Cities| Orbiting Debris    | Hidden Vaults     | Sky-Scraping Mountains | Gaseous Canals   | Enigmatic Canyons |  
+| 3   | Ancient Machinery| Frozen Oceans      | Unique Flora      | Metallic Cliffs  | Endless Desert    | Towering Foliage |  
+| 4   | Predecessor Markings| Waterfalls from Orbit | Volcanic Islands | Hollow Moons    | Tidal Lock Glow  | Hidden Energy Wells |  
+| 5   | Magnetic Storms  | Luminescent Caverns | Layered Atmosphere| Ancient Cityscapes| Underground Rivers | Gravity Distortion Fields |  
+| 6   | Expansive Plateaus| Glacial Towers    | Corrosive Lakes   | Spiraling Vortexes| Shattered Remains | Alien Biodomes   |  
+
 ## **The Quaternary Sector**  
 
 ### **Political Landscape**  
@@ -976,6 +1022,7 @@ The **Nexus** is a sprawling, artificial station situated at the sector’s cent
 - **The Starlight Abyss**: A mysterious void in the Outer Reaches where ships disappear, sparking rumors of Dominion involvement.  
 - **The Rustspire on Caldera-9**: A derelict mining facility now home to a resistance cell plotting to strike at the Core Worlds.  
 - **Nexus Dock 47**: The site of a high-stakes diplomatic summit, where an assassination attempt threatens to plunge the sector into chaos.
+ 
 ### **The Elder Dominion**  
 
 The **Elder Dominion** is an ancient coalition of alien species, united by a shared philosophy of universal management. To them, the galaxy’s resources are finite and precious, and younger civilizations are wasteful and dangerous. Over eons, the Dominion has perfected its methods, observing, manipulating, and ultimately eradicating species that threaten their carefully maintained balance.  
@@ -2050,6 +2097,6 @@ The following books, shows, games, and other media capture the tone and themes o
 
 The Shattered Reach
 
-(CC) 2025 Roberto Bisceglie
+© 2025 Roberto Bisceglie
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.

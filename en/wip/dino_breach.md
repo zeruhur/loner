@@ -6,7 +6,7 @@ This minimalist Solo Role Playing Game is designed to be a thrilling survival ho
 
 ## Introduction
 
-*Creataceous Crisis* follows the following design principles:
+*Dino Breach!* follows the following design principles:
 
 1. **Portable**: to play you will need a few common (six-sided) dice and writing materials. Anything else is optional and not essential.
 2. **Rules-Light**: the game relies on a few rules and only one solving mechanic, easy to learn and eventually to memorize.
@@ -575,6 +575,6 @@ Rogue Scientists are former employees of Genesis Corporation who have turned aga
 
 Dino Breach!
 
-(CC) 2024 Roberto Bisceglie
+© 2025 Roberto Bisceglie
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
