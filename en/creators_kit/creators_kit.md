@@ -14,8 +14,8 @@ To make your own **Geared Towards Loner** game, simply include the following tex
 
 If you want, you may use the following image to identify your game as a "Geared Towards LOner".
 
-- [Black Logo](https://github.com/zeruhur/loner/blob/main/assets/stamp.png)  
-- [White Logo](https://github.com/zeruhur/loner/blob/main/assets/stamp_neg.png)
+- [Black Logo]([https://github.com/zeruhur/loner/blob/main/assets/stamp.png](https://github.com/zeruhur/loner/blob/main/en/creators_kit/stamp.png))  
+- [White Logo]([https://github.com/zeruhur/loner/blob/main/assets/stamp_neg.png](https://github.com/zeruhur/loner/blob/main/en/creators_kit/stamp_neg.png))
 
 ## System Reference Document
 
@@ -27,5 +27,5 @@ To help creators developed their game, Zotiquest Games provide a template to be 
 
 It comes in two flavors:
 
-- [Affinity Publisher Package](): it maintains the original trade dress of Loner, including typefaces. You can you use it in accordance with the terms of the License or modify it. Make clear that your game is an independant production not affiliated with Zotiquest Games.
-- [A raw txt file](https://github.com/zeruhur/loner/tree/main/en/loner_creator_kit.md): for those who want to develop the text before thinking about layouts.
+- [Affinity Publisher Package](https://github.com/zeruhur/loner/blob/main/en/creators_kit/creators_kit_afpackage.zip): it maintains the original trade dress of Loner, including typefaces. You can you use it in accordance with the terms of the License or modify it. Make clear that your game is an independant production not affiliated with Zotiquest Games.
+- [A raw txt file](https://github.com/zeruhur/loner/blob/main/en/creators_kit/loner_creator_kit.md): for those who want to develop the text before thinking about layouts.
