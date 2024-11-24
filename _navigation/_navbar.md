@@ -5,6 +5,7 @@
   - [Diceless Rules](en/loner-diceless.md)
   - [Adventure Packs](en/adventure-packs.md)
   - [Geared Towards Loner games](en/geared_towards_loner.md)
+  - [Creator's Kit](en/creators_kit/creators_kit.md)
   - [FAQ](/en/faq.md)
 - **SRD Versione Italiana**
   - [Regolamento](it/loner-ita.md)
