@@ -321,117 +321,127 @@ Steel and Sorcery takes place in a world full of unexplored territories, ancient
 
 Upon reaching your destination, consult your map or the Oracle for details about the location and potential encounters.  This could be a bustling city, a forgotten ruin, a hidden valley inhabited by strange creatures, or anything your imagination conjures. Use your character's skills and the exploration mechanics to overcome challenges, gather information, and uncover the secrets of Steel and Sorcery.
 
-## Setting Information
+### **The Shrouded Continent of Khor’Dara**
 
-### Geography
+Khor’Dara is a mythical lost continent, shrouded in legend and mystery, located beyond the known seas of the ancient world—or perhaps beneath it, nestled in the Hollow Earth. It exists in a timeless epoch where primeval forces rule as much as men and gods. Khor’Dara is a land of stark contrasts: untamed wilderness, decadent city-states, and borderlands that defy the grip of civilization. Magic lingers as an unpredictable, corrupting force, feared and revered in equal measure.
 
-The world is a patchwork of deadly wilderness, crumbling cities, and ancient ruins. Most of the land is untamed, with sprawling forests, harsh deserts, and treacherous mountains. Civilization clings to life in isolated cities and fortified strongholds, surrounded by the ever-encroaching wilderness.
+Khor’Dara borrows from the **Bronze Age Near East, Mesopotamia**, and **pre-classical Mediterranean cultures**, blending them into a unique tapestry:  
+- **Architecture**: Ziggurats, hanging gardens, obsidian fortresses, and labyrinthine palaces.  
+- **Religion**: Polytheistic pantheons filled with flawed, capricious gods. Priests hold immense political power, while cults thrive on the outskirts of cities.  
+- **Technology**: Bronze weapons, chariots, and massive stone constructions. Civilization is fragile, often crumbling back into barbarism after disasters.  
+- **Society**: Stark class divisions, with rulers claiming divine descent, a merchant class wielding influence, and slaves or outcasts forming the base of the hierarchy.  
 
-### Cultures & People
+---
 
-- **The Free Tribes**: Nomadic people who live off the land, known for their survival skills and fierce independence.
-- **City Dwellers**: Inhabitants of the few remaining cities, often corrupt and ruled by despots or criminal syndicates.
-- **The Forgotten Ones**: Remnants of an ancient civilization, now reduced to small, isolated communities with a deep mistrust of outsiders.
-- **The Sorcerer Lords**: A mysterious and feared group, wielding forbidden magic and ruling over their domains with an iron fist.
+### **Themes**
+- **Survival vs. Civilization**: Heroes often find themselves caught between the harshness of the wilderness and the decadence of urban centers.  
+- **Ambition and Hubris**: Many civilizations and individuals fall victim to their desire for power, whether through sorcery, conquest, or defiance of natural laws.  
+- **Moral Ambiguity**: Characters must navigate a world where good and evil are often relative, and survival may come at a great cost.  
+- **Mystery and Wonder**: The supernatural elements of Khor’Dara are never fully explained, leaving room for awe and terror.  
 
-### Trade and Commerce
+---
 
-Trade is risky but necessary, with caravans traveling between cities and tribes, carrying essential goods like food, weapons, and rare artifacts. Bartering is common, and currency is often in the form of precious metals or useful items. Black markets thrive, particularly in the cities, where stolen goods and forbidden items can be acquired for a price.
+### **Lands of Conflict**
+- **Geographical Regions**:  
+  - **The Wailing Steppes**: Vast plains where nomadic tribes hunt megafauna and endure winds said to carry the voices of forgotten spirits.  
+  - **The Spine of Kharn**: Treacherous mountains filled with hidden caves, monstrous predators, and ancient ruins guarded by stone-skinned sentinels.  
+  - **The Verdant Abyss**: A jungle alive with colossal predators and venomous flora, concealing crumbled temples of an elder race.  
+  - **The Scorched Wastes**: Once a fertile heartland, now a cracked desert haunted by fire-spirits and deadly mirages.  
+  - **The Riverlands of Nurim**: A sprawling delta where civilization frays at the edges. Freebooters, exiled nobles, and rogue shamans ply the waters, contending with crocodilian beasts and ancient river spirits.  
+  - **The Cloud Marches**: A highland frontier where nomadic clans and settlers clash over grazing lands. Here, the skies teem with monstrous birds of prey and storms laced with supernatural energies.  
+  - **The Weeping Forest**: A frontier known for its towering trees and eerie quiet. Settlers speak of strange lights at night and whisper of a shadowy figure known only as the "Forest King."  
 
-### Art and Culture
+- **Supernatural Landscapes**:  
+  - **The Veil of Muon**: A shimmering, shifting desert where the boundaries between time and space collapse. Explorers here risk encountering their own ghosts or walking into the past—or future.  
+  - **The Singing Peaks**: Mountains that hum with an otherworldly resonance. Supposedly the burial place of the Titans, their presence lingers in the form of storms and earthquakes.  
+  - **The Abyssal Rift**: A vast chasm at the continent’s heart, filled with glowing fungal forests and strange, predatory creatures. At its depths lie the remnants of a civilization predating even the gods.  
 
-Art is often functional or symbolic, with a focus on survival and power. Tattoos, body paint, and totems are common among the Free Tribes, representing their history and beliefs. In the cities, art is a status symbol, with wealthy individuals displaying elaborate tapestries, sculptures, and jewelry. Music and dance are used to celebrate victories or appease the gods.
+---
 
-### Magic and Mysticism
+### **Tribes and Survivors**
+- **Dominant Cultures**:  
+  - **Skycallers of the Steppes**: Nomadic people who revere the winds and hunt with bone-crafted weapons. Their shamans claim to speak to ancestors carried by the gales.  
+  - **Children of Khemru**: A swamp-dwelling society ruled by necromancer-kings who enforce their will with undead servitors.  
+  - **Ironleaf Clans**: Fierce forest dwellers who craft weapons from enchanted wood and speak of a "Forest King" who guides their hunts.  
+- **Social Structures**:  
+  Tribal societies are clan-based, with leadership often claimed by strength or spiritual favor. In city-states, rigid hierarchies dominate, with nobles and priest-kings at the top.  
+- **Survival Hierarchies**:  
+  Each tribe or settlement is defined by what it values most—strength, cunning, or divine favor. Those who fail to contribute to survival are often cast out.  
+- **Warrior Traditions**:  
+  Khor’Dara’s warriors are brutal and pragmatic, excelling in guerrilla tactics, mounted combat, and ambushes. Ritualized duels often decide leadership or settle disputes.  
 
-Magic is a rare and dangerous force, often feared by common folk and used sparingly even by those who wield it. Most magic is tied to ancient rituals, dark pacts, or the manipulation of otherworldly forces. Sorcerers and mystics are often outcasts or tyrants, and their power comes at a great cost.
+---
 
-### Folklore and Mythology
+### **Powers and Intrigues**
+- **Rival City-States**:  
+  - **The Obsidian Spire of Zhara**: Built atop a volcano, this city-state thrives on trade and blood magic. Its ruling sorcerer-priests extract power from rituals of sacrifice, controlling an empire of slaves and merchants. Intrigue, betrayal, and poison thrive in its shadowed halls.  
+  - **Lunhai, the Pearl City**: Perched along the shore of an inland sea, Lunhai is a city of wealth and decay. Its canals run thick with opium and wine, and its nobles grow fat on the labor of the destitute. Beneath its glittering veneer lie cults devoted to a drowned god.  
+  - **Khemru, the Sunken Crown**: Half-submerged in the swamps, this city is ruled by necromancer-kings who prolong their lives with dark sorcery. Its stinking alleys are patrolled by undead servitors, and its temples are gilded in both gold and despair.  
 
-Legends tell of ancient gods, monstrous creatures, and heroes who wielded great power. These stories are passed down through generations, often as warnings or lessons. The line between myth and reality is blurred, and many believe that the ancient evils and lost treasures of the past still lie hidden, waiting to be discovered.
+- **Mercenary Alliances**:  
+  The frontier teems with mercenary bands willing to fight for gold, land, or artifacts. These groups often play a pivotal role in conflicts between city-states.  
+- **Political Machinations**:  
+  Nobles, priest-kings, and rebel factions all scheme to undermine their rivals. Poison, blackmail, and assassination are tools of the ambitious.  
+- **Underground Networks**:  
+  Smugglers, thieves, and secret cults thrive in the shadows of cities. These factions are often tied to forgotten gods or magical contraband, shaping the balance of power.  
 
-## Factions & Organizations
+---
 
-### The Iron Claw Syndicate
-- **Concept**: Merciless Slavers
-- **Skills**: Ruthless Enforcers, Trade Network
-- **Frailty**: Corrupt Leadership
-- **Gear**: Shackles of Binding, Torture Implements
-- **Goal**: Control all trade routes and enslave the free tribes.
-- **Motive**: Power and Wealth
-- **Nemesis**: The Free Tribes
+### **Mystic Forces**
+- **Sorcery**:  
+  Magic in Khor’Dara is deeply tied to the land’s supernatural elements. It is chaotic, dangerous, and never fully understood. Sorcery often exacts a price—sanity, life force, or worse—and its practitioners are as feared as they are respected.  
+  - **Blood Magic**: Drawing power from life essence, often through gruesome sacrifices.  
+  - **Ritual Sorcery**: Complex rites tied to ancient artifacts or ley lines, requiring rare components and risky incantations.  
+  - **Wild Magic**: Unpredictable bursts of power found in supernatural regions, feared for its chaotic effects.  
 
-A powerful criminal organization that controls much of the trade in the cities and beyond. They deal in slaves, contraband, and other illicit goods, and are feared for their brutality.
+- **Magical Threats**:  
+  Rogue sorcerers, spirit-bonded predators, and cursed zones where reality warps pose existential risks.  
 
-### The Crimson Brotherhood
-- **Concept**: Fanatical Cultists
-- **Skills**: Dark Rituals, Infiltration
-- **Frailty**: Paranoia
-- **Gear**: Blood Daggers, Forbidden Tomes
-- **Goal**: Summon their dark god into the world.
-- **Motive**: Religious Zeal
-- **Nemesis**: The Sorcerer Lords
+- **Supernatural Entities**:  
+  - **The Forest King**: A shadowy figure said to rule the Verdant Abyss, worshiped by some and feared by all.  
+  - **Stormcallers**: Elemental spirits said to reside in the Spine of Kharn, capable of summoning deadly tempests.  
 
-A secretive cult devoted to the worship of an ancient, malevolent deity. They seek to bring about their god's return through blood sacrifices and dark magic.
+- **Forbidden Knowledge**:  
+  Hidden in ancient ruins or guarded by enigmatic cults, this knowledge offers great power but often at the cost of one’s humanity—or soul.  
 
-### The Wardens of the Wild
-- **Concept**: Guardians of Nature
-- **Skills**: Beast Mastery, Herbalism
-- **Frailty**: Isolationism
-- **Gear**: Bow of the Forest, Sacred Herbs
-- **Goal**: Protect the wilderness from encroaching civilization.
-- **Motive**: Preservation of Nature
-- **Nemesis**: The Iron Claw Syndicate
+---
 
-A group of rangers and druids who live in the deep wilderness, protecting the land from those who would exploit or destroy it.
+### **Relics and Artifacts**
+- **Ancient Weapons**:  
+  - **Obsidian Fang**: A blade said to consume the souls of its victims, forged in the fires beneath Zhara.  
+  - **Spear of the Skycaller**: A lightning-infused weapon wielded by steppes warriors, said to be a gift from the storm gods.  
 
-### The Black Watch
-- **Concept**: Vigilante Enforcers
-- **Skills**: Stealth, Assassination
-- **Frailty**: No Allegiances
-- **Gear**: Shadow Cloaks, Poisoned Blades
-- **Goal**: Eliminate corrupt rulers and criminal overlords.
-- **Motive**: Justice
-- **Nemesis**: The Crimson Brotherhood
+- **Cursed Treasures**:  
+  - **The Crown of Khemru**: Grants immense power but binds the wearer’s soul to the necromancer-kings of old.  
+  - **The Opal Mask**: Allows its wearer to see the future—but drives them mad with fragmented visions.  
 
-An underground network of assassins and spies who target corrupt officials and criminal leaders. They are feared by the powerful and respected by the oppressed.
+- **Magical Implements**:  
+  - **Starshards**: Crystalline relics that enhance sorcery but degrade the user’s body over time.  
+  - **Blood Chalice**: A vessel that amplifies blood magic rituals, leaving behind cursed lands wherever it’s used.  
 
-### The Forgotten
-- **Concept**: Ancient Survivors
-- **Skills**: Ancient Knowledge, Hidden Paths
-- **Frailty**: Mistrustful
-- **Gear**: Relic Weapons, Cryptic Scrolls
-- **Goal**: Preserve their dwindling culture and knowledge.
-- **Motive**: Survival
-- **Nemesis**: The Sorcerer Lords
+- **Remnants of Lost Civilizations**:  
+  Ruined ziggurats, labyrinthine temples, and hollow statues house relics of elder races, guarded by traps and forgotten guardians.  
 
-Descendants of a lost civilization, these people live in isolation, guarding ancient secrets and artifacts from those who would misuse them.
+- **Dangerous Supernatural Objects**:  
+  Many artifacts are unstable, their powers often turning on those who attempt to wield them.  
 
-### The Sorcerer Lords
-- **Concept**: Tyrannical Warlords
-- **Skills**: Forbidden Magic, Mind Control
-- **Frailty**: Hubris
-- **Gear**: Soul Gem, Cursed Scepter
-- **Goal**: Dominate all with their arcane power.
-- **Motive**: Absolute Power
-- **Nemesis**: The Black Watch
+---
 
-A group of powerful sorcerers who rule over their territories with an iron fist, using dark magic to bend others to their will.
+### **Legends and Whispers**
+- **Origin Myths**:
 
-## Political Entities
+  
+  - Khor’Dara was said to be born from the death of a great titan, whose body became the land and whose blood fuels its sorcery.  
+  - The gods banished the continent from the surface world for the hubris of its people, hiding it within the Hollow Earth.  
 
-The world of *Steel and Sorcery* is divided into various political entities, each with its own goals, rivalries, and alliances. These entities often find themselves in conflict over territory, resources, and power.
+- **Heroic Narratives**:  
+  Stories of lone warriors slaying elder beasts, dethroning corrupt kings, or reclaiming lost relics inspire the downtrodden.  
 
-### Diplomatic Relationship Matrix
+- **Dark Prophecies**:  
+  The shamans speak of the "Eclipse of Khor’Dara," a time when the boundaries between worlds will collapse, unleashing horrors upon the land.  
 
-|                   | Iron Claw Syndicate | Crimson Brotherhood | Wardens of the Wild | Black Watch | The Forgotten | Sorcerer Lords |
-|-------------------|---------------------|---------------------|---------------------|-------------|---------------|----------------|
-| **Iron Claw Syndicate** | Neutral             | Hostile             | Hostile             | Tense       | Tense         | Cordial        |
-| **Crimson Brotherhood** | Hostile             | Neutral             | Tense               | Hostile     | Tense         | Cordial        |
-| **Wardens of the Wild**  | Hostile             | Tense               | Neutral             | Cordial     | Friendly      | Hostile        |
-| **Black Watch**          | Tense               | Hostile             | Cordial             | Neutral     | Cordial       | Hostile        |
-| **The Forgotten**        | Tense               | Tense               | Friendly            | Cordial     | Neutral       | Hostile        |
-| **Sorcerer Lords**       | Cordial             | Cordial             | Hostile             | Hostile     | Hostile       | Neutral        |
+- **Oral Traditions**:  
+  Tales are passed down through song and storytelling, each tribe or kingdom weaving its own version of the truth. These stories often hint at real treasures or dangers hidden in the wilderness.  
 
 ## Creatures & Foes
 
