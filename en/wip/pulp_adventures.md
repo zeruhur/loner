@@ -397,7 +397,7 @@ Explorers in *Pulp Adventures* often find themselves navigating treacherous and 
 - **Complications and Obstacles**: Failing a Survival Check can lead to various complications, such as running out of supplies, getting lost, or encountering dangerous wildlife. The specific nature of the complication can be determined by consulting the "Exploration Encounters" table, which adds an element of unpredictability and excitement to the journey.
 - **Resource Management**: Track supplies (e.g., food, water, ammunition). Deplete one unit of supplies after each significant encounter or at the end of each day of travel. If supplies run out, apply a Frailty tag such as "Starving" or "Dehydrated."
 
-**Exploration Encounters**
+##### **Exploration Encounters**
 
 | D6  | Encounter                                                          |
 | --- | ------------------------------------------------------------------ |
@@ -428,7 +428,7 @@ In *Pulp Adventures*, characters frequently encounter the eerie and unexplained.
   - **No, and...**: The character succumbs to the fear, and there are additional negative repercussions.
     Characters who fail to overcome their fear might experience hallucinations, irrational behavior, or temporary paralysis, adding to the tension and unpredictability of supernatural encounters.
 
-**Occult Encounters**
+##### **Occult Encounters**
 
 | D6  | Encounter                                                      |
 | --- | -------------------------------------------------------------- |
@@ -458,7 +458,7 @@ In *Pulp Adventures*, characters often engage with futuristic gadgets and daring
   - **No, but...**: The experiment fails, but some useful data or minor success is achieved.
   - **No, and...**: The experiment fails disastrously, creating significant new dangers.
 
-**Technology Encounters**
+##### **Technology Encounters**
 
 | D6  | Encounter                                                                                         |
 | --- | ------------------------------------------------------------------------------------------------- |
@@ -488,7 +488,8 @@ In *Pulp Adventures*, characters frequently dive into the world of crime and det
   - **No, but...**: The suspect or witness withholds information or lies, but the character gleans some truth from the interaction.
   - **No, and...**: The suspect or witness withholds information or lies, and there are additional negative consequences.
 
-**Crime Encounters**
+##### **Crime Encounters**
+
 | D6 | Encounter |
 | -- | --------- |
 | 1  | A key witness goes missing or is murdered. |
@@ -518,7 +519,8 @@ In *Pulp Adventures*, characters embark on daring quests and face perilous situa
   - **No, but...**: The situation worsens, but the character mitigates some of the negative effects.
   - **No, and...**: The situation worsens significantly, leading to a major conflict or complication.
 
-**Adventure Encounters**
+##### **Adventure Encounters**
+
 | D6 | Encounter |
 | -- | --------- |
 | 1  | Ambushed by enemies or rival adventurers. |
@@ -544,6 +546,7 @@ In *Pulp Adventures*, a diverse array of vehicles enhances the thrill of explora
 **Concept**: Sleek, high-speed cars equipped with powerful engines and advanced suspension systems, designed for rapid travel across varied terrains. These "thunder roadsters" are perfect for chases and long-distance travel.
 
 **Common Uses**:
+
 - **High-Speed Chases**: Outrunning enemies or pursuing targets across city streets and open roads.
 - **Long-Distance Travel**: Traversing vast distances quickly, with a focus on speed and agility.
 
@@ -551,6 +554,7 @@ In *Pulp Adventures*, a diverse array of vehicles enhances the thrill of explora
 **Concept**: Robust, all-terrain vehicles designed for exploration and survival in harsh environments. These vehicles are equipped with features like reinforced chassis, powerful engines, and survival gear for uncharted territories.
 
 **Common Uses**:
+
 - **Exploration**: Navigating dense jungles, rocky deserts, and other difficult terrains.
 - **Survival Missions**: Providing essential support and equipment for long-term expeditions.
 
@@ -558,6 +562,7 @@ In *Pulp Adventures*, a diverse array of vehicles enhances the thrill of explora
 **Concept**: Heavy-duty, armored vehicles built for combat and defense. These juggernauts are fortified with thick plating and armed with various weapons, making them formidable in hostile environments.
 
 **Common Uses**:
+
 - **Combat Operations**: Engaging in battles and skirmishes with enhanced protection and firepower.
 - **Secure Transport**: Safely transporting valuable cargo or personnel through dangerous areas.
 
@@ -565,6 +570,7 @@ In *Pulp Adventures*, a diverse array of vehicles enhances the thrill of explora
 **Concept**: Agile and fast vehicles optimized for desert conditions, with reinforced tires and dust-resistant engines. These racers are built for speed and maneuverability in sandy and arid landscapes.
 
 **Common Uses**:
+
 - **Desert Racing**: Competing in high-speed races across vast desert expanses.
 - **Quick Escapes**: Evading pursuers in challenging desert terrain.
 
@@ -572,6 +578,7 @@ In *Pulp Adventures*, a diverse array of vehicles enhances the thrill of explora
 **Concept**: Compact and nimble cars designed for navigating crowded city streets. These speedsters are ideal for quick getaways and urban exploration, with advanced steering and braking systems.
 
 **Common Uses**:
+
 - **City Navigation**: Swiftly maneuvering through tight streets and heavy traffic.
 - **Urban Espionage**: Conducting covert operations in densely populated areas.
 
@@ -579,6 +586,7 @@ In *Pulp Adventures*, a diverse array of vehicles enhances the thrill of explora
 **Concept**: Elegant, high-comfort vehicles designed for leisurely travel and diplomatic missions. These cruisers offer luxurious amenities and smooth rides, reminiscent of grand ocean liners but on wheels.
 
 **Common Uses**:
+
 - **Leisure Travel**: Providing luxury tours through scenic and culturally rich routes.
 - **Diplomatic Missions**: Transporting dignitaries and officials in style and comfort.
 
@@ -588,6 +596,7 @@ In *Pulp Adventures*, a diverse array of vehicles enhances the thrill of explora
 **Concept**: Large, luxurious ships designed for long-distance travel across the seas. These ocean liners offer comfort and opulence, making them perfect for extended voyages.
 
 **Common Uses**:
+
 - **Transatlantic Travel**: Comfortable journeys across vast oceans, connecting distant continents.
 - **Luxury Cruises**: Leisurely tours featuring onboard entertainment, dining, and relaxation.
 
@@ -595,6 +604,7 @@ In *Pulp Adventures*, a diverse array of vehicles enhances the thrill of explora
 **Concept**: Small, maneuverable underwater vessels equipped for deep-sea exploration. These submersibles are designed to withstand extreme pressure and provide a window into the ocean's depths.
 
 **Common Uses**:
+
 - **Deep-Sea Exploration**: Investigating oceanic trenches, coral reefs, and underwater ruins.
 - **Scientific Research**: Conducting marine biology studies and geological surveys.
 
@@ -602,6 +612,7 @@ In *Pulp Adventures*, a diverse array of vehicles enhances the thrill of explora
 **Concept**: Fast, agile ships equipped with cannons and other weaponry, designed for swift raids and battles on the high seas.
 
 **Common Uses**:
+
 - **Naval Combat**: Engaging enemy vessels in high-stakes sea battles.
 - **Smuggling Operations**: Transporting contraband stealthily across maritime borders.
 
@@ -609,6 +620,7 @@ In *Pulp Adventures*, a diverse array of vehicles enhances the thrill of explora
 **Concept**: Small, fast boats used by coast guards and adventurers for patrolling and quick-response missions.
 
 **Common Uses**:
+
 - **Patrol Missions**: Monitoring coastal areas for illegal activities and emergencies.
 - **Rescue Operations**: Quick response to maritime distress signals and rescues.
 
@@ -618,6 +630,7 @@ In *Pulp Adventures*, a diverse array of vehicles enhances the thrill of explora
 **Concept**: Large airships designed for long-distance travel and observation, equipped with spacious cabins and observation decks.
 
 **Common Uses**:
+
 - **Scenic Tours**: Offering panoramic views of landscapes and cityscapes from the sky.
 - **Aerial Surveillance**: Conducting reconnaissance and gathering intelligence from above.
 
@@ -625,6 +638,7 @@ In *Pulp Adventures*, a diverse array of vehicles enhances the thrill of explora
 **Concept**: Agile, two-winged aircraft used for dogfights, reconnaissance, and short-range travel. These biplanes are staples of early aviation.
 
 **Common Uses**:
+
 - **Aerial Combat**: Engaging in thrilling dogfights with enemy aircraft.
 - **Reconnaissance**: Observing enemy movements and mapping terrain from the air.
 
@@ -632,6 +646,7 @@ In *Pulp Adventures*, a diverse array of vehicles enhances the thrill of explora
 **Concept**: Small, rotor-winged aircraft capable of vertical takeoff and landing, perfect for navigating difficult terrains and urban environments.
 
 **Common Uses**:
+
 - **Quick Transport**: Rapidly moving between locations, avoiding ground obstacles.
 - **Urban Exploration**: Maneuvering through tight city spaces and rooftops.
 
@@ -639,6 +654,7 @@ In *Pulp Adventures*, a diverse array of vehicles enhances the thrill of explora
 **Concept**: Personal flying devices that allow for individual flight, enabling quick travel and spectacular aerial maneuvers.
 
 **Common Uses**:
+
 - **Rapid Deployment**: Quickly reaching high or inaccessible areas.
 - **Aerial Stunts**: Performing daring feats and evasive maneuvers in the air.
 
@@ -801,8 +817,6 @@ The Himalayas are both a natural fortress and a spiritual haven. Its towering pe
 - **Inhabitants**:
   - **The White Monks**: These enigmatic figures clad in white robes are believed to possess supernatural abilities, guarding both Shangri-La and the Himalayas’ hidden sanctuaries.
   - **The Yeti**: Legends speak of the towering Yeti that roams the highest, coldest peaks. Said to be the last guardian of the mountains’ forbidden temples, it will defend them fiercely from any intruders.
-
-You're absolutely right! Let's add some immersive details for the *Forbidden Deserts of Rub' al Khali*, *The Jungles of Borneo*, and *Mystical New Orleans*.
 
 ### The Forbidden Deserts of Rub' al Khali (Arabian Peninsula)
 
@@ -1111,7 +1125,372 @@ Driven by a blend of ambition, skill, and pride, rival adventurers pursue the sa
 - **Dragons of the Altai** (Mongolia): Massive winged reptiles, these dragons protect ancient treasures hidden in Mongolia’s mountains. Stories tell of scorched earth and shattered weapons marking the boundaries of their hoards.
 - **The Elemental Lords** (Japan): These spirits, representing fire, water, earth, and air, fiercely protect their territories in Japan. Worshiped by local communities, they bring wrath upon those who dishonor or threaten their land.
 
-## Inspiration Tables
+## Creatures & Foes
+
+### 11. Jungle Serpent  
+- **Concept**: Deadly Reptile  
+- **Skills**: Stealthy, Venomous Bite  
+- **Frailty**: Cold-Blooded  
+- **Gear**: Camouflaged Scales, Crushing Coils  
+- **Goal**: Defend territory  
+- **Motive**: Survival  
+- **Nemesis**: Jungle predators  
+
+### 12. Ghost Pirate  
+- **Concept**: Undead Buccaneer  
+- **Skills**: Intangible, Cursed Weapon  
+- **Frailty**: Bound to Ship  
+- **Gear**: Ghostly Cutlass, Ethereal Compass  
+- **Goal**: Reclaim lost treasure  
+- **Motive**: Break curse  
+- **Nemesis**: Vengeful spirits  
+
+### 13. Mad Scientist  
+- **Concept**: Deranged Inventor  
+- **Skills**: Genius Intellect, Gadgeteer  
+- **Frailty**: Obsessed  
+- **Gear**: Experimental Devices, Prototype Weaponry  
+- **Goal**: Prove superiority  
+- **Motive**: Scientific curiosity  
+- **Nemesis**: Rational scientists  
+
+### 14. Cult Leader  
+- **Concept**: Charismatic Zealot  
+- **Skills**: Persuasion, Occult Knowledge  
+- **Frailty**: Fanatical  
+- **Gear**: Sacred Relic, Ritual Dagger  
+- **Goal**: Summon dark deity  
+- **Motive**: Religious fervor  
+- **Nemesis**: Investigators  
+
+### 15. Ancient Mummy  
+- **Concept**: Undead Pharaoh  
+- **Skills**: Supernatural Strength, Curse of Ages  
+- **Frailty**: Vulnerable to Fire  
+- **Gear**: Amulet of Protection, Staff of Kings  
+- **Goal**: Protect tomb  
+- **Motive**: Eternal rest  
+- **Nemesis**: Tomb raiders  
+
+### 16. Alien Invader  
+- **Concept**: Extraterrestrial Conqueror  
+- **Skills**: Advanced Technology, Telepathy  
+- **Frailty**: Sensitive to Earth's Atmosphere  
+- **Gear**: Ray Gun, Translation Device  
+- **Goal**: Dominate Earth  
+- **Motive**: Expand empire  
+- **Nemesis**: Earth's defenders  
+
+### 21 Werewolf  
+- **Concept**: Cursed Shapeshifter  
+- **Skills**: Superhuman Strength, Keen Senses  
+- **Frailty**: Silver Vulnerability  
+- **Gear**: Razor-Sharp Claws, Animal Form  
+- **Goal**: Find a cure  
+- **Motive**: Survival  
+- **Nemesis**: Vampire hunters  
+
+### 22. Spectral Guardian  
+- **Concept**: Haunted Protector  
+- **Skills**: Intangible Form, Detect Intruders  
+- **Frailty**: Bound to Sacred Site  
+- **Gear**: Spectral Chains, Eerie Glow  
+- **Goal**: Guard ancient relic  
+- **Motive**: Fulfill eternal duty  
+- **Nemesis**: Artifact thieves  
+
+### 23. Bandit Lord  
+- **Concept**: Ruthless Outlaw  
+- **Skills**: Ambush Tactics, Intimidation  
+- **Frailty**: Greedy  
+- **Gear**: Dual Pistols, Stolen Gold  
+- **Goal**: Amass wealth  
+- **Motive**: Greed  
+- **Nemesis**: Local authorities  
+
+### 24. Swamp Beast  
+- **Concept**: Hulking Predator  
+- **Skills**: Amphibious, Camouflaged  
+- **Frailty**: Clumsy on Dry Land  
+- **Gear**: Mud-Encrusted Hide, Razor-Sharp Fangs  
+- **Goal**: Defend habitat  
+- **Motive**: Survival  
+- **Nemesis**: Poachers  
+
+### 25. Sand Wraith  
+- **Concept**: Ghostly Desert Apparition  
+- **Skills**: Drains Vitality, Creates Sandstorms  
+- **Frailty**: Vulnerable to Water  
+- **Gear**: Veil of Sand, Whispering Voice  
+- **Goal**: Protect buried secrets  
+- **Motive**: Vengeance  
+- **Nemesis**: Archaeologists  
+
+### 26. Mechanical Automaton  
+- **Concept**: Clockwork Guardian  
+- **Skills**: Durable, Unrelenting  
+- **Frailty**: Reliant on Commands  
+- **Gear**: Reinforced Armor, Gears and Pistons  
+- **Goal**: Follow programming  
+- **Motive**: Loyalty to creator  
+- **Nemesis**: Hackers  
+
+### 31. Treasure Hunter  
+- **Concept**: Cunning Rival  
+- **Skills**: Knowledge of Relics, Resourceful  
+- **Frailty**: Overconfident  
+- **Gear**: Trusted Sidearm, Relic Map  
+- **Goal**: Claim fame and fortune  
+- **Motive**: Ambition  
+- **Nemesis**: Fellow adventurers  
+
+### 32. Sea Monster  
+- **Concept**: Abyssal Predator  
+- **Skills**: Colossal Strength, Ocean Camouflage  
+- **Frailty**: Drawn to Light  
+- **Gear**: Bio-Luminescent Lure, Crushing Tentacles  
+- **Goal**: Feed endlessly  
+- **Motive**: Hunger  
+- **Nemesis**: Deep-sea explorers  
+
+### 33. Amazonian Protector  
+- **Concept**: Jungle Warrior  
+- **Skills**: Expert Tracker, Deadly Marksman  
+- **Frailty**: Distrust of Outsiders  
+- **Gear**: Blowgun, Poisoned Arrows  
+- **Goal**: Protect sacred lands  
+- **Motive**: Honor  
+- **Nemesis**: Treasure hunters  
+
+### 34. Haunted Armor  
+- **Concept**: Cursed Guardian  
+- **Skills**: Supernatural Durability, Spectral Strength  
+- **Frailty**: Bound to Relic  
+- **Gear**: Ancient Sword, Impenetrable Plate  
+- **Goal**: Guard the artifact  
+- **Motive**: Obey ancient commands  
+- **Nemesis**: Tomb raiders  
+
+### 35. Vampire Lord  
+- **Concept**: Immortal Predator  
+- **Skills**: Hypnosis, Supernatural Speed  
+- **Frailty**: Vulnerable to Sunlight  
+- **Gear**: Cloak of Shadows, Fanged Bite  
+- **Goal**: Rule a hidden domain  
+- **Motive**: Power  
+- **Nemesis**: Vampire hunters  
+
+### 36. Golem  
+- **Concept**: Animated Construct  
+- **Skills**: Immense Strength, Resilient  
+- **Frailty**: Slow and Predictable  
+- **Gear**: Stone Fists, Inscribed Runes  
+- **Goal**: Follow creator's will  
+- **Motive**: Duty  
+- **Nemesis**: Sorcerers seeking control  
+
+### 41. Desert Nomad  
+- **Concept**: Resourceful Wanderer  
+- **Skills**: Desert Navigation, Expert Survivalist  
+- **Frailty**: Distrustful of Outsiders  
+- **Gear**: Curved Blade, Hidden Water Pouch  
+- **Goal**: Protect sacred oases  
+- **Motive**: Loyalty to tribe  
+- **Nemesis**: Resource exploiters  
+
+### 42. Black Widow Spy  
+- **Concept**: Deceptive Agent  
+- **Skills**: Seduction, Infiltration  
+- **Frailty**: Double-Cross Vulnerability  
+- **Gear**: Concealed Weapon, Forged Documents  
+- **Goal**: Sabotage enemy plans  
+- **Motive**: Serve employer  
+- **Nemesis**: Counterintelligence operatives  
+
+### 43. Himalayan Yeti  
+- **Concept**: Snowbound Guardian  
+- **Skills**: Stealth in Snow, Brutal Strength  
+- **Frailty**: Fear of Fire  
+- **Gear**: White Fur Camouflage, Thunderous Roar  
+- **Goal**: Protect mountain sanctuaries  
+- **Motive**: Territorial instincts  
+- **Nemesis**: High-altitude explorers  
+
+### 44. Spectral Monk  
+- **Concept**: Ghostly Guide  
+- **Skills**: Ancient Knowledge, Foresight  
+- **Frailty**: Limited by Spirit Form  
+- **Gear**: Mystic Chant, Ethereal Robes  
+- **Goal**: Warn or guide the living  
+- **Motive**: Fulfill an oath  
+- **Nemesis**: Desecrators of sacred sites  
+
+### 45. Shadow Assassin  
+- **Concept**: Lethal Stalker  
+- **Skills**: Silent Movement, Precision Strikes  
+- **Frailty**: Fragile in Direct Combat  
+- **Gear**: Poisoned Daggers, Smoke Bombs  
+- **Goal**: Eliminate targets  
+- **Motive**: Fulfill contract  
+- **Nemesis**: Vigilantes  
+
+### 46. Dragon of the Altai  
+- **Concept**: Hoarding Beast  
+- **Skills**: Flight, Fire Breath  
+- **Frailty**: Greedy for Treasure  
+- **Gear**: Razor Claws, Scaled Armor  
+- **Goal**: Amass riches  
+- **Motive**: Ancient instincts  
+- **Nemesis**: Bold adventurers  
+
+### 51. Phantom Librarian  
+- **Concept**: Ghostly Archivist  
+- **Skills**: Detect Secrets, Manipulate Knowledge  
+- **Frailty**: Bound to Library  
+- **Gear**: Ethereal Quill, Cursed Codex  
+- **Goal**: Protect forbidden knowledge  
+- **Motive**: Preserve order  
+- **Nemesis**: Seekers of dangerous truths  
+
+### 52. Mutant Experiment  
+- **Concept**: Twisted Creation  
+- **Skills**: Adaptive Abilities, Regeneration  
+- **Frailty**: Unstable Physiology  
+- **Gear**: Experimental Traits, Genetic Mutation  
+- **Goal**: Break free from captivity  
+- **Motive**: Survival  
+- **Nemesis**: Mad scientists  
+
+### 53. Storm Spirit  
+- **Concept**: Elemental Fury  
+- **Skills**: Summon Lightning, Gale Force Winds  
+- **Frailty**: Dispersed by Calm Weather  
+- **Gear**: Thunderclap Strike, Whirling Cyclone Form  
+- **Goal**: Protect natural balance  
+- **Motive**: Elemental duty  
+- **Nemesis**: Industrial exploiters  
+
+### 54. Bayou Witch  
+- **Concept**: Swamp Sorceress  
+- **Skills**: Hexcasting, Control Over Nature  
+- **Frailty**: Relies on Swamp for Power  
+- **Gear**: Bone Staff, Cursed Fetishes  
+- **Goal**: Enforce swamp sovereignty  
+- **Motive**: Maintain power  
+- **Nemesis**: Urban developers  
+
+### 55. Mountain Ogre  
+- **Concept**: Brutish Highlander  
+- **Skills**: Crippling Strength, Boulder Hurling  
+- **Frailty**: Slow-Witted  
+- **Gear**: Stone Club, Leather Hide Armor  
+- **Goal**: Defend lair  
+- **Motive**: Hoard resources  
+- **Nemesis**: Rival mountain creatures  
+
+### 56. Serpent Cultist  
+- **Concept**: Devoted Zealot  
+- **Skills**: Ritual Magic, Venom Expertise  
+- **Frailty**: Fanatically Reckless  
+- **Gear**: Ritual Dagger, Serpent Venom Flask  
+- **Goal**: Summon their serpent god  
+- **Motive**: Religious fervor  
+- **Nemesis**: Rational investigators  
+
+### 61. Cursed Relic Guardian  
+- **Concept**: Ancient Watcher  
+- **Skills**: Detect Intruders, Supernatural Strength  
+- **Frailty**: Vulnerable to Relic’s Removal  
+- **Gear**: Enchanted Weapon, Eternal Vigilance  
+- **Goal**: Protect the relic  
+- **Motive**: Bound by duty  
+- **Nemesis**: Artifact thieves  
+
+### 62. Mercenary Captain  
+- **Concept**: Ruthless Strategist  
+- **Skills**: Tactical Genius, Expert Marksman  
+- **Frailty**: Overconfident in Authority  
+- **Gear**: High-Powered Rifle, Tactical Helmet  
+- **Goal**: Complete lucrative contracts  
+- **Motive**: Financial gain  
+- **Nemesis**: Justice-seeking adventurers  
+
+### 63. Zombie Horde  
+- **Concept**: Undead Swarm  
+- **Skills**: Overwhelming Numbers, Relentless Pursuit  
+- **Frailty**: Fragile Individually  
+- **Gear**: Decaying Limbs, Infectious Bite  
+- **Goal**: Spread the curse  
+- **Motive**: Hunger  
+- **Nemesis**: Fire and light  
+
+### 64. Atlantean Warrior  
+- **Concept**: Ancient Protector  
+- **Skills**: Advanced Combat, Underwater Mobility  
+- **Frailty**: Dependent on Water  
+- **Gear**: Energy Trident, Atlantean Armor  
+- **Goal**: Defend Atlantis’s secrets  
+- **Motive**: Honor the past  
+- **Nemesis**: Surface dwellers  
+
+### 65. Time Anomaly Phantom  
+- **Concept**: Temporal Haunter  
+- **Skills**: Distort Time, Create Echoes  
+- **Frailty**: Limited to Anomalies  
+- **Gear**: Chrono-Pulse Aura, Flickering Form  
+- **Goal**: Escape temporal limbo  
+- **Motive**: Regain agency  
+- **Nemesis**: Time manipulators  
+
+### 66. Fire Elemental  
+- **Concept**: Blazing Spirit  
+- **Skills**: Immolate Foes, Absorb Flames  
+- **Frailty**: Vulnerable to Water  
+- **Gear**: Flame Whip, Inferno Form  
+- **Goal**: Burn all intruders  
+- **Motive**: Preserve its domain  
+- **Nemesis**: Elemental opposites  
+
+## Appendix: Inspirational Media
+
+### Books
+
+- The Shadow novels by Walter B. Gibson
+- Doc Savage stories by Lester Dent 
+- The Adventures of the Avenger by Paul Ernst
+- Conan the Barbarian stories by Robert E. Howard
+- The Spider stories by Norvell W. Page
+- Operator #5 series by Frederick C. Davis
+- G-8 and His Battle Aces aviation stories
+- The Black Mask detective fiction magazine
+
+### Films
+
+- The Rocketeer (1991)
+- The Phantom (1996) 
+- The Shadow (1994)
+- Sky Captain and the World of Tomorrow (2004)
+- Indiana Jones series
+- The Mummy (1999) and sequels
+
+### Comic Books/Graphic Novels
+
+- The Spider comic adapations
+- The Shadow comics
+- Doc Savage comics
+- Rocketeer comics by Dave Stevens
+- The Adventures of Tintin by Hergé
+
+###  Other Media
+
+- Old-time radio dramas like The Shadow
+- Pulp-influenced video games like BioShock Infinite
+- Arte Moderne illustrations and cover art
+- Two-fisted "men's adventure" magazine art
+
+## Adventure Tables
+
+### Inspiration Tables
 
 #### Verbs
 
@@ -1145,8 +1524,6 @@ Driven by a blend of ambition, skill, and pride, rival adventurers pursue the sa
 | 4     | City     | Map     | Monster   | Fortress | Legend  | Library   |
 | 5     | Ruins    | Crystal | Explorer  | Mansion  | Prodigy | Lab       |
 | 6     | Valley   | Portal  | Detective | Ruin     | Legend  | Spy       |
-
-## Random Tables
 
 ### Adventure Seeds
 
@@ -1190,6 +1567,7 @@ Driven by a blend of ambition, skill, and pride, rival adventurers pursue the sa
 | 66  | **The Atlantean Compass:** An ancient order in Istanbul seeks an artifact known as the Atlantean Compass. Adventurers must navigate the labyrinthine underworld to recover it. |
 
 ### Uncharted Islands
+
 | D66 | Uncharted Island |
 | --- | ---------------- |
 | 11  | **The Isle of Gold**: A volcanic island with shimmering sands that contain flecks of gold. Rumors speak of a hidden cave filled with golden idols guarded by stone automatons. |
@@ -1230,6 +1608,7 @@ Driven by a blend of ambition, skill, and pride, rival adventurers pursue the sa
 | 66  | **The Forgotten Sanctuary**: An island with an ancient monastery carved into the cliffs, its walls filled with lost knowledge and guarded by spectral monks. |
 
 ### Hidden Valleys
+
 | D66 | Hidden Valley |
 | --- | ------------- |
 | 11  | **The Valley of Eternal Blossoms**: A verdant paradise where flowers bloom year-round, their petals glowing faintly at night. The valley is hidden behind a waterfall that parts only under moonlight. |
@@ -1270,6 +1649,7 @@ Driven by a blend of ambition, skill, and pride, rival adventurers pursue the sa
 | 66  | **The Timeless Hollow**: A mystical valley where time seems to stand still, filled with ageless beings who hold the secrets to immortality. Its entrance is revealed only once every decade. |
 
 ### Bustling Metropolises
+
 | D66 | Metropolis Feature |
 | --- | ------------------ |
 | 11  | **The Labyrinth District**: A maze-like neighborhood of narrow alleys and secret doors where smugglers and thieves operate unnoticed. |
@@ -1310,6 +1690,7 @@ Driven by a blend of ambition, skill, and pride, rival adventurers pursue the sa
 | 66  | **The Obsidian Palace**: A fortress-like structure where the city’s most powerful criminal lord resides, hosting secret meetings with dignitaries and spies. |
 
 ### Ancient Temples
+
 | D66 | Ancient Temple |
 | --- | ------------- |
 | 11  | **The Sunspire**: A towering temple aligned perfectly with the solstices, its entrance hidden behind a massive sun-shaped disk that moves only at dawn. |
@@ -2308,99 +2689,6 @@ Driven by a blend of ambition, skill, and pride, rival adventurers pursue the sa
 | 64  | **Gregor "The Hammer" Kravchik**: A brutish treasure hunter who believes in using brute force and intimidation to get what he wants. |
 | 65  | **Marina "The Mirage" Calderon**: A master of disguise who infiltrates expeditions, stealing vital clues and maps without ever being noticed. |
 | 66  | **Lord Everett Hawthorne**: A pompous aristocrat funding his expeditions with inherited wealth, obsessed with proving his superiority to "common" adventurers. |
-
-## Creatures & Foes
-
-### Jungle Serpent
-- **Concept**: Deadly Reptile
-- **Skills**: Stealthy, Venomous Bite
-- **Frailty**: Cold-Blooded
-- **Gear**: Camouflaged Scales
-- **Goal**: Defend territory
-- **Motive**: Survival
-- **Nemesis**: Jungle predators
-
-### Ghost Pirate
-- **Concept**: Undead Buccaneer
-- **Skills**: Intangible, Cursed Weapon
-- **Frailty**: Bound to Ship
-- **Gear**: Ghostly Cutlass
-- **Goal**: Reclaim lost treasure
-- **Motive**: Break curse
-- **Nemesis**: Vengeful spirits
-
-### Mad Scientist
-- **Concept**: Deranged Inventor
-- **Skills**: Genius Intellect, Gadgeteer
-- **Frailty**: Obsessed
-- **Gear**: Experimental Devices
-- **Goal**: Prove superiority
-- **Motive**: Scientific curiosity
-- **Nemesis**: Rational scientists
-
-### Cult Leader
-- **Concept**: Charismatic Zealot
-- **Skills**: Persuasion, Occult Knowledge
-- **Frailty**: Fanatical
-- **Gear**: Sacred Relic
-- **Goal**: Summon dark deity
-- **Motive**: Religious fervor
-- **Nemesis**: Investigators
-
-### Ancient Mummy
-- **Concept**: Undead Pharaoh
-- **Skills**: Supernatural Strength, Curse of Ages
-- **Frailty**: Vulnerable to Fire
-- **Gear**: Amulet of Protection
-- **Goal**: Protect tomb
-- **Motive**: Eternal rest
-- **Nemesis**: Tomb raiders
-
-### Alien Invader
-- **Concept**: Extraterrestrial Conqueror
-- **Skills**: Advanced Technology, Telepathy
-- **Frailty**: Sensitive to Earth's Atmosphere
-- **Gear**: Ray Gun
-- **Goal**: Dominate Earth
-- **Motive**: Expand empire
-- **Nemesis**: Earth's defenders
-
-## Appendix: Inspirational Media
-
-### Books
-
-- The Shadow novels by Walter B. Gibson
-- Doc Savage stories by Lester Dent 
-- The Adventures of the Avenger by Paul Ernst
-- Conan the Barbarian stories by Robert E. Howard
-- The Spider stories by Norvell W. Page
-- Operator #5 series by Frederick C. Davis
-- G-8 and His Battle Aces aviation stories
-- The Black Mask detective fiction magazine
-
-### Films
-
-- The Rocketeer (1991)
-- The Phantom (1996) 
-- The Shadow (1994)
-- Sky Captain and the World of Tomorrow (2004)
-- Indiana Jones series
-- The Mummy (1999) and sequels
-
-### Comic Books/Graphic Novels
-
-- The Spider comic adapations
-- The Shadow comics
-- Doc Savage comics
-- Rocketeer comics by Dave Stevens
-- The Adventures of Tintin by Hergé
-
-###  Other Media
-
-- Old-time radio dramas like The Shadow
-- Pulp-influenced video games like BioShock Infinite
-- Arte Moderne illustrations and cover art
-- Two-fisted "men's adventure" magazine art
 
 ## License
 
