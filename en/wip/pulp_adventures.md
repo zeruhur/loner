@@ -961,10 +961,6 @@ These cunning leaders oversee sprawling criminal networks, orchestrating heists,
 
 Driven by an obsession with unlocking forbidden knowledge, these scientists push the boundaries of ethical science, creating monstrosities and wielding dangerous technologies. Their inventions hold terrifying potential, often with little regard for humanity’s well-being.
 
-### Corrupt Officials
-
-Political powerhouses, military tyrants, and unscrupulous moguls exploit their positions for personal gain, casting a shadow over their territories. These figures manipulate resources and populations with ruthless ambition, often securing their power through intimidation and corruption.
-
 ### Cult Leaders
 
 Gifted with supernatural charisma and a fervent following, cult leaders manipulate their disciples to achieve dark, otherworldly ambitions. These figures are often conduits of ancient forces, driving their followers to acts of devotion or destruction, heedless of the cost.
