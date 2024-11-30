@@ -451,7 +451,7 @@ Using these modifiers helps create dynamic, layered storytelling. A “Yes, but�
 
 When the Chance and Risk dice show the same number, it signals an especially positive result — but with a twist on the horizon. This outcome is read as “Yes, and…,” but it also contributes to the **Twist Counter**, which adds suspense and unpredictability.
 
-- **Equal Dice (Yes, and…)**: Here, the answer is “Yes, and…” with an extra benefit, providing the protagonist with a strong advantage. It’s an outcome that favors the protagonist’s goals, but it also builds up the Twist Counter.
+- **Equal Dice (Yes, but…)**: Here, the answer is “Yes, but…”. It’s an outcome that favors the protagonist’s goals, but it also builds up the Twist Counter.
 
 - **Twist Counter**: Each time you roll equal numbers on the dice, add 1 to the Twist Counter. When it hits a certain threshold (typically 3), a **Twist** event occurs, resetting the counter to 0. A Twist is a narrative disruption—maybe an unexpected character appears, the setting shifts, or a new goal comes into focus.
 

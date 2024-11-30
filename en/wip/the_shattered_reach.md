@@ -296,7 +296,7 @@ To resolve a closed question, roll one **Chance Die** and one **Risk Die**:
 - If the Risk Die is highest, the answer is **No**.
 - If both are low (3 or less), add a **but...**. 
 - If both are high (4 or more), add an **and...**.
-- If both are equal, the answer is **Yes, and...**. Add a point to the **[Twist Counter](#twist-counter)**.
+- If both are equal, the answer is **Yes, but...**. Add a point to the **[Twist Counter](#twist-counter)**.
 
 
 | Dice Value |    Chance Die > Risk Die   | Risk Die > Chance Die |
