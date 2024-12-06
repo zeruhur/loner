@@ -6,3 +6,4 @@ The following games are intended to be a new generation of Adventure Packs: self
 - [Cog & Compass](en/geared_towards_loner/cog_compass.md)
 - [Mech: Requiem](en/geared_towards_loner/mech_requiem.md)
 - [Legends of Camelot](en/geared_towards_loner/legends_of_camelot.md)
+- [Pulp Adventures!](en/geared_towards_loner/pulp_adventures.md)
