@@ -53,6 +53,7 @@ Your Protagonist is described by some fixed traits:
 - **Motive**: What drives the pursuit of the goal.
 - **Nemesis**: A person or organization that hinders the protagonist. It can emerge during the first game sessions, it may or may or not be the direct antagonist of the story, ready to appear to make life even more difficult
 - **Luck**: The measure of a character's ability to avoid ill fortune or an inauspicious outcome. It applies only in Conflicts and automatically recharges when they end. Luck starts and caps at 6.
+- **Mana**: Represent the magic capacity of the characters. Mana starts and caps at 10.
 
 These **traits** are described by **tags**, descriptive words or phrases that can identify anything in the game world. Even the **details** of the environment in which the action moves and **conditions** (physical or mental) of the characters are tags. 
 
@@ -154,15 +155,15 @@ You can use these traits to create a character on the fly, mix them, or just use
 | 5   | Gravefinder| Vault Rat | Shroud     | Frostburn  | Ironjaw    | Lorewarden  |
 | 6   | Tombrat   | Nightcaller| Flicker    | Rusteye    | Coldshadow | Lifebringer |
 
-### Risk and Reward
+## Risk and Reward
 
 In *Loner: Dungeoneer*, progression emerges organically through discovery, exploration, and overcoming challenges. Advancement rewards the Protagonist for skillful navigation, resourceful survival, and uncovering dungeon secrets—not just combat. Treasure, skills, and abilities enhance the story, offering powerful boons but always at a cost.
 
-#### 1. Advancement Through Discovery
+### 1. Advancement Through Discovery
 
 Advancement focuses on **qualitative progression** rather than abstract numerical levels. Characters grow through their experiences and the narrative they build.
 
-##### **How Advancement Works**  
+#### **How Advancement Works**  
 After a significant discovery, achievement, or expedition, you may:  
 1. Add a **new tag** to your character (Skill, Gear, or Frailty).  
 2. Modify an existing tag to reflect improvement or new context.  
@@ -179,7 +180,7 @@ Ask the Oracle after notable events or achievements:
 - Gain *“Runebound Compass”* after deciphering ancient maps.  
 - Add *“Lingering Fear”* after surviving a terrifying ambush.
 
-#### 2. Tag-Based Narrative Progression
+### 2. Tag-Based Narrative Progression
 
 Progression in *Loner: Dungeoneer* builds through the Protagonist's evolving **tags**. The more tags a character gains, the more complex and tailored they become to the dungeon's unique challenges.
 
@@ -194,7 +195,7 @@ Progression in *Loner: Dungeoneer* builds through the Protagonist's evolving **t
 
 Tags drive the emergent narrative and tie character progression to the challenges overcome and stories created.
 
-#### 3. Skills and Abilities for Dungeon Exploration
+### 3. Skills and Abilities for Dungeon Exploration
 
 Skills are not fixed traits; they emerge naturally as part of gameplay. The Protagonist gains or improves Skills tailored to dungeon delving.  
 
@@ -207,6 +208,141 @@ Skills are not fixed traits; they emerge naturally as part of gameplay. The Prot
 | **Rope Expert**      | Ensures safe climbing and crossing.             |  
 | **Map Forger**       | Creates detailed maps, preventing navigation loss.|  
 | **Lorekeeper**       | Deciphers inscriptions, lore, and dungeon history.|  
+
+## Spellcasting Rules
+
+In *Loner: Dungeoneer* , magic is a powerful yet practical tool for survival, exploration, and overcoming threats. Spells are frequent and useful but require careful management of resources and attention to potential mishaps.
+
+### **Casting a Spell**
+
+When you cast a spell:
+1. **Resolve the Action**: Follow the usual process for resolving actions in the game.  
+2. **Consult the Oracle**: Roll to determine the outcome and interpret it as follows:  
+
+| **Oracle Result** | **Outcome**                                                                 |
+|--------------------|----------------------------------------------------------------------------|
+| **No, and...**     | The spell fails catastrophically—roll on the **Mishap Table**.            |
+| **No**             | The spell fails and has no effect.                                        |
+| **No, but...**     | The spell falters but creates a minor advantage (e.g., partial effect).   |
+| **Yes, but...**    | The spell works, but with a minor drawback or complication.               |
+| **Yes**            | The spell works as intended.                                              |
+| **Yes, and...**    | The spell works spectacularly, creating an additional advantage.          |
+
+### **Mana and Spell Costs**  
+
+Casting spells consumes Mana, a representation of the caster's magical stamina and resilience.  
+
+| **Spell Type**              | **Luck Cost**    |
+|-----------------------------|------------------|
+| **Minor Spells**            | 1 Mana          |
+| **Standard Spells**         | 2 Mana          |
+| **High-Power Spells**       | 3 Mana          |
+
+**Mana Recovery**:  
+- **Short Rest**: Recover **1d3 Mana** during a brief rest (10-30 minutes) in a safe or quiet location.  
+- **Long Rest**: Recover **all Mana** after a full rest (8 hours) in a secure environment.  
+- **After Conflict**: Restore **1 Mana** as a reward for overcoming significant obstacles, like combat or traps.  
+
+### **Mishap Table**  
+
+When a spell fails catastrophically (**No, and...**), roll 1d6 on the **Mishap Table**:  
+
+| **Roll (1d6)** | **Mishap**                                                                 |
+|-----------------|---------------------------------------------------------------------------|
+| **1**          | The magic backfires—lose **1 additional Mana** or suffer a small setback. |
+| **2**          | Unintended effects occur (e.g., harmless sparks, noise, or illusions).    |
+| **3**          | The target resists the spell and becomes aware of the caster’s presence.  |
+| **4**          | The spell drains energy—lose **1 extra Mana** beyond its normal cost.     |
+| **5**          | The spell damages the environment (e.g., cracks walls, extinguishes light).|
+| **6**          | The caster’s focus flickers—spellcasting is hindered for **1 Scene**.     |
+
+### **Ritual Casting**  
+
+Some spells, especially those requiring precision or significant time, can be cast as **Rituals**. Ritual casting removes the Luck cost but requires:  
+- **10 minutes of uninterrupted focus.**  
+- **Special materials or a narrative component** (e.g., a magic circle, rare herbs).  
+
+Ritual casting is ideal for spells like *Arcane Lock*, *Scrying Eye*, or *Summon Mount* during exploration.
+
+### **Spell Range Scale**
+
+The range of spells is flexible and narrative-driven:
+
+- **Touch**: Requires physical contact with the target.  
+- **Close**: A few steps away, within a small room or immediate vicinity (10-20 feet).  
+- **Medium**: A moderate distance, such as across a large hall or clearing (30-60 feet).  
+- **Long**: Spans a great distance, such as across a battlefield or large cavern (100+ feet).  
+- **Unlimited**: Requires a magical connection, ritual, or special focus.  
+
+### **Example of Spellcasting in Play**  
+
+**Situation**: The caster wants to cast *Firebolt* (Medium Range, 2 Mana) at an approaching ogre.  
+
+1. **Action Resolution**: The player rolls the Oracle to determine the outcome.  
+   - **Yes**: The spell hits as intended.  
+   - **Yes, but...**: The ogre takes damage, but something nearby catches fire.  
+   - **No, but...**: The fire misses, but the ogre is distracted by the flames.  
+   - **No**: The spell fizzles harmlessly.  
+   - **No, and...**: Roll on the **Mishap Table**—the caster loses an extra Mana point.  
+
+2. **Mana Management**: The player reduces their Mana pool by 2.  
+
+3. **Recovery**: After the encounter, the caster rests and regains 1 Mana.  
+
+### Spells List
+
+### Spell Table
+
+| **Name**               | **Range**       | **Duration**    | **Effect**                                                                 | **Cost**                   |
+|-------------------------|-----------------|-----------------|---------------------------------------------------------------------------|----------------------------|
+| **Firebolt**           | Medium          | Instant         | Launches a bolt of fire, dealing damage.                                  | 2 Mana                    |
+| **Healing Touch**      | Touch           | Instant         | Heals minor wounds or removes a condition.                                | 3 Mana                    |
+| **Shadow Cloak**       | Self            | 1 Scene         | Surrounds you in shadows, making stealth easier.                          | 2 Mana                    |
+| **Levitate**           | Medium          | 10 minutes      | Makes small objects or beings float weightlessly.                         | 2 Mana                    |
+| **Magic Shield**       | Self            | 1 Scene         | Reduces incoming harm or negates one hit.                                 | 2 Mana                    |
+| **Illusory Form**      | Self            | 1 Scene         | Creates a false image of yourself or another.                             | 2 Mana                    |
+| **Flame Burst**        | Close           | Instant         | Creates a fiery explosion, damaging all in range.                         | 4 Mana                    |
+| **Wind Step**          | Self            | Instant         | Moves you quickly in any direction (up to Medium range).                  | 2 Mana                    |
+| **Earth Bind**         | Close           | 1 Scene         | Roots a creature or object in place with earthen tendrils.                | 2 Mana                    |
+| **Lightning Arc**      | Long            | Instant         | Hurls a bolt of lightning, chaining to multiple targets.                  | 5 Mana                    |
+| **Dispel Magic**       | Medium          | Instant         | Ends any ongoing spell effect.                                            | 3 Mana                    |
+| **Charm Person**       | Close           | 1 Scene         | Makes someone see you as friendly.                                        | 3 Mana                    |
+| **Freeze**             | Close           | Instant         | Freezes water or a target temporarily.                                    | 2 Mana                    |
+| **Invisibility**       | Self            | 1 Scene         | Turns you invisible for a short time.                                     | 4 Mana                    |
+| **Summon Familiar**    | Self            | 1 Day           | Summons a minor magical creature to assist you.                           | 2 Mana                    |
+| **Entangle**           | Close           | 1 Scene         | Vines or tendrils trap creatures within range.                            | 3 Mana                    |
+| **Flare**              | Long            | Instant         | A bright light blinds enemies temporarily.                                | 2 Mana                    |
+| **Mirror Image**       | Self            | 1 Scene         | Creates illusory duplicates to confuse attackers.                         | 3 Mana                    |
+| **Teleport**           | Medium          | Instant         | Teleports you to a nearby visible location.                               | 3 Mana                    |
+| **Fire Wall**          | Close           | 1 Scene         | Creates a wall of fire, damaging those passing through.                   | 4 Mana                    |
+| **Slow Time**          | Self            | 1 Round         | Perceive and act faster than normal.                                      | 4 Mana                    |
+| **Mend**               | Touch           | Instant         | Repairs a broken object or minor wound.                                   | 2 Mana                    |
+| **Night Vision**       | Self            | 1 Scene         | Grants perfect vision in darkness.                                        | 1 Mana                    |
+| **Detect Magic**       | Self            | 1 Scene         | Sense magic and enchanted objects nearby.                                 | 2 Mana                    |
+| **Iron Skin**          | Self            | 1 Scene         | Temporarily hardens your skin, reducing harm.                             | 3 Mana                    |
+| **Confuse**            | Medium          | 1 Scene         | Confuses and misdirects an enemy’s actions.                               | 3 Mana                    |
+| **Summon Weapon**      | Self            | 1 Scene         | Creates a magical weapon of your choice.                                  | 2 Mana                    |
+| **Water Breathing**    | Self            | 1 Hour          | Allows you to breathe underwater.                                         | 2 Mana                    |
+| **Force Push**         | Close           | Instant         | Knocks back creatures or objects with telekinetic force.                  | 2 Mana                    |
+| **Gust of Wind**       | Long            | Instant         | Creates a strong gust to knock down enemies or clear hazards.             | 2 Mana                    |
+| **Create Flame**       | Touch           | 1 Scene         | Produces a small flame for light or simple burning.                       | 1 Mana                    |
+| **Barrier**            | Close           | 1 Scene         | Creates a force barrier that blocks attacks.                              | 3 Mana                    |
+| **Poison Dart**        | Medium          | Instant         | Fires a venomous dart, dealing ongoing harm.                              | 3 Mana                    |
+| **Detect Traps**       | Self            | Instant         | Sense traps or hidden mechanisms nearby.                                  | 1 Mana                    |
+| **Feather Fall**       | Self/Target     | Instant         | Slows falling to prevent harm.                                            | 2 Mana                    |
+| **Arcane Lock**        | Touch           | 1 Day           | Magically locks a door or container.                                      | 3 Mana                    |
+| **Blinding Strike**    | Touch           | Instant         | Strikes with magic, blinding or dazzling the enemy.                       | 3 Mana                    |
+| **Summon Fog**         | Medium          | 1 Scene         | Fills the area with thick fog, obscuring vision.                          | 2 Mana                    |
+| **Echo Shout**         | Close           | Instant         | Unleashes a concussive shout that stuns creatures.                        | 3 Mana                    |
+| **Curse**              | Close           | 1 Scene         | Places a negative effect or condition on a target.                        | 4 Mana                    |
+| **Command**            | Close           | 1 Round         | Forces a target to obey a single, simple command.                         | 3 Mana                    |
+| **Magic Lantern**      | Touch           | 1 Hour          | Creates a floating, glowing orb of light.                                 | 1 Mana                    |
+| **Summon Mount**       | Self            | 1 Day           | Summons a spectral mount to aid in travel.                                | 2 Mana                    |
+| **Scrying Eye**        | Unlimited       | 10 Minutes      | Observes a distant location or person through a magical vision.           | 4 Mana                    |
+| **Haste**              | Touch           | 1 Round         | Doubles a target’s speed temporarily.                                     | 3 Mana                    |
+| **Lightning Blade**    | Self            | 1 Scene         | Forms a crackling blade of energy that deals enhanced damage.             | 4 Mana                    |
+
+
 
 ## Rules
 
