@@ -1524,6 +1524,8 @@ Use a **Resource Tracker** to monitor inventory, durability, and consumables. Ex
 
 ## Adventure Tables
 
+**Rolling a d12 with two d6**: To simulate a d12, designate one die as the "result die" and the other as the "control die." Roll both dice. If the control die rolls 1–3, the result is the value on the result die (1–6). If the control die rolls 4–6, add 6 to the value on the result die (7–12). Use this method for tables requiring a d12.
+
 ### Stress Tags
 
 |     | 1                | 2                | 3                | 4                | 5                | 6                |
@@ -1549,7 +1551,7 @@ Use a **Resource Tracker** to monitor inventory, durability, and consumables. Ex
 
 ### Traps
 
-| **#**  | **Type**           | **Trigger**          | **Effect**                                   |
+| **d12**  | **Type**           | **Trigger**          | **Effect**                                   |
 | ------ | ------------------ | -------------------- | -------------------------------------------- |
 | **1**  | Pitfall Trap       | Loose floor tile     | Falls into a deep pit; harm or delay.        |
 | **2**  | Dart Launcher      | Pressure plate       | Fires poisoned darts; Luck loss or fatigue.  |
@@ -1602,7 +1604,7 @@ Use a **Resource Tracker** to monitor inventory, durability, and consumables. Ex
 
 ### Environmental Hazards
 
-| **#** | **Hazard**            | **Description**                                                     |
+| **d12** | **Hazard**            | **Description**                                                     |
 |-------|-----------------------|---------------------------------------------------------------------|
 | **1** | Cave-In               | Rocks collapse from above, blocking paths and causing harm.         |
 | **2** | Flooding              | Water fills the area, making movement difficult and drowning a risk.|
@@ -1620,7 +1622,7 @@ Use a **Resource Tracker** to monitor inventory, durability, and consumables. Ex
 
 ### Minor Traps
 
-| **#** | **Type**             | **Trigger**             | **Effect**                                |
+| **d12** | **Type**             | **Trigger**             | **Effect**                                |
 |-------|-----------------------|-------------------------|------------------------------------------|
 | **1** | **Dart Launcher**     | Pressure plate          | Fires darts, causing harm or poison.     |
 | **2** | **Tripwire Snare**    | Tripwire                | Pulls the target into a hanging net.     |
@@ -1637,7 +1639,7 @@ Use a **Resource Tracker** to monitor inventory, durability, and consumables. Ex
 
 ### Major Traps
 
-| **#** | **Type**             | **Trigger**            | **Effect**                                  |
+| **d12** | **Type**             | **Trigger**            | **Effect**                                  |
 |-------|----------------------|------------------------|--------------------------------------------|
 | **1** | Collapsing Floor     | Weak floor section     | The floor gives way, dropping into a pit or lower level. |
 | **2** | Poison Gas Chamber   | Sealed room mechanism  | Fills the room with toxic gas; causes harm or stress.    |
@@ -1654,7 +1656,7 @@ Use a **Resource Tracker** to monitor inventory, durability, and consumables. Ex
 
 ### Small Creatures
 
-| **#** | **Creature**         | **Description**                               |
+| **d12** | **Creature**         | **Description**                               |
 |-------|----------------------|-----------------------------------------------|
 | **1** | Swarm of Rats        | Gnawing, biting rodents that overwhelm the area. |
 | **2** | Cave Spiders         | Small venomous spiders lurking in cracks or webs. |
@@ -1671,7 +1673,7 @@ Use a **Resource Tracker** to monitor inventory, durability, and consumables. Ex
 
 ### Ambush (Stealthy Foe)
 
-| **#** | **Foe**             | **Description**                               |
+| **d12** | **Foe**             | **Description**                               |
 |-------|---------------------|-----------------------------------------------|
 | **1** | Shadow Stalker      | A humanoid figure blending perfectly with shadows, striking suddenly. |
 | **2** | Gloom Serpent       | A silent, serpentine creature that coils and strikes from darkness.   |
@@ -1688,7 +1690,7 @@ Use a **Resource Tracker** to monitor inventory, durability, and consumables. Ex
 
 ### Hidden Treasure (Valuable but Risky)
 
-| **#** | **Treasure**            | **Risk**                                      |
+| **d12** | **Treasure**            | **Risk**                                      |
 |-------|-------------------------|-----------------------------------------------|
 | **1** | Jeweled Dagger          | It’s cursed; using it brings misfortune.      |
 | **2** | Ornate Gold Chalice     | It triggers a nearby trap when disturbed.     |
@@ -1705,7 +1707,7 @@ Use a **Resource Tracker** to monitor inventory, durability, and consumables. Ex
 
 ### Neutral Presence
 
-| **#** | **Presence**             | **Description**                                      |
+| **d12** | **Presence**             | **Description**                                      |
 |-------|--------------------------|----------------------------------------------------|
 | **1** | Lost Adventurer          | A weary explorer searching for a way out. Offers information or a trade. |
 | **2** | Ghostly Guardian         | A spirit bound to the area; it may provide clues if respected.  |
@@ -1722,7 +1724,7 @@ Use a **Resource Tracker** to monitor inventory, durability, and consumables. Ex
 
 ### Puzzle or Locked Mechanism
 
-| **#** | **Type**                   | **Description**                                      |
+| **d12** | **Type**                   | **Description**                                      |
 |-------|----------------------------|-----------------------------------------------------|
 | **1** | Rune-Locked Door           | A door sealed with glowing runes requiring deciphering. Incorrect attempts trigger minor harm. |
 | **2** | Rotating Statues           | Statues must face a specific direction to unlock a passage. |
@@ -1739,7 +1741,7 @@ Use a **Resource Tracker** to monitor inventory, durability, and consumables. Ex
 
 ### Hostile Monster
 
-| **#** | **Monster**           | **Description**                                         |
+| **d12** | **Monster**           | **Description**                                         |
 |-------|-----------------------|--------------------------------------------------------|
 | **1** | Shadow Wraith         | A semi-corporeal entity that drains Luck with its touch. |
 | **2** | Cave Ogre             | A hulking brute with heavy strikes but slow movement.  |
@@ -1757,7 +1759,7 @@ Use a **Resource Tracker** to monitor inventory, durability, and consumables. Ex
 
 ### Monster Lair (Significant Danger)
 
-| **#** | **Lair Type**           | **Description**                                             |
+| **d12** | **Lair Type**           | **Description**                                             |
 |-------|-------------------------|------------------------------------------------------------|
 | **1** | Web-Choked Cavern       | A massive spider nest filled with webbed corpses and egg sacs. |
 | **2** | Bone-Strewn Pit         | A foul den littered with the gnawed bones of past victims. |
@@ -1774,7 +1776,7 @@ Use a **Resource Tracker** to monitor inventory, durability, and consumables. Ex
 
 ### Dungeon Boss (Strongest Threat)
 
-| **#** | **Boss**                | **Description**                                             |
+| **d12** | **Boss**                | **Description**                                             |
 |-------|-------------------------|------------------------------------------------------------|
 | **1** | Shadow Tyrant           | A massive shadow wreathed in darkness, draining life with its touch. |
 | **2** | Bone Colossus           | A towering construct of bones and ancient magic, nearly indestructible. |
