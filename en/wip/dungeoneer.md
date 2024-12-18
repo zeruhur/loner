@@ -100,14 +100,14 @@ You can use these traits to create a character on the fly, mix them, or just use
 
 ### **Gear**
 
-|     | 1               | 2              | 3               | 4                | 5               | 6               |
-| --- | --------------- | -------------- | --------------- | ---------------- | --------------- | --------------- |
-| 1   | Worn Map        | Oiled Lantern  | Rope Bundle     | Rusted Blade     | Chalk Sticks    | Heavy Backpack  |
-| 2   | Pitons and Hammer | Leather Gloves | Rune Compass   | Lockpicks        | Explorer’s Cloak| Metal Spikes    |
-| 3   | Oil Flask       | Bone Carvings  | Ancient Mirror  | Healing Herbs    | Sturdy Boots    | Flint and Steel |
-| 4   | Dungeoneer's Pack| Engraved Dagger| Stash of Rations| Beast Trap Kit   | Light Stones    | Grappling Hook  |
-| 5   | Crystal Lens    | Silent Oil     | Torch Rack      | Spellbook Fragment| Iron Key Ring  | Climbing Gear   |
-| 6   | Sharpening Stone| Weighted Net   | Heavy Lantern   | Warding Charms   | Scouting Tools  | Ragged Cloak    |
+|     | 1                   | 2                    | 3                | 4                | 5                     | 6                |
+| --- | ------------------- | -------------------- | ---------------- | ---------------- | --------------------- | ---------------- |
+| 1   | Torch               | Healing Herbs        | Silent Oil       | Rope Bundle      | Grappling Hook        | Rune Compass     |
+| 2   | Rations             | Rusted Blade         | Enchanted Glowstone | Canteen (Water Supply) | Lockpicks          | Flint and Steel  |
+| 3   | Lantern             | Bone Carvings        | Sturdy Boots     | Magic Chalk      | Mirror (Polished Metal)| Explorer's Cloak |
+| 4   | Warding Charms      | Lantern with Spare Oil| Pitons and Hammer| Bandages         | Beast Trap            | Weighted Net     |
+| 5   | Iron Spikes         | Crystal Lens         | Map Case (Empty) | Spellbook Fragment| Ancient Map Fragment  | Chalk Sticks     |
+| 6   | Climbing Gear       | Flint and Steel      | Healing Herbs    | Rusted Blade     | Rope Bundle           | Silent Oil       |
 
 ### **Names**
 
@@ -159,11 +159,11 @@ You can use these traits to create a character on the fly, mix them, or just use
 
 In *Loner: Dungeoneer*, progression emerges organically through discovery, exploration, and overcoming challenges. Advancement rewards the Protagonist for skillful navigation, resourceful survival, and uncovering dungeon secrets—not just combat. Treasure, skills, and abilities enhance the story, offering powerful boons but always at a cost.
 
-### 1. Advancement Through Discovery
+### Advancement Through Discovery
 
 Advancement focuses on **qualitative progression** rather than abstract numerical levels. Characters grow through their experiences and the narrative they build.
 
-#### **How Advancement Works**  
+#### How Advancement Works  
 After a significant discovery, achievement, or expedition, you may:  
 1. Add a **new tag** to your character (Skill, Gear, or Frailty).  
 2. Modify an existing tag to reflect improvement or new context.  
@@ -180,7 +180,7 @@ Ask the Oracle after notable events or achievements:
 - Gain *“Runebound Compass”* after deciphering ancient maps.  
 - Add *“Lingering Fear”* after surviving a terrifying ambush.
 
-### 2. Tag-Based Narrative Progression
+### Tag-Based Narrative Progression
 
 Progression in *Loner: Dungeoneer* builds through the Protagonist's evolving **tags**. The more tags a character gains, the more complex and tailored they become to the dungeon's unique challenges.
 
@@ -195,7 +195,7 @@ Progression in *Loner: Dungeoneer* builds through the Protagonist's evolving **t
 
 Tags drive the emergent narrative and tie character progression to the challenges overcome and stories created.
 
-### 3. Skills and Abilities for Dungeon Exploration
+### Skills and Abilities for Dungeon Exploration
 
 Skills are not fixed traits; they emerge naturally as part of gameplay. The Protagonist gains or improves Skills tailored to dungeon delving.  
 
@@ -209,13 +209,13 @@ Skills are not fixed traits; they emerge naturally as part of gameplay. The Prot
 | **Map Forger**       | Creates detailed maps, preventing navigation loss.|  
 | **Lorekeeper**       | Deciphers inscriptions, lore, and dungeon history.|  
 
-## Spellcasting Rules
+## Spellcasting
 
 In *Loner: Dungeoneer* , magic is a powerful yet practical tool for survival, exploration, and overcoming threats. Spells are frequent and useful but require careful management of resources and attention to potential mishaps.
 
-### **Casting a Spell**
+### Casting a Spell
 
-When you cast a spell:
+When you cast a spell:  
 1. **Resolve the Action**: Follow the usual process for resolving actions in the game.  
 2. **Consult the Oracle**: Roll to determine the outcome and interpret it as follows:  
 
@@ -258,13 +258,13 @@ When a spell fails catastrophically (**No, and...**), roll 1d6 on the **Mishap T
 
 ### **Ritual Casting**  
 
-Some spells, especially those requiring precision or significant time, can be cast as **Rituals**. Ritual casting removes the Luck cost but requires:  
+Some spells, especially those requiring precision or significant time, can be cast as **Rituals**. Ritual casting removes the Mana cost but requires:  
 - **10 minutes of uninterrupted focus.**  
 - **Special materials or a narrative component** (e.g., a magic circle, rare herbs).  
 
 Ritual casting is ideal for spells like *Arcane Lock*, *Scrying Eye*, or *Summon Mount* during exploration.
 
-### **Spell Range Scale**
+### Spell Range Scale
 
 The range of spells is flexible and narrative-driven:
 
@@ -274,7 +274,7 @@ The range of spells is flexible and narrative-driven:
 - **Long**: Spans a great distance, such as across a battlefield or large cavern (100+ feet).  
 - **Unlimited**: Requires a magical connection, ritual, or special focus.  
 
-### **Example of Spellcasting in Play**  
+### Example of Spellcasting in Play  
 
 **Situation**: The caster wants to cast *Firebolt* (Medium Range, 2 Mana) at an approaching ogre.  
 
@@ -290,8 +290,6 @@ The range of spells is flexible and narrative-driven:
 3. **Recovery**: After the encounter, the caster rests and regains 1 Mana.  
 
 ### Spells List
-
-### Spell Table
 
 | **Name**               | **Range**       | **Duration**    | **Effect**                                                                 | **Cost**                   |
 |-------------------------|-----------------|-----------------|---------------------------------------------------------------------------|----------------------------|
@@ -341,8 +339,6 @@ The range of spells is flexible and narrative-driven:
 | **Scrying Eye**        | Unlimited       | 10 Minutes      | Observes a distant location or person through a magical vision.           | 4 Mana                    |
 | **Haste**              | Touch           | 1 Round         | Doubles a target’s speed temporarily.                                     | 3 Mana                    |
 | **Lightning Blade**    | Self            | 1 Scene         | Forms a crackling blade of energy that deals enhanced damage.             | 4 Mana                    |
-
-
 
 ## Rules
 
@@ -547,13 +543,13 @@ Here’s how exploration works in structured Scenes:
 
 When navigation or light checks fail, roll for a complication:  
 
-| D6  | Complication                    |
-| ----| --------------------------------|
-| 1   | Trap activates (roll for type). |
-| 2   | Ambush! An enemy lurks nearby.  |
-| 3   | Path blocked (rubble or chasm). |
-| 4   | Supplies lost or damaged.       |
-| 5   | You hear ominous sounds ahead.  |
+| D6  | Complication                       |
+| --- | ---------------------------------- |
+| 1   | Trap activates (roll for type).    |
+| 2   | Ambush! An enemy lurks nearby.     |
+| 3   | Path blocked (rubble or chasm).    |
+| 4   | Supplies lost or damaged.          |
+| 5   | You hear ominous sounds ahead.     |
 | 6   | Environmental hazard (flood, gas). |
 
 ## **Dungeon Generator**
@@ -567,35 +563,35 @@ To generate a dungeon room or corridor, follow these steps:
 #### **A. Room Type**  
 Roll 2d6 to determine the general type of room or corridor.
 
-| 2D6 | Room Type                |
-| ----| ------------------------ |
-| 2   | Small chamber with debris. |
-| 3   | Long corridor, cracked walls. |
-| 4   | Grand hall with high ceilings. |
-| 5   | Narrow hallway with alcoves. |
-| 6   | Empty room, dust-filled. |
+| 2D6 | Room Type                                      |
+| --- | ---------------------------------------------- |
+| 2   | Small chamber with debris.                     |
+| 3   | Long corridor, cracked walls.                  |
+| 4   | Grand hall with high ceilings.                 |
+| 5   | Narrow hallway with alcoves.                   |
+| 6   | Empty room, dust-filled.                       |
 | 7   | Functional room (e.g., forge, library, vault). |
-| 8   | Trapped room (mechanism, gas, pitfall). |
-| 9   | Large chamber with columns/statues. |
-| 10  | Natural cave or underground pool. |
-| 11  | Shrine or ritual space. |
-| 12  | Boss chamber or special location. |
+| 8   | Trapped room (mechanism, gas, pitfall).        |
+| 9   | Large chamber with columns/statues.            |
+| 10  | Natural cave or underground pool.              |
+| 11  | Shrine or ritual space.                        |
+| 12  | Boss chamber or special location.              |
 
 #### **B. Room Features**  
 Each room contains **tags** that describe its features. Roll 2d6 on the following table or consult the Oracle for inspiration.
 
-| 2D6 | Feature Tag             |
-| ----| ----------------------- |
-| 2   | Bloodstains on the floor. |
-| 3   | Broken statues or murals. |
-| 4   | Hidden alcove with a faint glow. |
-| 5   | Ceiling cracks, rubble below. |
-| 6   | Ancient runes etched on the walls. |
-| 7   | Dust-covered furniture or crates. |
-| 8   | Strange sounds echo faintly. |
-| 9   | Pools of water (or unknown liquid). |
-| 10  | Stale, suffocating air. |
-| 11  | A door barred or locked shut. |
+| 2D6 | Feature Tag                                    |
+| --- | ---------------------------------------------- |
+| 2   | Bloodstains on the floor.                      |
+| 3   | Broken statues or murals.                      |
+| 4   | Hidden alcove with a faint glow.               |
+| 5   | Ceiling cracks, rubble below.                  |
+| 6   | Ancient runes etched on the walls.             |
+| 7   | Dust-covered furniture or crates.              |
+| 8   | Strange sounds echo faintly.                   |
+| 9   | Pools of water (or unknown liquid).            |
+| 10  | Stale, suffocating air.                        |
+| 11  | A door barred or locked shut.                  |
 | 12  | Evidence of recent activity (footprints, ash). |
 
 Combine **Room Type** and **Feature Tags** to describe the space. Example: *"A Grand Hall (6) with Broken Statues (3) scattered across its floor."*
@@ -667,18 +663,88 @@ Treasure rewards are tagged items or valuable objects:
 - **6-9**: Useful Gear or gold.  
 - **10-12**: Major Treasure (rare and valuable, may have risks).
 
-### **4. Environmental Conditions**
+#### D. Puzzles
+
+You can solve puzzles with the following procedure:
+
+1. Describe the Protagonist’s actions and reasoning based on the puzzle description.  
+2. **Ask the Oracle**: *“Do I solve the puzzle or mechanism?”*  
+   - **Yes**: The puzzle unlocks, and the path or treasure is revealed.  
+   - **Yes, but...**: It works, but triggers a minor complication (noise, stress, trap).  
+   - **No**: The mechanism remains unsolved or jammed.  
+   - **No, but...**: A clue is revealed, or partial progress is made.  
+   - **Yes, and...**: Success, with a bonus (e.g., treasure, shortcut).  
+   - **No, and...**: The puzzle triggers a hazard, trap, or attracts attention.  
+
+### D. Exploring a Monster Lair
+
+Entering a **Monster Lair** is always high-risk but may lead to significant rewards. Follow these steps to manage the danger:  
+
+1. **Lair Tags**: Each lair includes environmental tags like *"Webbed Entrances,"* *"Foul Stench,"* or *"Unstable Ground"* that complicate exploration.  
+
+2. **Encountering the Monster**:  
+   - Ask the Oracle: *"Do I avoid the lair's guardian?"* or *"Do I locate its treasure unnoticed?"*  
+   - Interpret the Oracle:  
+     - **Yes**: You succeed and progress cautiously.  
+     - **Yes, but...**: You attract partial attention or suffer stress.  
+     - **No**: The monster detects you—prepare for conflict.  
+     - **No, and...**: The monster attacks with full force, escalating danger.  
+
+3. **Risk and Reward**: Lairs often contain **Major Treasure** or lore-revealing clues. However, they are guarded fiercely. The Oracle may dictate when the guardian returns or whether environmental hazards hinder escape.
+
+### E. Facing the Dungeon Boss
+
+Dungeon Bosses are significant, narrative-defining encounters that test the Protagonist’s skills, resources, and decisions.  
+
+**Steps to Handle a Boss Encounter**:  
+
+1. **Preparation**:  
+   Before engaging, assess your resources, gear, and Luck. You may ask the Oracle:  
+   - *"Do I spot the boss before it notices me?"*  
+   - *"Is there a clue to the boss's weakness here?"*  
+
+2. **The Boss Tags**:  
+   Each Boss is defined by powerful **tags** that describe its abilities and weaknesses. Example tags:  
+   - **Skills**: *“Fire Breath,”* *“Ethereal Blade,”* *“Thorny Strikes.”*  
+   - **Frailties**: *“Slow,”* *“Weak to Light,”* *“Arcane Vulnerability.”*  
+
+3. **Resolve the Encounter**:  
+   Use a series of Oracle questions to determine the flow of the battle. Example questions:  
+   - *“Do I exploit the boss’s weakness?”*  
+   - *“Can I evade its devastating attack?”*  
+   - *“Is there an environmental advantage I can use?”*  
+
+**Oracle Results**:  
+| **Result**       | **Outcome**                                                                 |
+|------------------ | -------------------------------------------------------------------------- |
+| **Yes**          | You land a decisive blow or gain a major advantage.                        |
+| **Yes, but...**  | Success, but at a cost (gear broken, Luck lost, or stress gained).         |
+| **No**           | You fail to overcome the boss's attack or defense.                         |
+| **No, but...**   | You fail, but discover a weakness or opportunity for next time.            |
+| **Yes, and...**  | Success with a boon (e.g., treasure, escaping unharmed, or weakening the boss). |
+| **No, and...**   | The boss escalates the danger; Luck drops, gear breaks, or backup arrives. |
+
+### **The Rewards of Defeating a Boss**  
+Defeating a Dungeon Boss should be monumental and come with significant rewards:  
+- **Major Treasure**: Unique artifacts, enchanted weapons, or legendary gear.  
+- **Lore Reveals**: Information about the dungeon, its creators, or a new quest.  
+- **Safe Passage**: Clearing the lair allows access to hidden areas or escape routes.
+
+### **Example Boss Environmental Tags**  
+- *“Roaring Flames,”* *“Echoing Roars,”* *“Dark Arcane Aura,”* *“Unstable Ground,”* *“Crumbling Walls.”*
+
+### 4. Environmental Conditions
 
 The dungeon changes dynamically as you explore. Assign **Environmental Tags** to influence rooms, encounters, and narrative tension.
 
-| Condition Tag          | Effect on Exploration             |
-| -----------------------| --------------------------------- |
-| *"Flooded Tunnels"*    | Movement is slow; Fatigue rolls more likely. |
-| *"Shifting Walls"*     | Navigation rolls are harder.      |
-| *"Darkness Falls"*     | Light burns faster; traps are harder to spot. |
-| *"Crumbling Structure"*| Risk of cave-ins in each room.    |
-| *"Frozen Air"*         | Increases Fatigue and Stress.     |
-| *"Whispering Shadows"* | Monsters are stealthier; stress builds faster. |
+| Condition Tag           | Effect on Exploration                          |
+| ----------------------- | ---------------------------------------------- |
+| *"Flooded Tunnels"*     | Movement is slow; Fatigue rolls more likely.   |
+| *"Shifting Walls"*      | Navigation rolls are harder.                   |
+| *"Darkness Falls"*      | Light burns faster; traps are harder to spot.  |
+| *"Crumbling Structure"* | Risk of cave-ins in each room.                 |
+| *"Frozen Air"*          | Increases Fatigue and Stress.                  |
+| *"Whispering Shadows"*  | Monsters are stealthier; stress builds faster. |
 
 
 ## Environmental Interaction
@@ -711,14 +777,14 @@ Dungeon walls and artifacts often contain **ancient inscriptions** that hint at 
 2. Ask the Oracle: *“Can I decipher the inscription?”*  
 3. Interpret the result:  
 
-| **Result**         | **Outcome**                                                                 |
-| ------------------- | -------------------------------------------------------------------------- |
-| **Yes**            | You decipher the message fully; it provides a clear clue or safe route.    |
-| **Yes, but...**    | You understand most of the message, but there’s a misleading or vague part. |
-| **No**             | The message remains indecipherable for now.                                |
-| **No, but...**     | You can decipher a fragment or keyword that gives a vague hint.            |
-| **Yes, and...**    | You fully decipher the message and uncover a hidden bonus (e.g., treasure).|
-| **No, and...**     | The message is incomprehensible, and you trigger a complication (trap/curse).|
+| **Result**      | **Outcome**                                                                   |
+| --------------- | ----------------------------------------------------------------------------- |
+| **Yes**         | You decipher the message fully; it provides a clear clue or safe route.       |
+| **Yes, but...** | You understand most of the message, but there’s a misleading or vague part.   |
+| **No**          | The message remains indecipherable for now.                                   |
+| **No, but...**  | You can decipher a fragment or keyword that gives a vague hint.               |
+| **Yes, and...** | You fully decipher the message and uncover a hidden bonus (e.g., treasure).   |
+| **No, and...**  | The message is incomprehensible, and you trigger a complication (trap/curse). |
 
 ### Detecting and Disarming Traps
 
@@ -783,7 +849,6 @@ Rooms often combine multiple interactive elements (traps, inscriptions, hidden p
    - If successful, *"The runes reveal a hidden lever. Can I open the passage safely?"*  
    - Build tension with mixed Oracle answers like *“Yes, but…”* (e.g., the passage opens, but it triggers a trap).  
 
-
 ## Resource Management
 
 In *Loner: Dungeoneer*, survival depends on careful resource management. Your character's inventory is finite, tools wear out, and supplies dwindle as you delve deeper into the dungeon. Every decision — what to carry, when to use gear, and when to conserve—affects your success or failure.
@@ -817,13 +882,13 @@ When using an item in risky situations or repeatedly, roll 1d6:
   - **3-6**: The item remains intact.  
 
 **Example Gear Durability Ratings**:  
-| Item              | Durability |
-| ----------------- | ---------- |
-| Torch             | ⚙️ (1 use) |
-| Rope Bundle       | ⚙️⚙️⚙️ (3 uses) |
-| Lantern           | ⚙️⚙️ (2 uses, per oil flask) |
-| Healing Herbs     | ⚙️ (1 use) |
-| Lockpicks         | ⚙️⚙️ (2 uses) |
+| Item          | Durability                   |
+| ------------- | ---------------------------- |
+| Torch         | ⚙️ (1 use)                   |
+| Rope Bundle   | ⚙️⚙️⚙️ (3 uses)              |
+| Lantern       | ⚙️⚙️ (2 uses, per oil flask) |
+| Healing Herbs | ⚙️ (1 use)                   |
+| Lockpicks     | ⚙️⚙️ (2 uses)                |
 
 **Broken Gear**: If an item runs out of durability, it becomes **Broken** and cannot be used unless repaired.  
 
@@ -895,137 +960,990 @@ The dungeon environment is hostile, and managing dwindling supplies creates natu
 
 Use a **Resource Tracker** to monitor inventory, durability, and consumables. Example:  
 
-| **Gear**            | **Durability**   | **Notes**                 |
-| ------------------- | ---------------- | ------------------------- |
-| Rope Bundle         | ⚙️⚙️⚙️ (3)       | Used for climbing/traps.  |
-| Torch               | ⚙️ (1)           | Light for 1 Scene.        |
-| Healing Herbs       | ⚙️ (1)           | Removes 1 Fatigue.        |
-| Rations             | ⚙️⚙️⚙️⚙️ (4)     | 1 Ration per 3 Scenes.    |
-| Lockpicks           | ⚙️⚙️ (2)         | Opens locked doors/chests.|
-| Lantern (Oil Flask) | ⚙️⚙️ (2)         | 2 Scenes of bright light. |
+| **Gear**            | **Durability** | **Notes**                  |
+| ------------------- | -------------- | -------------------------- |
+| Rope Bundle         | ⚙️⚙️⚙️ (3)     | Used for climbing/traps.   |
+| Torch               | ⚙️ (1)         | Light for 1 Scene.         |
+| Healing Herbs       | ⚙️ (1)         | Removes 1 Fatigue.         |
+| Rations             | ⚙️⚙️⚙️⚙️ (4)   | 1 Ration per 3 Scenes.     |
+| Lockpicks           | ⚙️⚙️ (2)       | Opens locked doors/chests. |
+| Lantern (Oil Flask) | ⚙️⚙️ (2)       | 2 Scenes of bright light.  |
+
+## Bestiary
+
+### Small Creatures
+
+#### Swarm of Rats
+- **Concept**: Gnawing Vermin
+- **Skills**: Overwhelm in Numbers, Gnaw Through Barriers
+- **Frailty**: Scatters in Bright Light
+- **Gear**: Diseased Bites, Foul Odor
+- **Goal**: Consume all edible material
+- **Motive**: Hunger
+- **Nemesis**: Cats
+
+#### Cave Spiders
+- **Concept**: Venomous Ambushers
+- **Skills**: Web Spinning, Silent Stalking
+- **Frailty**: Fragile Exoskeleton
+- **Gear**: Poisoned Fangs, Sticky Silk
+- **Goal**: Trap prey for survival
+- **Motive**: Survival Instinct
+- **Nemesis**: Fire
+
+#### Fire Beetles
+- **Concept**: Glowing Scorchers
+- **Skills**: Emit Light, Burst into Flames
+- **Frailty**: Flammable Shell
+- **Gear**: Luminescent Glands, Burning Mandibles
+- **Goal**: Defend territory fiercely
+- **Motive**: Protect the colony
+- **Nemesis**: Water
+
+#### Flesh Gnats
+- **Concept**: Irritating Bloodsuckers
+- **Skills**: Swarm Distraction, Draw Blood
+- **Frailty**: Weak Against Wind
+- **Gear**: Needle-like Mouthparts, Swarm Cloud
+- **Goal**: Feed on hosts
+- **Motive**: Bloodlust
+- **Nemesis**: Repellents
+
+#### Biting Lizards
+- **Concept**: Aggressive Hunters
+- **Skills**: Sharp Reflexes, Crushing Bite
+- **Frailty**: Poor Stamina
+- **Gear**: Razor Teeth, Spiny Tail
+- **Goal**: Establish dominance in their environment
+- **Motive**: Territoriality
+- **Nemesis**: Larger Predators
+
+#### Dust Mites
+- **Concept**: Microscopic Irritants
+- **Skills**: Inflict Allergic Reactions, Hide in Dust
+- **Frailty**: Dies in Clean Environments
+- **Gear**: Microscopic Claws, Hypoallergenic Dust
+- **Goal**: Thrive in filthy conditions
+- **Motive**: Thrive unnoticed
+- **Nemesis**: Cleanliness
+
+#### Bat Swarm
+- **Concept**: Chaotic Flyers
+- **Skills**: Echolocation, Obscure Vision
+- **Frailty**: Disoriented by Sound
+- **Gear**: High-Pitched Screeches, Flapping Wings
+- **Goal**: Escape threats and find food
+- **Motive**: Instinctive self-preservation
+- **Nemesis**: Predatory Birds
+
+#### Stone Crabs
+- **Concept**: Armored Scavengers
+- **Skills**: Burrow into Rubble, Deflect Attacks
+- **Frailty**: Slow Movement
+- **Gear**: Tough Shell, Clamping Pincers
+- **Goal**: Protect their hiding spot
+- **Motive**: Survival in harsh terrain
+- **Nemesis**: Strong Predators
+
+#### Shadow Moths
+- **Concept**: Light Devourers
+- **Skills**: Blot Out Light, Swarm in Darkness
+- **Frailty**: Fragile Wings
+- **Gear**: Powdered Scales, Ominous Flutter
+- **Goal**: Find and extinguish light sources
+- **Motive**: Drawn to illumination
+- **Nemesis**: Bright Flames
+
+#### Carrion Beetles
+- **Concept**: Corpse Feeders
+- **Skills**: Detect Decay, Clean Bones
+- **Frailty**: Vulnerable to Poison
+- **Gear**: Rot-Proof Carapace, Acidic Saliva
+- **Goal**: Cleanse areas of organic matter
+- **Motive**: Instinctual decomposition
+- **Nemesis**: Live Predators
+
+#### Glow Worms
+- **Concept**: Bioluminescent Guides
+- **Skills**: Attract Attention, Illuminate Areas
+- **Frailty**: Easy Prey
+- **Gear**: Glowing Body, Sticky Secretions
+- **Goal**: Spread their bioluminescence
+- **Motive**: Lure larger creatures
+- **Nemesis**: Hunters
+
+#### Scuttling Centipedes
+- **Concept**: Toxic Crawlers
+- **Skills**: Rapid Movement, Venomous Bites
+- **Frailty**: Weak to Crushing Force
+- **Gear**: Segmented Armor, Paralytic Venom
+- **Goal**: Overcome prey swiftly
+- **Motive**: Prey on the weak
+- **Nemesis**: Birds
 
 
+### Ambush (Stealthy Foe)
 
-## Creatures & Foes
+#### Shadow Stalker
+- **Concept**: Stealthy Assailant
+- **Skills**: Blend into Shadows, Precision Strikes
+- **Frailty**: Weak in Direct Combat
+- **Gear**: Cloaking Shroud, Serrated Dagger
+- **Goal**: Silence witnesses and secure treasures
+- **Motive**: Serve their master
+- **Nemesis**: Light Magic
 
-[Bestiary for the setting, 36 creatures, each in the following format:]
+#### Gloom Serpent
+- **Concept**: Silent Constrictor
+- **Skills**: Coiling Grapple, Unseen Movement
+- **Frailty**: Vulnerable in Open Spaces
+- **Gear**: Camouflaging Scales, Crushing Tail
+- **Goal**: Establish dominance in dark lairs
+- **Motive**: Predatory survival
+- **Nemesis**: Large Predators
 
-### [Creature Name]
-- **Concept**: [Adjective + Noun]
-- **Skills**: [Two general traits that help to do things]
-- **Frailty**: [One general trait that hinder the owner]
-- **Gear**: [Two pieces of special equipment]
-- **Goal**: [Long term objective]
-- **Motive**: [General motivation]
-- **Nemesis**: 
+#### Cave Lurker
+- **Concept**: Ceiling Predator
+- **Skills**: Surprise Attacks, Claw Grasp
+- **Frailty**: Weak to Long Reach
+- **Gear**: Hooked Claws, Tough Hide
+- **Goal**: Drag prey to hidden dens
+- **Motive**: Instinctual ambush
+- **Nemesis**: Polearms
+
+#### Silent Strider
+- **Concept**: Gaunt Ambusher
+- **Skills**: Unheard Movement, Sudden Lunge
+- **Frailty**: Brittle Frame
+- **Gear**: Long Limbs, Razor Claws
+- **Goal**: Escape detection
+- **Motive**: Feed quietly
+- **Nemesis**: Vigilant Watchers
+
+#### Wraith Spider
+- **Concept**: Phasing Hunter
+- **Skills**: Wall Phasing, Paralyzing Venom
+- **Frailty**: Weakened by Sunlight
+- **Gear**: Ethereal Silk, Venomous Fangs
+- **Goal**: Build a ghostly web-realm
+- **Motive**: Expand its territory
+- **Nemesis**: Fire Magic
+
+#### Chittering Swarm
+- **Concept**: Biting Horde
+- **Skills**: Overwhelm Prey, Silent Advance
+- **Frailty**: Fragile Individually
+- **Gear**: Acidic Bites, Silent Wings
+- **Goal**: Consume everything in their path
+- **Motive**: Insatiable hunger
+- **Nemesis**: Sustained Fire
+
+#### Veil Shade
+- **Concept**: Spectral Lurker
+- **Skills**: Appear from Mist, Drain Energy
+- **Frailty**: Dispelled by Holy Relics
+- **Gear**: Shadowy Form, Soulbinding Touch
+- **Goal**: Trap souls for eternity
+- **Motive**: Curse-bound servitude
+- **Nemesis**: Paladins
+
+#### Bone Crawler
+- **Concept**: Silent Reassembler
+- **Skills**: Rebuild Self, Crawl Swiftly
+- **Frailty**: Fragile Joints
+- **Gear**: Skeletal Claws, Bone Dust Cloud
+- **Goal**: Harvest new bones
+- **Motive**: Strengthen its form
+- **Nemesis**: Bludgeoning Weapons
+
+#### Whispering Ghoul
+- **Concept**: Maddening Specter
+- **Skills**: Induce Fear, Lull Prey into Trance
+- **Frailty**: Sluggish Movement
+- **Gear**: Daggered Teeth, Haunting Whispers
+- **Goal**: Inflict mental anguish
+- **Motive**: Spiteful revenge
+- **Nemesis**: Strong Wills
+
+#### Razorwing Bat
+- **Concept**: Bladed Flyer
+- **Skills**: Dive Bomb, Slash with Wings
+- **Frailty**: Fragile Bones
+- **Gear**: Razor-Sharp Wings, Echolocation
+- **Goal**: Protect nesting sites
+- **Motive**: Territorial aggression
+- **Nemesis**: Fast Projectiles
+
+#### Stone Leaper
+- **Concept**: Camouflaged Ambusher
+- **Skills**: Blend with Walls, Pounce
+- **Frailty**: Sluggish Recovery
+- **Gear**: Stone-like Hide, Jagged Teeth
+- **Goal**: Secure its hunting grounds
+- **Motive**: Eliminate threats to its territory
+- **Nemesis**: Keen Observers
+
+#### Phantom Hound
+- **Concept**: Ethereal Predator
+- **Skills**: Silent Movement, Disorient with Growls
+- **Frailty**: Weak Against Silver
+- **Gear**: Unseen Claws, Echoing Growls
+- **Goal**: Protect its haunted domain
+- **Motive**: Bound to cursed duty
+- **Nemesis**: Silver Blades
+
+### Neutral Presence
+
+#### Lost Adventurer
+- **Concept**: Weary Explorer
+- **Skills**: Knowledge of the Terrain, Resourceful
+- **Frailty**: Low Supplies
+- **Gear**: Worn Map, Broken Weapon
+- **Goal**: Escape the dungeon alive
+- **Motive**: Survival
+- **Nemesis**: Treacherous Traps
+
+#### Ghostly Guardian
+- **Concept**: Bound Spirit
+- **Skills**: Detect Intruders, Impart Knowledge
+- **Frailty**: Limited Interaction with the Physical World
+- **Gear**: Ethereal Presence, Relic of Binding
+- **Goal**: Fulfill their purpose and rest
+- **Motive**: Duty-bound by a curse or vow
+- **Nemesis**: Disrespectful Intruders
+
+#### Wandering Merchant
+- **Concept**: Opportunistic Trader
+- **Skills**: Haggle Expertise, Hidden Stash
+- **Frailty**: Highly Suspicious
+- **Gear**: Exotic Wares, Portable Pack
+- **Goal**: Profit from dungeon goods
+- **Motive**: Personal enrichment
+- **Nemesis**: Thieves
+
+#### Dungeon Hermit
+- **Concept**: Reclusive Survivor
+- **Skills**: Adapted to Environment, Trap Knowledge
+- **Frailty**: Distrustful of Outsiders
+- **Gear**: Makeshift Tools, Alchemical Brew
+- **Goal**: Maintain their hidden sanctuary
+- **Motive**: Avoid contact with the outside world
+- **Nemesis**: Curious Adventurers
+
+#### Whispering Shade
+- **Concept**: Cryptic Shadow
+- **Skills**: Deliver Obscure Warnings, Blend into Darkness
+- **Frailty**: Cannot Act Directly
+- **Gear**: Fragmented Voice, Haunting Aura
+- **Goal**: Deliver its cryptic message
+- **Motive**: Bound by a forgotten purpose
+- **Nemesis**: Silence
+
+#### Trapped Survivor
+- **Concept**: Desperate Captive
+- **Skills**: Plea for Help, Endure Pain
+- **Frailty**: Injured and Exhausted
+- **Gear**: Shattered Shackles, Torn Garments
+- **Goal**: Escape their plight
+- **Motive**: Cling to hope
+- **Nemesis**: Their Captors
+
+#### Arcane Observer
+- **Concept**: Magical Watcher
+- **Skills**: Record Events, Analyze Magic
+- **Frailty**: Limited Mobility
+- **Gear**: Enchanted Lens, Protective Barrier
+- **Goal**: Document events of interest
+- **Motive**: Serve an unknown master
+- **Nemesis**: Chaotic Disruptions
+
+#### Curious Creature
+- **Concept**: Inquisitive Beast
+- **Skills**: Sniff Out Danger, Mimic Movements
+- **Frailty**: Easily Startled
+- **Gear**: Luminous Body, Sharp Senses
+- **Goal**: Satisfy its curiosity
+- **Motive**: Intrinsic inquisitiveness
+- **Nemesis**: Loud Noises
+
+#### Forgotten Statue
+- **Concept**: Watching Sentinel
+- **Skills**: Detect Subtle Movement, Intimidate with Presence
+- **Frailty**: Immobile
+- **Gear**: Unyielding Stone, Arcane Imbuement
+- **Goal**: Await its moment of activation
+- **Motive**: Protect what it was assigned to
+- **Nemesis**: Those who bypass its gaze
+
+#### Illusionary Doppelganger
+- **Concept**: Mirror Double
+- **Skills**: Perfect Mimicry, Copy Traits
+- **Frailty**: Fragile Magic
+- **Gear**: Reflection Magic, Distorting Light
+- **Goal**: Confuse its target
+- **Motive**: Sustain its illusion
+- **Nemesis**: Keen Observers
+
+#### Muted Echo
+- **Concept**: Formless Stalker
+- **Skills**: Imitate Sounds, Track Stealthily
+- **Frailty**: Cannot Interact Physically
+- **Gear**: Echoing Presence, Lingering Steps
+- **Goal**: Follow its chosen target
+- **Motive**: Drawn to activity
+- **Nemesis**: Absolute Silence
+
+#### Enigmatic Pilgrim
+- **Concept**: Mysterious Wanderer
+- **Skills**: Perform Rituals, Translate Symbols
+- **Frailty**: Focused on Their Own Goal
+- **Gear**: Ritual Implements, Tattered Cloak
+- **Goal**: Fulfill an ancient prophecy
+- **Motive**: Pursue a divine or mystical purpose
+- **Nemesis**: Time-sensitive obstacles
+
+### Hostile Monster
+
+#### Shadow Wraith
+- **Concept**: Luck Drainer
+- **Skills**: Intangible Form, Life Drain
+- **Frailty**: Weakened by Holy Light
+- **Gear**: Ethereal Claws, Aura of Misfortune
+- **Goal**: Drain the life force of intruders
+- **Motive**: Feed on despair
+- **Nemesis**: Clerics
+
+#### Cave Ogre
+- **Concept**: Hulking Brute
+- **Skills**: Massive Strength, Heavy Strikes
+- **Frailty**: Slow Reflexes
+- **Gear**: Crude Club, Tough Hide
+- **Goal**: Guard its hoard
+- **Motive**: Protect its territory
+- **Nemesis**: Nimble Opponents
+
+#### Stone Golem
+- **Concept**: Unyielding Construct
+- **Skills**: Immense Durability, Unstoppable Force
+- **Frailty**: Vulnerable to Magic Disruption
+- **Gear**: Enchanted Core, Stone Fists
+- **Goal**: Obey its creator’s commands
+- **Motive**: Mindless servitude
+- **Nemesis**: Arcane Disruptors
+
+#### Venomous Basilisk
+- **Concept**: Paralyzing Predator
+- **Skills**: Petrifying Gaze, Lethal Bite
+- **Frailty**: Weakness to Mirrors
+- **Gear**: Venom Glands, Hypnotic Eyes
+- **Goal**: Establish dominance over its territory
+- **Motive**: Predatory survival
+- **Nemesis**: Quick Reflexes
+
+#### Skeletal Champion
+- **Concept**: Undead Warrior
+- **Skills**: Unyielding Will, Master of Weapons
+- **Frailty**: Brittle Bones
+- **Gear**: Rusted Sword, Ancient Shield
+- **Goal**: Uphold its unholy oath
+- **Motive**: Serve its dark master
+- **Nemesis**: Holy Warriors
+
+#### Flame Spirit
+- **Concept**: Scorching Entity
+- **Skills**: Spread Fire, Ignite Surroundings
+- **Frailty**: Weak to Water
+- **Gear**: Blazing Aura, Flame Whip
+- **Goal**: Burn everything in its path
+- **Motive**: Manifest its elemental nature
+- **Nemesis**: Water Elementals
+
+#### Corrupted Hound
+- **Concept**: Twisted Beast
+- **Skills**: Relentless Attack, Fearsome Howl
+- **Frailty**: Vulnerable to Silver
+- **Gear**: Corrupted Fangs, Diseased Claws
+- **Goal**: Devour all life
+- **Motive**: Hunger for flesh
+- **Nemesis**: Hunters
+
+#### Giant Spider
+- **Concept**: Web Weaver
+- **Skills**: Trap Prey, Venomous Bite
+- **Frailty**: Vulnerable Abdomen
+- **Gear**: Sticky Webs, Poison Sacs
+- **Goal**: Expand its lair
+- **Motive**: Protect its young
+- **Nemesis**: Fire
+
+#### Flesh Golem
+- **Concept**: Stitched Monstrosity
+- **Skills**: Regenerate Wounds, Powerful Strikes
+- **Frailty**: Weak to Lightning
+- **Gear**: Crude Weaponry, Sewn Body
+- **Goal**: Serve its master’s will
+- **Motive**: Bound by creation
+- **Nemesis**: Disruptive Magic
+
+#### Chittering Swarm
+- **Concept**: Biting Mass
+- **Skills**: Overwhelming Numbers, Distract Opponents
+- **Frailty**: Scattered by Fire
+- **Gear**: Sharp Mandibles, Swarm Movement
+- **Goal**: Consume everything
+- **Motive**: Insatiable hunger
+- **Nemesis**: Area-of-Effect Attacks
+
+#### Gargoyle Sentinel
+- **Concept**: Stone Guardian
+- **Skills**: Guard Entrances, Relentless Pursuit
+- **Frailty**: Sluggish in Movement
+- **Gear**: Stone Wings, Unbreakable Claws
+- **Goal**: Prevent intrusion
+- **Motive**: Protect its domain
+- **Nemesis**: Crushing Force
+
+#### Poisonous Manticore
+- **Concept**: Barbed Predator
+- **Skills**: Fly Swiftly, Fire Poisonous Spines
+- **Frailty**: Weak to Magic Shields
+- **Gear**: Barbed Tail, Venomous Spines
+- **Goal**: Hunt in its chosen territory
+- **Motive**: Eliminate threats
+- **Nemesis**: Skilled Marksmen
+
+### Dungeon Boss (Strongest Threat)
+
+#### Shadow Tyrant
+- **Concept**: Wreathed in Darkness
+- **Skills**: Drain Life, Command Shadows
+- **Frailty**: Vulnerable to Radiant Light
+- **Gear**: Crown of Shadows, Cloak of Oblivion
+- **Goal**: Enshroud the world in eternal darkness
+- **Motive**: Crave ultimate dominion
+- **Nemesis**: Lightbearers
+
+#### Bone Colossus
+- **Concept**: Towering Undead
+- **Skills**: Massive Strength, Reassemble from Defeat
+- **Frailty**: Slow and Cumbersome
+- **Gear**: Bone Spikes, Necromantic Core
+- **Goal**: Protect its master's relic
+- **Motive**: Serve ancient magic
+- **Nemesis**: Destructive Magic
+
+#### Venomous Spider Queen
+- **Concept**: Matriarch of Poison
+- **Skills**: Spawn Minions, Envenom Prey
+- **Frailty**: Exposed Underbelly
+- **Gear**: Brood Swarm, Venom Sacs
+- **Goal**: Expand her web-realm
+- **Motive**: Ensure the survival of her brood
+- **Nemesis**: Fire-based Weapons
+
+#### Flameheart Guardian
+- **Concept**: Elemental Inferno
+- **Skills**: Radiate Heat, Burn with Intensity
+- **Frailty**: Weak to Frost
+- **Gear**: Flaming Core, Lava Gauntlets
+- **Goal**: Protect the flame temple
+- **Motive**: Embody elemental rage
+- **Nemesis**: Ice Mages
+
+#### Lich-King of the Crypt
+- **Concept**: Undead Sorcerer
+- **Skills**: Cast Curses, Animate Minions
+- **Frailty**: Reliant on Phylactery
+- **Gear**: Staff of Doom, Phylactery of Life
+- **Goal**: Achieve eternal rule over the living
+- **Motive**: Lust for ultimate power
+- **Nemesis**: Knowledge Seekers
+
+#### Abyssal Maw
+- **Concept**: Chasm Dweller
+- **Skills**: Consume Entirely, Tentacle Grasp
+- **Frailty**: Limited Reach Beyond its Lair
+- **Gear**: Barbed Tentacles, Unyielding Bite
+- **Goal**: Draw the unwary into its abyss
+- **Motive**: Endless hunger
+- **Nemesis**: Nimble Adventurers
+
+#### Gargoyle Overlord
+- **Concept**: Stone Tyrant
+- **Skills**: Command Minions, Soar with Wings
+- **Frailty**: Weakened in Direct Sunlight
+- **Gear**: Enchanted Stone Crown, Granite Blade
+- **Goal**: Rule over all subterranean realms
+- **Motive**: Maintain dominion
+- **Nemesis**: Precision Strikes
+
+#### Chaos Chimera
+- **Concept**: Multi-Headed Beast
+- **Skills**: Fire Breath, Venomous Bite, Crushing Claws
+- **Frailty**: Conflicted Nature Between Heads
+- **Gear**: Triple Heads (Fire, Venom, Physical), Resilient Hide
+- **Goal**: Spread chaos and destruction
+- **Motive**: Instinct to dominate
+- **Nemesis**: Unified Forces
+
+#### Corrupted Treant
+- **Concept**: Twisted Forest Guardian
+- **Skills**: Entangle Foes, Wield Dark Magic
+- **Frailty**: Vulnerable to Fire
+- **Gear**: Thorned Branches, Shadow Roots
+- **Goal**: Corrupt all life within the forest
+- **Motive**: Enforce its twisted vision
+- **Nemesis**: Druids of Purity
+
+#### Arcane Devourer
+- **Concept**: Magic-Eating Horror
+- **Skills**: Absorb Spells, Nullify Enchantments
+- **Frailty**: Weak to Mundane Weapons
+- **Gear**: Anti-Magic Field, Void Tendrils
+- **Goal**: Consume all magical energy
+- **Motive**: Instinctual hunger for power
+- **Nemesis**: Physical Fighters
+
+#### Wraithlord
+- **Concept**: Spectral King
+- **Skills**: Command Wraiths, Wield Ethereal Blade
+- **Frailty**: Cannot Touch Holy Ground
+- **Gear**: Ethereal Crown, Ghostly Blade
+- **Goal**: Rule over the dead and the living
+- **Motive**: Revenge for its lost kingdom
+- **Nemesis**: Holy Crusaders
+
+#### Dragon of the Deep
+- **Concept**: Slumbering Leviathan
+- **Skills**: Breathe Destruction, Guard Immense Hoard
+- **Frailty**: Vulnerable During Slumber
+- **Gear**: Hoarded Treasure, Scaled Armor
+- **Goal**: Protect its wealth and domain
+- **Motive**: Greedy possessiveness
+- **Nemesis**: Treasure Hunters
 
 ## Adventure Tables
 
-- Stress Tag
-- Fatigue Tags
+### Stress Tags
 
-- Trap (columns: Type, Trigger, Effect)
-- Gear (columns: Item, Durability)
-- Environmental hazard (e.g., cave-in, flooding).     
-- Minor trap (pressure plate, dart).                  
-- Small creature (rats, insects).                     
-- Ambush (stealthy foe).                              
-- Hidden treasure (valuable but risky).               
-- Neutral presence (e.g., another adventurer, ghost). 
-- Puzzle or locked mechanism.                         
-- Hostile monster (moderate strength).                
-- Major trap (collapsing floor, gas).                 
-- Monster lair (significant danger).                  
-- Dungeon Boss (strongest threat).                    
-- Minor Treasures
-- Major Treasures
+|     | 1                | 2                | 3                | 4                | 5                | 6                |
+| --- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
+| 1   | Frayed Nerves    | Trembling Hands  | Racing Heart     | Shallow Breathing| Echoing Voices   | Haunted Dreams   |
+| 2   | Paranoid Thoughts| Stifled Panic    | Shaking Limbs    | Cold Sweat       | Dazed Focus      | Unsteady Balance |
+| 3   | Short Temper     | Distracted Mind  | Sudden Outburst  | Tunnel Vision    | Jittery Movement | Overwhelming Fear|
+| 4   | Loss of Words    | Fatigue Fog      | Fractured Focus  | Reluctant Steps  | Restless Energy  | Heavy Breathing  |
+| 5   | Memory Lapses    | Claustrophobic   | Overactive Imagination | Startled Reflex | Whispers of Doubt | Irrational Fear |
+| 6   | Dreadful Silence | Emotional Collapse | Crushing Guilt   | Sleep Deprivation | Shaking Resolve  | Panic Attack     |
 
-[All the relevant random tables to flesh out the setting and the play in the following format]
+### Fatigue Tags
 
-| D66 | Loner: Dungeoneer                                               |
-| --- | --------------------------------------------------------------------- |
-| 11  | |
-| 12  | |
-| 13  | |
-| 14  | |
-| 15  | |
-| 16  | |
-| 21  | |
-| 22  | |
-| 23  | |
-| 24  | |
-| 25  | |
-| 26  | |
-| 31  | |
-| 32  | |
-| 33  | |
-| 34  | |
-| 35  | |
-| 36  | |
-| 41  | |
-| 42  | |
-| 43  | |
-| 44  | |
-| 45  | |
-| 46  | |
-| 51  | |
-| 52  | |
-| 53  | |
-| 54  | |
-| 55  | |
-| 56  | |
-| 61  | |
-| 62  | |
-| 63  | |
-| 64  | |
-| 65  | |
-| 66  | |
+|     | 1                | 2                | 3                | 4                | 5                | 6                |
+| --- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
+| 1   | Heavy Limbs      | Sore Muscles     | Aching Back      | Blurred Vision   | Stiff Joints     | Slow Reactions   |
+| 2   | Weary Steps      | Unsteady Hands   | Labored Breathing| Numb Fingers     | Light-Headed     | Weak Grip        |
+| 3   | Dull Reflexes    | Dragging Feet    | Fatigued Focus   | Muscle Cramps    | Exhausted Mind   | Sluggish Speech  |
+| 4   | Fading Stamina   | Trembling Knees  | Burning Lungs    | Hazy Thoughts    | Shaky Steps      | Cold Shivers     |
+| 5   | Nodding Off      | Cracked Lips     | Dry Throat       | Uncontrolled Yawns| Stumbling Stride | Foggy Awareness  |
+| 6   | Shallow Breaths  | Dead Weight      | Strained Eyes    | Nerve Pain       | Drained Energy   | Overwhelmed Body |
+
+
+### Traps
+
+| **#**  | **Type**           | **Trigger**          | **Effect**                                   |
+| ------ | ------------------ | -------------------- | -------------------------------------------- |
+| **1**  | Pitfall Trap       | Loose floor tile     | Falls into a deep pit; harm or delay.        |
+| **2**  | Dart Launcher      | Pressure plate       | Fires poisoned darts; Luck loss or fatigue.  |
+| **3**  | Swinging Blade     | Tripwire             | A blade swings; causes physical harm.        |
+| **4**  | Falling Rocks      | Weak ceiling section | Rocks fall; causes harm or blocks path.      |
+| **5**  | Poison Gas Vent    | Hidden lever         | Releases toxic gas; Fatigue or stress.       |
+| **6**  | Spike Trap         | Pressure plate       | Spikes shoot from the floor; harm inflicted. |
+| **7**  | Flame Jets         | Wall mechanism       | Flames shoot out; destroys gear or burns.    |
+| **8**  | Collapsing Floor   | Concealed weak floor | Floor collapses; drops character below.      |
+| **9**  | Net Snare          | Tripwire             | Traps target in a net; immobilization.       |
+| **10** | Illusionary Ground | False floor covering | Illusion hides a pit; sudden fall.           |
+| **11** | Arcane Shock Glyph | Magical rune         | Shocks target; drains Luck or gear damage.   |
+| **12** | Crushing Wall      | Pressure switch      | Walls close in; risk of harm or entrapment.  |
+
+### Gear Durability
+
+| **Item**                 | **Durability**    |
+| ------------------------ | ----------------- |
+| Ancient Map Fragment     | No Durability     |
+| Bandages                 | ⚙️ (1 use)        |
+| Beast Trap               | ⚙️⚙️ (2 uses)     |
+| Bone Carvings (Markers)  | ⚙️⚙️⚙️⚙️ (4 uses) |
+| Chalk Sticks             | ⚙️⚙️⚙️⚙️ (4 uses) |
+| Climbing Gear            | ⚙️⚙️ (2 uses)     |
+| Canteen (Water Supply)   | ⚙️⚙️ (2 uses)     |
+| Crystal Lens             | No Durability     |
+| Enchanted Glowstone      | Permanent         |
+| Explorer's Cloak         | No Durability     |
+| Flint and Steel          | ⚙️⚙️ (2 uses)     |
+| Grappling Hook           | ⚙️⚙️ (2 uses)     |
+| Healing Herbs            | ⚙️ (1 use)        |
+| Iron Spikes              | ⚙️⚙️⚙️ (3 uses)   |
+| Lantern                  | ⚙️⚙️ (2 Scenes)   |
+| Lantern with Spare Oil   | ⚙️⚙️⚙️ (3 Scenes) |
+| Lockpicks                | ⚙️⚙️ (2 uses)     |
+| Magic Chalk (Rune Marks) | ⚙️⚙️ (2 uses)     |
+| Map Case (Empty)         | No Durability     |
+| Mirror (Polished Metal)  | ⚙️ (1 use)        |
+| Pitons and Hammer        | ⚙️⚙️⚙️ (3 uses)   |
+| Rations                  | ⚙️⚙️⚙️⚙️ (4 uses) |
+| Rope Bundle              | ⚙️⚙️⚙️ (3 uses)   |
+| Rusted Blade             | ⚙️⚙️ (2 uses)     |
+| Rune Compass             | ⚙️⚙️ (2 uses)     |
+| Silent Oil               | ⚙️ (1 use)        |
+| Spellbook Fragment       | ⚙️ (1 use)        |
+| Sturdy Boots             | No Durability     |
+| Torch                    | ⚙️ (1 Scene)      |
+| Weighted Net             | ⚙️ (1 use)        |
+| Warding Charms           | ⚙️⚙️ (2 uses)     |
+
+### Environmental Hazards
+
+| **#** | **Hazard**            | **Description**                                                     |
+|-------|-----------------------|---------------------------------------------------------------------|
+| **1** | Cave-In               | Rocks collapse from above, blocking paths and causing harm.         |
+| **2** | Flooding              | Water fills the area, making movement difficult and drowning a risk.|
+| **3** | Poisonous Gas         | A cloud of toxic gas fills the room; causes fatigue or harm.        |
+| **4** | Sudden Quicksand      | The floor becomes unstable, pulling the unwary downwards.           |
+| **5** | Shifting Walls        | Walls move, altering paths and potentially crushing explorers.      |
+| **6** | Falling Stalactites   | Sharp stalactites drop from above, threatening harm.                |
+| **7** | Freezing Air          | Intense cold saps energy, causing fatigue and stress.               |
+| **8** | Swarm of Vermin       | Rats, insects, or bats overwhelm and distract explorers.            |
+| **9** | Tremors               | The ground shakes violently, risking cave-ins and loss of balance.  |
+| **10**| Blinding Dust Storm   | Fine dust fills the air, reducing visibility and making breathing hard.|
+| **11**| Arcane Surge          | Magical energy destabilizes, creating unpredictable effects.        |
+| **12**| Lava Flow             | Molten rock seeps through cracks, blocking paths and burning gear.  |
+
+
+### Minor Traps
+
+| **#** | **Type**             | **Trigger**             | **Effect**                                |
+|-------|-----------------------|-------------------------|------------------------------------------|
+| **1** | **Dart Launcher**     | Pressure plate          | Fires darts, causing harm or poison.     |
+| **2** | **Tripwire Snare**    | Tripwire                | Pulls the target into a hanging net.     |
+| **3** | **Loose Tile Pit**    | Loose floor tile        | A small pit opens, causing a short fall. |
+| **4** | **Gas Vent**          | Hidden switch           | Releases toxic gas; causes fatigue.      |
+| **5** | **Springing Blade**   | Step on pressure plate  | A blade swings, causing minor harm.      |
+| **6** | **Slippery Oil Trap** | Hidden floor plate      | Oil spills, making movement dangerous.   |
+| **7** | **Rock Drop**         | Loose ceiling stone     | A small rock falls, dealing minor harm.  |
+| **8** | **Alarm Mechanism**   | Tripwire                | A loud sound attracts nearby enemies.    |
+| **9** | **Needle Handle**     | Fake door handle        | A poisoned needle pricks the hand.       |
+| **10**| **Glue Tile**         | Sticky floor tile       | Feet get stuck, restricting movement.    |
+| **11**| **Razor Wire**        | Taut wire across path   | Causes cuts or tears in gear.            |
+| **12**| **Flame Jet**         | Hidden wall nozzle      | A small jet of flame burns gear or skin. |
+
+### Major Traps
+
+| **#** | **Type**             | **Trigger**            | **Effect**                                  |
+|-------|----------------------|------------------------|--------------------------------------------|
+| **1** | Collapsing Floor     | Weak floor section     | The floor gives way, dropping into a pit or lower level. |
+| **2** | Poison Gas Chamber   | Sealed room mechanism  | Fills the room with toxic gas; causes harm or stress.    |
+| **3** | Crushing Walls       | Pressure plate         | Walls close in, crushing or trapping explorers.         |
+| **4** | Spike Pit            | False floor tiles      | A deep pit opens with spikes at the bottom; heavy harm. |
+| **5** | Flame Gout Trap      | Hidden wall vent       | A wide burst of fire engulfs the room; burns gear/skin. |
+| **6** | Falling Ceiling      | Hidden tripwire        | A heavy section of the ceiling drops; causes harm.      |
+| **7** | Magical Rune Burst   | Touching rune circle   | Explodes with arcane energy; Luck damage or fatigue.    |
+| **8** | Boulder Roll         | Hidden lever           | A massive boulder rolls through, crushing everything.   |
+| **9** | Electrified Floor    | Stepping on tiles      | Floor activates, shocking anyone standing on it.        |
+| **10**| Flooding Chamber     | Door mechanism         | Water rapidly floods the room; causes drowning risk.    |
+| **11**| Blade Gauntlet       | Pressure plate         | A series of spinning blades activate; heavy harm.       |
+| **12**| Endless Pitfall      | Illusionary ground     | Appears solid but drops into a deep, endless chasm.     |
+
+### Small Creatures
+
+| **#** | **Creature**         | **Description**                               |
+|-------|----------------------|-----------------------------------------------|
+| **1** | Swarm of Rats        | Gnawing, biting rodents that overwhelm the area. |
+| **2** | Cave Spiders         | Small venomous spiders lurking in cracks or webs. |
+| **3** | Fire Beetles         | Glowing beetles that burn when disturbed.     |
+| **4** | Flesh Gnats          | Bloodsucking insects that cause irritation and stress. |
+| **5** | Biting Lizards       | Quick, aggressive lizards with sharp teeth.   |
+| **6** | Dust Mites           | Microscopic insects causing coughing fits.    |
+| **7** | Bat Swarm            | Loud, chaotic bats that obscure vision.       |
+| **8** | Stone Crabs          | Small armored crabs hiding among rubble.      |
+| **9** | Shadow Moths         | Moths that blot out light sources when swarming. |
+| **10**| Carrion Beetles      | Large beetles attracted to corpses or rations. |
+| **11**| Glow Worms           | Bioluminescent worms that signal nearby danger. |
+| **12**| Scuttling Centipedes | Fast-moving centipedes with painful, toxic bites. |
+
+### Ambush (Stealthy Foe)
+
+| **#** | **Foe**             | **Description**                               |
+|-------|---------------------|-----------------------------------------------|
+| **1** | Shadow Stalker      | A humanoid figure blending perfectly with shadows, striking suddenly. |
+| **2** | Gloom Serpent       | A silent, serpentine creature that coils and strikes from darkness.   |
+| **3** | Cave Lurker         | A clawed predator that drops from ceilings to ensnare prey.           |
+| **4** | Silent Strider      | A quick, gaunt creature with elongated limbs that ambushes in silence.|
+| **5** | Wraith Spider       | A translucent spider that phases through walls to attack.             |
+| **6** | Chittering Swarm    | A group of small, silent insects that overwhelm and bite.             |
+| **7** | Veil Shade          | A spectral figure that materializes only when its prey is close.      |
+| **8** | Bone Crawler        | A skeletal creature that reassembles itself silently to strike.       |
+| **9** | Whispering Ghoul    | A ghoulish entity that sneaks up while whispering maddening words.    |
+| **10**| Razorwing Bat       | A mutated bat with blade-like wings, diving from the darkness.        |
+| **11**| Stone Leaper        | A camouflaged creature that blends with walls, lunging to attack.     |
+| **12**| Phantom Hound       | An unseen beast that growls softly before pouncing from nowhere.      |
+
+### Hidden Treasure (Valuable but Risky)
+
+| **#** | **Treasure**            | **Risk**                                      |
+|-------|-------------------------|-----------------------------------------------|
+| **1** | Jeweled Dagger          | It’s cursed; using it brings misfortune.      |
+| **2** | Ornate Gold Chalice     | It triggers a nearby trap when disturbed.     |
+| **3** | Ancient Coin Hoard      | Guarded by a swarm of rats or biting insects. |
+| **4** | Enchanted Amulet        | Drains Luck until its true nature is revealed.|
+| **5** | Silver-Trimmed Mirror   | Touching it causes a vision or madness.       |
+| **6** | Gem-Encrusted Crown     | Heavier than it looks; risks encumbrance.     |
+| **7** | Hidden Cache of Rations | Moldy or poisoned; requires careful inspection.|
+| **8** | Worn Map to Deeper Vault| Leads to greater treasure… and greater danger.|
+| **9** | Rune-Engraved Idol      | Gives off unsettling whispers; attracts foes. |
+| **10**| Blood-Soaked Coin Pouch | It marks you; enemies will track its holder.  |
+| **11**| Shimmering Crystal Shard| Emits light but draws nearby monsters.        |
+| **12**| Locked Treasure Chest   | Trapped with darts, gas, or a hidden alarm.   |
+
+### Neutral Presence
+
+| **#** | **Presence**             | **Description**                                      |
+|-------|--------------------------|----------------------------------------------------|
+| **1** | Lost Adventurer          | A weary explorer searching for a way out. Offers information or a trade. |
+| **2** | Ghostly Guardian         | A spirit bound to the area; it may provide clues if respected.  |
+| **3** | Wandering Merchant       | A strange figure selling rare items at questionable prices.     |
+| **4** | Dungeon Hermit           | A reclusive individual who has adapted to life underground.     |
+| **5** | Whispering Shade         | A harmless shadow that mutters cryptic warnings or secrets.     |
+| **6** | Trapped Survivor         | Someone caught in a trap; they need help but may slow you down. |
+| **7** | Arcane Observer          | A magical projection or construct silently watching the dungeon.|
+| **8** | Curious Creature         | A small, harmless beast (e.g., a glowing lizard) observing you curiously. |
+| **9** | Forgotten Statue         | A lifelike statue that seems to “watch” you as you move.        |
+| **10**| Illusionary Doppelganger | A mirror image of the Protagonist that mimics their actions.    |
+| **11**| Muted Echo               | A presence without form; its footsteps or whispers follow you.  |
+| **12**| Enigmatic Pilgrim        | A mysterious figure performing a ritual or seeking their own goal. |
+
+### Puzzle or Locked Mechanism
+
+| **#** | **Type**                   | **Description**                                      |
+|-------|----------------------------|-----------------------------------------------------|
+| **1** | Rune-Locked Door           | A door sealed with glowing runes requiring deciphering. Incorrect attempts trigger minor harm. |
+| **2** | Rotating Statues           | Statues must face a specific direction to unlock a passage. |
+| **3** | Weighted Pressure Plates   | Plates must be pressed in the correct sequence to disable a trap or open a path. |
+| **4** | Mosaic Tile Puzzle         | A broken mosaic must be reassembled to reveal a hidden clue or trigger. |
+| **5** | Symbolic Dial              | A dial with ancient symbols must be turned in the correct order to unlock a chest. |
+| **6** | Color Coded Keys           | Keys of different colors must match corresponding locks or levers. |
+| **7** | Hidden Lever Mechanism     | A concealed lever opens a secret door but may trigger a nearby trap. |
+| **8** | Arcane Glyph Circuit       | Glyphs must be lit in the correct sequence to disable a magical barrier. |
+| **9** | Echoing Sound Puzzle       | Sounds or vibrations provide clues to unlocking the mechanism (e.g., bells, pipes). |
+| **10**| Sliding Stone Blocks       | Heavy blocks must be moved into correct positions to reveal a passage or cache. |
+| **11**| Shadow Alignment           | Light must be cast in a specific way to align shadows and open a secret area. |
+| **12**| Locked Artifact Pedestal   | An artifact is sealed behind a glass-like barrier; disarming it requires precision or a specific item. |
+
+### Hostile Monster
+
+| **#** | **Monster**           | **Description**                                         |
+|-------|-----------------------|--------------------------------------------------------|
+| **1** | Shadow Wraith         | A semi-corporeal entity that drains Luck with its touch. |
+| **2** | Cave Ogre             | A hulking brute with heavy strikes but slow movement.  |
+| **3** | Stone Golem           | A construct of rock and rubble; resistant to physical harm. |
+| **4** | Venomous Basilisk     | A serpent with a venomous bite and paralyzing gaze.    |
+| **5** | Skeletal Champion     | An undead warrior wielding rusted but deadly weapons.  |
+| **6** | Flame Spirit          | A burning entity that scorches its surroundings.       |
+| **7** | Corrupted Hound       | A twisted beast with sharp claws and relentless attacks. |
+| **8** | Giant Spider          | A large spider that ensnares prey in webs before striking. |
+| **9** | Flesh Golem           | A stitched monstrosity of muscle; hard to take down.   |
+| **10**| Chittering Swarm      | A mass of biting insects or rats; hard to hit individually. |
+| **11**| Gargoyle Sentinel     | A stone guardian that animates when intruders approach. |
+| **12**| Poisonous Manticore   | A winged predator with a barbed tail that fires poison spines. |
+
+
+### Monster Lair (Significant Danger)
+
+| **#** | **Lair Type**           | **Description**                                             |
+|-------|-------------------------|------------------------------------------------------------|
+| **1** | Web-Choked Cavern       | A massive spider nest filled with webbed corpses and egg sacs. |
+| **2** | Bone-Strewn Pit         | A foul den littered with the gnawed bones of past victims. |
+| **3** | Forgotten Crypt         | An ancient tomb occupied by undead guardians and their master. |
+| **4** | Magma-Filled Chamber    | A scorching lair inhabited by a flame-breathing creature.  |
+| **5** | Shadowed Ruins          | Dark ruins patrolled by a monstrous shade that feeds on fear. |
+| **6** | Flooded Cavern          | A partially submerged lair where amphibious predators dwell. |
+| **7** | Crystal Spire           | A glowing crystalline structure where a magical beast resides. |
+| **8** | Rotting Nest            | A reeking lair of carrion-eating beasts drawn to decay.     |
+| **9** | Gargoyle Rookery        | A stone chamber where gargoyles perch, waiting to animate.  |
+| **10**| Arcane Sanctum          | A corrupted magical chamber guarded by a summoned entity.   |
+| **11**| Thorned Grove           | A tangled, thorny lair inhabited by a territorial plant creature. |
+| **12**| Chasm Den               | A deep, echoing pit where a burrowing beast or winged predator dwells. |
+
+### Dungeon Boss (Strongest Threat)
+
+| **#** | **Boss**                | **Description**                                             |
+|-------|-------------------------|------------------------------------------------------------|
+| **1** | Shadow Tyrant           | A massive shadow wreathed in darkness, draining life with its touch. |
+| **2** | Bone Colossus           | A towering construct of bones and ancient magic, nearly indestructible. |
+| **3** | Venomous Spider Queen   | A monstrous spider matriarch guarded by swarms of offspring. |
+| **4** | Flameheart Guardian     | A blazing elemental golem that scorches everything in its path. |
+| **5** | Lich-King of the Crypt  | An undead sorcerer wielding dark spells and cursed relics.  |
+| **6** | Abyssal Maw             | A massive, multi-mouthed beast lurking in an endless chasm. |
+| **7** | Gargoyle Overlord       | A winged stone giant commanding an army of animated gargoyles. |
+| **8** | Chaos Chimera           | A three-headed beast combining claws, fire breath, and venom. |
+| **9** | Corrupted Treant        | A massive, twisted tree-creature with thorny limbs and dark magic. |
+| **10**| Arcane Devourer         | A magic-eating abomination that nullifies spells and disrupts gear. |
+| **11**| Wraithlord              | A spectral king armed with an ethereal blade, immune to normal attacks. |
+| **12**| Dragon of the Deep      | A slumbering dragon guarding an immense hoard of treasure. |
+
+### Minor Treasures  
+
+| **D66** | **Minor Treasure**           |  
+|---------|-----------------------------|  
+| **11**  | Small pouch of ancient coins (tarnished silver). |  
+| **12**  | Jeweled hairpin set with a tiny ruby. |  
+| **13**  | Ornate dagger with a decorative hilt. |  
+| **14**  | Bronze figurine of a forgotten deity. |  
+| **15**  | Map fragment hinting at a deeper dungeon level. |  
+| **16**  | Silver-plated goblet etched with runes. |  
+| **21**  | A single flawless sapphire wrapped in cloth. |  
+| **22**  | Intricate clockwork trinket that still moves faintly. |  
+| **23**  | Tiny vial of scented, ancient perfume. |  
+| **24**  | Delicate golden necklace missing a gem. |  
+| **25**  | A carved ivory chess piece (king). |  
+| **26**  | Rusted but ornate key; unknown purpose. |  
+| **31**  | Enchanted feather that glows faintly in the dark. |  
+| **32**  | Small silver mirror with etched borders. |  
+| **33**  | Crystal shard with swirling colors inside. |  
+| **34**  | Leather pouch filled with odd dice or tokens. |  
+| **35**  | Engraved bronze locket (empty). |  
+| **36**  | Wooden box containing fine charcoal sticks. |  
+| **41**  | Rolled-up scroll of forgotten poetry. |  
+| **42**  | A glass orb filled with glowing liquid. |  
+| **43**  | Tiny music box that plays a haunting tune. |  
+| **44**  | A small idol carved from obsidian. |  
+| **45**  | Silver ring with faded inscriptions. |  
+| **46**  | A handful of polished amber stones. |  
+| **51**  | An old, beautifully bound journal (mostly empty). |  
+| **52**  | Broken medallion, depicting an ancient sigil. |  
+| **53**  | Small, delicate hourglass with black sand. |  
+| **54**  | A bundle of preserved herbs in fine cloth. |  
+| **55**  | Copper-plated mask with exaggerated features. |  
+| **56**  | Wax-sealed bottle containing a strange liquid. |  
+| **61**  | Rolled tapestry fragment showing faded art. |  
+| **62**  | Gem-inlaid comb made of fine bone. |  
+| **63**  | A tarnished brass pocket watch (broken). |  
+| **64**  | Small pouch of gold-painted pebbles. |  
+| **65**  | Crystal lens in a brass casing. |  
+| **66**  | Ornate belt buckle with swirling designs. |  
+
+### Major Treasures  
+
+| **D66** | **Major Treasure**               |  
+|---------|----------------------------------|  
+| **11**  | Ornate longsword with a blade of black steel, faintly humming with power. |  
+| **12**  | A golden chalice etched with ancient runes; faint light glows inside. |  
+| **13**  | Enchanted shield that deflects blows (*“Mirror Ward”*). |  
+| **14**  | Amulet of shifting colors that warms when danger is near. |  
+| **15**  | Ornate battleaxe carved with scenes of forgotten battles. |  
+| **16**  | Ancient spellbook bound in dark leather, its pages whisper faintly. |  
+| **21**  | Crown of silver thorns; grants cryptic visions of the past. |  
+| **22**  | A ruby-encrusted scepter that pulses faintly when held. |  
+| **23**  | Warding staff carved from a single obsidian shard. |  
+| **24**  | Enchanted lantern that burns with eternal light. |  
+| **25**  | Gilded music box that plays an eerie melody; the air shimmers around it. |  
+| **26**  | A map of the dungeon drawn in blood that reveals hidden chambers. |  
+| **31**  | Ring of frost, surrounded by a cold aura (*“Frostbite Ring”*). |  
+| **32**  | Cloak woven from shadows, blending the wearer into darkness. |  
+| **33**  | A silvered mirror that reveals illusions and hidden doors. |  
+| **34**  | Ornate tome bound with dragon hide; pages describe ancient magic. |  
+| **35**  | Crystal orb containing swirling stars (*“Navigator’s Sphere”*). |  
+| **36**  | Dagger carved from bone, etched with curses (*“Blade of the Forsaken”*). |  
+| **41**  | Gilded mask of a forgotten king, warm to the touch. |  
+| **42**  | A pendant housing a drop of eternal flame. |  
+| **43**  | Jeweled belt that adjusts perfectly to its wearer. |  
+| **44**  | Enchanted arrows that glow with a faint blue light. |  
+| **45**  | A bracer with inlaid emeralds, humming with protective magic. |  
+| **46**  | An obsidian key that fits no known lock—yet. |  
+| **51**  | Golden statuette of a dragon with ruby eyes. |  
+| **52**  | Ancient armor adorned with silver sigils (*“Warden’s Plate”*). |  
+| **53**  | A sword forged from starlight, impossibly light (*“Celestial Blade”*). |  
+| **54**  | Enchanted book that teaches a forgotten language. |  
+| **55**  | Crystal vial holding a glowing, shifting liquid (*“Essence of Change”*). |  
+| **56**  | Staff crowned with a living crystal that glows with energy. |  
+| **61**  | A gilded horn that, when blown, echoes through the dungeon. |  
+| **62**  | Ring of echoes; lets the wearer hear distant sounds. |  
+| **63**  | A polished onyx box that seals something faintly humming within. |  
+| **64**  | Chainmail of light; flexible and barely visible. |  
+| **65**  | A reliquary holding a saint’s petrified finger, glowing faintly. |  
+| **66**  | A legendary weapon: a gleaming greatsword engraved with *“The End of Kings.”* |
+
 
 ### Inspiration Tables
 
 #### Verbs
 
-|  Verbs   | 1   | 2   | 3   | 4   | 5   | 6   |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1   |     |     |     |     |     |     |
-| 2   |     |     |     |     |     |     |
-| 3   |     |     |     |     |     |     |
-| 4   |     |     |     |     |     |     |
-| 5   |     |     |     |     |     |     |
-| 6   |     |     |     |     |     |     |
+|  **Verbs**    | 1         | 2          | 3          | 4           | 5          | 6            |
+|---------------|-----------|------------|------------|-------------|------------|--------------|
+| **1**         | Break     | Reveal     | Block      | Ignite      | Collapse   | Escape       |
+| **2**         | Climb     | Search     | Hide       | Trap        | Unlock     | Seal         |
+| **3**         | Decipher  | Whisper    | Haunt      | Ambush      | Drag       | Echo         |
+| **4**         | Strike    | Open       | Shift      | Guide       | Channel    | Consume      |
+| **5**         | Shatter   | Illuminate | Uncover    | Lure        | Descend    | Watch        |
+| **6**         | Breathe   | Evade      | Awaken     | Cross       | Silence    | Guard        |
 
 #### Adjectives
 
-|  Adjectives   | 1   | 2   | 3   | 4   | 5   | 6   |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1   |     |     |     |     |     |     |
-| 2   |     |     |     |     |     |     |
-| 3   |     |     |     |     |     |     |
-| 4   |     |     |     |     |     |     |
-| 5   |     |     |     |     |     |     |
-| 6   |     |     |     |     |     |     |
-
+|  **Adjectives**   | 1           | 2           | 3           | 4            | 5           | 6            |
+|-------------------|-------------|-------------|-------------|--------------|-------------|--------------|
+| **1**            | Ancient      | Hidden      | Twisted     | Glowing      | Crumbling   | Silent       |
+| **2**            | Arcane       | Forgotten   | Shifting    | Cursed       | Sacred      | Broken       |
+| **3**            | Rusted       | Ominous     | Shadowy     | Icy          | Burning     | Whispering   |
+| **4**            | Haunting     | Narrow      | Endless     | Hollow       | Fragile     | Flickering   |
+| **5**            | Jagged       | Poisonous   | Stifling    | Bloodstained | Bound       | Unearthly    |
+| **6**            | Massive      | Claustrophobic | Deadly     | Echoing      | Forbidden   | Sharp        |
 
 #### Nouns
 
-| Nouns    | 1   | 2   | 3   | 4   | 5   | 6   |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1   |     |     |     |     |     |     |
-| 2   |     |     |     |     |     |     |
-| 3   |     |     |     |     |     |     |
-| 4   |     |     |     |     |     |     |
-| 5   |     |     |     |     |     |     |
-| 6   |     |     |     |     |     |     |
+| **Nouns**        | 1           | 2           | 3           | 4            | 5            | 6            |
+|------------------|-------------|-------------|-------------|--------------|--------------|--------------|
+| **1**           | Door         | Statue      | Trap        | Passage      | Rune         | Treasure     |
+| **2**           | Mirror       | Idol        | Torch       | Mechanism    | Vault        | Chamber      |
+| **3**           | Skeleton     | Shadow      | Altar       | Scroll       | Key          | Whisper      |
+| **4**           | Web          | Stone       | Pool        | Blade        | Beast        | Stalactite   |
+| **5**           | Wall         | Chain       | Obelisk     | Crown        | Artifact     | Golem        |
+| **6**           | Gate         | Light       | Ash         | Crystal      | Tomb         | Warden       |
 
 
 ## Appendix: Inspirational Media
 
-[List of inspirational media for the setting, in sublist for type (books, films, tv-series, etc.)]
+### RPGs
+- *The Black Hack*: A minimalist dungeon-crawling system with resource management.  
+- *Into the Odd*: Simple rules with a focus on exploration and survival.  
+- *Mörk Borg*: Dark and gritty dungeon crawling with evocative, atmospheric themes.  
+- *Maze Rats*: Procedural generation and tag-based mechanics for quick play.  
+- *Knave*: A classless, resource-focused dungeon exploration game.  
+
+### Videogames
+- **Dungeon Crawlers**:  
+   - *Darkest Dungeon*: Stress, resource management, and grim expeditions into cursed dungeons.  
+   - *Diablo II*: Procedural dungeons, loot, and monster hunting.  
+   - *Legend of Grimrock*: Grid-based exploration, traps, and puzzles.  
+   - *Dark Souls*: Brutal combat, atmospheric environments, and cryptic lore.  
+
+- **Exploration and Mystery**:  
+   - *Hollow Knight*: A ruined, underground kingdom filled with secrets and danger.  
+   - *The Elder Scrolls V: Skyrim*: Dungeons filled with traps, puzzles, and ancient treasure.  
+   - *Shadow of the Colossus*: Lonely exploration of vast, mysterious landscapes.  
+
+### **Art and Visual Inspiration**
+- **Artists**:  
+   - *Gustave Doré*: Dark, atmospheric engravings perfect for eerie dungeon settings.  
+   - *John Blanche*: Gothic and surreal fantasy illustrations.  
+   - *Zdzisław Beksiński*: Nightmarish landscapes and unsettling environments.  
+
+- **Other Visual Sources**:  
+   - *Old-school D&D Module Covers* (e.g., *Tomb of Horrors*, *Keep on the Borderlands*).  
+   - *Dark Souls* and *Bloodborne* concept art.  
+   - *Mörk Borg* RPG aesthetic.  
 
 ## License
 
 Loner: Dungeoneer
 
-(CC) 2024 Roberto Bisceglie
+© 2025 Roberto Bisceglie
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
