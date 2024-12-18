@@ -714,7 +714,8 @@ Dungeon Bosses are significant, narrative-defining encounters that test the Prot
    - *“Can I evade its devastating attack?”*  
    - *“Is there an environmental advantage I can use?”*  
 
-**Oracle Results**:  
+**Oracle Results**:
+
 | **Result**       | **Outcome**                                                                 |
 |------------------ | -------------------------------------------------------------------------- |
 | **Yes**          | You land a decisive blow or gain a major advantage.                        |
@@ -881,7 +882,8 @@ When using an item in risky situations or repeatedly, roll 1d6:
   - **1-2**: The item’s durability decreases by 1.  
   - **3-6**: The item remains intact.  
 
-**Example Gear Durability Ratings**:  
+**Example Gear Durability Ratings**:
+
 | Item          | Durability                   |
 | ------------- | ---------------------------- |
 | Torch         | ⚙️ (1 use)                   |
@@ -903,6 +905,7 @@ Light, food, and healing supplies are critical for dungeon survival. These resou
 Light is essential for navigating dungeons and spotting traps, enemies, or clues. Without light, you risk falling into darkness.
 
 **Light Sources**:  
+
 | Light Source     | Duration (Scenes) | Notes                          |
 | ---------------- | ----------------- | ------------------------------ |
 | Torch            | 1                 | Simple, short-lived light.     |
@@ -933,7 +936,8 @@ Rations represent food and water required to stave off **Fatigue** during explor
 
 Healing supplies allow you to recover from injuries, Stress, or Fatigue. These resources are finite and often consumed during rest or recovery scenes.
 
-**Healing Items**:  
+**Healing Items**:
+  
 | Item              | Effect                          |
 | ----------------- | ------------------------------- |
 | Healing Herbs     | Removes 1 **Fatigue Tag**.      |
