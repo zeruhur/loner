@@ -32,8 +32,6 @@ To play *Loner: Spacer* you will need:
 
 With a focus on quick resolutions, **Loner: Spacer** throws you headfirst into the heart of the action. Your character will be defined by thematic tags, such as *"Reckless Pilot,"* *"Ace Navigator,"* *"Cunning Smuggler,"* or *"Starry-Eyed Explorer."*
 
-
-
 ## Characters
 
 In *Loner: Spacer*, characters are the heart of your spacefaring adventure. Whether you're a daring pilot, a cunning trader, or an enigmatic drifter, your character will be defined by narrative-driven traits. Every decision, challenge, and victory helps shape their journey through the stars.
@@ -134,6 +132,66 @@ Your protagonist is described by several fixed traits:
 | 4   | Starlun        | Zolarith       | Skylith        | Exovian        | Arcanian       | Lytherin       |
 | 5   | Nebulare       | Starborn       | Pulsari        | Quorath        | Astrael        | Velarith       |
 | 6   | Etherkin       | Varion         | Thalorian      | Tempestral     | Krythian       | Xenarith       |
+
+## Equipment and Gear
+Characters rely on specialized gear to survive the harshness of space.
+
+### **Equipment Categories**
+
+| **Category**      | **Examples**                     |
+| ------------------ | -------------------------------- |
+| **Exploration**    | Jetpack, Portable Oxygen Tank, Terrain Mapper |
+| **Combat**         | Plasma Cutter, Energy Shield, Phase Blaster |
+| **Utility**        | Holo-Chart Navigator, Multitool, Portable Repair Kit |
+| **Survival**       | Emergency Shelter, Rations Pack, Heat Regulator |
+
+### **Gear Tags**
+- Gear is defined by tags like *"Lightweight,"* *"Durable,"* or *"High-Tech."*
+- Tags determine how gear interacts with the environment and challenges. For example, *"Waterproof"* may grant an **Advantage** during waterlogged conditions.
+
+### **Maintaining Gear**
+Ask the oracle if a piece of gear malfunctions or requires maintenance after prolonged use. Tags like *"Reliable"* or *"Old and Worn"* influence these outcomes.
+
+### Gear and Equipment Table
+
+| **D66** | **Item**               | **Category**      | **Description**                                      | **Tags**                        | **Cost (Credits)** |
+|---------|------------------------|-------------------|----------------------------------------------------|---------------------------------|--------------------|
+| 11      | Jetpack                | Exploration       | Personal propulsion for zero-gravity or planets.  | Lightweight, High-Tech         | 15,000            |
+| 12      | Portable Oxygen Tank   | Survival          | Supplies breathable air for emergencies.          | Durable, Reliable              | 5,000             |
+| 13      | Terrain Mapper         | Exploration       | Scans and maps surrounding terrain or structures. | Advanced, Compact              | 8,000             |
+| 14      | Plasma Cutter          | Combat            | High-energy tool for cutting and combat.          | Powerful, Versatile            | 12,000            |
+| 15      | Emergency Shelter      | Survival          | Compact, quick-assembly protective tent.          | Portable, Heat-Resistant       | 6,000             |
+| 16      | Rations Pack           | Survival          | Long-lasting food supply for extended missions.   | Compact, Lightweight           | 500               |
+| 21      | Phase Blaster          | Combat            | Energy weapon with adjustable power settings.     | High-Tech, Precise             | 18,000            |
+| 22      | Energy Shield          | Combat            | Wearable generator that absorbs energy attacks.   | Durable, Rechargeable          | 20,000            |
+| 23      | Portable Repair Kit    | Utility           | Tools for repairing equipment or machinery.       | Versatile, Compact             | 4,000             |
+| 24      | Holo-Chart Navigator   | Utility           | Projects navigational maps for space travel.      | High-Tech, Reliable            | 10,000            |
+| 25      | Heat Regulator         | Survival          | Maintains body temperature in extreme climates.   | Durable, Energy-Efficient      | 7,000             |
+| 26      | Multitool              | Utility           | All-purpose tool for repairs and adjustments.     | Compact, Versatile             | 3,000             |
+| 31      | Radiation Suit         | Survival          | Shields wearer from hazardous radiation.          | Heavy, Durable                 | 12,000            |
+| 32      | Signal Beacon          | Utility           | Transmits distress signals across vast distances. | Lightweight, Reliable          | 2,500             |
+| 33      | Portable Shield Gen    | Combat            | Personal defense against projectiles and energy.  | Rechargeable, Compact          | 15,000            |
+| 34      | Survival Pack          | Survival          | Contains essentials like water, fire starter.     | Lightweight, Compact           | 1,000             |
+| 35      | Gravity Anchor Boots   | Exploration       | Enables traction in zero-gravity environments.    | Durable, Reliable              | 9,000             |
+| 36      | Ion Disruptor Rifle    | Combat            | High-energy rifle designed for disabling systems. | Powerful, Specialized          | 22,000            |
+| 41      | Data Decryptor         | Utility           | Cracks encrypted systems and data files.          | High-Tech, Versatile           | 14,000            |
+| 42      | Recon Drone            | Exploration       | Deployable drone for scouting and reconnaissance. | Compact, Long-Range            | 20,000            |
+| 43      | Stealth Cloak          | Combat            | Temporarily renders wearer invisible to sensors.  | Advanced, Fragile              | 25,000            |
+| 44      | Emergency Breather     | Survival          | Compact rebreather for short-term air supply.     | Lightweight, Compact           | 3,500             |
+| 45      | Medical Scanner        | Utility           | Scans biological data for injuries or illness.    | Advanced, Reliable             | 12,000            |
+| 46      | Tactical HUD           | Combat            | Displays battlefield data in real-time.           | High-Tech, Advanced            | 18,000            |
+| 51      | Xenotech Translator    | Utility           | Decodes alien languages and communication.        | Advanced, Compact              | 20,000            |
+| 52      | Climbing Harness       | Exploration       | Safety gear for vertical surfaces or cliffs.      | Durable, Reliable              | 6,000             |
+| 53      | Cryo-Pack              | Utility           | Portable unit for preserving biological samples.  | Compact, Energy-Efficient      | 8,000             |
+| 54      | Thermal Generator      | Utility           | Converts heat to energy for recharging devices.   | Durable, Versatile             | 15,000            |
+| 55      | EMP Grenade            | Combat            | Temporarily disables electronics in an area.      | Advanced, Fragile              | 12,000            |
+| 56      | Alien Artifact Scanner | Exploration       | Analyzes unknown artifacts for origin and value.  | Advanced, Specialized          | 22,000            |
+| 61      | Hoverboard             | Exploration       | Personal transport for smooth surfaces.           | Lightweight, Fast              | 10,000            |
+| 62      | Shielded Storage Unit  | Survival          | Protects items from radiation and extreme heat.   | Durable, Heavy                 | 12,000            |
+| 63      | Sonic Disruptor        | Combat            | Emits sound waves to disorient enemies.           | Compact, Rechargeable          | 16,000            |
+| 64      | Holo-Cam Recorder      | Utility           | Captures holographic images and videos.           | Compact, Versatile             | 5,000             |
+| 65      | Energy Blade           | Combat            | Lightweight melee weapon with a plasma edge.      | Advanced, Precise              | 20,000            |
+| 66      | Atmospheric Tester     | Exploration       | Analyzes air composition and safety.              | Advanced, Reliable             | 7,500             |
 
 ## Rules
 
@@ -251,11 +309,11 @@ At the end of the adventure you may add another trait to the character. It is be
 
 Also update the list of **NPCs**, **Locations**, and **Events** that may show up again in future adventures.
 
-## **Spacecraft Design and Customization**
+## Spacecraft Design and Customization
 
 Your spacecraft is an integral part of your character’s story and a reflection of their role in the galaxy. Ships are described using **tags** and **modules**.
 
-### **Core Traits**
+### Core Traits
 Every spacecraft starts with the following core traits:
 
 - **Name**: A unique and memorable name for the ship, such as *"Starlight Shadow"* or *"Void Whisper."*
@@ -282,80 +340,318 @@ To upgrade a module:
 2. **Check Requirements**: Modules may require tags like *"Advanced Engineering"* or *"Alien Tech Specialist."*
 3. **Pay Costs**: Use the economic system to purchase or barter for upgrades.
 
-## **Equipment and Gear**
-Characters rely on specialized gear to survive the harshness of space.
+### Starhips Traits
 
-#### **Equipment Categories**
+#### Names
 
-| **Category**      | **Examples**                     |
-| ------------------ | -------------------------------- |
-| **Exploration**    | Jetpack, Portable Oxygen Tank, Terrain Mapper |
-| **Combat**         | Plasma Cutter, Energy Shield, Phase Blaster |
-| **Utility**        | Holo-Chart Navigator, Multitool, Portable Repair Kit |
-| **Survival**       | Emergency Shelter, Rations Pack, Heat Regulator |
+|     | 1             | 2             | 3              | 4             | 5               | 6             |
+| --- | ------------- | ------------- | -------------- | ------------- | --------------- | ------------- |
+| 1   | Starlight Shadow | Void Whisper  | Nebula Voyager | Iron Phoenix  | Quantum Echo     | Celestial Warden |
+| 2   | Midnight Horizon | Eternal Flame | Crimson Hawk   | Lunar Dagger  | Radiant Path     | Spectral Tempest |
+| 3   | Solar Wind      | Silent Reaver | Obsidian Wing  | Horizon Chaser| Ether Beacon     | Nova Seeker     |
+| 4   | Infinite Horizon| Gravity Blade | Sapphire Star  | Echo's Legacy | Vortex Runner    | Nightfall Specter |
+| 5   | Phantom Veil    | Azure Arrow   | Warp Harbinger | Starfall Saber| Polaris Arc      | Cosmic Wanderer |
+| 6   | Ember Sentinel  | Ghost Barricade| Titan’s Reach | Aether Drift  | Radiant Blade    | Voidborn Falcon |
 
-#### **Gear Tags**
-- Gear is defined by tags like *"Lightweight,"* *"Durable,"* or *"High-Tech."*
-- Tags determine how gear interacts with the environment and challenges. For example, *"Waterproof"* may grant an **Advantage** during waterlogged conditions.
+#### Types
 
-#### **Maintaining Gear**
-Ask the oracle if a piece of gear malfunctions or requires maintenance after prolonged use. Tags like *"Reliable"* or *"Old and Worn"* influence these outcomes.
+| **D6** | **Starship Type**         | **Description**                               |
+|--------|---------------------------|-----------------------------------------------|
+| 1      | **Explorer**              | Equipped for long-range exploration and surveys. |
+| 2      | **Trader**                | Specializes in transporting goods and commodities. |
+| 3      | **Fighter**               | Armed for combat, built for speed and agility. |
+| 4      | **Courier**               | Fast and reliable for delivering messages or small cargo. |
+| 5      | **Mining Vessel**         | Designed for resource extraction in asteroid belts or planets. |
+| 6      | **Science Vessel**        | Equipped with labs and sensors for research and analysis. |
 
-## **Economic System**
+####  Modules
+
+| **D66** | **Module**              | **Category**    | **Description**                                                     | **Cost (Credits)** |
+|---------|-------------------------|-----------------|---------------------------------------------------------------------|--------------------|
+| 11      | Basic Thrusters         | Propulsion      | Standard propulsion system for maneuvering.                        | 5,000             |
+| 12      | Advanced Sensors        | Utility         | Detects objects and ships at a greater range.                      | 10,000            |
+| 13      | Hyperdrive Unit         | Propulsion      | Enables faster-than-light travel.                                  | 20,000            |
+| 14      | Shield Generator        | Defensive       | Provides energy shielding for defense.                             | 15,000            |
+| 15      | Cargo Bay               | Cargo           | Increases cargo storage capacity.                                  | 8,000             |
+| 16      | Fuel Tank               | Propulsion      | Stores additional fuel for longer journeys.                        | 6,000             |
+| 21      | Repair Drone Bay        | Utility         | Houses drones for ship maintenance and repair.                     | 12,000            |
+| 22      | Mining Laser            | Weapons         | Extracts resources from asteroids or planets.                      | 14,000            |
+| 23      | Smuggler’s Hold         | Cargo           | Hidden compartment for illicit goods.                              | 9,000             |
+| 24      | Cloaking Device         | Defensive       | Temporarily hides the ship from sensors.                           | 25,000            |
+| 25      | Advanced Shielding      | Defensive       | Enhanced energy shielding for better defense.                      | 25,000            |
+| 26      | Auto-Turret System      | Weapons         | Automated defense turret for protection.                           | 18,000            |
+| 31      | Long-Range Scanner      | Utility         | Detects ships and objects in distant space.                        | 12,000            |
+| 32      | Tractor Beam            | Utility         | Captures and moves objects or small ships.                         | 15,000            |
+| 33      | Science Lab             | Utility         | Allows detailed research and experiments.                          | 20,000            |
+| 34      | Medical Bay             | Utility         | Provides on-board medical treatment and care.                      | 10,000            |
+| 35      | Escape Pods             | Defensive       | Ensures crew safety during emergencies.                            | 8,000             |
+| 36      | Combat-Grade Hull       | Defensive       | Reinforced hull for better durability in combat.                   | 18,000            |
+| 41      | Energy Efficient Reactor| Utility         | Reduces fuel consumption for longer voyages.                       | 20,000            |
+| 42      | Advanced Navigation     | Utility         | Improves hyperspace accuracy and efficiency.                       | 14,000            |
+| 43      | Weapon Hardpoint        | Weapons         | Adds a mount for additional weapons.                               | 10,000            |
+| 44      | Boarding Pod            | Utility         | Allows crew to breach other ships.                                 | 15,000            |
+| 45      | EMP Blaster             | Weapons         | Disables enemy electronics temporarily.                            | 18,000            |
+| 46      | Refrigerated Cargo Hold | Cargo           | Stores perishable goods safely.                                    | 12,000            |
+| 51      | Stealth Module          | Defensive       | Reduces visibility to sensors.                                     | 22,000            |
+| 52      | Interceptor Drones      | Weapons         | Launches drones to intercept threats.                              | 16,000            |
+| 53      | Gravity Stabilizer      | Utility         | Enhances stability during gravitational anomalies.                 | 10,000            |
+| 54      | Energy Core Upgrade     | Utility         | Improves overall ship energy output.                               | 18,000            |
+| 55      | Advanced Life Support   | Utility         | Enhances environmental systems for longer crew survival.           | 15,000            |
+| 56      | Cryo-Chamber            | Utility         | Allows cryogenic stasis for crew during long trips.                | 12,000            |
+| 61      | Weapons Array           | Weapons         | Multi-weapon system for improved firepower.                        | 25,000            |
+| 62      | Heavy Armor Plating     | Defensive       | Adds significant protection but reduces speed.                     | 20,000            |
+| 63      | Atmospheric Thrusters   | Propulsion      | Enables planetary entry and exit.                                  | 12,000            |
+| 64      | Communication Relay     | Utility         | Boosts signal range and quality.                                   | 8,000             |
+| 65      | Tactical Display System | Utility         | Provides combat and navigation overlays.                           | 14,000            |
+| 66      | Drone Launch Bay        | Utility         | Deploys various drones for tasks like exploration or combat.       | 20,000            |
+
+
+#### Conditions
+
+| **D6** | **Condition**        | **Description**                                                     |
+|--------|----------------------|---------------------------------------------------------------------|
+| 1      | **Pristine**         | Like new; perfectly maintained with no damage or wear.              |
+| 2      | **Reliable**         | Well-maintained and dependable under normal circumstances.          |
+| 3      | **Worn**             | Minor cosmetic damage but fully operational.                        |
+| 4      | **Damaged**          | Reduced performance due to visible damage; requires repairs soon.   |
+| 5      | **Malfunctioning**   | Systems frequently fail; immediate repairs are critical.            |
+| 6      | **Experimental**     | Cutting-edge but untested; highly risky with unpredictable outcomes.|
+
+#### Frailties 
+
+|     | 1                       | 2                       | 3                     | 4                      | 5                        | 6                     |
+| --- | ----------------------- | ----------------------- | --------------------- | ---------------------- | ------------------------ | --------------------- |
+| 1   | Weak Structural Integrity | Underpowered Reactor    | Faulty Navigation System | Prone to Overheating   | Unreliable Hyperdrive     | Slow Maneuverability |
+| 2   | Excessive Fuel Consumption | Poor Weaponry          | Limited Cargo Space   | Malfunctioning Shields | Outdated Technology       | Inconsistent Sensors |
+| 3   | Noisy Engines            | High Maintenance Costs  | Unstable AI           | Fragile Hull           | Poor Atmospheric Capability | Vulnerable to EMPs  |
+| 4   | Insufficient Crew Capacity | Intermittent Power Loss | No Defensive Systems | Heavy and Cumbersome   | Short Range Communication | Erratic Autopilot   |
+| 5   | Frequent Engine Misfires | Leaky Fuel Tanks        | Weak Heat Regulation  | Easily Detected        | Low Combat Efficiency     | Uncalibrated Weapons |
+| 6   | Incompatible Systems     | Difficult to Upgrade    | Fragile Internal Systems | No Escape Pods        | Susceptible to Corrosion | Jam-Prone Weapons    |
+
+### Example Starships
+
+#### **1. Celestial Warden**
+- **Type**: **Explorer**  
+  Equipped for long-range exploration and surveys.
+- **Modules**:
+  - **Hyperdrive Unit** (*20,000 credits*)  
+    Enables faster-than-light travel.
+  - **Advanced Sensors** (*10,000 credits*)  
+    Detects objects and ships at a greater range.
+  - **Energy Efficient Reactor** (*20,000 credits*)  
+    Reduces fuel consumption for longer voyages.
+  - **Long-Range Scanner** (*12,000 credits*)  
+    Detects ships and objects in distant space.
+- **Condition**: **Pristine**  
+  Like new; perfectly maintained with no damage or wear.
+- **Frailty**: **Excessive Fuel Consumption**  
+  Uses more fuel than typical ships, requiring frequent refueling.
+
+#### **2. Void Whisper**
+- **Type**: **Courier**  
+  Fast and reliable for delivering messages or small cargo.
+- **Modules**:
+  - **Basic Thrusters** (*5,000 credits*)  
+    Standard propulsion system for maneuvering.
+  - **Cloaking Device** (*25,000 credits*)  
+    Temporarily hides the ship from sensors.
+  - **Advanced Navigation** (*14,000 credits*)  
+    Improves hyperspace accuracy and efficiency.
+  - **Escape Pods** (*8,000 credits*)  
+    Ensures crew safety during emergencies.
+- **Condition**: **Reliable**  
+  Well-maintained and dependable under normal circumstances.
+- **Frailty**: **Limited Cargo Space**  
+  Small cargo bay limits hauling capacity.
+
+#### **3. Nebula Voyager**
+- **Type**: **Trader**  
+  Specializes in transporting goods and commodities.
+- **Modules**:
+  - **Cargo Bay** (*8,000 credits*)  
+    Increases cargo storage capacity.
+  - **Refrigerated Cargo Hold** (*12,000 credits*)  
+    Stores perishable goods safely.
+  - **Communication Relay** (*8,000 credits*)  
+    Boosts signal range and quality.
+  - **Shield Generator** (*15,000 credits*)  
+    Provides energy shielding for defense.
+- **Condition**: **Worn**  
+  Minor cosmetic damage but fully operational.
+- **Frailty**: **Noisy Engines**  
+  Loud propulsion makes the ship easily detectable.
+
+#### **4. Crimson Hawk**
+- **Type**: **Fighter**  
+  Armed for combat, built for speed and agility.
+- **Modules**:
+  - **Weapon Hardpoint** (*10,000 credits*)  
+    Adds a mount for additional weapons.
+  - **Auto-Turret System** (*18,000 credits*)  
+    Automated defense turret for protection.
+  - **Combat-Grade Hull** (*18,000 credits*)  
+    Reinforced hull for better durability in combat.
+  - **Tactical Display System** (*14,000 credits*)  
+    Provides combat and navigation overlays.
+- **Condition**: **Damaged**  
+  Reduced performance due to visible damage; requires repairs soon.
+- **Frailty**: **Prone to Overheating**  
+  Systems heat up quickly, causing potential malfunctions in prolonged engagements.
+
+#### **5. Aether Drift**
+- **Type**: **Mining Vessel**  
+  Designed for resource extraction in asteroid belts or planets.
+- **Modules**:
+  - **Mining Laser** (*14,000 credits*)  
+    Extracts resources from asteroids or planets.
+  - **Tractor Beam** (*15,000 credits*)  
+    Captures and moves objects or small ships.
+  - **Energy Core Upgrade** (*18,000 credits*)  
+    Improves overall ship energy output.
+  - **Gravity Stabilizer** (*10,000 credits*)  
+    Enhances stability during gravitational anomalies.
+- **Condition**: **Experimental**  
+  Cutting-edge but untested; highly risky with unpredictable outcomes.
+- **Frailty**: **Frequent Engine Misfires**  
+  Propulsion issues cause unreliable movement.
+
+#### **6. Nightfall Specter**
+- **Type**: **Science Vessel**  
+  Equipped with labs and sensors for research and analysis.
+- **Modules**:
+  - **Science Lab** (*20,000 credits*)  
+    Allows detailed research and experiments.
+  - **Advanced Shielding** (*25,000 credits*)  
+    Enhanced energy shielding for better defense.
+  - **Cryo-Chamber** (*12,000 credits*)  
+    Allows cryogenic stasis for crew during long trips.
+  - **Interceptor Drones** (*16,000 credits*)  
+    Launches drones to intercept threats.
+- **Condition**: **Malfunctioning**  
+  Systems frequently fail; immediate repairs are critical.
+- **Frailty**: **Unstable AI**  
+  The ship’s AI occasionally behaves erratically, creating risks during operations.
+
+## Economic System
 
 The economy in *Loner: Spacer* is a narrative-driven system for managing credits, bartering, and maintaining your ship and gear.
 
-### **Credits and Costs**
+### Credits and Costs
 - **Credits** are the universal currency. Tag your financial state with terms like *"Wealthy,"* *"Barely Scraping By,"* or *"Broke."*
 - When buying, selling, or upgrading, consult the oracle to determine prices and availability.
 
+This table defines various **Wealth Tags** and the corresponding financial states, lifestyle standards, and consistency of credits required for upkeep.
+
+### **Wealth Tags and Cost of Life**
+
+| **Wealth Tag**       | **Financial State**            | **Lifestyle Details**                                                                 | **Consistency**                 | **Credits Required (Monthly)** |
+|-----------------------|--------------------------------|---------------------------------------------------------------------------------------|---------------------------------|---------------------------------|
+| **Wealthy**          | Abundant resources            | Luxurious housing, fine dining, elite services, advanced entertainment, private security. | Fully consistent; no financial stress. | 50,000+                       |
+| **Comfortable**      | Sufficient resources          | Spacious apartment, quality meals, occasional luxuries, basic healthcare, hobbies.    | Mostly consistent; minor budgeting needed. | 20,000–50,000                |
+| **Stable**           | Steady income, secure assets  | Modest housing, nutritious meals, affordable healthcare, basic entertainment.          | Generally consistent; manageable setbacks. | 10,000–20,000                |
+| **Barely Scraping By** | Limited resources            | Small housing or shared quarters, basic meals, minimal healthcare, rare luxuries.      | Inconsistent; sacrifices are common. | 5,000–10,000                 |
+| **Broke**            | No resources or debt          | Crowded living, rationed food, reliance on charity, limited survival essentials.        | Highly inconsistent; constant struggles. | 1,000–5,000                  |
+| **Destitute**        | Severe lack of resources      | Homeless or dependent on charity, food insecurity, frequent danger.                    | No consistency; survival is day-to-day. | 0–1,000                      |
+
+### **Supporting Table: Living Costs Breakdown**
+
+| **Category**       | **Low Cost** (Monthly) | **Moderate Cost** (Monthly) | **High Cost** (Monthly) |
+|--------------------|------------------------|-----------------------------|--------------------------|
+| **Housing**        | 500–2,000 credits     | 5,000–10,000 credits        | 20,000+ credits         |
+| **Food**           | 300–1,000 credits     | 3,000–5,000 credits         | 10,000+ credits         |
+| **Healthcare**     | Free or public care   | 2,000–5,000 credits         | 10,000+ credits         |
+| **Entertainment**  | Free or minimal       | 2,000–5,000 credits         | 10,000+ credits         |
+| **Services**       | None or shared        | 1,000–3,000 credits         | 8,000+ credits          |
+
 ### **Maintenance Costs**
-Regular ship upkeep is essential:
-- Small ships: Low cost (e.g., *"A week’s fuel costs 200 credits"*)  
-- Large ships: Higher maintenance (e.g., *"Docking fees are 1,000 credits/day."*)
 
-### **Bartering**
-Instead of credits, barter goods (like rare minerals or tech parts) can be used:
-1. **Offer Trade**: Describe the goods you’re trading and ask the oracle if the deal is favorable.
-2. **Negotiate**: Use tags like *"Persuasive"* or *"Untrustworthy Trader"* to determine the outcome.
+Regular upkeep is critical to keeping your ship operational. Costs scale based on ship size, complexity, and condition.
 
-## **Cargo and Trading Mechanics**
+| **Ship Type**      | **Fuel Costs (Monthly)** | **Docking Fees (Daily)** | **Routine Maintenance**    | **Condition Impact**                |
+|--------------------|--------------------------|--------------------------|----------------------------|-------------------------------------|
+| **Small Ship**     | 1,000–3,000 credits     | 100–500 credits          | 2,000–5,000 credits        | *Pristine*: +10% lifespan           |
+| **Medium Ship**    | 5,000–10,000 credits    | 500–1,500 credits        | 8,000–15,000 credits       | *Worn*: +20% maintenance costs      |
+| **Large Ship**     | 15,000–25,000 credits   | 1,500–5,000 credits      | 25,000–50,000 credits      | *Damaged*: Requires emergency repairs |
+| **Luxury/Capital** | 50,000+ credits         | 5,000+ credits           | 100,000+ credits           | *Malfunctioning*: -50% operational capacity |
 
-### **Cargo Management**
+### **Supporting Table: Fuel Costs by Type**
+
+| **Fuel Type**         | **Cost (Per Unit)** | **Usage Notes**                                   |
+|-----------------------|---------------------|--------------------------------------------------|
+| **Standard Fuel**     | 100 credits/unit    | Used for most propulsion systems.                |
+| **Hyperfuel**         | 500 credits/unit    | Required for hyperspace travel; limited supply.  |
+| **Exotic Fuel**       | 1,500 credits/unit  | Needed for advanced or alien tech.               |
+
+### **Supporting Table: Docking Fees by Location**
+
+| **Location**          | **Cost (Daily)**    | **Notes**                                        |
+|-----------------------|---------------------|-------------------------------------------------|
+| **Small Spaceport**   | 100–300 credits    | Basic services, limited security.               |
+| **Commercial Hub**    | 500–1,000 credits  | Secure docking, repair facilities, refueling.   |
+| **Luxury Spaceport**  | 2,000+ credits     | Premium amenities, high security.               |
+| **Illegal Dockyard**  | 1,000 credits flat | Discreet services, risk of betrayal.            |
+
+### **Condition-Based Maintenance Adjustments**
+
+The condition of your ship impacts the cost and frequency of maintenance.
+
+| **Condition**        | **Adjustment to Costs** | **Impact**                                       |
+|----------------------|-------------------------|-------------------------------------------------|
+| **Pristine**         | -10% maintenance costs | Extended operational lifespan.                  |
+| **Reliable**         | Standard costs         | Predictable performance.                        |
+| **Worn**             | +20% maintenance costs | Minor system failures are common.               |
+| **Damaged**          | +50% maintenance costs | Major repairs required frequently.              |
+| **Malfunctioning**   | +100% maintenance costs| Operates at reduced efficiency; prone to failure. |
+
+### **Bartering and Cost Adjustments**
+
+#### **Bartering System**
+- **Charismatic Tags** (*"Persuasive,"* *"Clever Trader"*) grant discounts of up to 20%.
+- **Wealth Tags** influence NPC reactions; *"Broke"* might lead to price hikes, while *"Wealthy"* could grant exclusive deals.
+
+#### **Market Dynamics**
+- **Location-Specific Pricing**: Goods and services are cheaper in industrial hubs but expensive in remote or war-torn areas.
+- **Event-Based Fluctuations**: Prices spike during shortages, disasters, or faction conflicts.
+
+## Cargo
+
+In *Loner: Spacer*, cargo management and trading are central to your journey across the galaxy. Your ship's cargo capacity and the condition of goods are influenced by its design, modules, and the challenges faced during travel. Cargo is described through narrative-driven **tags**, which affect how it is stored, transported, and traded.
+
+### Cargo Management
 Your ship’s cargo capacity is determined by the **Cargo Bay Module** and relevant tags. Cargo is described with tags like *"Fragile,"* *"Perishable,"* or *"Highly Valuable."*
 
 - **Capacity**: Tags like *"Spacious"* or *"Limited"* determine how much you can store.
 - **Conditions**: Check for damage or loss during hazardous travel by consulting the oracle.
 
-### **Trading System**
-Engage in trade at ports and stations:
-1. **Find Buyers/Sellers**: Roll on a **Trade Encounter Table** to determine available goods and buyers.
-2. **Determine Prices**: Use the oracle to set fluctuating prices based on supply, demand, and location.
-3. **Risk and Profit**: High-value goods may attract pirates or customs inspections. Tags like *"Illegal Goods"* add complications.
 
-#### **Trade Encounter Table (D6)**
-| **Roll** | **Event**                               |
-| -------- | --------------------------------------- |
-| 1        | Scarce resources: High demand, high prices |
-| 2        | Flooded market: Low prices for your goods |
-| 3        | Black market opportunities               |
-| 4        | Routine trade: Fair prices               |
-| 5        | Potential buyer needs rare goods         |
-| 6        | Dangerous client offers risky deal       |
-
-### **Special Cargo**
-Some cargo has unique narrative importance, such as *"Ancient Alien Artifact"* or *"Experimental Tech Prototype."* These items can trigger plot twists or influence faction relationships.
+| **Capacity**         | **Description**                                                                 |
+|------------------|---------------------------------------------------------------------------------|
+| **Spacious**     | Large storage space, capable of handling significant amounts of goods.          |
+| **Limited**      | Small capacity, requires careful management and prioritization of cargo.        |
+| **Customizable** | Modular design allows for specialized storage adjustments.                     |
+| **Restricted**   | Cargo hold is constrained due to additional ship systems or design limitations. |
+| **Secure**       | Enhanced locking and protection against theft or unauthorized access.           |
+| **Fragile**      | Poorly constructed, prone to damage or leaks during hazardous conditions.       |
 
 
-## Travel and Navigation Mechanics for *Loner: Spacer*
+| **Condition**          | **Description**                                                              |
+|-------------------|------------------------------------------------------------------------------|
+| **Pristine**      | Goods are in perfect condition; no signs of damage or wear.                 |
+| **Intact**        | Items are usable and undamaged but show minor signs of handling.            |
+| **Worn**          | Items are functional but scuffed or slightly degraded in value.             |
+| **Damaged**       | Significant damage has reduced usability or value.                         |
+| **Compromised**   | Goods are on the verge of being unusable or unsellable.                     |
+| **Ruined**        | Cargo is completely destroyed or rendered worthless.                        |
+
+## Travel and Navigation
 
 Travel and navigation are integral to the vast, open-ended gameplay of *Loner: Spacer*. These mechanics focus on generating star systems, managing resources, and creating dynamic encounters during space travel.
 
-### **Star System Generation**
+### Star System Generation
 
 Each star system is unique, offering opportunities, challenges, and mysteries. Use the following steps and tables to generate a system.
 
-#### **Step 1: Determine the Star**
+#### Step 1: Determine the Star
 Roll 1d6 to determine the star type.
 
 | **D6** | **Star Type**           | **Tags**                       |
@@ -367,8 +663,8 @@ Roll 1d6 to determine the star type.
 | 5      | Neutron Star            | Dense, Hazardous Radiation     |
 | 6      | Black Hole (system edge)| Invisible, High Gravity        |
 
-#### **Step 2: Planets and Features**
-Roll 1d6 for each orbit to determine what occupies it.
+##### Step 2: Planets and Features
+Roll 2d6 to determine how many orbits has the system. Then roll 1d6 for each orbit to determine what occupies it.
 
 | **D6** | **Orbit Feature**               | **Tags**                     |
 |--------|---------------------------------|-----------------------------|
@@ -378,7 +674,44 @@ Roll 1d6 for each orbit to determine what occupies it.
 | 5      | Asteroid Belt                   | Hazardous, Rich in Minerals  |
 | 6      | Derelict Space Station/Artifact | Ancient, Mysterious          |
 
-#### **Step 3: Special System Events**
+##### Step 2a: Determine Habitable Planet Type
+If an orbit features a **Habitable Planet**, roll 1d6 to determine its type.
+
+| **D6** | **Planet Type**         | **Description**                                                                 |
+|--------|-------------------------|---------------------------------------------------------------------------------|
+| 1      | Terrestrial             | Earth-like world with diverse ecosystems.                                       |
+| 2      | Oceanic                 | Vast oceans dominate the surface, with scattered islands or submerged cities.   |
+| 3      | Arid                    | Dry deserts and rocky terrain; limited water and vegetation.                    |
+| 4      | Frozen                  | Covered in ice and snow; possible subsurface oceans or geothermal activity.     |
+| 5      | Jungle                  | Dense forests and extreme biodiversity; often dangerous for outsiders.          |
+| 6      | Exotic                  | Alien landscapes with unique atmospheric or geological features.                |
+
+##### Step 2b: Planetary Civilization
+Roll 1d6 to determine the level of civilization present on the planet.
+
+| **D6** | **Civilization Level**        | **Tags**                         |
+|--------|-------------------------------|-----------------------------------|
+| 1      | Pre-Industrial               | Primitive, Resourceful            |
+| 2      | Early Industrial             | Mechanized, Rapidly Expanding     |
+| 3      | Spacefaring                  | Efficient, Connected              |
+| 4      | Advanced Spacefaring         | Innovative, Symbiotic with Technology |
+| 5      | Post-Civilization            | Collapsed, Scattered Survivors    |
+| 6      | Alien Civilization           | Mysterious, Culturally Complex    |
+
+
+##### Step 2c: Habitable Planet Features
+Roll 1d6 to determine additional features that define the planet’s environment.
+
+| **D6** | **Planetary Feature**              | **Tags**                           |
+|--------|------------------------------------|-------------------------------------|
+| 1      | Massive Mountain Ranges           | Hazardous, Rich in Minerals         |
+| 2      | Extensive Cave Networks           | Hidden, Mysterious                  |
+| 3      | Vibrant Alien Flora               | Fertile, Potentially Dangerous      |
+| 4      | Abundant Water Sources            | Fertile, Promotes Biodiversity      |
+| 5      | Harsh Weather Conditions          | Dangerous, Difficult to Navigate    |
+| 6      | Floating Cities or Habitats       | Advanced, Limited Access            |
+
+#### Step 3: Special System Events
 Roll 1d6 to add a unique event or trait to the system.
 
 | **D6** | **Special Trait**               |
@@ -390,17 +723,17 @@ Roll 1d6 to add a unique event or trait to the system.
 | 5      | Civil War or Conflict Zone      |
 | 6      | Rare Resource Cluster           |
 
-### **Navigation and Travel**
+### Navigation and Travel
 
-Space travel involves precise calculations and careful resource management. All travel distances are measured in **Light Units (LU)**—a narrative measure of distance.
+Space travel involves precise calculations and careful resource management. All travel distances are measured in **Light Units (LU)** — a narrative measure of distance.
 
-#### **Travel Procedure**
+#### Travel Procedure
 1. **Determine Destination**: Select a nearby system or roll the oracle to randomly choose.
-2. **Calculate Distance**: Roll 1d6 for the distance in LU. Tags like *"Navigational Charts"* or *"Astrogation Expert"* may influence the outcome.
+2. **Calculate Distance**: Roll 1d6 for the distance in LU. Tags like *"Navigational Charts"* or *"Astrogation Expert"* may influence the outcome (i.e. roll 2d6 and take the lower).
 3. **Check Resources**: Ensure your ship has sufficient fuel and supplies for the journey.
 4. **Resolve Travel**: Roll on the **Space Travel Encounter Table** (see below).
 
-#### **Fuel and Resource Management**
+#### Fuel and Resource Management
 - Each ship has a **Fuel Capacity**, defined by its tags. Example: *"Efficient Engines"* may use less fuel.
 - **Resource Consumption**: For each LU traveled, deduct 1 unit of fuel or supplies. A tag like *"Extended Fuel Tanks"* allows for longer journeys.
 - **Refueling**: Purchase fuel at spaceports or mine resources in systems with asteroid belts or gas giants (requires *"Mining Equipment"* tag).
@@ -408,7 +741,7 @@ Space travel involves precise calculations and careful resource management. All 
 #### **Travel Failure**
 If you run out of fuel or supplies, ask the oracle if a distress beacon brings help or leads to an encounter. Tags like *"High Traffic Region"* or *"Remote Space"* influence outcomes.
 
-### **Hyperspace/Faster-Than-Light (FTL) Travel**
+### Hyperspace/Faster-Than-Light (FTL) Travel
 
 FTL travel allows you to bypass vast distances but introduces unique risks.
 
@@ -449,14 +782,14 @@ During travel, roll 2d6 to determine events or challenges.
 
 The economic system in *Loner: Spacer* is built around dynamic, oracle-driven trading mechanics. It focuses on the flow of commodities, fluctuating markets, and the player's ability to influence their reputation and profitability within an interstellar economy.
 
-### **Commodity and Trade Route Mechanics**
+### Commodity and Trade Route Mechanics
 
 Trading is a central activity for players who choose the merchant or smuggler path. Commodities are defined by **tags** that influence their value and transport requirements.
 
 #### **Step 1: Determine Commodities**
-Roll on the **Commodity Table** to identify trade goods available at your current location.
+Roll on the **Good Table** to identify trade goods available at your current location.
 
-| **D6** | **Commodity**       | **Tags**                      |
+| **D6** | **Good**       | **Tags**                      |
 |--------|---------------------|-------------------------------|
 | 1      | Food Supplies       | Perishable, High Demand       |
 | 2      | Precious Metals     | Compact, High Value           |
@@ -465,7 +798,7 @@ Roll on the **Commodity Table** to identify trade goods available at your curren
 | 5      | Industrial Goods    | Heavy, Bulk                   |
 | 6      | Medical Supplies    | Critical, Time-Sensitive      |
 
-#### **Step 2: Trade Routes**
+#### Step 2: Trade Routes
 Determine a destination system using the **Trade Route Table** (roll 1d6).
 
 | **D6** | **Route Condition**            | **Tags**                      |
@@ -477,7 +810,7 @@ Determine a destination system using the **Trade Route Table** (roll 1d6).
 
 Use the route condition to influence pricing and encounters during travel.
 
-### **Economic Simulation for Star Systems**
+### Economic Simulation for Star Systems
 
 Each star system has an economy based on its **Tags**, which define its wealth, industry, and demand. 
 
@@ -499,11 +832,11 @@ These tags influence the availability of commodities, pricing, and trading oppor
 - **Rich Technological Hub**: *"Advanced Tech" has low prices but high demand in neighboring systems.*
 - **Poor Agricultural World**: *"Food Supplies" are cheap but in high demand elsewhere.*
 
-### **Pricing and Market Fluctuation Rules**
+### Pricing and Market Fluctuation Rules
 
 Prices fluctuate based on the system’s economic tags and current events.
 
-#### **Base Pricing**
+#### Base Pricing
 Use the **Commodity Price Table** to establish baseline prices.
 
 | **Commodity**       | **Base Price (per unit)** |
@@ -515,7 +848,7 @@ Use the **Commodity Price Table** to establish baseline prices.
 | Industrial Goods    | 200 Credits              |
 | Medical Supplies    | 300 Credits              |
 
-#### **Price Modifiers**
+#### Price Modifiers
 Adjust base prices by rolling 1d6 and consulting the **Market Modifier Table**.
 
 | **D6** | **Price Modifier**       |
@@ -530,29 +863,40 @@ Modifiers are further influenced by tags:
 - *"Illegal Commodity"* always starts with a +25% price increase.
 - *"Perishable"* may reduce price if delivery is delayed.
 
-### **Reputation and Trading Influence**
+### Reputation and Trading Influence
 
 Reputation reflects your character's standing within the trading community, influencing prices, access, and opportunities.
 
-#### **Reputation Tags**
+#### Reputation Tags
 Your reputation is described by tags like:
 - *"Trusted Merchant"* (discounts at ports)
 - *"Notorious Smuggler"* (access to black markets)
 - *"Unreliable Dealer"* (reduced customer base)
 
-#### **Building Reputation**
+#### Building Reputation
 - Deliver goods on time: Gain a positive tag like *"Dependable."*
 - Smuggle or cheat factions: Gain negative tags like *"Blacklisted by Faction X."*
 - Ask the oracle after major trades to determine how your actions impact reputation.
 
-#### **Reputation Effects**
+#### Reputation Effects
 - Positive reputation may grant discounts, protection, or exclusive contracts.
 - Negative reputation may lead to higher taxes, fewer trade options, or faction hostility.
 
-#### **Faction-Specific Influence**
+#### Faction-Specific Influence
 Factions track your reputation using a sliding scale from *"Friendly"* to *"Hostile."* Major trades, betrayals, or aiding their rivals will shift their perception of you.
 
-### **Trade Events and Opportunities**
+#### Reputation Tags Table
+
+|     | 1                     | 2                     | 3                     | 4                     | 5                     | 6                     |
+| --- | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
+| 1   | Trusted Merchant      | Dependable Trader     | Faction Ally          | Blacklisted Trader    | Dubious Contact       | Notorious Smuggler    |
+| 2   | Ethical Broker        | Honest Negotiator     | Reliable Supplier     | Suspicious Character  | Greedy Opportunist    | Risk-Taking Dealer    |
+| 3   | Popular Trader        | Preferred Partner     | Loyal Servant         | Unreliable Dealer     | Exploitative Merchant | Illegal Goods Expert  |
+| 4   | Benevolent Trader     | Generous Merchant     | Renowned Negotiator   | Tax Avoider           | Questionable Ethics   | Known Contrabandist   |
+| 5   | System Protector      | Economic Savior       | Respected Trader      | Hated by Rivals       | Ruthless Competitor   | Disreputable Courier  |
+| 6   | Legendary Broker      | Wealthy Benefactor    | Famous Entrepreneur   | Untrusted Supplier    | Dangerous Risk-Taker  | Outlawed Trader       |
+
+### Trade Events and Opportunities
 
 Add dynamism to trading with random events and opportunities.
 
@@ -571,6 +915,49 @@ Add dynamism to trading with random events and opportunities.
 | 11       | Smuggler requests help transporting goods  |
 | 12       | Discovery of a hidden trade route          |
 
+### Goods Table
+
+This table provides a variety of goods categorized by their utility and economic role. Use the **Tags** and **Base Price** to incorporate these items into trading scenarios, factoring in risks and profits.
+
+| **Item**                   | **Category**        | **Tags**                     | **Base Price (Credits)** |
+|----------------------------|---------------------|------------------------------|--------------------------|
+| **Basic Rations**           | Food Supplies      | Perishable, High Demand      | 50                      |
+| **Luxury Cuisine**          | Food Supplies      | Perishable, Valuable         | 200                     |
+| **Fresh Produce**           | Food Supplies      | Perishable, Bulk             | 50                      |
+| **Rare Spices**             | Food Supplies      | Perishable, Exotic           | 150                     |
+| **Preserved Foods**         | Food Supplies      | Durable, High Demand         | 75                      |
+| **Nutrient Paste**          | Food Supplies      | Compact, Bulk                | 50                      |
+| **Gold Ingots**             | Precious Metals    | Compact, High Value          | 500                     |
+| **Platinum Bars**           | Precious Metals    | Compact, Extremely Valuable  | 800                     |
+| **Refined Titanium**        | Precious Metals    | Bulk, High Value             | 600                     |
+| **Silver Ore**              | Precious Metals    | Heavy, Moderate Value        | 300                     |
+| **Copper Wires**            | Precious Metals    | Durable, Bulk                | 200                     |
+| **Rare Gems**               | Precious Metals    | Fragile, Exotic              | 1,000                   |
+| **Advanced AI Chips**       | Advanced Tech      | Fragile, Restricted          | 1,000                   |
+| **Holo-Crystals**           | Advanced Tech      | Fragile, High Demand         | 1,500                   |
+| **Energy Cells**            | Advanced Tech      | Compact, Restricted          | 1,000                   |
+| **Portable Reactors**       | Advanced Tech      | Heavy, Critical              | 2,000                   |
+| **Fusion Batteries**        | Advanced Tech      | Compact, Durable             | 1,200                   |
+| **Experimental Devices**    | Advanced Tech      | Illegal, Mysterious          | 3,000                   |
+| **Alien Relics**            | Alien Artifacts    | Mysterious, Illegal          | 2,000                   |
+| **Ancient Glyph Tablets**   | Alien Artifacts    | Fragile, Mysterious          | 2,500                   |
+| **Xeno-Biological Samples** | Alien Artifacts    | Critical, Restricted         | 2,200                   |
+| **Unstable Artifacts**      | Alien Artifacts    | Dangerous, High Value        | 3,000                   |
+| **Alien Weaponry**          | Alien Artifacts    | Illegal, Restricted          | 3,500                   |
+| **Stasis Relics**           | Alien Artifacts    | Fragile, Valuable            | 2,800                   |
+| **Steel Beams**             | Industrial Goods   | Heavy, Bulk                  | 200                     |
+| **Factory Components**      | Industrial Goods   | Bulk, High Demand            | 300                     |
+| **Mining Tools**            | Industrial Goods   | Durable, Specialized         | 500                     |
+| **Construction Drones**     | Industrial Goods   | Advanced, Durable            | 1,000                   |
+| **Lubricant Supplies**      | Industrial Goods   | Bulk, Critical               | 150                     |
+| **Waste Materials**         | Industrial Goods   | Bulk, Low Value              | 50                      |
+| **Pharmaceutical Kits**     | Medical Supplies   | Critical, Time-Sensitive     | 300                     |
+| **Antibiotic Serums**       | Medical Supplies   | Perishable, High Value       | 400                     |
+| **Cryogenic Supplies**      | Medical Supplies   | Fragile, Restricted          | 800                     |
+| **Portable Medkits**        | Medical Supplies   | Lightweight, High Demand     | 500                     |
+| **Surgical Equipment**      | Medical Supplies   | Specialized, Restricted      | 1,000                   |
+| **Bioengineered Vaccines**  | Medical Supplies   | Perishable, Critical         | 1,200                   |
+
 ## Mission and Adventure Generation
 
 Creating compelling missions and adventures is vital to crafting your emergent narrative. These mechanics provide a structure to generate random missions, create unique storylines, and introduce environmental challenges.
@@ -579,7 +966,7 @@ Creating compelling missions and adventures is vital to crafting your emergent n
 
 Generate missions dynamically using these tables. Roll a series of dice to define the mission’s **Objective**, **Complication**, **Reward**, and **Setting**.
 
-#### **Mission Objective Table (1d6)**
+#### Mission Objective Table (1d6)
 
 | **Roll** | **Objective**               |
 |----------|-----------------------------|
@@ -590,7 +977,7 @@ Generate missions dynamically using these tables. Roll a series of dice to defin
 | 5        | Exploration/Survey          |
 | 6        | Retrieve Rare Artifact      |
 
-#### **Mission Complication Table (1d6)**
+#### Mission Complication Table (1d6)
 
 | **Roll** | **Complication**            |
 |----------|-----------------------------|
@@ -601,7 +988,7 @@ Generate missions dynamically using these tables. Roll a series of dice to defin
 | 5        | Unexpected Rival Interference |
 | 6        | Local Law Enforcement Scrutiny |
 
-#### **Mission Reward Table (1d6)**
+#### Mission Reward Table (1d6)
 
 | **Roll** | **Reward**                  |
 |----------|-----------------------------|
@@ -612,7 +999,7 @@ Generate missions dynamically using these tables. Roll a series of dice to defin
 | 5        | Hidden Knowledge            |
 | 6        | New Trade Opportunity       |
 
-#### **Mission Setting Table (1d6)**
+#### Mission Setting Table (1d6)
 
 | **Roll** | **Setting**                 |
 |----------|-----------------------------|
@@ -631,25 +1018,25 @@ Generate missions dynamically using these tables. Roll a series of dice to defin
 
 This mission would involve retrieving an artifact from a derelict station while avoiding or outsmarting a hostile faction, with the added incentive of gaining a valuable favor.
 
-### **Narrative Framework for Unique Adventures**
+### Narrative Framework for Unique Adventures
 
 The *Loner: Spacer* framework allows you to build complex, engaging narratives using oracle-driven prompts and tag-based storytelling. Follow this structure to develop adventures:
 
-#### **Step 1: Start with a Hook**
+#### Step 1: Start with a Hook
 Roll or decide on an initial event to kickstart the adventure. Example hooks:
 - A distress signal from a stranded vessel (*"Unknown Origin" tag*).
 - A lucrative job offer from a faction (*"Urgent and High-Paying" tag*).
 - Discovery of a mysterious star map leading to uncharted space.
 
-#### **Step 2: Layer Challenges**
+#### Step 2: Layer Challenges
 Add challenges to create tension. Use the **Environmental Challenge Systems** below or the **Mission Complication Table** to introduce obstacles. Challenges should align with the mission’s tags.
 
-#### **Step 3: Develop NPC and Faction Ties**
+#### Step 3: Develop NPC and Faction Ties
 Include NPCs or factions that connect to the mission. Example:
 - A rival smuggler complicates the mission (*"Cunning and Ruthless"* tag).
 - A faction offers unexpected assistance in exchange for a favor (*"Influential but Demanding"* tag).
 
-#### **Step 4: Add Twists**
+#### Step 4: Add Twists
 Incorporate twists using the oracle or roll on the **Mission Twist Table** (1d6):
 
 | **Roll** | **Twist**                             |
@@ -661,7 +1048,7 @@ Incorporate twists using the oracle or roll on the **Mission Twist Table** (1d6)
 | 5        | A valuable opportunity arises         |
 | 6        | The mission changes factions’ perceptions of you |
 
-### **Environmental Challenge Systems**
+### Environmental Challenge Systems
 
 Space is hostile and unpredictable. The following systems introduce environmental challenges that add depth and difficulty to your missions.
 
@@ -675,18 +1062,18 @@ Space is hostile and unpredictable. The following systems introduce environmenta
 | 5        | Hostile Alien Fauna          | Aggressive, Territorial        |
 | 6        | Unstable Terrain             | Fragile, Dangerous             |
 
-#### **Survival Mechanics**
+#### Survival Mechanics
 When encountering a hazard:
 1. **Assess Tags**: Use relevant ship or character tags (e.g., *"Shielded Hull"* or *"Expert Pilot"*) to determine if you have an **Advantage**.
 2. **Consult the Oracle**: Ask whether the hazard can be mitigated or overcome.
 3. **Apply Consequences**: If unsuccessful, impose narrative consequences, such as damage to equipment (*"Weakened Hull"*) or increased tension with factions (*"Law Enforcement Suspicious"*).
 
-#### **Environmental Interactions**
+#### Environmental Interactions
 Characters can attempt to modify the environment using equipment:
 - **Action**: Use a tool or system, like deploying drones or stabilizing a station.
 - **Outcome**: Consult the oracle or apply tags like *"Specialized Tools"* for success.
 
-### **Adventure Creation Example**
+### Adventure Creation Example
 
 1. **Hook**: You receive an urgent distress call from an abandoned mining colony.  
    - Tags: *"Remote,"* *"Rich Resources,"* *"Dangerous."*
@@ -713,11 +1100,11 @@ Characters can attempt to modify the environment using equipment:
 
 Creating a vibrant galaxy filled with alien civilizations, factions, and diverse cultures is essential to making your solo RPG experience immersive. The following tools provide structured guidelines for designing alien species, political systems, and cultural and technological diversity.
 
-### **Alien Civilization Creation Guidelines**
+### Alien Civilization Creation Guidelines
 
 Alien civilizations add mystery and depth to the galaxy. Use these steps to define their unique traits.
 
-#### **Step 1: Core Traits**
+#### Step 1: Core Traits
 Each civilization is described by a combination of **tags** that define their nature.
 
 | **Category**          | **Examples**                |
@@ -729,7 +1116,7 @@ Each civilization is described by a combination of **tags** that define their na
 
 Roll or choose one tag from each category to define the civilization’s core.
 
-#### **Step 2: Cultural Quirks**
+#### Step 2: Cultural Quirks
 Add a distinctive cultural element using the **Alien Culture Table** (1d6):
 
 | **Roll** | **Cultural Trait**           | **Tags**                  |
@@ -741,7 +1128,7 @@ Add a distinctive cultural element using the **Alien Culture Table** (1d6):
 | 5        | Religious Zeal               | Devout, Mystical          |
 | 6        | Isolationist                 | Xenophobic, Secretive     |
 
-#### **Step 3: Communication**
+#### Step 3: Communication
 Determine how the species communicates using the **Communication Style Table** (1d6):
 
 | **Roll** | **Style**                     |
@@ -753,7 +1140,7 @@ Determine how the species communicates using the **Communication Style Table** (
 | 5        | Visual Symbols/Art            |
 | 6        | Sound Vibrations              |
 
-#### **Step 4: Strengths and Weaknesses**
+#### Step 4: Strengths and Weaknesses
 Assign one **Strength** and one **Weakness** to balance the civilization’s role in the galaxy.
 
 | **Strengths**              | **Weaknesses**             |
@@ -763,7 +1150,7 @@ Assign one **Strength** and one **Weakness** to balance the civilization’s rol
 | Resilient Biology          | Fragile Ecosystem         |
 | Expansive Territory        | Poor Resource Management  |
 
-#### **Example Civilization**
+#### Example Civilization
 - **Core Traits**: Amphibious, Communal, Advanced Technology, Cooperative  
 - **Cultural Quirk**: Ritualistic  
 - **Communication**: Bioluminescent Signals  
@@ -772,7 +1159,7 @@ Assign one **Strength** and one **Weakness** to balance the civilization’s rol
 
 This results in a species of peaceful amphibians that thrive in their watery worlds but struggle with ecological sustainability.
 
-### **Faction and Political Systems**
+### Faction and Political Systems
 
 Factions shape the political and economic dynamics of the galaxy. Each faction is described by a set of traits.
 
@@ -817,11 +1204,11 @@ Roll on the **Faction Leadership Table** (1d6) to determine the faction’s gove
 - **Relations**: Neutral with Trade Guild, Tense with Pirates  
 - **Leadership**: Democratic Council  
 
-### **Cultural and Technological Diversity Frameworks**
+### Cultural and Technological Diversity Frameworks
 
 The galaxy is a tapestry of diverse cultures and technologies. These frameworks help you design civilizations, planets, and factions that feel distinct.
 
-#### **Cultural Diversity**
+#### Cultural Diversity
 Assign cultures to planets or regions using the **Cultural Archetype Table** (1d6):
 
 | **Roll** | **Cultural Archetype**       |
@@ -833,7 +1220,7 @@ Assign cultures to planets or regions using the **Cultural Archetype Table** (1d
 | 5        | Isolationist Researchers     |
 | 6        | Cosmopolitan Traders         |
 
-#### **Technological Diversity**
+#### Technological Diversity
 Define technological development using the **Tech Level Table** (1d6):
 
 | **Roll** | **Tech Level**               | **Tags**               |
@@ -845,7 +1232,7 @@ Define technological development using the **Tech Level Table** (1d6):
 | 5        | Symbiotic/Organic Technology | Integrated, Adaptive   |
 | 6        | Experimental/Alien           | Unstable, Mysterious   |
 
-#### **Planetary Influence**
+#### Planetary Influence
 Roll to determine how culture and technology interact on a planet using the **Planetary Influence Table** (1d6):
 
 | **Roll** | **Cultural/Tech Interaction**|
@@ -856,7 +1243,7 @@ Roll to determine how culture and technology interact on a planet using the **Pl
 | 5        | Technology is suppressed     |
 | 6        | Culture resists advancement  |
 
-### **Example World-Building**
+### Example World-Building
 
 - **Planet Name**: Zephyris  
 - **Cultural Archetype**: Industrial Innovators (*"Efficient, Ambitious"*)  
@@ -864,8 +1251,48 @@ Roll to determine how culture and technology interact on a planet using the **Pl
 - **Faction Influence**: Controlled by the Galactic Trade Guild (*"Economic Powerhouse"*)  
 - **Planetary Influence**: Balanced interplay between culture and technology.  
 
+### Inspiration Tables
 
+#### Verbs
 
+| **Verbs**     | 1          | 2           | 3         | 4         | 5          | 6         |
+|---------------|------------|-------------|-----------|-----------|------------|-----------|
+| **1**         | Discover   | Retrieve    | Escape    | Negotiate | Confront   | Repair    |
+| **2**         | Explore    | Decode      | Attack    | Survey    | Sabotage   | Protect   |
+| **3**         | Build      | Salvage     | Trade     | Smuggle   | Pursue     | Investigate |
+| **4**         | Transport  | Analyze     | Evacuate  | Hide      | Capture    | Signal    |
+| **5**         | Observe    | Hack        | Patrol    | Defend    | Recruit    | Forge     |
+| **6**         | Examine    | Infiltrate  | Hunt      | Bypass    | Deliver    | Recover   |
+
+#### Adjectives
+
+| **Adjectives** | 1            | 2           | 3          | 4           | 5          | 6          |
+|----------------|--------------|-------------|------------|-------------|------------|------------|
+| **1**          | Ancient      | Mysterious  | Dangerous  | Hidden      | Massive    | Fragile    |
+| **2**          | Advanced     | Alien       | Critical   | Desolate    | Restricted | Valuable   |
+| **3**          | Remote       | Hostile     | Unique     | Inaccessible| Unstable   | Secretive  |
+| **4**          | Crumbling    | Vibrant     | Chaotic    | Vital       | Dense      | Faint      |
+| **5**          | Radiant      | Uncharted   | Inhabited  | Shattered   | Dormant    | Isolated   |
+| **6**          | Shifting     | Exotic      | Vital      | Forbidding  | Complex    | Eerie      |
+
+#### Nouns
+
+| **Nouns**     | 1            | 2           | 3           | 4           | 5           | 6           |
+|---------------|--------------|-------------|-------------|-------------|-------------|-------------|
+| **1**         | Starship     | Artifact    | Faction     | Outpost     | Nebula      | Colony      |
+| **2**         | Alien        | Engine      | Weapon      | Station     | Crew        | Trade Route |
+| **3**         | Treasure     | Beacon      | Rival       | Asteroid    | Civilization| Rift        |
+| **4**         | Planet       | Data Core   | Smuggler    | Cargo       | Ruins       | Diplomat    |
+| **5**         | Signal       | Prisoner    | Pirate      | Map         | Relic       | Creature    |
+| **6**         | Spy          | Prototype   | Rebel       | Star        | Resource    | Portal      |
+
+## License
+
+Loner: Spacer
+
+© 2025 Roberto Bisceglie
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 
 
