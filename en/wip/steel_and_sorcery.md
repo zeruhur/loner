@@ -1,18 +1,18 @@
-# Steel & Sorcery
+# Loner: Steel & Sorcery
 
-***Steel & Sorcery*** is a solo tabletop RPG adventure set in a dark, gritty world where ancient ruins, corrupt cities, and wild frontiers are the backdrop for tales of survival, revenge, and treasure-hunting. The setting is steeped in mythological inspiration, drawing from pseudo-medieval and ancient cultures, where magic is rare, dangerous, and often feared.
+***Loner: Steel & Sorcery*** is a solo tabletop RPG adventure set in a dark, gritty world where ancient ruins, corrupt cities, and wild frontiers are the backdrop for tales of survival, revenge, and treasure-hunting. The setting is steeped in mythological inspiration, drawing from pseudo-medieval and ancient cultures, where magic is rare, dangerous, and often feared.
 
 This minimalist Solo Role Playing Game is designed to be fast-paced, focusing on intense action, personal stakes, and morally ambiguous heroes who navigate a world of danger and mystery.
 
 ## Introduction
 
-*Steel & Sorcery* follows the following design principles:
+*Loner: Steel & Sorcery* follows the following design principles:
 
 1. **Portable**: To play, you will need a few common (six-sided) dice and writing materials. Anything else is optional and not essential.
 2. **Rules-Light**: The game relies on a few rules and only one solving mechanic, easy to learn and eventually to memorize.
 3. **Tag-based**: Characters and situations are defined only by qualitative descriptors and no quantitative characteristics.
 
-With a focus on quick resolutions, **Steel & Sorcery** throws you headfirst into the heart of the action. Your character will be defined by thematic tags, such as *"Wary Adventurer"*, *"Cursed Blade"*, or *"Scarred Veteran"*.
+With a focus on quick resolutions, **Loner: Steel & Sorcery** throws you headfirst into the heart of the action. Your character will be defined by thematic tags, such as *"Wary Adventurer"*, *"Cursed Blade"*, or *"Scarred Veteran"*.
 
 ### What is a Role Playing Game (RPG)?
 A role-playing game (RPG) is a type of game in which players assume the roles of fictional characters and act out their actions and decisions within a narrative or imaginary setting. The outcome of these actions and decisions is often determined by a set of rules and game mechanics, such as dice rolls or statistical attributes of the characters. Players may also collaborate to create a shared story or narrative through their characters' actions and interactions.
@@ -28,39 +28,85 @@ Through the interaction of player, oracle, tools, and prompts, the character's a
 You will play alone, but be sure to play in an environment that is comfortable for you, without overexerting yourself, and reserve the option to stop as soon as you feel uncomfortable for any reason, physical or emotional. Don't be afraid to tackle new themes, but do so in full awareness of your boundaries.
 
 ### Minimum Requirements
-To play *Steel & Sorcery* you will need:
+To play *Loner: Steel & Sorcery* you will need:
 - **4 six-sided dice** (also known as d6s): two pairs of different colors
 - **Paper and writing tools**: at least a sheet of scrap paper and a pencil, but index cards or sticky notes are a fine addition
 - **Character sheet**: you may use the provided sheet at the back or a simple index card.
-- **Notebook**: *Steel & Sorcery* is not a solo journaling game, you can easily play it in the "theater of mind." But you can keep track of your game if you feel the need!
+- **Notebook**: *Loner: Steel & Sorcery* is not a solo journaling game, you can easily play it in the "theater of mind." But you can keep track of your game if you feel the need!
 
 ## Setting Introduction
 
-*Steel & Sorcery* immerses you in a world where the past weighs heavily, and every shadow might hide a deadly threat. The setting is a blend of ancient ruins, dense forests, and desolate wastelands, where once-great civilizations have crumbled into obscurity, leaving behind cursed artifacts and forgotten lore.
+*Loner: Steel & Sorcery* immerses you in a world where the past weighs heavily, and every shadow might hide a deadly threat. The setting is a blend of ancient ruins, dense forests, and desolate wastelands, where once-great civilizations have crumbled into obscurity, leaving behind cursed artifacts and forgotten lore.
 
 The world is a dangerous place, ruled by tyrants, haunted by ancient evils, and stalked by vicious beasts. Magic exists, but it is the domain of dark sorcerers, corrupt priests, and other nefarious beings. Most common folk view it with suspicion or outright fear, and those who wield it are often met with hostility.
 
 ### Playable Themes
 
-- **Survival**: Every day is a struggle against the harsh environment, dangerous beasts, and treacherous enemies.
-- **Revenge**: A personal vendetta drives the hero, with enemies lurking at every corner.
-- **Treasure Hunting**: Delve into forgotten ruins and ancient tombs in search of wealth and powerful artifacts.
-- **Morality**: Navigate a world where right and wrong are blurred, and choices often have dire consequences.
-- **Exploration**: Discover hidden places and ancient secrets, revealing the dark history of the world.
+In *Loner: Loner: Steel & Sorcery*, you can immerse yourself in a variety of thrilling themes, each offering unique challenges and storytelling opportunities:
 
-### Timeline
+- **Survival vs. Civilization**: The wilderness teems with colossal predators, venomous flora, and shifting landscapes that obey no mortal law. Nomadic tribes must adapt constantly to the unpredictable forces of nature, crafting lives of resilience and ingenuity. Yet, civilization offers no true refuge—its cities are plagued by corruption, disease, and the ever-present threat of invasion. Heroes often find themselves straddling these two worlds, torn between the freedom of the frontier and the treacherous comforts of urban life.
 
-- **The Age of Heroes**: A time long past when great warriors and kings ruled the land, now remembered only in myths and legends.
-- **The Fall of Empires**: Civilizations rose and fell, leaving behind ruins and relics of their former glory.
-- **The Dark Age**: The present era, a time of decay, corruption, and fear, where only the strong survive.
+- **Ambition and Hubris**: Kings and priests reach for divine power, only to unleash curses that plague their lands. Sorcerers delve into forbidden magics, sacrificing their humanity in pursuit of immortality. Even the commoner dreams of riches or escape, but in Khor’Dara, desire often becomes a double-edged blade.
+
+- **Moral Ambiguity**: The righteous are often forced to compromise, while the wicked may show moments of surprising compassion. A warlord who butchers his enemies may also protect his people from worse fates, while a priest who offers healing might exact a price too steep for any to bear. The world demands choices that blur the lines of morality: Do you ally with a tyrant to save your village, or let it burn for the sake of principle? Do you plunder a sacred temple to feed your starving tribe, knowing the gods may curse you for it?
+
+- **Mystery and Wonder**: Magic seeps from the land itself, manifesting as both miracle and menace. Ancient ruins whisper of civilizations whose knowledge surpasses comprehension, their artifacts luring the brave and foolish alike with promises of power. Titans, elder gods, and spectral forces linger in the shadows, their true motives inscrutable. Even the landscape defies understanding: deserts that echo with the voices of the dead, mountains that hum with otherworldly melodies, and rifts that lead to realms unbound by time.
+
+### Timeline of Khor’Dara
+
+#### **The Age of Heroes**  
+_(~5000 ET – ~0 PT)_  
+A mythical epoch of unparalleled glory and divine intervention.
+
+- **5200 ET – The Founding of Zhara**: Under the watch of god-kings, Zhara is raised atop volcanic slopes, its obsidian towers a tribute to divine will. Myths claim its sorcerer-priests tamed the volcano through blood magic.  
+- **5100 ET – The Titans’ Fall**: A war between gods and Titans reshapes Khor’Dara. The Abyssal Rift and Singing Peaks are believed to have formed from the fallen Titans' colossal bodies.  
+- **4800 ET – The Pact of the Verdant Abyss**: Elders of the Ironleaf Clans forge a mysterious agreement with the Forest King, ensuring their survival in the Weeping Forest.  
+- **4500 ET – The Rise of the Skycallers**: The nomadic tribes of the Wailing Steppes unify under shamans who claim to channel the wind’s power.  
+- **4300 ET – Ashira Windrider Tames the Thunderbeast**: A legendary Skycaller warrior bonds with a colossal beast to repel an invasion of the steppes.  
+- **4100 ET – Ley Line Carving**: Sorcerers manipulate the earth's magical veins, creating power sites like the Veil of Muon. This practice accelerates environmental instability.  
+- **4000 ET – Kael the Unyielding's Siege of Khemru**: Kael leads an army against the necromancer-kings, breaking their chains over the enslaved. His Spear of the Skycaller is lost in the aftermath.
+
+#### **The Fall of Empires**  
+_(0 PT – ~1500 PT)_  
+The collapse of civilizations ushers in chaos and decay.
+
+- **Year 0 PT – The Binding of the Titans**: The last echoes of the Titans' influence wane. This marks the start of the Post-Titan Age, when humans rise to dominate the continent.  
+- **100 PT – The Curse of the Sunken Crown**: Rival necromancer-kings of Khemru annihilate each other in a ritualistic duel, sinking parts of the city into the swamp. Their undead servants roam unchecked.  
+- **400 PT – The River Wars**: City-states like Lunhai and Khemru clash over control of the Riverlands of Nurim. These wars disrupt trade routes and leave the delta fractured into warring fiefdoms.  
+- **600 PT – The Drought of the Scorched Wastes**: A century-long drought ravages the fertile plains, transforming them into the Scorched Wastes. This event is attributed to failed rituals performed by Zhara's sorcerer-priests.  
+- **850 PT – The Collapse of Lunhai's Golden Age**: Corruption and the rise of the cult of the Drowned God destabilize Lunhai, leading to civil unrest and the city's descent into decadence.  
+- **1200 PT – The Charnel Pact Emerges**: Outcasts desecrate ancient burial grounds, unlocking forbidden magics. The Charnel Pact becomes a feared force, wielding corrupted undead armies.
+
+#### **The Dark Age**  
+_(~1500 PT – Present Day)_  
+A time of decay and survival, where history fades into myth.
+
+- **1500 PT – The Shadowing of Sorcery**: Following countless magical disasters, sorcery becomes feared and distrusted. Wild magic zones like the Veil of Muon are avoided, and practitioners are hunted.  
+- **1600 PT – The Founding of the Ember Wolves**: Kaerath the Burned unites exiled mercenaries, creating a nomadic force infamous for its scorched-earth tactics.  
+- **1700 PT – The Abyssal Rift Awakens**: Explorers report eerie activity within the Rift, including glowing fungi and predatory creatures. Many vanish, fueling rumors of a lost civilization stirring within.  
+- **1800 PT – The Rise of the Forest King**: The Forest King’s influence spreads beyond the Verdant Abyss, with whispers of its wrath reaching even the Riverlands. Entire caravans disappear without trace in the Weeping Forest.  
+- **1900 PT – The Eclipse Prophecy Surfaces**: Priests of Zhara proclaim the imminent **Eclipse of Khor’Dara**, foretelling a time when barriers between realms will shatter, unleashing horrors across the land.  
+- **1950 PT – Present Day**: Civilization remains fractured. The city-states clutch at fading glory, while tribal clans battle for dominance in the wilderness. Heroes rise, carrying echoes of the past, but the shadow of the Eclipse looms over all.
+
+### Aesthetics & Tone
+
+Think Khor’Dara as a mix of **Bronze Age Near East**, **Mesopotamia**, and **pre-classical Mediterranean cultures**, blending these influences into a rich, multifaceted world:
+
+- **Architecture**: The cities are monumental in both scale and symbolism, built to exalt the gods and intimidate rivals. Towering ziggurats spiral toward the heavens, their facades inscribed with myths and blood-stained edicts. Hanging gardens cascade from palace rooftops, cultivated by priests as offerings to fickle deities. Obsidian fortresses loom over the plains, their polished walls reflecting light like a veil of fire at dusk. Deep within city centers, labyrinthine palaces house the ruling elite, their echoing halls lit by braziers and adorned with mosaics depicting conquest, divinity, and despair.
+
+- **Religion**: The gods are mercurial, demanding devotion through rituals as grand as they are harrowing. Each deity governs both aspects of nature and the human condition, embodying contradictions that reflect their flawed worshippers. Storm gods who bring rain to the fields might also unleash tempests that flatten entire villages; a mother goddess who nurtures life might demand offerings of blood to ensure fertility. Priests, wielding immense political power, serve as intermediaries between gods and mortals, though their own ambitions often eclipse divine will. On the fringes of society, cults of outcasts and dreamers flourish, their rites whispered of in darkened streets, their faith fueled by promises of forbidden power.
+
+- **Technology**: Civilization walks a knife's edge, with progress often overshadowed by hubris and disaster. Bronze weapons gleam in the hands of soldiers who ride into battle on war chariots, their wheels rattling across dry earth. Engineers construct canals and reservoirs to stave off famine, only for earthquakes or floods to reduce their works to ruins. Massive stone edifices bear witness to humanity's attempt to tame nature, but each one whispers of the countless lives spent to carve its grandeur. Tools of bone, clay, and metal coexist in this fragile balance, shaped by the ingenuity of craftsmen and the scarcity of resources.
+
+- **Society**: The social order is rigid and unyielding, mirroring the unforgiving gods who shaped it. At the top sit rulers who claim divine descent, their authority enforced by hierarchies of priests, generals, and bureaucrats. Beneath them, merchants trade goods along treacherous roads and rivers, their influence often rivaling that of nobility. Laborers toil in the fields and quarries, their sweat and blood feeding both the granaries and the temples. At the bottom lie slaves and outcasts, many of whom cling to forbidden magics or band together in the wilderness to forge new lives—or enact vengeance. Society is at once cohesive and volatile, a fragile tapestry ready to unravel under the weight of rebellion, disaster, or divine wrath.
 
 ## Characters
 
-*Steel & Sorcery* is centered around the exploits of lone heroes or anti-heroes—warriors, rogues, and survivors—each with their own motivations, skills, and weaknesses. These characters are often morally ambiguous, driven by personal codes of honor, revenge, or simple survival.
+*Loner: Steel & Sorcery* is centered around the exploits of lone heroes or anti-heroes—warriors, rogues, and survivors—each with their own motivations, skills, and weaknesses. These characters are often morally ambiguous, driven by personal codes of honor, revenge, or simple survival.
 
 ### Everything is a Character!
 
-In *Steel & Sorcery*, Non-Playing Characters (NPCs), Foes, Organizations, Monsters, and even relevant objects like vehicles are characters too!
+In *Loner: Steel & Sorcery*, Non-Playing Characters (NPCs), Foes, Organizations, Monsters, and even relevant objects like vehicles are characters too!
 
 Your Protagonist is described by some fixed traits:
 
@@ -177,16 +223,17 @@ You can use these traits to create a character on the fly, mix them, or just use
 
 ## Rules
 
-*Steel & Sorcery* is a minimalist Solo Role Playing Game designed to be played with only one character (the Protagonist). You'll guide them through the story that will unravel during the game, asking closed questions to an Oracle which will help you overturn your expectations.
+*Loner: Steel & Sorcery* is a minimalist Solo Role Playing Game designed to be played with only one character (the Protagonist). You'll guide them through the story that will unravel during the game, asking closed questions to an Oracle which will help you overturn your expectations.
 
 Every now and then you will be surprised with an unexpected twist!
 
 ### Keep The Action In Motion
 
-A game in *Steel & Sorcery* is a succession of scenes. 
+A game in *Loner: Steel & Sorcery* is a succession of scenes. 
 A scene is a unit of time in which a certain action takes place in pursuit of a certain short-term goal. 
 
-In *Steel & Sorcery* at each scene:
+In *Loner: Steel & Sorcery* at each scene:
+
 1. **Identify what you expect from the scene**. Compared to traits, goal, and motivation determine the Protagonist's action. What might be the reaction of the game world?
 2. **Test your expectations**. When you are uncertain (or overconfident) about the reaction to your actions, [ask the Oracle](#consulting-the-oracle) a closed question (answer is Yes or No), considering the tags involved to determine if there is an [Advantage or Disadvantage](#advantage-and-disadvantage).
 3. **Interpret the result**. Is the Oracle's answer in line with your expectations? If not, in the context in which the scene takes place, how should an answer that subverts them be considered?
@@ -246,6 +293,7 @@ This applies both in a practical and metaphorical sense.
 So, a Conflict is not only limited to combat (or fighting) in the strict sense but also to competitive situations (such as contests, duels, verbal confrontations, etc.) in which two or more characters (including vehicles, of course!) compete.
 
 Conflicts can be resolved in different ways depending on preferences and context:
+
 1. Ask a single closed question. The Oracle's answer determines the outcome of the conflict.
 2. Ask a series of closed questions to resolve current single actions.
 3. Use the rules of Harm & Luck below.
@@ -293,7 +341,7 @@ Also update the list of **NPCs**, **Locations**, and **Events** that may show up
 
 ## Sorcery
 
-Sorcery in *Steel & Sorcery* is a perilous yet alluring path. The Six Circles of Sorcery represent escalating levels of power and risk, with each spell exacting a toll on the caster. Wielding magic demands both skill and resolve, as the temptations of Black Sorcery may lead to corruption and ruin.
+Sorcery in *Loner: Steel & Sorcery* is a perilous yet alluring path. The Six Circles of Sorcery represent escalating levels of power and risk, with each spell exacting a toll on the caster. Wielding magic demands both skill and resolve, as the temptations of Black Sorcery may lead to corruption and ruin.
 
 ### The Six Circles of Sorcery
 1. **Ordered Power**: Sorcery is divided into six Circles, each representing a tier of magical potency.
@@ -326,7 +374,7 @@ Luck replenishes at the end of a **Conflict**, as per the base rules. This cycli
 
 ### Range Scale
 
-The range of a spell determines how far its effects can reach. Spells in *Steel & Sorcery* use a narrative-driven range scale to keep descriptions thematic and flexible:
+The range of a spell determines how far its effects can reach. Spells in *Loner: Steel & Sorcery* use a narrative-driven range scale to keep descriptions thematic and flexible:
 
 - **Touch**: Requires physical contact with the target or object. Ideal for close, personal effects or enchantments.
 - **Close**: A few steps away, within a small room or immediate vicinity (approximately 10-20 feet).
@@ -649,7 +697,7 @@ Learning spells requires in-game effort and a narrative justification. Spells ca
 
 ## Companions and Followers
 
-Companions and followers add depth to the narrative by providing additional skills, moral dilemmas, and story hooks. They are treated as simplified characters with their own motivations and vulnerabilities, tied to the protagonist through a **Loyalty** mechanic. This system integrates seamlessly with the core mechanics of *Steel & Sorcery*.
+Companions and followers add depth to the narrative by providing additional skills, moral dilemmas, and story hooks. They are treated as simplified characters with their own motivations and vulnerabilities, tied to the protagonist through a **Loyalty** mechanic. This system integrates seamlessly with the core mechanics of *Loner: Steel & Sorcery*.
 
 ### Creating a Companion
 Companions are defined by a minimal set of traits:
@@ -777,6 +825,12 @@ This system introduces two interconnected elements: **Morality**, which reflects
 
 Morality is defined by **tags** that represent key actions, decisions, or patterns of behavior. These tags do not dictate gameplay but serve as narrative prompts and influence interactions with the world.
 
+1. **Tag Tracking**: List all Morality Tags on the character sheet, organized by themes (e.g., *Justice*, *Power*, *Faith*).
+2. **Influence on Play**: When a Morality Tag applies to a situation, it can:
+   - Grant **Advantage** or **Disadvantage** in rolls, depending on the context.
+   - Trigger unique narrative events or interactions.
+3. **Tag Evolution**: As the narrative progresses, combine or refine existing tags to reflect character growth. For example, *"Merciful Executioner"* might evolve into *"Reluctant Warrior of Justice."*
+
 Whenever the character performs a morally significant action, assign a **Morality Tag** that represents their choice.
 
 Examples:  
@@ -787,21 +841,9 @@ Examples:
 - *"Desecrator"* (defiled a sacred place)
 - *"Redeemer"* (helped an enemy seek forgiveness)
 
-1. **Tag Tracking**: List all Morality Tags on the character sheet, organized by themes (e.g., *Justice*, *Power*, *Faith*).
-2. **Influence on Play**: When a Morality Tag applies to a situation, it can:
-   - Grant **Advantage** or **Disadvantage** in rolls, depending on the context.
-   - Trigger unique narrative events or interactions.
-3. **Tag Evolution**: As the narrative progresses, combine or refine existing tags to reflect character growth. For example, *"Merciful Executioner"* might evolve into *"Reluctant Warrior of Justice."*
-
 #### Reputation
 
 Reputation reflects how the character is perceived by specific **Factions**, **Groups**, or **Supernatural Forces**. Like Morality, it uses **tags**, but these are tied to the character's standing with external entities.
-
-Each faction or force has a **Reputation Track**, starting as **Neutral**. As the character interacts with them, tags are assigned to denote their standing.
-
-Examples:  
-- With the *Cult of the Drowned God*: *"Profane Heretic"* or *"Blessed Vessel."*
-- With the *Ironleaf Clans*: *"Bloodbound Ally"* or *"Oathbreaker."*
 
 1. Create a simple list of **Factions or Forces** relevant to the game.
 2. Assign **Reputation Tags** based on significant interactions or actions taken.
@@ -810,13 +852,14 @@ Examples:
    - *"Bearer of Cursed Knowledge"* with a *Supernatural Entity*.
    - *"Traitor to the Throne"* with a ruling kingdom.
 
+Each faction or force has a **Reputation Track**, starting as **Neutral**. As the character interacts with them, tags are assigned to denote their standing.
+
 #### Interaction Between Morality and Reputation
 
 Morality and Reputation can influence each other:
-1. **Reputation Impact**: A Morality Tag might alter how factions perceive the character. For example:
-   - *"Merciful Executioner"* could lead a benevolent faction to tag the character as *"Worthy of Trust"* but a cruel faction to tag them as *"Weak."*
-2. **Moral Dilemmas**: Reputation might pressure the character into actions that conflict with their morality. For example:
-   - A faction demands the character burn a sacred grove to prove loyalty, challenging their *"Guardian of the Forest"* Morality Tag.
+
+1. **Reputation Impact**: A Morality Tag might alter how factions perceive the character. For example: *"Merciful Executioner"* could lead a benevolent faction to tag the character as *"Worthy of Trust"* but a cruel faction to tag them as *"Weak."*
+2. **Moral Dilemmas**: Reputation might pressure the character into actions that conflict with their morality. For example: A faction demands the character burn a sacred grove to prove loyalty, challenging their *"Guardian of the Forest"* Morality Tag.
 
 ### Heroic Feats
 
@@ -866,70 +909,83 @@ Heroic Feats are powerful but taxing. Spending a Destiny Point often introduces 
 
 ### Downtime Activities
 
-Downtime activities provide a structured way to develop the character and their story between adventures. These activities allow players to spend time improving their gear, recovering from injuries, crafting items, building alliances, or learning new skills. The downtime system integrates with the tag-based mechanics of *Steel & Sorcery*, ensuring simplicity while enriching the narrative.
+Downtime activities provide a structured way to develop the character and their story between adventures. These activities allow players to spend time improving their gear, recovering from injuries, crafting items, building alliances, or learning new skills. The downtime system integrates with the tag-based mechanics of *Loner: Steel & Sorcery*, ensuring simplicity while enriching the narrative.
 
 #### Downtime Actions
 
 During downtime, the character can choose one or more activities. Each activity typically takes one "unit" of time, such as a day, a week, or a season, depending on the campaign's pace. 
 
-**1. Rest and Recovery**  
+##### **1. Rest and Recovery**  
 Focus on healing long-term injuries, removing Frailty Tags, and recovering from narrative consequences of past events.
   
 Roll the Oracle to determine the effectiveness of recovery efforts:
-- **Yes**: Remove one Frailty Tag or mitigate a significant consequence (e.g., healing a serious wound or clearing a *"Cursed"* condition).
-- **Yes, and...**: Fully recover and gain a beneficial Tag (e.g., *"Resilient"* or *"Hardened Survivor"*).
-- **No, but...**: Recovery is incomplete—gain partial relief, but the injury persists in a diminished form (e.g., *"Weakened Arm"* becomes *"Sore Limb"*).
-- **No, and...**: Recovery fails, and the injury worsens or introduces new complications (e.g., gaining an additional Frailty Tag like *"Lingering Pain"*).
 
-**2. Crafting**  
+- **Yes, and...**: Fully recover and gain a beneficial Tag (e.g., *"Resilient"* or *"Hardened Survivor"*).  
+- **Yes**: Remove one Frailty Tag or mitigate a significant consequence (e.g., healing a serious wound or clearing a *"Cursed"* condition).  
+- **Yes, but...**: Recovery succeeds, but at a cost (e.g., an unexpected delay, additional resources spent, or a lingering minor effect like *"Sore Limb"*).  
+- **No, but...**: Recovery is incomplete—gain partial relief, but the injury persists in a diminished form (e.g., *"Weakened Arm"* becomes *"Sore Limb"*).  
+- **No**: Recovery fails, leaving the injury or condition unchanged, consuming resources without results.  
+- **No, and...**: Recovery fails, and the injury worsens or introduces new complications (e.g., gaining an additional Frailty Tag like *"Lingering Pain"* or aggravating an existing condition).  
+
+##### **2. Crafting**  
 Create or repair gear, enchant items, or brew potions.
 
 - Declare the item to be crafted and any special qualities it should have (e.g., *"Lightweight Armor,"* *"Poisoned Dagger"*).
 - Roll the Oracle:
-  - *Yes*: The crafting succeeds.
-  - *Yes, and...*: The crafted item gains an additional beneficial Tag (e.g., *"Unbreakable."*).
-  - *No, but...*: The crafting fails, but salvageable materials remain.
-  - *No, and...*: A catastrophic failure occurs, consuming resources or introducing a complication.
+  - **Yes, and...**: The crafting succeeds perfectly, and the item gains an additional beneficial Tag (e.g., *"Unbreakable"* or *"Enhanced Precision"*).
+  - **Yes**: The crafting succeeds, and the item is created as intended.
+  - **Yes, but...**: The crafting succeeds, but with a minor issue (e.g., *"Requires Regular Maintenance"* or consumes more resources than expected).
+  - **No, but...**: The crafting fails, but some materials are salvageable, allowing for a second attempt or partial success.
+  - **No**: The crafting fails, and the materials are lost or rendered unusable.
+  - **No, and...**: A catastrophic failure occurs, consuming all resources and introducing a complication (e.g., *"Accidentally Cursed"* or *"Causes Injury During Use"*).
 
-**3. Training**  
+##### **3. Training**  
 Learn a new Skill or refine an existing one.
 
 - Spend the downtime working with a mentor, practicing alone, or studying ancient texts.
 - Roll the Oracle:
-  - *Yes*: Gain or enhance a Skill Tag.
-  - *Yes, and...*: Gain additional insight, adding a related Gear or Frailty Tag (*"Shattered Shieldmaster"* evolves into *"Master of the Broken Defense."*).
-  - *No, but...*: The training is incomplete, but the character gains partial benefits (e.g., temporary Advantage in a specific scenario).
-  - *No, and...*: Training backfires, causing frustration or physical strain (gain a Frailty Tag like *"Injured Wrist."*).
+  - **Yes, and...**: Gain additional insight, adding a related Gear or Frailty Tag (*"Shattered Shieldmaster"* evolves into *"Master of the Broken Defense."*).
+  - **Yes**: Gain or enhance a Skill Tag.
+  - **Yes, but...**: Training succeeds, but with a complication (e.g., the training takes longer than expected, or it temporarily drains resources like *"Fatigued"*).
+  - **No, but...**: The training is incomplete, but the character gains partial benefits (e.g., temporary Advantage in a specific scenario).
+  - **No**: Training fails, and no progress is made.
+  - **No, and...**: Training backfires, causing frustration or physical strain (gain a Frailty Tag like *"Injured Wrist"* or *"Discouraged Learner"*).
 
-**4. Building Alliances**  
+##### **4. Building Alliances**  
 Forge relationships with factions, NPCs, or groups.
 
 - Declare the group and your intention (e.g., *"Convince the Shadow Guild to ally with me."*).
 - Roll the Oracle:
-  - *Yes*: The alliance is formed, granting a Reputation Tag (*"Trusted by the Shadow Guild."*).
-  - *Yes, and...*: The alliance provides immediate aid or resources.
-  - *No, but...*: The negotiation fails, but there’s a chance to revisit the opportunity later.
-  - *No, and...*: The attempt worsens relations, creating a negative Reputation Tag (*"Enemy of the Shadow Guild."*).
+  - **Yes, and...**: The alliance provides immediate aid or resources, exceeding expectations (e.g., *"Shadow Guild offers elite mercenaries."*).
+  - **Yes**: The alliance is formed, granting a Reputation Tag (*"Trusted by the Shadow Guild."*).
+  - **Yes, but...**: The alliance is tentative or comes with conditions (e.g., *"The Shadow Guild demands a favor in return."*).
+  - **No, but...**: The negotiation fails, but there’s a chance to revisit the opportunity later (e.g., *"They remain neutral for now but might reconsider."*).
+  - **No**: The negotiation fails outright, and the group remains disinterested or wary.
+  - **No, and...**: The attempt worsens relations, creating a negative Reputation Tag (*"Enemy of the Shadow Guild"* or *"Deemed Untrustworthy."*).
 
-**5. Research**  
+##### **5. Research**  
 Investigate lore, uncover secrets, or analyze magical artifacts.
 
 - Declare the subject of research (e.g., *"The Crown of Khemru"* or *"The Riverlands’ Hidden Vaults"*).
 - Roll the Oracle:
-  - *Yes*: Learn key information.
-  - *Yes, and...*: Discover an additional, unexpected clue or opportunity.
-  - *No, but...*: Partial information is gained, but it’s incomplete or misleading.
-  - *No, and...*: The research triggers unintended consequences (e.g., a faction learns of your interest).
+  - **Yes, and...**: Discover an additional, unexpected clue or opportunity (e.g., *"Uncover a hidden ritual linked to the Crown."*).
+  - **Yes**: Learn key information relevant to your research goal.
+  - **Yes, but...**: Gain useful information, but it comes with a complication (e.g., *"You must obtain a rare resource to proceed further."* or *"The artifact is cursed."*).
+  - **No, but...**: Partial information is gained, but it’s incomplete or misleading (e.g., *"The vault exists, but its location is obscured by riddles."*).
+  - **No**: The research yields no results or leads.
+  - **No, and...**: The research triggers unintended consequences (e.g., *"A rival faction learns of your interest and takes action."* or *"The artifact reacts violently during analysis."*).
 
-**6. Exploration Preparation**    
+##### **6. Exploration Preparation**    
 Plan your next adventure, scout locations, or stock up on supplies.
 
 Roll the Oracle to assess the success of your preparation:
 
-- *Yes*: Gain a useful map, item, or advantage for the journey.
-- *Yes, and...*: Discover a shortcut or unexpected resource.
-- *No, but...*: Gather incomplete information, leading to potential challenges.
-- *No, and...*: The preparation backfires, introducing a hazard or false lead.
+- **Yes, and...**: Discover a shortcut or unexpected resource (e.g., *"Find a hidden trail that reduces travel time."* or *"Gain surplus supplies."*).
+- **Yes**: Gain a useful map, item, or advantage for the journey (e.g., *"Acquire a reliable guide."*).
+- **Yes, but...**: The preparation succeeds, but at a cost (e.g., *"Lose extra time or resources during planning."* or *"The map is incomplete but usable."*).
+- **No, but...**: Gather incomplete or flawed information, leading to potential challenges (e.g., *"Scout an incorrect route, but learn about a nearby landmark."*).
+- **No**: The preparation fails, leaving you underprepared or uninformed.
+- **No, and...**: The preparation backfires, introducing a hazard or false lead (e.g., *"The route is dangerous, leading to a trap."* or *"Supplies are spoiled or insufficient."*).
 
 #### Costs and Risks
 
@@ -965,7 +1021,7 @@ Downtime activities often require resources, and failure can introduce complicat
 
 ## Travel and Survival
 
-Travel and survival in *Steel & Sorcery* are essential to the sense of adventure and danger. These mechanics introduce environmental hazards, resource management, and procedural exploration while tying into the core resolution system. This system ensures that the journey itself becomes a rich narrative filled with challenges, discoveries, and hard choices.
+Travel and survival in *Loner: Steel & Sorcery* are essential to the sense of adventure and danger. These mechanics introduce environmental hazards, resource management, and procedural exploration while tying into the core resolution system. This system ensures that the journey itself becomes a rich narrative filled with challenges, discoveries, and hard choices.
 
 ### Travel Phases
 
@@ -1086,26 +1142,6 @@ Safe destinations allow downtime for recovery or resupply. Use downtime rules to
 Khor’Dara is a mythical lost continent, cloaked in shadow and intrigue, its existence debated by philosophers and storytellers alike. Some claim it lies beyond the uncharted seas of the ancient world, while others insist it slumbers beneath the surface, deep within the Hollow Earth, accessible only through forgotten fissures and labyrinthine caves. In this timeless epoch, where primeval forces vie with men and gods alike, Khor’Dara exists as a testament to the precarious balance between ambition and ruin.
 
 The land is defined by stark contrasts: untamed wilderness where colossal beasts prowl and the laws of nature warp unpredictably; decadent city-states where wealth pools in gilded ziggurats, while the shadows teem with intrigue and unrest; and borderlands where neither civilization nor chaos holds sway, leaving space for nomadic tribes, rogue warlords, and things best left unnamed. Magic weaves through Khor’Dara like an unsteady pulse—feared for its corruption, yet coveted for its power. It is a force both divine and perilous, marking those who wield it with scars of their arrogance or desperation.
-
-Think Khor’Dara as a mix of **Bronze Age Near East**, **Mesopotamia**, and **pre-classical Mediterranean cultures**, blending these influences into a rich, multifaceted world:
-
-- **Architecture**: The cities of Khor’Dara are monumental in both scale and symbolism, built to exalt the gods and intimidate rivals. Towering ziggurats spiral toward the heavens, their facades inscribed with myths and blood-stained edicts. Hanging gardens cascade from palace rooftops, cultivated by priests as offerings to fickle deities. Obsidian fortresses loom over the plains, their polished walls reflecting light like a veil of fire at dusk. Deep within city centers, labyrinthine palaces house the ruling elite, their echoing halls lit by braziers and adorned with mosaics depicting conquest, divinity, and despair.
-
-- **Religion**: The gods of Khor’Dara are mercurial, demanding devotion through rituals as grand as they are harrowing. Each deity governs both aspects of nature and the human condition, embodying contradictions that reflect their flawed worshippers. Storm gods who bring rain to the fields might also unleash tempests that flatten entire villages; a mother goddess who nurtures life might demand offerings of blood to ensure fertility. Priests, wielding immense political power, serve as intermediaries between gods and mortals, though their own ambitions often eclipse divine will. On the fringes of society, cults of outcasts and dreamers flourish, their rites whispered of in darkened streets, their faith fueled by promises of forbidden power.
-
-- **Technology**: Civilization in Khor’Dara walks a knife's edge, with progress often overshadowed by hubris and disaster. Bronze weapons gleam in the hands of soldiers who ride into battle on war chariots, their wheels rattling across dry earth. Engineers construct canals and reservoirs to stave off famine, only for earthquakes or floods to reduce their works to ruins. Massive stone edifices bear witness to humanity's attempt to tame nature, but each one whispers of the countless lives spent to carve its grandeur. Tools of bone, clay, and metal coexist in this fragile balance, shaped by the ingenuity of craftsmen and the scarcity of resources.
-
-- **Society**: The social order of Khor’Dara is rigid and unyielding, mirroring the unforgiving gods who shaped it. At the top sit rulers who claim divine descent, their authority enforced by hierarchies of priests, generals, and bureaucrats. Beneath them, merchants trade goods along treacherous roads and rivers, their influence often rivaling that of nobility. Laborers toil in the fields and quarries, their sweat and blood feeding both the granaries and the temples. At the bottom lie slaves and outcasts, many of whom cling to forbidden magics or band together in the wilderness to forge new lives—or enact vengeance. Society is at once cohesive and volatile, a fragile tapestry ready to unravel under the weight of rebellion, disaster, or divine wrath.
-
-### Themes
-
-- **Survival vs. Civilization**: In Khor’Dara, survival is a battle against both the untamed wilderness and the decadence of civilization. The wilderness teems with colossal predators, venomous flora, and shifting landscapes that obey no mortal law. Nomadic tribes must adapt constantly to the unpredictable forces of nature, crafting lives of resilience and ingenuity. Yet, civilization offers no true refuge—its cities are plagued by corruption, disease, and the ever-present threat of invasion. Heroes often find themselves straddling these two worlds, torn between the freedom of the frontier and the treacherous comforts of urban life. Each path presents its own perils: in the wilderness, nature itself conspires against you; in the cities, betrayal and excess rot the soul.
-
-- **Ambition and Hubris**: Khor’Dara is a land where ambition can raise empires or invite utter ruin. Kings and priests reach for divine power, only to unleash curses that plague their lands. Sorcerers delve into forbidden magics, sacrificing their humanity in pursuit of immortality. Even the commoner dreams of riches or escape, but in Khor’Dara, desire often becomes a double-edged blade. Myths and ruins litter the land as grim reminders of what happens when mortals defy the natural order or overreach their bounds. Every choice carries the weight of consequence, and in the end, even the gods may prove powerless to undo the damage wrought by mortal hubris.
-
-- **Moral Ambiguity**: In Khor’Dara, good and evil are seldom clear. The righteous are often forced to compromise, while the wicked may show moments of surprising compassion. A warlord who butchers his enemies may also protect his people from worse fates, while a priest who offers healing might exact a price too steep for any to bear. The world demands choices that blur the lines of morality: Do you ally with a tyrant to save your village, or let it burn for the sake of principle? Do you plunder a sacred temple to feed your starving tribe, knowing the gods may curse you for it? Heroes must tread carefully, for every decision casts ripples that may come crashing back as tidal waves.
-
-- **Mystery and Wonder**: Khor’Dara is a realm where the veil between the mundane and the supernatural is tantalizingly thin. Magic seeps from the land itself, manifesting as both miracle and menace. Ancient ruins whisper of civilizations whose knowledge surpasses comprehension, their artifacts luring the brave and foolish alike with promises of power. Titans, elder gods, and spectral forces linger in the shadows, their true motives inscrutable. Even the landscape defies understanding: deserts that echo with the voices of the dead, mountains that hum with otherworldly melodies, and rifts that lead to realms unbound by time. Every corner of Khor’Dara holds a secret, and those who seek to uncover its truths must prepare to be awed—or undone—by what they find.
 
 ### Lands of Conflict
 
@@ -3298,7 +3334,7 @@ The tribes and city-states of Khor’Dara each preserve their histories and warn
 
 ## License
 
-Steel & Sorcery
+Loner: Steel & Sorcery
 
 © 2025 Roberto Bisceglie
 
