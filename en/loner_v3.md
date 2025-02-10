@@ -2,11 +2,11 @@
 
 ## What is *Loner*?
 
-*Loner* is a minimalist solo role-playing game. It is designed for a single character — your Protagonist—who will navigate an unfolding story driven by your choices and an unpredictable Oracle.
+*Loner* is a minimalist solo role-playing game. It is designed for a single character — your Protagonist — who will navigate an unfolding story driven by your choices and an unpredictable Oracle.
 
 Unlike structured solo adventures with pre-set paths, *Loner* allows you to shape your own narrative dynamically. Instead of choosing from pre-set outcomes, you ask the Oracle questions, interpret its cryptic answers, and weave unexpected twists into your journey.The game is improvisational, emergent, and surprising.
 
-Every session of Loner is a blend of structure and unpredictability.You make choices, test assumptions, and occasionally find that the world has different plans than you expected. When that happens, it's time to adapt—and let the story take you somewhere new.
+Every session of Loner is a blend of structure and unpredictability.You make choices, test assumptions, and occasionally find that the world has different plans than you expected. When that happens, it's time to adapt — and let the story take you somewhere new.
 
 *Loner* follows these design principles:
 
@@ -17,17 +17,17 @@ Every session of Loner is a blend of structure and unpredictability.You make cho
 
 The game is designed for quick, fluid storytelling without tactical complexity or number crunching. You can play as a lone wanderer in a ruined world, a spy on the run, or a rogue AI navigating cyberspace. Loner adapts to your vision.
 
-## What is a role-playing game?
+### What is a role-playing game?
 
 A role-playing game (RPG) is a storytelling experience where you take on the role of a character and make decisions that shape their journey. Typically, RPGs are played with more than one person and a game master (GM) who creates challenges and controls the game world. However, in a solo RPG like Loner, you play the role of both the player and the storyteller.
 
-## How *Loner* Is Different
+### How *Loner* Is Different
 
 Unlike other RPGs or gamebooks with predefined choices, *Loner* is an emergent narrative game. You create the story as you play. Instead of following a script, you ask the Oracle closed questions (Yes/No), which makes the story more uncertain and surprising. This creates an unpredictable story.
 
 The game world isn't set in stone from the start; it responds to your character's actions, motivations, and circumstances as the game progresses. You set the stage, the Oracle twists fate, and together, they shape a unique adventure every time you play.
 
-## Playing Safely
+### Playing Safely
 
 When you play alone, you have complete control over your experience. *Loner* lets you explore any story, but you also set the limits. Some themes might be intense or emotionally challenging. If they are, adjust them as needed. Take breaks, change the focus, or step away if something feels uncomfortable. The game exists to help you express your creativity; it's not trying to make you feel distressed.
 
@@ -35,7 +35,7 @@ Since you're the only player, you don't need formal safety tools like in group R
 
 The goal of Loner is to enjoy the journey, not force yourself through anything that doesn't feel right. 
 
-## What You Need to Play
+### What You Need to Play
 
 To play *Loner*, you only need a few basic tools:
 
@@ -46,7 +46,7 @@ To play *Loner*, you only need a few basic tools:
 Optional but useful:  
 - **Notebook** – *Loner* isn't a journaling game, but you might want to jot down notes about characters, locations, and ongoing storylines. This helps keep things consistent when you play more than once.  
 
-That's it! There is no rulebook to memorize, no stacks of materials—just a handful of dice and your imagination.  
+That's it! There is no rulebook to memorize, no stacks of materials — just a handful of dice and your imagination.  
 
 ## Choose a Genre or Setting  
 
@@ -59,13 +59,13 @@ Every *Loner* adventure takes place in a different **imaginary world**. You get 
 If you need inspiration:  
 - **Look up trope lists** (search online for common themes in fiction).  
 - **Use the Adventure Packs** found later in this book.  
-- **Let your character shape the world**—define them first, then build the setting around them.  
+- **Let your character shape the world** — define them first, then build the setting around them.  
 
 There’s no right or wrong way to do it. The story will take shape as you play, whether you start with the world or the character.  
 
 ## Creating Your Protagonist  
 
-Your character—the **Protagonist**—is the most important part of your story. They don't have statistics; instead, they are defined by descriptive traits that shape how they interact with the world.  
+Your character — the **Protagonist** — is the most important part of your story. They don't have statistics; instead, they are defined by descriptive traits that shape how they interact with the world.  
 
 ### Step-by-Step Character Creation  
 
@@ -82,28 +82,28 @@ Your character—the **Protagonist**—is the most important part of your story.
 
 A **Concept** is like a label for your character. It tells you what they are in just one sentence. The best concepts are evocative and concise, giving an immediate sense of personality, role, or history.  
 
-✅ **Good Examples:**  
+✅ **Good 📌 Examples:**  
 - *Cunning Bounty Hunter* – suggests expertise in tracking and deception.  
 - *Haunted Scholar* – suggests knowledge, but also a burden.  
 - *Exiled Warlock* – hints at power and a troubled past.  
 
-❌ **Weak Examples:**  
+❌ **Weak 📌 Examples:**  
 - *Strong Fighter* – too generic. What makes them unique?  
 - *Heroic Person* – not specific enough. What do they actually do?  
 - *Jack of All Trades* – vague, doesn’t provide a strong identity.  
 
-Think of the Concept as your elevator pitch—it should tell you, at a glance, who this character is.  
+Think of the Concept as your elevator pitch — it should tell you, at a glance, who this character is.  
 
 ### What Makes a Good **Skill**?  
 
 Skills in *Loner* are qualitative rather than numerical. Instead of bonuses or stats, a **Skill** is a descriptor that grants **narrative permission** — it tells you what your character is capable of doing.  
 
-✅ **Good Examples:**  
+✅ **Good 📌 Examples:**  
 - *Engine Whisperer* – suggests a deep, almost intuitive understanding of mechanics.  
 - *Shadow Walker* – implies stealth and movement in darkness.  
 - *Tactician’s Mind* – allows for strategic thinking and planning.  
 
-❌ **Weak Examples:**  
+❌ **Weak 📌 Examples:**  
 - *Strong* – too broad; what kind of strength?  
 - *Smart* – vague; in what area?  
 - *Combat* – doesn’t indicate a specialty or style.  
@@ -116,7 +116,7 @@ These three elements are  closely related to the story and so it's best to choos
 
 - **The Goal** defines what your character is actively working toward.  
 - **The Motive** explains why they pursue it.  
-- **The Nemesis** is what stands in their way—this can be a person, an organization, or even an abstract force.  
+- **The Nemesis** is what stands in their way — this can be a person, an organization, or even an abstract force.  
 
 Since *Loner* is an emergent storytelling game, these should be chosen **based on the setting, tone, and first moments of play** rather than from a random generator.
 
@@ -130,9 +130,15 @@ Since *Loner* is an emergent storytelling game, these should be chosen **based o
 - The *Motive* might be unclear or unimportant.  
 - A *Nemesis* that doesn’t fit the world weakens the tension of the story.  
 
-### Example  
+| **Approach**   | **Outcome** |
+|---------------|------------|
+| ✅ **Organically** | The Goal, Motive, and Nemesis evolve naturally from in-game events, making them more meaningful and immersive. |
+| ❌ **Randomly** | These elements may feel disconnected from the story, weakening character depth and narrative stakes. |
 
-> **Zahra Nakajima** – Witty Street Cat  
+### 📌 Example  
+
+> **Zahra Nakajima**
+> **Concept:** Witty Street Cat  
 > **Skills:** Streetwise, Nimble  
 > **Frailty:** Merciful  
 > **Gear:** Knife, Low O2 Supplement  
@@ -141,13 +147,13 @@ Since *Loner* is an emergent storytelling game, these should be chosen **based o
 > **Nemesis:** The Naturalist Order, a group that seeks to suppress technological progress  
 > **Luck:** 6  
 
-Here, Zahra’s *Goal* and *Nemesis* aren’t arbitrary—they come from the world and story she inhabits. Her *Motive* ties into her personality, creating **emotional stakes** that make the journey meaningful.  
+Here, Zahra’s *Goal* and *Nemesis* aren’t arbitrary — they come from the world and story she inhabits. Her *Motive* ties into her personality, creating **emotional stakes** that make the journey meaningful.  
 
 If you’re unsure about your Goal, Motive, or Nemesis, start playing! Let the first scenes shape these elements instead of deciding everything upfront.  
 
 ## Everything is a Character!  
 
-In *Loner*, anything that plays a meaningful role in the story—whether a person, a spaceship, or an ancient curse—is treated like a **character**. This means the same descriptive approach used for your **Protagonist** applies to everything that matters in the game world.  
+In *Loner*, anything that plays a meaningful role in the story — whether a person, a spaceship, or an ancient curse — is treated like a **character**. This means the same descriptive approach used for your **Protagonist** applies to everything that matters in the game world.  
 
 ### Living Characters (NPCs, Foes, Organizations)  
 Any person, creature, or faction that has a **distinct role** in the story follows the same structure as the Protagonist:  
@@ -156,16 +162,8 @@ Any person, creature, or faction that has a **distinct role** in the story follo
 - They may have **Goals**, **Motives**, or **Nemeses**.
 - They interact with the world through **Tags**, influencing how scenes unfold.  
 
-### Non-Living Characters (Objects, Vehicles, Curses)  
-Not everything in *Loner* is alive, but if something **actively influences the story**, it is treated as a character. Unlike living beings:  
-- They have a **Concept**, **Skills** and **Frailtes**.
-- **They don’t have Goals, Motives, or Nemeses.**  
-- They are defined by their **function and impact** on the story.  
-- They still use **Tags** to shape how they are used or overcome.  
+### 📌 Example
 
-### Examples
-
-✅ **Living Character (Rival Bounty Hunter)**  
 > **Caine Trask**
 > **Concept:** Ruthless Lawman  
 > **Skills:** Tracker, Quick Draw  
@@ -176,7 +174,14 @@ Not everything in *Loner* is alive, but if something **actively influences the s
 > **Nemesis:** The Shadow Syndicate, a criminal network that always slips through his fingers  
 > **Luck:** 6  
 
-✅ **Non-Living Character (Starship)**  
+### Non-Living Characters (Objects, Vehicles, Curses)  
+Not everything in *Loner* is alive, but if something **actively influences the story**, it is treated as a character. Unlike living beings:  
+- They have a **Concept**, **Skills** and **Frailties**.
+- **They don’t have Goals, Motives, or Nemeses.**  
+- They are defined by their **function and impact** on the story.  
+- They still use **Tags** to shape how they are used or overcome.  
+
+### 📌 Example
 
 > **The Century Skylark**  
 > - **Concept:** Spacecraft in bad shape  
@@ -186,22 +191,22 @@ Not everything in *Loner* is alive, but if something **actively influences the s
 
 ## Descriptive Tags  
 
-Tags are **short descriptive phrases** that define and shape the game world. They don’t use numbers or stats—just **words that matter** in play.  
+Tags are **short descriptive phrases** that define and shape the game world. They don’t use numbers or stats — just **words that matter** in play.  
 
-Everything in *Loner*—characters, places, objects, and events—can have Tags. These tags help determine how situations unfold and whether a character has an **Advantage or Disadvantage** in a scene.  
+Everything in *Loner* — characters, places, objects, and events — can have Tags. These tags help determine how situations unfold and whether a character has an **Advantage or Disadvantage** in a scene.  
 
 ### Types of Tags  
 
 Tags generally fall into three broad categories:  
 
 - **Character Traits** – Describe a character’s **skills, flaws, goals, or motives**. These shape what they excel at and what holds them back.  
-*Examples:* *Veteran Marksman, Haunted by the Past, Driven by Revenge*  
+*📌 Examples:* *Veteran Marksman, Haunted by the Past, Driven by Revenge*  
 
 - **Details** – Define the **environment, objects, or situational features** that could influence the story.  
-*Examples:* *Dimly Lit Corridor, High-Security Vault, Crumbling Bridge*  
+*📌 Examples:* *Dimly Lit Corridor, High-Security Vault, Crumbling Bridge*  
 
 - **Conditions** – Represent **temporary or lasting effects** that change how a character acts or what they must overcome.  
-*Examples:* *Wounded Leg, Feared by Locals, Wanted by the Law*  
+*📌 Examples:* *Wounded Leg, Feared by Locals, Wanted by the Law*  
 
 ### How Tags Affect Play  
 
@@ -215,7 +220,7 @@ Tags provide **context**, not math. They don’t work like stats or bonuses; ins
 - A numerical rating or score (*+2 Strength* is not a Tag).  
 - A passive trait that never impacts play (*Nice Person* isn’t a strong Tag unless it changes outcomes).  
 
-Think of Tags as **narrative signposts**—they describe things in a way that directly affects the unfolding story.  
+Think of Tags as **narrative signposts** — they describe things in a way that directly affects the unfolding story.  
 
 ## Before the Adventure  
 
@@ -223,7 +228,7 @@ You can jump straight into the game, but it's a good idea to take a little time 
 
 ### Build a Web of Connections  
 
-- **Your Nemesis is an NPC** – If you’ve defined a Nemesis, you’ve already created a key Non-Player Character (NPC). Write down their details separately—you’ll likely cross paths again.  
+- **Your Nemesis is an NPC** – If you’ve defined a Nemesis, you’ve already created a key Non-Player Character (NPC). Write down their details separately — you’ll likely cross paths again.  
 - **Allies and Contacts** – Does your Protagonist have friends, mentors, or rivals? List them out with a short description so they can appear organically during play.  
 
 Preparing in advance will help your world feel more realistic and connected as you play.  
@@ -234,48 +239,11 @@ Beyond characters, consider noting:
 - **Important Locations** – Places that might be revisited, such as a criminal hideout, a hidden temple, or a war-torn city.  
 - **Major Events** – Significant events that shape the story, such as a rebellion or an impending disaster.    
 
-These don’t have to be fully detailed—just quick notes that give you something to draw from when the story takes unexpected turns.  
+These don’t have to be fully detailed — just quick notes that give you something to draw from when the story takes unexpected turns.  
 
 A little preparation goes a long way, ensuring your world feels rich and interconnected as you play.  
 
 ## Start Your Game  
-
-Every great adventure begins somewhere. In *Loner*, you set the scene by determining where your Protagonist is **right now** and what immediate challenge they face.  
-
-### Two Ways to Begin  
-
-1. **Drop into the Action** – Start in the middle of a dramatic moment. Your character might already be **escaping from danger, uncovering a secret, or facing a tough decision**. This approach builds momentum from the first scene.  
-2. **Frame the Setup** – If you prefer a structured start, answer the classic storytelling questions:  
-   - **Who?** (Who initiates the story?)  
-   - **What?** (What mission or task is at hand?)  
-   - **Why?** (Why does the Protagonist care?)  
-   - **Where?** (Where does the adventure take place?)  
-   - **How?** (How does the story begin—what sets events into motion?)  
-   - **Obstacle?** (What complication immediately stands in the way?)  
-
-If you're unsure where to start, roll on the table below for inspiration:  
-
-| D6 | **Who?**<br>Proposer | **What?**<br>Mission | **Why?**<br>Incentive | **Where?**<br>Target | **How?**<br>Starting Point | **Obstacle?**<br>Complication |
-|:--:|:---------------------:|:--------------------:|:---------------------:|:--------------------:|:-------------------------:|:-----------------------------:|
-|  1 |      Authority        |        Rescue        |          Help         |        Person        |     Casual encounter      |         Opposition          |
-|  2 |    Organization       |      Protection      |        Fortune        |         Group        |     Old acquaintance      |         Deception           |
-|  3 | Ally (friend, relative) |      Exploit       |       Coercion        |       Treasure       |          Rumors          |        Environment         |
-|  4 |       Mentor         |       Explore        |        Impulse        |       Location       |         Capture          |          Disguise          |
-|  5 |    Help-seeker       |       Escape        |        Ambition       |       McGuffin       |          Mishap          |            Time            |
-|  6 |     Blackmailer      |       Pursuit        |        Revenge        |      Confession      |   Object (map, letter)   |           Space            |
-
-### Example  
-
-> **Who?** Mentor  
-> **What?** Exploit  
-> **Why?** Help  
-> **Where?** McGuffin  
-> **How?** Rumors  
-> **Obstacle?** Time  
->  
-> Tobias Wethern took Zahra under his wing when her parents died. That’s why she can’t say no to him now. Tobias wants Zahra to **steal a datapad** from the Leton Corporation’s subsidiary. He doesn’t know exactly where it’s stored, but in **24 hours, security will move it to another location**—so there’s no time to waste.  
-
-### **Starting Your Game: Framing vs. Jumping into Action**  
 
 Every great adventure begins **somewhere**. In *Loner*, you define the **starting scene** by deciding where your Protagonist is **right now** and what immediate challenge they face.  
 
@@ -283,17 +251,17 @@ There are **two main ways** to begin:
 
 ### **1. Drop into the Action (Dramatic Scene)**  
 
-Start in **the middle of a tense, dynamic moment**—your Protagonist is already **escaping, fighting, negotiating, or uncovering a secret**.  
+Start in **the middle of a tense, dynamic moment** — your Protagonist is already **escaping, fighting, negotiating, or uncovering a secret**.  
 
-✅ **Builds momentum immediately**—the story starts **in motion** rather than in planning.  
-✅ **Easy to improvise**—the scene itself suggests the next logical actions.  
+✅ **Builds momentum immediately** — the story starts **in motion** rather than in planning.  
+✅ **Easy to improvise** — the scene itself suggests the next logical actions.  
 
 📌 **Example:**  
-> Your Protagonist is **running through a neon-lit alley**, gunfire behind them. A rival bounty hunter is closing in—**do they find cover in time?**  
+> Your Protagonist is **running through a neon-lit alley**, gunfire behind them. A rival bounty hunter is closing in — **do they find cover in time?**  
 
 This technique is borrowed from fiction and film, where **beginning with action** hooks the audience. Imagine the opening of *Raiders of the Lost Ark*: Indiana Jones **is already inside the temple**, dodging traps. **Much more engaging than starting with him reading a book at home!**  
 
-💡 **Tip:** A dramatic opening doesn’t need combat—it just needs tension, urgency, or a **clear conflict to resolve**.  
+💡 **Tip:** A dramatic opening doesn’t need combat — it just needs tension, urgency, or a **clear conflict to resolve**.
 
 ### **2. Frame the Adventure First**  
 
@@ -304,32 +272,40 @@ Ask:
 - **What?** *(What mission or task is at hand?)*  
 - **Why?** *(Why does the Protagonist care?)*  
 - **Where?** *(Where does the adventure take place?)*  
-- **How?** *(How does the story begin—what sets events into motion?)*  
+- **How?** *(How does the story begin — what sets events into motion?)*  
 - **Obstacle?** *(What immediately stands in the way?)*  
 
-✅ **Gives a concrete premise**—your Protagonist has a clear **goal** from the start.  
-✅ **Helps with structured play**—you know **what’s at stake** before the first scene.  
+| D6 | **Who?**<br>Proposer | **What?**<br>Mission | **Why?**<br>Incentive | **Where?**<br>Target | **How?**<br>Starting Point | **Obstacle?**<br>Complication |
+|:--:|:---------------------:|:--------------------:|:---------------------:|:--------------------:|:-------------------------:|:-----------------------------:|
+|  1 |      Authority        |        Rescue        |          Help         |        Person        |     Casual encounter      |         Opposition          |
+|  2 |    Organization       |      Protection      |        Fortune        |         Group        |     Old acquaintance      |         Deception           |
+|  3 | Ally (friend, relative) |      Exploit       |       Coercion        |       Treasure       |          Rumors          |        Environment         |
+|  4 |       Mentor         |       Explore        |        Impulse        |       Location       |         Capture          |          Disguise          |
+|  5 |    Help-seeker       |       Escape        |        Ambition       |       McGuffin       |          Mishap          |            Time            |
+|  6 |     Blackmailer      |       Pursuit        |        Revenge        |      Confession      |   Object (map, letter)   |           Space            |
 
-📌 **Example:**  
-> **Who?** A rogue scientist.  
-> **What?** Needs the Protagonist to retrieve stolen research.  
-> **Why?** The research is **too dangerous to fall into corporate hands**.  
-> **Where?** A secret lab hidden in the mountains.  
-> **How?** The only lead is a black-market courier.  
-> **Obstacle?** A rival team is also after the research.  
+✅ **Gives a concrete premise** — your Protagonist has a clear **goal** from the start.  
+✅ **Helps with structured play** — you know **what’s at stake** before the first scene.  
 
-Now you **know the setup**, but you can **still decide whether to start with a dramatic scene or a quieter introduction**.  
+> **Who?** Mentor  
+> **What?** Exploit  
+> **Why?** Help  
+> **Where?** McGuffin  
+> **How?** Rumors  
+> **Obstacle?** Time  
+>  
+> Tobias Wethern took Zahra under his wing when her parents died. That’s why she can’t say no to him now. Tobias wants Zahra to **steal a datapad** from the Leton Corporation’s subsidiary. He doesn’t know exactly where it’s stored, but in **24 hours, security will move it to another location** — so there’s no time to waste.
 
 ### **Which One Should You Use?**  
 
 📌 **Dramatic Scene:** Best if you want to **jump right in** and discover the story as you play.  
 📌 **Framed Setup:** Best if you want **a structured mission goal** before the first scene.  
 
-You **don’t have to choose just one**—you can **combine both**:  
+You **don’t have to choose just one** — you can **combine both**:  
 1. **Use a frame to set up the mission.**  
 2. **Then, start with a dramatic scene.**  
 
-📌 **Example:** You **frame** a mission (*steal a data drive from a rival hacker*)—but instead of starting at the planning stage, you **drop into the action** (*the Protagonist is already inside the hacker’s apartment, alarms blaring!*).  
+📌 **Example:** You **frame** a mission (*steal a data drive from a rival hacker*) — but instead of starting at the planning stage, you **drop into the action** (*the Protagonist is already inside the hacker’s apartment, alarms blaring!*).  
 
 Both methods serve **different play styles**, but together they create a **strong opening for any adventure**.
 
@@ -353,7 +329,7 @@ Every scene follows a natural rhythm:
 2. **Test the Uncertainty** – If an outcome isn’t obvious (or if overconfidence tempts fate), consult the Oracle with a **Yes/No question**. Use **Tags** to determine if the Protagonist has an [Advantage or Disadvantage](#advantage-and-disadvantage).  
 3. **Interpret the Result** – The Oracle’s answer may confirm your expectations or subvert them. How does this outcome reshape the scene? What new possibilities emerge?  
 
-At first, you may want to follow this structure deliberately, but with practice, it will become second nature  —allowing the story to flow naturally.  
+At first, you may want to follow this structure deliberately, but with practice, it will become second nature   — allowing the story to flow naturally.  
 
 ![](diagrams/scene_breakdown.png)
 
@@ -367,27 +343,25 @@ Expectations help guide the story, but they don’t always require a roll. If an
 
 - **If the outcome is obvious →** No need to roll; the scene unfolds as expected.  
 - **If the outcome is uncertain or risky →** Ask the Oracle a Yes/No question.  
-- **If you want an unexpected twist →** Ask even when you're fairly confident—sometimes reality doesn’t behave as expected!  
+- **If you want an unexpected twist →** Ask even when you're fairly confident — sometimes reality doesn’t behave as expected!  
 
-### Example 1: No Roll Needed  
+### 📌 Example 1: No Roll Needed  
 
 > Zahra sneaks into the Leton Corporation subsidiary. She knows from prior surveillance that security is **lighter at night**. Since this aligns with logic and expectations, the scene plays out: Zahra **gets inside undetected** without needing to ask the Oracle.  
 
-### Example 2: Asking the Oracle for Uncertainty  
+### 📌 Example 2: Asking the Oracle for Uncertainty  
 
-> Zahra crawls through the ventilation ducts, expecting them to be unguarded. But what if there’s a **security alarm** hidden inside? That’s uncertain—so she asks the Oracle:  
+> Zahra crawls through the ventilation ducts, expecting them to be unguarded. But what if there’s a **security alarm** hidden inside? That’s uncertain — so she asks the Oracle:  
 >  
 > **"Is there an alarm in the ducts?"** and rolls.  
 
-### Example 3: Asking the Oracle for an Unexpected Twist  
+### 📌 Example 3: Asking the Oracle for an Unexpected Twist  
 
-> Zahra makes her way to the server room. She **knows** from a stolen security map that the door **requires only a simple override**—but what if she’s wrong? She asks the Oracle:  
+> Zahra makes her way to the server room. She **knows** from a stolen security map that the door **requires only a simple override** — but what if she’s wrong? She asks the Oracle:  
 >  
 > **"Is the security system exactly as expected?"**  
 >  
-> The answer is **No, and…** The lock has been **upgraded recently**, requiring **biometric clearance**—and the real surprise? Security has just started their midnight patrol.  
-
-By occasionally **challenging even safe assumptions**, you open the door to **surprises and complications** that can take the story in unexpected directions.  
+> The answer is **No, and…** The lock has been **upgraded recently**, requiring **biometric clearance** — and the real surprise? Security has just started their midnight patrol.  
 
 ## Consulting the Oracle  
 
@@ -410,25 +384,25 @@ When you consult the **Oracle**, roll **one Chance Die and one Risk Die**, then 
 
 ### **Step 2: Check for Modifiers**  
 
-📉 **Are both dice 3 or lower?**  
+📉 **Are both dice <= 3?**  
 ➝ Add **but...** (*Something goes wrong or adds tension.*)  
 
-📈 **Are both dice 4 or higher?**  
+📈 **Are both dice >= 4?**  
 ➝ Add **and...** (*Something extra goes in your favor.*)  
 
 ### **Resolution Breakdown**  
 
 🟢 **Chance Die > Risk Die → "Yes"**  
-✅ **Both dice < 4 → "Yes, but..."** *(Success with a drawback)*  
-✅ **Both dice > 3 → "Yes, and..."** *(Success with a bonus)*  
+✅ **Both dice <= 3 → "Yes, but..."** *(Success with a drawback)*  
+✅ **Both dice >= 4 → "Yes, and..."** *(Success with a bonus)*  
 
 🔴 **Risk Die > Chance Die → "No"**  
-❌ **Both dice < 4 → "No, but..."** *(Failure, but something positive happens)*  
-❌ **Both dice > 3 → "No, and..."** *(Failure with extra consequences)*  
+❌ **Both dice <= 3 → "No, but..."** *(Failure, but something positive happens)*  
+❌ **Both dice >= 4 → "No, and..."** *(Failure with extra consequences)*  
 
 ⚖️ **Both Dice Equal → "Yes, but..."** *(+1 Twist Counter!)*  
 
-### Example: Breaking In  
+### 📌 Example: Breaking In  
 
 > Zahra wants to **force open a security hatch** without triggering an alarm.  
 > She asks the Oracle: **“Does Zahra manage to force the hatch?”**  
@@ -436,10 +410,10 @@ When you consult the **Oracle**, roll **one Chance Die and one Risk Die**, then 
 > 🎲 Rolls: **Chance Die (5), Risk Die (4)**  
 >  
 > ✅ **Chance Die is higher** → The answer is **Yes** (*she succeeds*).  
-> ✅ **Both dice are 4 or higher** → Add **And...** (*something extra goes her way*).  
+> ✅ **Both dice are >= 4** → Add **And...** (*something extra goes her way*).  
 >  
 > **Outcome:**  
-> > Zahra forces the hatch **without setting off an alarm**, and **she also finds a map of the facility inside**.  
+> Zahra forces the hatch **without setting off an alarm**, and **she also finds a map of the facility inside**.  
 
 If the Risk Die had been **3** instead of **4**, the answer would have been a plain **Yes**, without the extra benefit.  
 
@@ -453,10 +427,10 @@ Sometimes, the situation or a **Tag** will grant an **Advantage** or **Disadvant
 - **Disadvantage** → Add an **extra Risk Die** 🎲 (hindrances, complications, difficult conditions).  
 - In both cases, **roll all dice of that type and keep only the highest one**.  
 
-📌 **Example of Advantage:**  
+📌 **📌 Example of Advantage:**  
 > Zahra is attempting to **charm a suspicious merchant** into revealing illegal goods. She has the **Tag: Smooth Talker**, so she **rolls with Advantage** (two Chance Dice, one Risk Die).  
 
-📌 **Example of Disadvantage:**  
+📌 **📌 Example of Disadvantage:**  
 > Zahra is **hacking a corporate databank** under pressure, with no expertise and a security system against her. She **rolls with Disadvantage** (two Risk Dice, one Chance Die).  
 
 ### **Important!**  
@@ -481,7 +455,7 @@ Instead of treating Tags like numerical modifiers, **think narratively**:
 | **One or more negative Tags (net of positives)** | **Disadvantage** (roll 2 Risk Dice, 1 Chance Die) |
 | **Positive and negative Tags cancel out** | **Neutral** (roll 1 Chance Die, 1 Risk Die) |
 
-### **Example: Hacking the Datapad**  
+### **📌 Example: Hacking the Datapad**  
 
 Zahra is attempting to **hack a secure corporate databank** to retrieve **classified information**. However, she is **not a skilled hacker**, and the security system is highly advanced.  
 
@@ -513,17 +487,13 @@ Zahra is attempting to **hack a secure corporate databank** to retrieve **classi
 ✅ **Encourages situational storytelling** – Instead of stacking numbers, Tags describe why a situation is easy or difficult.  
 ✅ **Prevents excessive stacking** – One strong Advantage or Disadvantage is enough to shift the outcome.  
 
-By keeping **Advantage and Disadvantage intuitive**, *Loner* ensures that **game flow remains fast and dynamic**, without overloading rolls with excessive modifiers.
-
 ![](diagrams/consulting_oracle.png)
 
 ## Interpreting the Oracle  
 
 The Oracle provides **a simple answer**, but **your interpretation** is what brings it to life. Instead of treating the Oracle as just a mechanic, use it as a **narrative driver** that pushes the story forward.  
 
-### Understanding Oracle Responses  
-
-| **Oracle Result** | **Outcome**                                       |
+| **Answer** | **Outcome**                                       |
 |------------------|--------------------------------------------------|
 | **Yes, and...**  | You get what you want **+ an extra advantage**    |
 | **Yes...**       | You succeed in your action                        |
@@ -534,9 +504,9 @@ The Oracle provides **a simple answer**, but **your interpretation** is what bri
 
 ### Making the Results Interesting  
 
-✅ **Straightforward answers** (*Yes/No*) are useful but can feel flat—use them when the story needs momentum.  
+✅ **Straightforward answers** (*Yes/No*) are useful but can feel flat — use them when the story needs momentum.  
 ✅ **Modifiers (*but.../and...*)** add layers of complexity and should push the scene in **new, engaging directions**.  
-✅ **Tie the answer back to existing story elements**—NPCs, locations, or unresolved threads.  
+✅ **Tie the answer back to existing story elements** — NPCs, locations, or unresolved threads.  
 
 By actively **interpreting Oracle results** rather than just taking them at face value, you ensure that every roll **adds tension, depth, or intrigue to the game**.  
 
@@ -547,7 +517,7 @@ There’s no single way to read an Oracle response. Depending on **the context o
 #### 1. The Oracle as Intensity  
 Instead of reading the response as a **binary success or failure**, treat it as **a measure of how well or poorly things go**:  
 
-| **Oracle Result** | **Intensity of Outcome** |
+| **Answer** | **Intensity of Outcome** |
 |------------------|------------------------|
 | **Yes, and...**  | **Major success** (Overwhelming advantage, unexpected bonus) |
 | **Yes...**       | **Moderate success** (Standard outcome, things go as expected) |
@@ -572,12 +542,10 @@ Instead of a simple success/failure reading, let the Oracle **introduce a new el
 - 🎲 **No, but…** → *She fails to hack in, but she learns that the mainframe is vulnerable to an external backdoor.*  
 - 🎲 **No, and…** → *Not only does she fail, but she accidentally trips a silent alarm, alerting security.*  
 
-By using the Oracle this way, you **add depth and unpredictability** to the story instead of treating it as a simple skill check.  
-
 #### 3. The Oracle as Momentum Control  
 You can also use the Oracle to determine **whether the scene’s tension rises, falls, or stays steady**:  
 
-| **Oracle Result** | **Scene Momentum** |
+| **Answer** | **Scene Momentum** |
 |------------------|------------------|
 | **Yes, and...**  | **Drives the scene forward with a major development** |
 | **Yes...**       | **Moves the story in a predictable direction** |
@@ -587,16 +555,16 @@ You can also use the Oracle to determine **whether the scene’s tension rises, 
 | **No, and...**   | **Escalates the stakes significantly** |
 
 📌 **Example:** Zahra is interrogating an informant.  
-- 🎲 **Yes, and…** → *The informant cracks immediately and spills everything—and even offers to help.*  
+- 🎲 **Yes, and…** → *The informant cracks immediately and spills everything — and even offers to help.*  
 - 🎲 **Yes…** → *He gives Zahra the information she wants.*  
 - 🎲 **Yes, but…** → *He talks, but some details are unreliable or missing.*  
 - 🎲 **No, but…** → *He refuses to talk, but his reaction suggests he knows something crucial.*  
 - 🎲 **No…** → *He refuses to talk completely.*  
 - 🎲 **No, and…** → *He shuts down and alerts someone to Zahra’s presence.*  
 
-This interpretation helps **control pacing**—*Yes, and...* moves the game forward rapidly, while *No, and...* forces a dramatic shift.  
+This interpretation helps **control pacing** — *Yes, and...* moves the game forward rapidly, while *No, and...* forces a dramatic shift.  
 
-### Example: Expanding the Story with Interpretation  
+### 📌 Example: Expanding the Story with Interpretation  
 
 📌 **Scenario:** Zahra is sneaking into a research facility.  
 📌 **Question:** *"Does she make it inside unnoticed?"*  
@@ -608,7 +576,7 @@ Instead of a **simple failure**, let’s apply different interpretations:
 ✅ **As a Twist:** She’s caught, **but the person who finds her is an old ally instead of an enemy**.  
 ✅ **As Momentum Control:** She’s detected, **but instead of triggering an alarm, the guards begin searching, giving her a brief window to hide**.  
 
-💡 **By using flexible interpretations, the Oracle doesn’t just dictate what happens—it guides the story in meaningful ways.**  
+💡 **By using flexible interpretations, the Oracle doesn’t just dictate what happens — it guides the story in meaningful ways.**  
 
 ### The Oracle as a Narrative Tool 
 
@@ -616,22 +584,20 @@ Instead of a **simple failure**, let’s apply different interpretations:
 ✅ **Use context to shape interpretation.** A *No, and...* in a combat scene will feel different than in a conversation.  
 ✅ **Experiment with different methods.** Try using the Oracle as **intensity, momentum, or a twist generator** to keep your story fresh and dynamic.  
 
-By shifting the focus from **mechanics to storytelling**, *Loner* ensures that every Oracle roll creates **interesting, evolving gameplay**—not just pass/fail results.
-
 ## Sibylline Responses  
 
 Sometimes, the Oracle's answer **won’t make immediate sense** in the context of your scene. Instead of getting stuck, follow these steps to keep the story moving.  
 
 ### How to Handle a Confusing Answer  
 
-1. **Don't Overquestion It** – Avoid asking too many follow-ups to force a "logical" result. Three Yes/No questions should be enough—if you're still unsure, move on.  
+1. **Don't Overquestion It** – Avoid asking too many follow-ups to force a "logical" result. Three Yes/No questions should be enough — if you're still unsure, move on.  
 2. **Reframe the Answer** – Think about the broader situation. Could this result **introduce a hidden complication** or **suggest a deeper truth**?  
 3. **Use an Open-Ended Question** – If you’re still lost, roll on an **inspiration table** or ask something like:  
    - *"What unexpected factor is at play?"*  
    - *"What does this reveal that I didn’t consider?"*  
 4. **Default to "Yes, but..."** – If nothing else fits, treat the response as *Yes, but…* and introduce a **minor complication** that makes the answer work.  
 
-### Example: Dealing with a Strange Answer  
+### 📌 Example: Dealing with a Strange Answer  
 
 > **Question:** *"Is the informant still at the bar?"*  
 > 🎲 **Oracle Answer: No, and...**  
@@ -646,8 +612,6 @@ Sometimes, the Oracle's answer **won’t make immediate sense** in the context o
 > **Final Interpretation:**  
 > The informant is gone, **and... the bartender nervously avoids eye contact, suggesting at foul play.** Now the story moves forward with **a new layer of intrigue**.  
 
-⚠️ By staying **flexible and open to interpretation**, you can **turn unclear Oracle responses into unexpected plot developments** instead of roadblocks.  
-
 ## Twist Counter  
 
 The **Twist Counter** represents **rising tension in the narrative**. Every time you roll **doubles** (both dice show the same number), you:  
@@ -657,7 +621,7 @@ The **Twist Counter** represents **rising tension in the narrative**. Every time
 
 If the Counter is **below 3**, treat the result as **"Yes, but..."** instead of triggering a twist.  
 
-### Example: A Ticking Tension  
+### 📌 Example: A Ticking Tension  
 
 > Zahra is trying to **decrypt stolen files** to uncover evidence against a powerful corporation. She asks the Oracle:  
 >  
@@ -671,7 +635,7 @@ If the Counter is **below 3**, treat the result as **"Yes, but..."** instead of 
 
 🎲 **Twist Roll:** (1, 5) → **"A third party" + "Changes the goal"**  
 
-> **Interpretation:** Zahra now has the evidence—but suddenly, **a corporate agent contacts her with an offer**:  
+> **Interpretation:** Zahra now has the evidence — but suddenly, **a corporate agent contacts her with an offer**:  
 > *"You can expose us… or take a deal that changes your life."*  
 
 ## Determine the Twist  
@@ -689,7 +653,7 @@ When the **Twist Counter reaches 3**, roll **2d6** on the table below:
 
 Interpret the **two-word result** within the context of the current scene. Twists should **shake up the story**, forcing the Protagonist to adapt.  
 
-### **Example: How a Twist Changes the Story**  
+### **📌 Example: How a Twist Changes the Story**  
 
 > **Scenario:** Zahra is infiltrating a high-tech facility to steal corporate secrets.  
 > She asks: **"Can she reach the secure server unnoticed?"**  
@@ -697,21 +661,21 @@ Interpret the **two-word result** within the context of the current scene. Twist
 >  
 > 🎲 **Twist Roll:** (4, 2) → **"A physical event" + "Alters the location"**  
 
-**Interpretation:** Just as Zahra nears the server room, **an explosion rocks the building**. Security scrambles, alarms blare—**but now the mission has changed**. Instead of sneaking in, she needs to **escape the collapsing structure with whatever data she can grab.**  
+**Interpretation:** Just as Zahra nears the server room, **an explosion rocks the building**. Security scrambles, alarms blare — **but now the mission has changed**. Instead of sneaking in, she needs to **escape the collapsing structure with whatever data she can grab.**  
 
 ### Why the Twist Counter Matters  
 
 The **Twist Counter** keeps *Loner* full of **surprises**, ensuring no two stories play out the same way.  
 
-✅ **Builds tension naturally**—the more doubles you roll, the closer a twist becomes.  
-✅ **Prevents predictable storytelling**—forcing the game world to react dynamically.  
-✅ **Encourages creative interpretation**—every twist reshapes the adventure in unexpected ways.  
+✅ **Builds tension naturally** — the more doubles you roll, the closer a twist becomes.  
+✅ **Prevents predictable storytelling** — forcing the game world to react dynamically.  
+✅ **Encourages creative interpretation** — every twist reshapes the adventure in unexpected ways.  
 
 ## Conflicts  
 
 A **Conflict** occurs whenever **two or more forces oppose each other**, whether through **combat, competition, persuasion, or resistance**.  
 
-Conflicts are not limited to **physical fights**—they also include:  
+Conflicts are not limited to **physical fights** — they also include:  
 - **Verbal duels** (*intimidation, negotiations, debates*)  
 - **Tactical contests** (*chases, sabotage, heists*)  
 - **Mental struggles** (*resisting psychic influence, enduring torture*)  
@@ -741,32 +705,32 @@ This method is a **middle ground** between:
 
 1️⃣ **Describe each action as a distinct moment** and ask the Oracle whether it succeeds or fails.  
 2️⃣ **Use the result modifiers ("but..."/"and...")** to introduce twists and consequences.  
-3️⃣ **Let the outcome shape the next step in the scene**—without needing to track Luck loss.  
+3️⃣ **Let the outcome shape the next step in the scene** — without needing to track Luck loss.  
 
-### **Example: A Firefight in an Abandoned Factory**  
+### **📌 Example: A Firefight in an Abandoned Factory**  
 
 > Zahra is caught in a gunfight inside a **dilapidated chemical plant**, exchanging fire with a bounty hunter. Instead of tracking Luck, she resolves the battle action by action:  
 
 🔹 **First Action:**  
 🗣️ *"Can I take cover behind the wall?"*  
 🎲 **Yes, but...**  
-✅ *She reaches cover, but her line of fire is obstructed—giving her a Disadvantage.*  
+✅ *She reaches cover, but her line of fire is obstructed — giving her a Disadvantage.*  
 
 🔹 **Second Action:**  
 🗣️ *"I aim at the opponent, can I get the first shot in?"*  
 🎲 **No, but...**  
-❌ *She misses—but the bounty hunter is forced to move, breaking his own line of fire.* (Now Zahra gains an Advantage.)  
+❌ *She misses — but the bounty hunter is forced to move, breaking his own line of fire.* (Now Zahra gains an Advantage.)  
 
 🔹 **Final Action:**  
 🗣️ *"I shoot a slag container above him. Do I hit it?"*  
 🎲 **Yes, and...**  
-✅ *The shot lands perfectly—the container crashes down, knocking the bounty hunter out cold.*  
+✅ *The shot lands perfectly — the container crashes down, knocking the bounty hunter out cold.*  
 
 ### Why Use This Method?  
 
-✅ **Creates cinematic, fast-paced encounters**—each action **unfolds dynamically** instead of tracking damage.  
-✅ **Encourages creative solutions**—instead of **hit point attrition**, players find **ways to shift the fight in their favor**.  
-✅ **Adds unpredictability**—since **each move is a separate Oracle roll**, conflicts can take unexpected turns.  
+✅ **Creates cinematic, fast-paced encounters** — each action **unfolds dynamically** instead of tracking damage.  
+✅ **Encourages creative solutions** — instead of **hit point attrition**, players find **ways to shift the fight in their favor**.  
+✅ **Adds unpredictability** — since **each move is a separate Oracle roll**, conflicts can take unexpected turns.  
 
 ### When to Use It  
 
@@ -781,7 +745,7 @@ This system **keeps conflicts fast, reactive, and engaging**, making every choic
 
 ### Handling Conflicts with Multiple Opponents  
 
-Not all conflicts involve a **one-on-one confrontation**—sometimes the Protagonist must face **multiple adversaries** at once. How this plays out depends on **narrative context** and the desired level of complexity.  
+Not all conflicts involve a **one-on-one confrontation** — sometimes the Protagonist must face **multiple adversaries** at once. How this plays out depends on **narrative context** and the desired level of complexity.  
 
 ### **Option 1: Treat the Opponents as a Single Entity**  
 
@@ -790,10 +754,10 @@ Not all conflicts involve a **one-on-one confrontation**—sometimes the Protago
 One simple way to manage multiple opponents is to **treat them as a single "character"** with:  
 - **A shared Concept and Skills** (*Elite Mercenary Squad, Swarm of Cultists, Riot Police Formation*).  
 - **A single Luck pool** that represents **their overall strength**.  
-- **A Fragility** related to their **numbers**—the larger the group, the harder it may be to coordinate their actions effectively.  
+- **A Fragility** related to their **numbers** — the larger the group, the harder it may be to coordinate their actions effectively.  
 
 ✅ **Pros:** Keeps the encounter fast-paced and prevents excessive dice rolling.  
-❌ **Cons:** Doesn’t emphasize individual threats—treats the opposition as an abstract challenge.  
+❌ **Cons:** Doesn’t emphasize individual threats — treats the opposition as an abstract challenge.  
 
 ### Option 2: Handle Opponents as Separate Entities  
 
@@ -801,13 +765,13 @@ One simple way to manage multiple opponents is to **treat them as a single "char
 
 If each opponent is distinct, **resolve their actions individually**, using:  
 - **Separate Luck pools** for key adversaries (*a commander, a rival bounty hunter, an elite duelist*).  
-- **A mix of conflict resolution methods**—you might resolve the **mooks** as a single entity but use full Harm & Luck for the **boss fight**.  
+- **A mix of conflict resolution methods** — you might resolve the **mooks** as a single entity but use full Harm & Luck for the **boss fight**.  
 - **Oracle rolls to dictate group behavior** (*Do they fight as a unit? Do they break formation?*).  
 
 ✅ **Pros:** Creates a more tactical, cinematic encounter.  
 ❌ **Cons:** Can slow down play if not streamlined.  
 
-### Example: A Fight Against a Mercenary Squad  
+### 📌 Example: A Fight Against a Mercenary Squad  
 
 > Zahra is **ambushed by five corporate mercenaries**. Instead of rolling for each one separately, they are treated as **a single unit** with the Concept *Tactical Strike Team* and Skill *Coordinated Maneuvers*.  
 >  
@@ -819,9 +783,9 @@ If each opponent is distinct, **resolve their actions individually**, using:
 
 ### Why Use These Methods?  
 
-✅ **Keeps group encounters manageable**—rolling separately for a large group can slow the game down.  
-✅ **Maintains narrative flow**—players can focus on the **tension of the scene** rather than excessive mechanics.  
-✅ **Gives flexibility**—whether treating enemies as a unit or separate threats, the system adapts to the situation.  
+✅ **Keeps group encounters manageable** — rolling separately for a large group can slow the game down.  
+✅ **Maintains narrative flow** — players can focus on the **tension of the scene** rather than excessive mechanics.  
+✅ **Gives flexibility** — whether treating enemies as a unit or separate threats, the system adapts to the situation.  
 
 The key takeaway? **Conflicts should serve the story, not bog it down.** Whether you treat opponents as a **swarm, a unit, or distinct characters**, the goal is to **keep the action moving** while making the challenge feel real.
 
@@ -833,7 +797,7 @@ If a **conflict involves risk and attrition**, you can track **Luck loss** to de
 - Roll as normal to determine if the Protagonist **gets what they want**.  
 - If they succeed, they deal damage. If they fail, they take damage.  
 
-📉 **Luck represents resilience, endurance, and fortune.** A character who runs out of Luck is **defeated**—but what that means depends on the context:  
+📉 **Luck represents resilience, endurance, and fortune.** A character who runs out of Luck is **defeated** — but what that means depends on the context:  
 - In a **brawl**, they might be knocked out.  
 - In a **verbal duel**, they might concede the argument.  
 - In a **chase**, they might lose their target.  
@@ -860,7 +824,7 @@ At **0 Luck**, the **story dictates the consequences**, like:
 - Are they **severely injured**?  
 - Do they **retreat and regroup**?  
 
-### Example: Alley Fight  
+### 📌 Example: Alley Fight  
 
 > Zahra faces a **thug in an alley**. The thug has the Tags *Martial Artist*, *Hand-to-Hand Combat*, *Feline*, and *Short*.  
 >  
@@ -880,28 +844,28 @@ At **0 Luck**, the **story dictates the consequences**, like:
 
 ### **Luck and Narrative Consequences**  
 
-Luck does not function as a **health bar**—it represents a **character’s ability to evade misfortune, manipulate fate, or endure challenges**. When Luck runs out, it signals **a shift in the story**, not necessarily **injury or death**.  
+Luck does not function as a **health bar** — it represents a **character’s ability to evade misfortune, manipulate fate, or endure challenges**. When Luck runs out, it signals **a shift in the story**, not necessarily **injury or death**.  
 
 #### What Happens When a Character Reaches 0 Luck?  
 
-📌 **Losing all Luck doesn’t mean immediate death**—instead, it signals a dramatic turning point. The Oracle and story context should guide what happens next.  
+📌 **Losing all Luck doesn’t mean immediate death** — instead, it signals a dramatic turning point. The Oracle and story context should guide what happens next.  
 
 - **In Combat?** → The character might be captured, knocked unconscious, or forced to flee.  
 - **In a Chase?** → They lose their target or get cornered.  
 - **In a Debate?** → They are outmaneuvered and must concede or face consequences.  
 - **In a Heist?** → They trigger an alarm or leave behind crucial evidence.  
 
-The moment Luck reaches **zero**, stop rolling—**the conflict has reached its conclusion**. Now, ask: **What makes sense for the story?**  
+The moment Luck reaches **zero**, stop rolling — **the conflict has reached its conclusion**. Now, ask: **What makes sense for the story?**  
 
-### Example: When Luck Runs Out  
+### 📌 Example: When Luck Runs Out  
 
 > Zahra is **dueling a bounty hunter** in the ruins of an abandoned station.  
 >  
-> 🎲 The fight escalates, and Zahra’s **Luck drops to 0**. The Oracle will no longer determine small exchanges—her fate is sealed.  
+> 🎲 The fight escalates, and Zahra’s **Luck drops to 0**. The Oracle will no longer determine small exchanges — her fate is sealed.  
 >  
-> ✅ Instead of dying outright, she is **disarmed and pinned against a bulkhead**. The bounty hunter smirks, dragging her toward his ship—**now the real challenge begins: how does Zahra escape?**  
+> ✅ Instead of dying outright, she is **disarmed and pinned against a bulkhead**. The bounty hunter smirks, dragging her toward his ship — **now the real challenge begins: how does Zahra escape?**  
 
-🛑 **This keeps the story moving instead of ending with a simple "you lose."** Running out of Luck is not the end—it’s a turning point.  
+🛑 **This keeps the story moving instead of ending with a simple "you lose."** Running out of Luck is not the end — it’s a turning point.  
 
 ### **Embracing Luck as a Story Mechanic**  
 
@@ -947,12 +911,12 @@ The **focus shifts away** from the Protagonist, cutting to **villains, allies, o
 - A subplot progressing (*the rebellion plans its next strike*).  
 - A shift in the world (*a storm brews on the horizon*).  
 
-### Example: A Twisting Narrative  
+### 📌 Example: A Twisting Narrative  
 
 > Zahra **accepts a corporate agent’s offer**, but what happens next? She rolls **1d6 → 6**: **Meanwhile...**  
 > Instead of following Zahra, the scene shifts to **Tobias Wethern, her former mentor**, who is **hiring a hitman to eliminate her.**  
 
-The **"Meanwhile" scene builds tension**—Zahra doesn’t know she’s being targeted, but the **player does**. This creates dramatic irony and shapes upcoming conflicts.  
+The **"Meanwhile" scene builds tension** — Zahra doesn’t know she’s being targeted, but the **player does**. This creates dramatic irony and shapes upcoming conflicts.  
 
 ### Why Use This System?  
 
@@ -970,7 +934,7 @@ This method helps when:
 - You’re looking for **unexpected connections** between story elements.  
 
 🔹 **Roll at least a Verb and a Noun.** Add an Adjective for more nuance.  
-🔹 **Interpret freely**—the result doesn’t have to be literal!
+🔹 **Interpret freely** — the result doesn’t have to be literal!
 
 | Verbs |     1    |    2   |    3    |     4    |    5    |    6    |
 |:-----:|:--------:|:------:|:-------:|:--------:|:-------:|:-------:|
@@ -1002,18 +966,18 @@ This method helps when:
 |   6   |     key    |  income |   use  |  humor | statement | argument |
 
 
-### Example: Seeking Help in Desperation  
+### 📌 Example: Seeking Help in Desperation  
 
 > **Question:** *"Does Zahra have friends who can help her against the hitman?"*  
 > 🎲 **Rolls:** 2-4 (**multiply**) and 3-2 (**motion**) → **Multiply Motion**  
 
 ✅ Interpretation: Zahra **must move quickly** to reach a trusted contact before it's too late.  
 
-> **Final Outcome:** She rushes to **Melina Reade, an underworld hacker** who might provide crucial intel—but getting to her in time won’t be easy!  
+> **Final Outcome:** She rushes to **Melina Reade, an underworld hacker** who might provide crucial intel — but getting to her in time won’t be easy!  
 
 ## When the Story Ends  
 
-Every adventure reaches a **natural conclusion**—but how do you know when it's time to wrap things up?  
+Every adventure reaches a **natural conclusion** — but how do you know when it's time to wrap things up?  
 
 ### **Signs That Your Story Is Ending**  
 ✅ **The Protagonist has achieved (or failed) their goal.**  
@@ -1034,7 +998,7 @@ At the end of the adventure, **modify your Protagonist** to reflect what they’
 📌 **Also update:**  
 - **NPCs, Locations, and Events** that may return in future adventures.  
 
-### Example: Growth Through Conflict  
+### 📌 Example: Growth Through Conflict  
 
 > Zahra secures the datapad and hands it over to the authorities, **framing both Wethern and the Leton Corporation**. Wethern is arrested, but now she has a **powerful enemy working from the shadows**.  
 >  
@@ -1097,19 +1061,19 @@ Use this tool when:
 2. **Actions Table** (Roll twice) → Determines **what needs to be done**.  
 3. **Things Table** → Adds a **unique object, mystery, or event** to the mix.  
 
-📌 **Important:** The **adventure premise** is **not the initial scene**—it’s just the **framework** for your story. You’ll still define how it starts when you begin playing.  
+📌 **Important:** The **adventure premise** is **not the initial scene** — it’s just the **framework** for your story. You’ll still define how it starts when you begin playing.  
 
-### Example: Generating an Adventure  
+### 📌 Example: Generating an Adventure  
 
 🎲 **Rolls:**  
 - **Setting:** *Sword and Sorcery Adventure*  
 - **Tone:** *Eerie and Paranormal*  
 - **Things:** *Vast Empires, Different Factions*  
-- **Opposition:** *(Roll was unclear, so let’s interpret based on the setting—perhaps a Secretive Cult?)*  
+- **Opposition:** *(Roll was unclear, so let’s interpret based on the setting — perhaps a Secretive Cult?)*  
 - **Actions:** *Seek + (Second action roll was unclear, let’s assume Uncover?)*  
 
 ✅ **Result:**  
-> The story takes place in a **mystical land of vast, crumbling empires**, where **hidden factions maneuver for power in the shadows**. The Protagonist, a wandering mage, is on a **quest to seek out ancient knowledge**—but in doing so, they will **uncover the truth about a secret cult pulling the strings of history**.  
+> The story takes place in a **mystical land of vast, crumbling empires**, where **hidden factions maneuver for power in the shadows**. The Protagonist, a wandering mage, is on a **quest to seek out ancient knowledge** — but in doing so, they will **uncover the truth about a secret cult pulling the strings of history**.  
 
 ### Why Use the Adventure Maker?  
 
@@ -1133,15 +1097,14 @@ Use it **as a starting point**, then shape the story as you play. *Loner* thrive
 
 ### Table 2: Tones
 
-|     | 1-2                                | 3-4                       | 5-6                          |
-| --- | ---------------------------------- | ------------------------- | ---------------------------- |
-| 1   | Dark and brooding                  | Lighthearted and humorous | Gritty and realistic         |
-| 2   | Epic and grandiose                 | Suspenseful and thrilling | Mysterious and enigmatic     |
-| 3   | Action-packed and adventurous      | Romantic and whimsical    | Horror-filled and terrifying |
-| 4   | Technologically advanced and sleek | Grungy and dirty          | Gothic and ominous           |
-| 5   | Surreal and dreamlike              | Futuristic and dystopian  | Nostalgic and timeless       |
-| 6   | Eerie and paranormal               | Martial and disciplined   | Gracious and elegant         |
-
+|     | 1   | 2   | 3   | 4   | 5   | 6   |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1   | Dark and brooding | Melancholic and poetic | Lighthearted and humorous | Quirky and absurd | Gritty and realistic | Violent and brutal |
+| 2   | Epic and grandiose | Majestic and inspiring | Suspenseful and thrilling | Fast-paced and chaotic | Mysterious and enigmatic | Philosophical and introspective |
+| 3   | Action-packed and adventurous | Heroic and daring | Romantic and whimsical | Tragic and melancholic | Horror-filled and terrifying | Oppressive and claustrophobic |
+| 4   | Technologically advanced and sleek | Optimistic and utopian | Grungy and dirty | Bleak and hopeless | Gothic and ominous | Cosmic and unknowable |
+| 5   | Surreal and dreamlike | Psychedelic and hallucinatory | Futuristic and dystopian | Cynical and satirical | Nostalgic and timeless | Folkloric and mythical |
+| 6   | Eerie and paranormal | Unsettling and uncanny | Martial and disciplined | Cold and detached | Gracious and elegant | Ceremonial and ritualistic |
 
 ### Table 3: Things
 
@@ -1197,6 +1160,14 @@ Use it **as a starting point**, then shape the story as you play. *Loner* thrive
 |  5  |     Lethal poison    |  Ancient prophecies | Irresistible temptations | Powerful enchantments |  Ruthless warlords  |    Unseen dangers    |
 |  6  |    Terrible curses   |    Devious traps    |   Sinister conspiracies  |  Dangerous illusions  | Malevolent entities |   Ruthless factions  |
 
+## Afterword
+
+The third edition of *Loner* keeps the rules **unchanged**, but completely **refines their presentation**, making them **clearer, more accessible, and supported by practical examples**.  
+
+This marks a **significant improvement** from the **rigid and overly technical tone** of the first two editions. While previous versions were well-received and appreciated, some players found their **presentation too dry or difficult to fully grasp**.  
+
+With this new edition, my hope is that *Loner’s* **unique storytelling paradigm**—so different from traditional RPGs—will be **easier to understand, embrace, and enjoy.**
+
 ## Credits
 
 - [Recluse Engine](https://gravenutterance.itch.io/recluse) (CC BY 4.0) by Graven Utterance and Tiny Solitary Soldier Oracle for the main resolution and scene mechanics.
@@ -1209,15 +1180,7 @@ Use it **as a starting point**, then shape the story as you play. *Loner* thrive
 With deepest thanks to :
 - Shane Conner for proof reading and revision of the text of the First Edition.
 - The Loner Facebook Group and r/LonerRPG for constantly pushing me to improve and extend the Loner framework with new ideas and settings.
-- Ruolatori Solitari for their constant support and drive to improve the game.
-
-## License
-
-Loner v.3.0
-
-© 2025 Roberto Bisceglie
-
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+- Ruolatori Solitari for their support on the development of the second edition.
 
 ## Appendix A: Loner Diceless
 
@@ -1237,7 +1200,7 @@ These factors will determine the result using a **decision matrix** instead of r
 
 🟢 **Step 1: Ask the Question**  
 The player poses a **closed question** requiring resolution.  
-📌 *Example:* *"Is the door unlocked?"*  
+📌 *📌 Example:* *"Is the door unlocked?"*  
 
 🟡 **Step 2: Evaluate Factors**  
 Assess **character traits, situational context, and available resources**:  
@@ -1279,7 +1242,7 @@ If the answer is **"Yes, but..."** add **1 point to the Twist Counter** as usual
 - **If the character has special tools, intel, or allies**, lean toward **Yes, and...**.  
 - **If they are ill-equipped or rushed**, lean toward **No, and...**.  
 
-### 5. Resolution Example  
+### 5. Resolution 📌 Example  
 
 🔍 **Scenario:** Zahra is trying to pick the lock on a **corporate lab door** while being pursued by security.  
 
@@ -1306,7 +1269,18 @@ If the answer is **"Yes, but..."** add **1 point to the Twist Counter** as usual
 
 This approach allows *Loner* to be played with **pure storytelling mechanics**, making each challenge feel like **a direct consequence of past choices** rather than a random roll.
 
-## Appendix B: Loner Cheatsheet
+## Appendix B: Resolution Matrix
+
+| Risk \ Chance | 1                               | 2                               | 3                               | 4                               | 5                               | 6                               |
+|:-------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|
+| **1**         | 🔄 Yes, but... +1 Twist         | ⚠️ Yes, but...                  | ⚠️ Yes, but...                  | ✅ Yes                           | ✅ Yes                           | ✅ Yes                           |
+| **2**         | ⚠️ No, but...                   | 🔄 Yes, but... +1 Twist         | ⚠️ Yes, but...                  | ✅ Yes                           | ✅ Yes                           | ✅ Yes                           |
+| **3**         | ⚠️ No, but...                   | ⚠️ No, but...                   | 🔄 Yes, but... +1 Twist         | ✅ Yes                           | ✅ Yes                           | ✅ Yes                           |
+| **4**         | ❌ No                           | ❌ No                           | ❌ No                           | 🔄 Yes, but... +1 Twist         | ⭐ Yes, and...                   | ⭐ Yes, and...                   |
+| **5**         | ❌ No                           | ❌ No                           | ❌ No                           | ⭐ No, and...                    | 🔄 Yes, but... +1 Twist         | ⭐ Yes, and...                   |
+| **6**         | ❌ No                           | ❌ No                           | ❌ No                           | ⭐ No, and...                    | ⭐ No, and...                    | 🔄 Yes, but... +1 Twist         |
+
+## Appendix C: Loner Cheatsheet
 
 ### **🎲 Core Mechanics**  
 - Ask the **Oracle** ❓ Yes/No questions to resolve uncertainty.  
@@ -1327,8 +1301,8 @@ This approach allows *Loner* to be played with **pure storytelling mechanics**, 
 7. **🍀 Luck = 6** – A buffer against failure (resets after conflicts).  
 
 ### **⚖️ Advantage & Disadvantage**  
-- **⬆️ Advantage** → Roll **2 Chance Dice 🎲🎲**, keep highest.  
-- **⬇️ Disadvantage** → Roll **2 Risk Dice 🎲🎲**, keep highest.  
+- **⬆️ Advantage** → Roll **2 Chance Dice**, keep highest.  
+- **⬇️ Disadvantage** → Roll **2 Risk Dice**, keep highest.  
 - **🚫 Never roll more than 2 Chance or 2 Risk Dice.**  
 
 ### **🎬 Scenes & Gameplay Loop**  
@@ -1375,13 +1349,10 @@ This approach allows *Loner* to be played with **pure storytelling mechanics**, 
 ### **🎲 Open-Ended Questions**  
 - 🎲 Roll **1d6 on each table** (Verb, Noun, Adjective) for inspiration.  
 
-## Appendix C: Resolution Matrix
+## License
 
-| Risk \ Chance | 1                               | 2                               | 3                               | 4                               | 5                               | 6                               |
-|:-------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|
-| **1**         | 🔄 Yes, but... +1 Twist         | ⚠️ Yes, but...                  | ⚠️ Yes, but...                  | ✅ Yes                           | ✅ Yes                           | ✅ Yes                           |
-| **2**         | ⚠️ No, but...                   | 🔄 Yes, but... +1 Twist         | ⚠️ Yes, but...                  | ✅ Yes                           | ✅ Yes                           | ✅ Yes                           |
-| **3**         | ⚠️ No, but...                   | ⚠️ No, but...                   | 🔄 Yes, but... +1 Twist         | ✅ Yes                           | ✅ Yes                           | ✅ Yes                           |
-| **4**         | ❌ No                           | ❌ No                           | ❌ No                           | 🔄 Yes, but... +1 Twist         | ⭐ Yes, and...                   | ⭐ Yes, and...                   |
-| **5**         | ❌ No                           | ❌ No                           | ❌ No                           | ⭐ No, and...                    | 🔄 Yes, but... +1 Twist         | ⭐ Yes, and...                   |
-| **6**         | ❌ No                           | ❌ No                           | ❌ No                           | ⭐ No, and...                    | ⭐ No, and...                    | 🔄 Yes, but... +1 Twist         |
+Loner v.3.0
+
+© 2025 Roberto Bisceglie
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
