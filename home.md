@@ -29,12 +29,12 @@ Loner is a product of [**Zotiquest Games**](https://zotiquestgames.com)
         <div class="w3-center">
             <h2><b>Core Rules</b></h2>
             <p>
-                The <b>Core Rules PDF is downloadable for free.</b> The softcover is only 7$ on Amazon. All you need to play is here, the rest is optional.
+                The <b>Core Rules PDF is downloadable for free.</b> The softcover is only 6$ on Amazon. All you need to play is here, the rest is optional.
             </p>
             <div class="w3-row">
-                <a href="https://zeruhur.itch.io/loner-2nd-edition" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (itch.io)</a>
-                <a href="https://www.drivethrurpg.com/en/product/427674/loner-core-rules-2nd-edition" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (DriveThruRPG)</a>
-                <a href="https://www.amazon.com/dp/B0BW2KJK2D" target="_blank" class="w3-btn w3-black w3-hover-white">Softcover (Amazon)</a>
+                <a href="https://zeruhur.itch.io/loner-3rd-edition" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (itch.io)</a>
+                <a href="https://www.drivethrurpg.com/en/product/427674/loner-core-rules-3rd-edition" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (DriveThruRPG)</a>
+                <a href="https://www.amazon.com/dp/B0DWSH9X1B" target="_blank" class="w3-btn w3-black w3-hover-white">Softcover (Amazon)</a>
             </div>
             </div>
     </div>        
@@ -43,26 +43,26 @@ Loner is a product of [**Zotiquest Games**](https://zotiquestgames.com)
         <div class="w3-center">
             <h2><b>Loner Complete</b></h2>
             <p>
-                <b>Loner Complete</b> contains the Core Rules + 12 Adventure Packs, tight supplements that kick off your experience with Character Traits, NPCs, Factions, Locations and Adventure Seeds! Over 300 pages of content in popular genres like Fantasy, Sci-fi, Horror but also Cyberpunk, Western, Post-Apoc and much more!
+                <b>Loner Complete</b> contains the <b>Core Rules 2e</b> + 12 Adventure Packs, tight supplements that kick off your experience with Character Traits, NPCs, Factions, Locations and Adventure Seeds! Over 300 pages of content in popular genres like Fantasy, Sci-fi, Horror but also Cyberpunk, Western, Post-Apoc and much more!
             </p>
             <div class="w3-row">
-                <a href="https://zeruhur.itch.io/loner-2nd-edition" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (itch.io)</a>
+                <a href="https://zeruhur.itch.io/loner-3rd-edition" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (itch.io)</a>
                 <a href="https://www.drivethrurpg.com/en/product/456768/loner-complete" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (DriveThruRPG)</a>
                 <a href="https://www.amazon.com/dp/B0CKRXZPWG" target="_blank" class="w3-btn w3-black w3-hover-white">Softcover (Amazon)</a>
             </div>
         </div>
 </div>
     <div class="w3-card w3-third">
-    <img src="assets/img/covers/dummy.png" alt="Avatar" style="width:100%">
+    <img src="assets/img/covers/companion.png" alt="Avatar" style="width:100%">
         <div class="w3-center">
             <h2><b>Loner Companion</b></h2>
             <p>
                 Coming Soon
             </p>
             <div class="w3-row">
-                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (itch.io)</a>
-                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (DriveThruRPG)</a>
-                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">Softcover (Amazon)</a>
+                <a href="https://zeruhur.itch.io/loner-3rd-edition" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (itch.io)</a>
+                <a href="https://www.drivethrurpg.com/it/product/502020/loner-companion" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (DriveThruRPG)</a>
+                <a href="https://www.amazon.com/dp/B0DMVS5MVQ" target="_blank" class="w3-btn w3-black w3-hover-white">Softcover (Amazon)</a>
             </div>
         </div>
     </div>
@@ -149,12 +149,21 @@ A new generation of Adventure Packs: self-contained, stand-alone games with all 
         <div class="w3-center">
             <h2><b>Pulp Adventures!</b></h2>
             <p>
-                Coming Soon
+                <b>Unleash Your Inner Hero in a World of Thrills and Danger!</b>
+            </p>
+            <p> 
+                Step into the action-packed universe of Loner: Pulp Adventures!, a solo tabletop RPG inspired by the bold, daring spirit of classic pulp fiction. Explore ancient ruins, battle shadowy cults, uncover lost treasures, and navigate a world where every decision brings new challenges—and unforgettable stories.
+            </p>
+            <p>
+                With simple rules and limitless possibilities, Loner: Pulp Adventures! invites you to:
+            </p>
+            </p>
+                <b>Adventure Awaits. Will You Answer the Call?</b>
             </p>
             <div class="w3-row">
-                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (itch.io)</a>
-                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (DriveThruRPG)</a>
-                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">Softcover (Amazon)</a>
+                <a href="https://zeruhur.itch.io/loner-pulp-adventures" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (itch.io)</a>
+                <a href="https://www.drivethrurpg.com/it/product/504712/loner-pulp-adventures" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (DriveThruRPG)</a>
+                <a href="https://www.amazon.com/dp/B0DPS536NB" target="_blank" class="w3-btn w3-black w3-hover-white">Softcover (Amazon)</a>
             </div>
         </div>
 </div>

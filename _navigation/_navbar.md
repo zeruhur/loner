@@ -1,12 +1,12 @@
 <!-- _navbar.md -->
 - [**Home**](/)
 - **SRD English Version**
-  - [Core Rules](en/loner-en.md)
-  - [Diceless Rules](en/loner-diceless.md)
+  - [Core Rules 3e](en/loner-en.md)
   - [Adventure Packs](en/adventure-packs.md)
   - [Geared Towards Loner games](en/geared_towards_loner.md)
   - [Creator's Kit](en/creators_kit/creators_kit.md)
-  - [FAQ](/en/faq.md)
+  - [Core Rules 2e (legacy)](en/loner-2e.md)
+  - [Core Rules 1e (legacy)](en/loner-1e.md)  - 
 - **SRD Versione Italiana**
   - [Regolamento](it/loner-ita.md)
   - [Regole senza dadi](it/loner_senzadadi.md)
