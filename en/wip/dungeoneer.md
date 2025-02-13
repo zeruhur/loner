@@ -155,6 +155,122 @@ You can use these traits to create a character on the fly, mix them, or just use
 | 5   | Gravefinder| Vault Rat | Shroud     | Frostburn  | Ironjaw    | Lorewarden  |
 | 6   | Tombrat   | Nightcaller| Flicker    | Rusteye    | Coldshadow | Lifebringer |
 
+## Rules
+
+*Loner: Dungeoneer* is a minimalist Solo Role Playing Game designed to be played with only one character (the Protagonist). You'll guide them through the story that will unravel during the game, asking closed questions to an Oracle which will help you overturn your expectations.
+
+Every now and then you will be surprised with an unexpected twist!
+
+### Keep The Action In Motion
+
+A game in *Loner: Dungeoneer* is a succession of scenes. 
+A scene is a unit of time in which a certain action takes place in pursuit of a certain short-term goal. 
+
+In *Loner: Dungeoneer* at each scene:
+1. **Identify what you expect from the scene**. Compared to traits, goal, and motivation determine the Protagonist's action. What might be the reaction of the game world?
+2. **Test your expectations**. When you are uncertain (or overconfident) about the reaction to your actions, [ask the Oracle](#consulting-the-oracle) a closed question (answer is Yes or No), considering the tags involved to determine if there is an [Advantage or Disadvantage](#advantage-and-disadvantage).
+3. **Interpret the result**. Is the Oracle's answer in line with your expectations? If not, in the context in which the scene takes place, how should an answer that subverts them be considered?
+
+This sequence will come to you naturally after some practice. Use it as a guideline the first few times.
+
+### Consulting the Oracle
+
+When you need to test your expectations you'll ask the Oracle a closed question.
+
+You’ll need 2d6 in one color (**Chance Dice**), and 2d6 in another (**Risk Dice**).
+
+To resolve a closed question, roll one **Chance Die** and one **Risk Die**:
+- If the Chance Die is highest, the answer is **Yes**. 
+- If the Risk Die is highest, the answer is **No**.
+- If both are low (3 or less), add a **but...**. 
+- If both are high (4 or more), add an **and...**.
+- If both are equal, the answer is **Yes, and...**. Add a point to the **[Twist Counter](#twist-counter)**.
+
+
+| Dice Value |    Chance Die > Risk Die   | Risk Die > Chance Die |
+|:----------:|:--------------------------:|:---------------------:|
+|  Both < 4  |         Yes, but...        |       No, but...      |
+|  Both > 3  |         Yes, and...        |       No, and...      |
+| Mismatched |             Yes            |           No          |
+|            |                            |                       |
+|    Equal   | Add 1 to the Twist Counter |                       |
+
+### Advantage and Disadvantage
+
+If circumstances or positive tags grant an advantage, add a **Chance Die** to the roll. Otherwise, when hindrances or negative tag cause a disadvantage, add a **Risk Die**. In both cases keep only the higher die of the added type when you check the roll.
+
+Consider tags **intuitively and not quantitatively**, using the context of the situation at play. It is important to keep the flow of play fast and not accounting for advantages and disadvantages numerically!
+
+### Twist Counter
+
+The Twist Counter is a measure of the rising tension in the narrative. At the beginning is set to 0. Every time a double throw (dice are equal) happens, add 1 to the Counter. If the Counter is below three, consider the answer as "**Yes, but...**". Otherwise a **Twist** happens and resets the Counter.
+
+Roll 2d6 and consult the following Twist Table to determine what kind of twist happens. 
+
+| D6 |      Subject       |        Action       |
+|:--:|:------------------:|:-------------------:|
+|  1 |    A third party   |       Appears       |
+|  2 |      The hero      | Alters the location |
+|  3 |    An encounter    |    Helps the hero   |
+|  4 |  A physical event  |   Hinders the hero  |
+|  5 | An emotional event |   Changes the goal  |
+|  6 |      An object     |    Ends the scene   |
+
+Interpret the two-word sentence in the context of the current scene. Twists will keep the plot and events going in unexpected ways.
+
+### Conflicts
+
+A *Conflict* is any situation in which opponents clash, attacking, defending, or wearing each other down in order to win.
+This applies both in a practical and metaphorical sense. 
+
+So, a Conflict is not only limited to combat (or fighting) in the strict sense but also to competitive situations (such as contests, duels, verbal confrontations, etc.) in which two or more characters (including vehicles, of course!) compete.
+
+Conflicts can be resolved in different ways depending on preferences and context:
+1. Ask a single closed question. The Oracle's answer determines the outcome of the conflict.
+2. Ask a series of closed questions to resolve current single actions.
+3. Use the rules of Harm & Luck below.
+
+Note that the Twist Counter **does not apply** to Harm & Luck. Instead, it is used regularly if the Conflict is handled with closed questions.
+
+If the conflict is resolved by applying damage to the Luck trait, roll the dice to determine whether the protagonist causes damage to the opponent or suffers damage due to counterattack or failed defense. The rolls are player facing only.
+
+The damage reduces the Luck of the target, whether protagonist or NPC. When the Luck runs out, the character has lost the conflict.
+
+The final outcome depends on the context. Do you get caught? Are you seriously injured? You may even die if that fits the narrative.
+
+| Answer      | Do you get what you want?                               | Harm    |
+| ----------- | ------------------------------------------------------- | ------- |
+| Yes, and... | You get what you want, and something else.              | Cause 3 |
+| Yes...      | You get what you want.                                  | Cause 2 |
+| Yes, but... | You get what you want, but at a cost.                   | Cause 1 |
+| No, but...  | You don’t get what you want, but it’s not a total loss. | Take 1  |
+| No...       | You don’t get what you were after.                      | Take 2  |
+| No, and...  | You don’t get what you want, and things get worse.      | Take 3  |
+
+### Determine the mood of the next scene
+
+At the end of the current scene sometimes you will be clear about the direction to take, other times you may need to determine the general mood of the next one. In this case roll 1d6 and consult the following table:
+
+|  D6 |   Next Scene   |
+|:---:|:--------------:|
+| 1-3 | Dramatic scene |
+| 4-5 |   Quiet Scene  |
+|  6  |   Meanwhile…   |
+
+- A **dramatic scene** does not break the tension of the previous scene but carries it further forward, introducing further obstacles or difficulties.
+- During a **quiet scene** there is time to take a breath, to heal, to make plans for the next steps and to deepen relationships.
+- A **meanwhile scene** takes place somewhere else, other than where the hero is. It cuts to villains or other plot-important characters.
+
+### Open-Ended Question or Get Inspired
+
+To answer an Open-Ended question, roll 1d6 once on each of the Inspiration Tables (roll at least a verb and a noun, adjectives are optional).
+
+### When the story ends
+
+At the end of the adventure you may add another trait to the character. It is better that this is related to how the story just ended and can be either a Skill, Gear, a new Frailty, or even a new Nemesis! You can also modify an existing trait to better represent an enhanced expertise.
+
+Also update the list of **NPCs**, **Locations**, and **Events** that may show up again in future adventures.
+
 ## Risk and Reward
 
 In *Loner: Dungeoneer*, progression emerges organically through discovery, exploration, and overcoming challenges. Advancement rewards the Protagonist for skillful navigation, resourceful survival, and uncovering dungeon secrets—not just combat. Treasure, skills, and abilities enhance the story, offering powerful boons but always at a cost.
@@ -200,6 +316,7 @@ Tags drive the emergent narrative and tie character progression to the challenge
 Skills are not fixed traits; they emerge naturally as part of gameplay. The Protagonist gains or improves Skills tailored to dungeon delving.  
 
 **Sample Exploration Skills**:  
+
 | **Skill Tag**       | **Effect**                                       |  
 | ------------------- | ----------------------------------------------- |  
 | **Silent Step**      | Avoids detection in dangerous areas.            |  
@@ -208,6 +325,7 @@ Skills are not fixed traits; they emerge naturally as part of gameplay. The Prot
 | **Rope Expert**      | Ensures safe climbing and crossing.             |  
 | **Map Forger**       | Creates detailed maps, preventing navigation loss.|  
 | **Lorekeeper**       | Deciphers inscriptions, lore, and dungeon history.|  
+
 
 ## Spellcasting
 
@@ -339,128 +457,6 @@ The range of spells is flexible and narrative-driven:
 | **Scrying Eye**        | Unlimited       | 10 Minutes      | Observes a distant location or person through a magical vision.           | 4 Mana                    |
 | **Haste**              | Touch           | 1 Round         | Doubles a target’s speed temporarily.                                     | 3 Mana                    |
 | **Lightning Blade**    | Self            | 1 Scene         | Forms a crackling blade of energy that deals enhanced damage.             | 4 Mana                    |
-
-## Rules
-
-*Loner: Dungeoneer* is a minimalist Solo Role Playing Game designed to be played with only one character (the Protagonist). You'll guide them through the story that will unravel during the game, asking closed questions to an Oracle which will help you overturn your expectations.
-
-Every now and then you will be surprised with an unexpected twist!
-
-### Keep The Action In Motion
-
-A game in *Loner: Dungeoneer* is a succession of scenes. 
-A scene is a unit of time in which a certain action takes place in pursuit of a certain short-term goal. 
-
-In *Loner: Dungeoneer* at each scene:
-1. **Identify what you expect from the scene**. Compared to traits, goal, and motivation determine the Protagonist's action. What might be the reaction of the game world?
-2. **Test your expectations**. When you are uncertain (or overconfident) about the reaction to your actions, [ask the Oracle](#consulting-the-oracle) a closed question (answer is Yes or No), considering the tags involved to determine if there is an [Advantage or Disadvantage](#advantage-and-disadvantage).
-3. **Interpret the result**. Is the Oracle's answer in line with your expectations? If not, in the context in which the scene takes place, how should an answer that subverts them be considered?
-
-This sequence will come to you naturally after some practice. Use it as a guideline the first few times.
-
-### Consulting the Oracle
-
-When you need to test your expectations you'll ask the Oracle a closed question.
-
-You’ll need 2d6 in one color (**Chance Dice**), and 2d6 in another (**Risk Dice**).
-
-To resolve a closed question, roll one **Chance Die** and one **Risk Die**:
-- If the Chance Die is highest, the answer is **Yes**. 
-- If the Risk Die is highest, the answer is **No**.
-- If both are low (3 or less), add a **but...**. 
-- If both are high (4 or more), add an **and...**.
-- If both are equal, the answer is **Yes, and...**. Add a point to the **[Twist Counter](#twist-counter)**.
-
-
-| Dice Value |    Chance Die > Risk Die   | Risk Die > Chance Die |
-|:----------:|:--------------------------:|:---------------------:|
-|  Both < 4  |         Yes, but...        |       No, but...      |
-|  Both > 3  |         Yes, and...        |       No, and...      |
-| Mismatched |             Yes            |           No          |
-|            |                            |                       |
-|    Equal   | Add 1 to the Twist Counter |                       |
-
-### Advantage and Disadvantage
-
-If circumstances or positive tags grant an advantage, add a **Chance Die** to the roll. Otherwise, when hindrances or negative tag cause a disadvantage, add a **Risk Die**. In both cases keep only the higher die of the added type when you check the roll.
-
-Consider tags **intuitively and not quantitatively**, using the context of the situation at play. It is important to keep the flow of play fast and not accounting for advantages and disadvantages numerically!
-
-### Twist Counter
-
-The Twist Counter is a measure of the rising tension in the narrative. At the beginning is set to 0. Every time a double throw (dice are equal) happens, add 1 to the Counter. If the Counter is below three, consider the answer as "**Yes, but...**". Otherwise a **Twist** happens and resets the Counter.
-
-Roll 2d6 and consult the following Twist Table to determine what kind of twist happens. 
-
-| D6 |      Subject       |        Action       |
-|:--:|:------------------:|:-------------------:|
-|  1 |    A third party   |       Appears       |
-|  2 |      The hero      | Alters the location |
-|  3 |    An encounter    |    Helps the hero   |
-|  4 |  A physical event  |   Hinders the hero  |
-|  5 | An emotional event |   Changes the goal  |
-|  6 |      An object     |    Ends the scene   |
-
-Interpret the two-word sentence in the context of the current scene. Twists will keep the plot and events going in unexpected ways.
-
-### Conflicts
-
-A *Conflict* is any situation in which opponents clash, attacking, defending, or wearing each other down in order to win.
-This applies both in a practical and metaphorical sense. 
-
-So, a Conflict is not only limited to combat (or fighting) in the strict sense but also to competitive situations (such as contests, duels, verbal confrontations, etc.) in which two or more characters (including vehicles, of course!) compete.
-
-Conflicts can be resolved in different ways depending on preferences and context:
-1. Ask a single closed question. The Oracle's answer determines the outcome of the conflict.
-2. Ask a series of closed questions to resolve current single actions.
-3. Use the rules of Harm & Luck below.
-
-Note that the Twist Counter **does not apply** to Harm & Luck. Instead, it is used regularly if the Conflict is handled with closed questions.
-
-If the conflict is resolved by applying damage to the Luck trait, roll the dice to determine whether the protagonist causes damage to the opponent or suffers damage due to counterattack or failed defense. The rolls are player facing only.
-
-The damage reduces the Luck of the target, whether protagonist or NPC. When the Luck runs out, the character has lost the conflict.
-
-The final outcome depends on the context. Do you get caught? Are you seriously injured? You may even die if that fits the narrative.
-
-| Answer      | Do you get what you want?                               | Harm    |
-| ----------- | ------------------------------------------------------- | ------- |
-| Yes, and... | You get what you want, and something else.              | Cause 3 |
-| Yes...      | You get what you want.                                  | Cause 2 |
-| Yes, but... | You get what you want, but at a cost.                   | Cause 1 |
-| No, but...  | You don’t get what you want, but it’s not a total loss. | Take 1  |
-| No...       | You don’t get what you were after.                      | Take 2  |
-| No, and...  | You don’t get what you want, and things get worse.      | Take 3  |
-
-### Determine the mood of the next scene
-
-At the end of the current scene sometimes you will be clear about the direction to take, other times you may need to determine the general mood of the next one. In this case roll 1d6 and consult the following table:
-
-|  D6 |   Next Scene   |
-|:---:|:--------------:|
-| 1-3 | Dramatic scene |
-| 4-5 |   Quiet Scene  |
-|  6  |   Meanwhile…   |
-
-- A **dramatic scene** does not break the tension of the previous scene but carries it further forward, introducing further obstacles or difficulties.
-- During a **quiet scene** there is time to take a breath, to heal, to make plans for the next steps and to deepen relationships.
-- A **meanwhile scene** takes place somewhere else, other than where the hero is. It cuts to villains or other plot-important characters.
-
-### Open-Ended Question or Get Inspired
-
-To answer an Open-Ended question, roll 1d6 once on each of the Inspiration Tables (roll at least a verb and a noun, adjectives are optional).
-
-### When the story ends
-
-At the end of the adventure you may add another trait to the character. It is better that this is related to how the story just ended and can be either a Skill, Gear, a new Frailty, or even a new Nemesis! You can also modify an existing trait to better represent an enhanced expertise.
-
-Also update the list of **NPCs**, **Locations**, and **Events** that may show up again in future adventures.
-
-### Preparation
-
-* **Define Your Destination:**  Choose a specific location on your map (hand-drawn or provided) or have the Oracle (dice rolls) determine a general direction and a rumor about a point of interest.
-* **Choose Your Mode of Travel:** Consider your character's skills, resources, and the desired speed of travel.
-* **Stock Up:**  Gather supplies based on your chosen travel time and potential hazards. 
 
 ## Exploration
 
