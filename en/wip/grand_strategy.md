@@ -1,14 +1,11 @@
 # Loner: Grand Strategy
 
-A Solo Narrative Matrix Game
-
-## Overview
-
 **Loner: Grand Strategy** is a solo narrative game where you take on the roles of multiple factions competing for control, influence, or survival in a shared world. Drawing inspiration from Engel's Matrix Games and the minimalist mechanics of the Loner Creator’s Kit, this game emphasizes emergent storytelling, strategic maneuvering, and oracular-driven surprises.
 
 With no need for other players, dice rolls and structured prompts guide your journey, ensuring an engaging, strategic narrative unfolds.
 
 ### What is a Matrix Game?
+
 A Matrix Game is a narrative-driven strategy game where players represent factions, groups, or characters pursuing their own objectives within a shared world. Unlike traditional board games, there are no predefined movements or outcomes. Instead, players present arguments to propose actions, supported by their resources, traits, or the game's context. The validity and success of these arguments are evaluated through structured rules, often with dice rolls or facilitator judgments shaping the results.
 
 Matrix Games prioritize creativity and collaboration, encouraging players to build a shared story through their actions and decisions. The game evolves dynamically, driven by player input and unpredictable twists.
@@ -39,14 +36,14 @@ Unlike a traditional strategy game, where predefined mechanics dictate outcomes,
 
 If you’re ready to dive into *Loner: Grand Strategy* and want a fast setup, follow these steps to get started quickly:
 
-1. **Pick Your Factions**: Choose 4-6 factions, defining their names, concepts, skills, frailties, assets, goals, and motives. Use the faction creation templates to streamline this process.
-   - Example: *Ironbound Enclave (Resilient Mining Collective)* with the goal of overthrowing the local aristocracy.
+1. **Pick Your Factions**: Choose 4-6 factions, defining their names, concepts, skills, frailties, assets, goals, and motives. Use the faction creation templates to streamline this process.  
+   Example: *Ironbound Enclave (Resilient Mining Collective)* with the goal of overthrowing the local aristocracy.
 
 2. **Define the Time Frame**: Decide how many turns the game will span and the in-game duration each turn represents.
-   - Example: A 10-turn campaign where each turn equals one month, representing a year-long conflict.
+   Example: A 10-turn campaign where each turn equals one month, representing a year-long conflict.
 
 3. **Set Goals**: Write down the goals for each faction, ensuring they align with the setting’s core conflict and create tension between factions.
-   - Example: *The Gilded Lords aim to control three trade hubs, while the Ravenwatch Syndicate seeks to undermine all dominant powers.*
+   Example: *The Gilded Lords aim to control three trade hubs, while the Ravenwatch Syndicate seeks to undermine all dominant powers.*
 
 4. **Start the First Turn**:
    - **Player-Controlled Faction**: Define your faction’s objective and build an argument based on its traits. Resolve the action using the Oracle system.
@@ -253,44 +250,111 @@ The game’s time frame limits the number of turns and sets a narrative pace, cr
 
 Document the goals and time frame in your game journal or setup notes. Use a summary format like this:
 
-- **Campaign Length**: 10 turns, representing 10 months.
-- **Faction Goals**:
-  - *Ironbound Enclave*: Secure independence by capturing two mining colonies.
-  - *Gilded Lords*: Control three major trade hubs to monopolize commerce.
-  - *Ravenwatch Syndicate*: Undermine the power of rival factions through espionage and sabotage.
-  - *Emerald Dominion*: Spread their influence by converting two factions to their ideology.
+> - **Campaign Length**: 10 turns, representing 10 months.
+> - **Faction Goals**:
+>   - *Ironbound Enclave*: Secure independence by capturing two mining colonies.
+>   - *Gilded Lords*: Control three major trade hubs to monopolize commerce.
+>   - *Ravenwatch Syndicate*: Undermine the power of rival factions through espionage and sabotage.
+>   - *Emerald Dominion*: Spread their influence by converting two factions to their ideology.
 
 ## Gameplay
 
 In *Loner: Grand Strategy*, gameplay unfolds over structured turns, each representing a key moment in the evolving narrative. During each turn, factions take actions to pursue their goals, react to events, and shape the world. The process is divided into four phases, ensuring a balance of strategy, storytelling, and unpredictability. Let the Oracle guide outcomes, and use the factions’ traits to weave a dynamic and engaging story.
 
-```mermaid
-flowchart TD
-    A[Start Turn] --> B[Phase 1: Player-Controlled Faction Acts]
-    B --> C[Define Objective]
-    C --> D[Build Argument]
-    D --> E[Resolve Action with Oracle]
-    E --> F{Result?}
-    F --> G[Yes: Update Story]
-    F --> H[No: Introduce Complications]
-    G --> I[Phase 2: AI-Controlled Factions Act]
-    H --> I[Phase 2: AI-Controlled Factions Act]
-    I --> J[Determine AI Intent]
-    J --> K[Choose Target for AI Action]
-    K --> L[Build AI Argument]
-    L --> M[Resolve AI Action with Oracle]
-    M --> N[Interpret Results and Update Story]
-    N --> O[Phase 3: Record and Reflect]
-    O --> P[Update Faction Status and Storylines]
-    P --> Q[Phase 4: Determine Mood for Next Turn]
-    Q --> R{Mood?}
-    R --> S[Dramatic Turn: Escalate Conflict]
-    R --> T[Quiet Turn: Regroup and Plan]
-    R --> U[Meanwhile Turn: Focus on Another Faction]
-    S --> V
-    T --> V
-    U --> V
-    V[End Turn] --> A
+```graphviz
+fontname="Permanent Marker";
+node [shape="plain", style = "rounded", 
+fontname="Permanent Marker", fontsize=12]
+digraph G {
+    // Global node style
+    node [shape=box];
+    // Global graph style to show clusters clearly
+    compound=true;
+    rankdir=TB;
+
+    // Start node
+    A [label="Start Turn"];
+
+    // Subgraph for Phase 1
+    subgraph cluster_B {
+        label = "Phase 1: Player-Controlled Faction Acts";
+        style = "rounded";
+
+        C [label="Define Objective"];
+        D [label="Build Argument"];
+        E [label="Resolve Action with Oracle"];
+        F [label="Result?" shape=diamond];
+        G [label="Yes: Update Story"];
+        H [label="No: Introduce Complications"];
+
+        // Flow inside Phase 1
+        C -> D;
+        D -> E;
+        E -> F;
+        F -> G;
+        F -> H;
+        G -> J;
+        H -> J;
+    }
+
+    // Subgraph for Phase 2
+    subgraph cluster_I {
+        label = "Phase 2: AI-Controlled Factions Act";
+        style = "rounded";
+
+        J [label="Determine AI Intent"];
+        K [label="Choose Target for AI Action"];
+        L [label="Build AI Argument"];
+        M [label="Resolve AI Action with Oracle"];
+        N [label="Interpret Results and Update Story"];
+
+        // Flow inside Phase 2
+        J -> K;
+        K -> L;
+        L -> M;
+        M -> N;
+
+    }
+    
+    N -> P;
+
+    // Subgraph for Phase 3
+    subgraph cluster_O {
+        label = "Phase 3: Record and Reflect";
+        style = "rounded";
+
+        P [label="Update Faction Status and Storylines"];
+
+    }
+    
+    P -> R;
+
+    // Subgraph for Phase 4
+    subgraph cluster_Q {
+        label = "Phase 4: Determine Mood for Next Turn";
+        style = "rounded";
+
+        R [label="Mood?" shape=diamond];
+        S [label="Dramatic Turn: Escalate Conflict"];
+        T [label="Quiet Turn: Regroup and Plan"];
+        U [label="Meanwhile Turn: Focus on Another Faction"];
+    }
+
+    // End Turn node
+    V [label="End Turn"];
+
+    // Connect phases in the main flow
+    A -> C;
+
+    // Mood decision leads to end turn
+    R -> S;
+    R -> T;
+    R -> U;
+    S -> V;
+    T -> V;
+    U -> V;
+}
+
 ```
 
 ### Phase 1: Planning the Turn
@@ -300,13 +364,10 @@ Each turn represents a major scene or period in the unfolding story. During each
 #### **Step 1: Player-Controlled Faction**
 
 1. **Define the Objective**: Decide what your faction aims to accomplish this turn. Use its Goal, Assets, and narrative circumstances as inspiration. For example, a faction focused on expanding influence might target a trade route, while a defensive faction might bolster its stronghold.
+
 2. **Build the Argument**: Present your faction’s planned action as an argument, using its Skills, Assets, and the current situation to justify success.  
    - Arguments should feel logical and grounded in the narrative.  
    - Example: *The Ironbound Enclave attempts to sabotage the Gilded Lords’ supply chain using their Unyielding Labor and Deep Earth Lore.*
-3. **Resolve the Action**: Use the Oracle system to determine success or failure:
-   - Roll one **Chance Die** and one **Risk Die** to test the outcome.
-   - Apply **Advantage** (additional Chance Dice) or **Disadvantage** (additional Risk Dice) based on relevant faction traits or context.
-   - Interpret the results and update the story accordingly.
 
 #### **Step 2: AI-Controlled Factions**
 
@@ -328,14 +389,6 @@ For each AI-controlled faction, follow these steps:
 
 3. **Build the Argument**: Present the AI faction’s action as an argument, using its Skills, Assets, and Frailty to justify the attempt:
    - Example: *The Gilded Lords use their Master Negotiators Skill and Trade Coalition Asset to forge an alliance against the Ironbound Enclave.*
-4. **Resolve the Action**: Use the Oracle system to determine the outcome:
-   - Roll one **Chance Die** and one **Risk Die**.
-   - Apply **Advantage** or **Disadvantage** based on faction traits or situational context.
-   - Interpret the results and update the story to reflect the consequences.
-
-#### **Tips for Interpreting Results**
-- **Keep the Narrative Moving**: Whether actions succeed or fail, ensure the results add new layers of intrigue or tension to the story.
-- **AI Behavior Adjustments**: If an AI faction’s intent or target seems illogical for the context, adjust its action to align better with its traits and goals.
 
 ### Phase 2: Resolve the Action
 
@@ -380,6 +433,10 @@ Roll 2d6 and consult the following Twist Table to determine what kind of twist h
 |  5  | Resources           | Become scarce         |
 |  6  | An unexpected event | Ends the turn        |
 
+#### **Tips for Interpreting Results**
+- **Keep the Narrative Moving**: Whether actions succeed or fail, ensure the results add new layers of intrigue or tension to the story.
+- **AI Behavior Adjustments**: If an AI faction’s intent or target seems illogical for the context, adjust its action to align better with its traits and goals.
+
 ### Phase 3: Record and Reflect
 
 At the end of each turn:
@@ -403,7 +460,9 @@ At the end of the current turn sometimes you will be clear about the direction t
 ### Ending the Game
 
 The game concludes when:
+
 - **A faction achieves its Goal**, bringing their storyline to a natural conclusion.
+- **Last turn ends**, even if the final outcome is status quo.
 - **A key storyline resolves**, such as the end of a war, the collapse of a dominant power, or the prevention (or realization) of a major calamity.
 
 ### **Bringing the Story to a Close**
@@ -492,6 +551,7 @@ For narrative inspiration, roll 1d6 on the following tables:
 A *Conflict* in a Matrix Game represents the friction between factions as they clash over resources, power, or ideology. These conflicts can involve direct confrontations or indirect challenges like political maneuvering, espionage, or economic strategies. They are essential to driving the game’s narrative and creating dynamic interactions between factions.
 
 ### **Types of Conflicts**
+
 Conflicts are flexible and adapt to the narrative context. Here are some common scenarios:
 - **Military Engagements**: Battles, sieges, or skirmishes where factions deploy their forces.
 - **Diplomatic Rivalries**: Competing factions attempting to sway a neutral party or secure an alliance.
@@ -561,6 +621,7 @@ Every conflict should leave a mark on the game’s narrative:
 Adding a map and tokens to *Loner: Grand Strategy* provides a visual way to track faction movements, resource control, and key events. This optional tool can be adapted for simplicity or complexity based on your preference.
 
 #### **Minimalist Setup**
+
 1. **Sketch the Map**:
    - Draw a rough outline of the game world with a few key locations, such as capitals, trade hubs, or resource zones.
    - Keep it simple and focused on areas relevant to faction goals.
@@ -574,6 +635,7 @@ Adding a map and tokens to *Loner: Grand Strategy* provides a visual way to trac
    - Annotate key changes (e.g., a contested trade route or a new alliance) directly on the map.
 
 #### **Advanced Setup**
+
 1. **Design a Detailed Map**:
    - Create a map with geographical features like mountains, rivers, or deserts.
    - Mark locations such as fortresses, trade routes, and resource zones.
@@ -616,8 +678,7 @@ The **Leader Rule** introduces faction leaders as key figures who can influence 
    - The free action must align with the leader’s **Skills**, **Gear**, or **Goal**.
    - Example: A leader with the Skill *Master Diplomat* might initiate a diplomatic negotiation, while a leader with *Tactical Genius* could plan a military maneuver.
 
-3. **Leader Traits**:
-   - Leaders use the following character format, which defines their strengths, weaknesses, and narrative hooks.
+3. **Leader Traits**: Leaders use the following character format, which defines their strengths, weaknesses, and narrative hooks.
 
 #### **Leader Character Format**
 
@@ -725,7 +786,6 @@ Playing a solo game like *Loner: Grand Strategy* offers a unique opportunity to 
 #### **9. Celebrate the Journey**
 - Solo games are personal experiences—enjoy the process of crafting a unique world and story.
 - Take a moment at the end of the game to reflect on what you’ve created and how the factions evolved.
-
 
 ## Record Sheets
 
@@ -841,6 +901,7 @@ Keeps a chronological log of major events, faction actions, and story developmen
 ## Random Tables
 
 ### **1. Faction Interaction Tables**
+
 - **Faction Actions (1d6)**: Determines an AI faction’s intent during their turn.
   
   | Roll | Intent             |
@@ -864,6 +925,7 @@ Keeps a chronological log of major events, faction actions, and story developmen
   |  6   | Hostile action leads to conflict  |
 
 ### **2. World-Building Tables**
+
 - **Environmental Events (1d6)**: Adds challenges or opportunities related to the environment.
   
   | Roll | Event                                |
@@ -887,6 +949,7 @@ Keeps a chronological log of major events, faction actions, and story developmen
   |  6   | Recently destabilized |
 
 ### **3. Story-Twist Tables**
+
 - **Conflict Twists (1d6)**: Unexpected developments in ongoing conflicts.
   
   | Roll | Twist                                |
@@ -910,6 +973,7 @@ Keeps a chronological log of major events, faction actions, and story developmen
   |  6   | A sudden betrayal shifts power       |
 
 ### **4. Resource and Trade Tables**
+
 - **Resource Events (1d6)**: Changes to the status of key resources.
   
   | Roll | Event                                |
@@ -933,6 +997,7 @@ Keeps a chronological log of major events, faction actions, and story developmen
   |  6   | Mutual benefits strengthen factions  |
 
 ### **5. Character and Faction Development Tables**
+
 - **Leader Traits (1d6)**: Generates traits for faction leaders or key characters.
   
   | Roll | Trait                |
