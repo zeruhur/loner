@@ -1,0 +1,92 @@
+digraph G {
+    fontname="Permanent Marker";
+    node [shape="plain", style = "rounded", 
+    fontname="Permanent Marker", fontsize=12]   
+    // Global node style
+    node [shape=box];
+    // Global graph style to show clusters clearly
+    compound=true;
+    rankdir=TB;
+
+    // Start node
+    A [label="Start Turn"];
+
+    // Subgraph for Phase 1
+    subgraph cluster_B {
+        label = "Phase 1:\n Player-Controlled Faction Acts";
+        style = "rounded";
+
+        C [label="Define Objective"];
+        D [label="Build Argument"];
+        E [label="Resolve Action with Oracle"];
+        F [label="Result?" shape=diamond];
+        G [label="Yes: Update Story"];
+        H [label="No: Introduce Complications"];
+
+        // Flow inside Phase 1
+        C -> D;
+        D -> E;
+        E -> F;
+        F -> G;
+        F -> H;
+        G -> J;
+        H -> J;
+    }
+
+    // Subgraph for Phase 2
+    subgraph cluster_I {
+        label = "Phase 2:\n AI-Controlled Factions Act";
+        style = "rounded";
+
+        J [label="Determine AI Intent"];
+        K [label="Choose Target for AI Action"];
+        L [label="Build AI Argument"];
+        M [label="Resolve AI Action with Oracle"];
+        N [label="Interpret Results and Update Story"];
+
+        // Flow inside Phase 2
+        J -> K;
+        K -> L;
+        L -> M;
+        M -> N;
+
+    }
+    
+    N -> P;
+
+    // Subgraph for Phase 3
+    subgraph cluster_O {
+        label = "Phase 3:\n Record and Reflect";
+        style = "rounded";
+
+        P [label="Update Faction Status and Storylines"];
+
+    }
+    
+    P -> R;
+
+    // Subgraph for Phase 4
+    subgraph cluster_Q {
+        label = "Phase 4:\n Determine Mood for Next Turn";
+        style = "rounded";
+
+        R [label="Mood?" shape=diamond];
+        S [label="Dramatic Turn: Escalate Conflict"];
+        T [label="Quiet Turn: Regroup and Plan"];
+        U [label="Meanwhile Turn: Focus on Another Faction"];
+    }
+
+    // End Turn node
+    V [label="End Turn"];
+
+    // Connect phases in the main flow
+    A -> C;
+
+    // Mood decision leads to end turn
+    R -> S;
+    R -> T;
+    R -> U;
+    S -> V;
+    T -> V;
+    U -> V;
+}

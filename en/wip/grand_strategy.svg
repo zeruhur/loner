@@ -1,0 +1,259 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640pt" height="1162pt" viewBox="0.00 0.00 640 1162.4">
+<g id="graph0" class="graph" transform="translate(6.778622814604489,1155.92415656837) scale(0.9999999999999993)" data-name="G">
+
+<polygon fill="white" stroke="none" points="-4,4 -4,-1158.4 636,-1158.4 636,4 -4,4"/>
+<g id="clust1" class="cluster" data-name="cluster_B">
+
+<path fill="none" stroke="black" d="M168,-728.8C168,-728.8 438,-728.8 438,-728.8 444,-728.8 450,-734.8 450,-740.8 450,-740.8 450,-1098.4 450,-1098.4 450,-1104.4 444,-1110.4 438,-1110.4 438,-1110.4 168,-1110.4 168,-1110.4 162,-1110.4 156,-1104.4 156,-1098.4 156,-1098.4 156,-740.8 156,-740.8 156,-734.8 162,-728.8 168,-728.8"/>
+<text text-anchor="middle" x="303" y="-1093.8" font-family="Permanent Marker" font-size="14.00">Phase 1:</text>
+<text text-anchor="middle" x="303" y="-1077" font-family="Permanent Marker" font-size="14.00"> Player-Controlled Faction Acts</text>
+</g>
+<g id="clust2" class="cluster" data-name="cluster_I">
+
+<path fill="none" stroke="black" d="M203,-339.2C203,-339.2 377,-339.2 377,-339.2 383,-339.2 389,-345.2 389,-351.2 389,-351.2 389,-708.8 389,-708.8 389,-714.8 383,-720.8 377,-720.8 377,-720.8 203,-720.8 203,-720.8 197,-720.8 191,-714.8 191,-708.8 191,-708.8 191,-351.2 191,-351.2 191,-345.2 197,-339.2 203,-339.2"/>
+<text text-anchor="middle" x="290" y="-704.2" font-family="Permanent Marker" font-size="14.00">Phase 2:</text>
+<text text-anchor="middle" x="290" y="-687.4" font-family="Permanent Marker" font-size="14.00"> AI-Controlled Factions Act</text>
+</g>
+<g id="clust3" class="cluster" data-name="cluster_O">
+
+<path fill="none" stroke="black" d="M197,-237.6C197,-237.6 383,-237.6 383,-237.6 389,-237.6 395,-243.6 395,-249.6 395,-249.6 395,-319.2 395,-319.2 395,-325.2 389,-331.2 383,-331.2 383,-331.2 197,-331.2 197,-331.2 191,-331.2 185,-325.2 185,-319.2 185,-319.2 185,-249.6 185,-249.6 185,-243.6 191,-237.6 197,-237.6"/>
+<text text-anchor="middle" x="290" y="-314.6" font-family="Permanent Marker" font-size="14.00">Phase 3:</text>
+<text text-anchor="middle" x="290" y="-297.8" font-family="Permanent Marker" font-size="14.00"> Record and Reflect</text>
+</g>
+<g id="clust4" class="cluster" data-name="cluster_Q">
+
+<path fill="none" stroke="black" d="M20,-64C20,-64 612,-64 612,-64 618,-64 624,-70 624,-76 624,-76 624,-217.6 624,-217.6 624,-223.6 618,-229.6 612,-229.6 612,-229.6 20,-229.6 20,-229.6 14,-229.6 8,-223.6 8,-217.6 8,-217.6 8,-76 8,-76 8,-70 14,-64 20,-64"/>
+<text text-anchor="middle" x="316" y="-213" font-family="Permanent Marker" font-size="14.00">Phase 4:</text>
+<text text-anchor="middle" x="316" y="-196.2" font-family="Permanent Marker" font-size="14.00"> Determine Mood for Next Turn</text>
+</g>
+<!-- A -->
+<g id="node1" class="node" pointer-events="visible" data-name="A">
+
+<path fill="none" stroke="black" d="M321.49,-1154.4C321.49,-1154.4 280.51,-1154.4 280.51,-1154.4 274.51,-1154.4 268.51,-1148.4 268.51,-1142.4 268.51,-1142.4 268.51,-1130.4 268.51,-1130.4 268.51,-1124.4 274.51,-1118.4 280.51,-1118.4 280.51,-1118.4 321.49,-1118.4 321.49,-1118.4 327.49,-1118.4 333.49,-1124.4 333.49,-1130.4 333.49,-1130.4 333.49,-1142.4 333.49,-1142.4 333.49,-1148.4 327.49,-1154.4 321.49,-1154.4"/>
+<text text-anchor="middle" x="301" y="-1132.8" font-family="Permanent Marker" font-size="12">Start Turn</text>
+</g>
+<!-- C -->
+<g id="node2" class="node" pointer-events="visible" data-name="C">
+
+<path fill="none" stroke="black" d="M338.3,-1060.8C338.3,-1060.8 263.7,-1060.8 263.7,-1060.8 257.7,-1060.8 251.7,-1054.8 251.7,-1048.8 251.7,-1048.8 251.7,-1036.8 251.7,-1036.8 251.7,-1030.8 257.7,-1024.8 263.7,-1024.8 263.7,-1024.8 338.3,-1024.8 338.3,-1024.8 344.3,-1024.8 350.3,-1030.8 350.3,-1036.8 350.3,-1036.8 350.3,-1048.8 350.3,-1048.8 350.3,-1054.8 344.3,-1060.8 338.3,-1060.8"/>
+<text text-anchor="middle" x="301" y="-1039.2" font-family="Permanent Marker" font-size="12">Define Objective</text>
+</g>
+<!-- A&#45;&gt;C -->
+<g id="edge14" class="edge" data-name="A-&gt;C">
+
+<path fill="none" stroke="black" d="M301,-1118.17C301,-1105.33 301,-1087.5 301,-1072.52"/>
+<polygon fill="black" stroke="black" points="304.5,-1072.78 301,-1062.78 297.5,-1072.78 304.5,-1072.78"/>
+</g>
+<!-- D -->
+<g id="node3" class="node" pointer-events="visible" data-name="D">
+
+<path fill="none" stroke="black" d="M336.33,-988.8C336.33,-988.8 265.67,-988.8 265.67,-988.8 259.67,-988.8 253.67,-982.8 253.67,-976.8 253.67,-976.8 253.67,-964.8 253.67,-964.8 253.67,-958.8 259.67,-952.8 265.67,-952.8 265.67,-952.8 336.33,-952.8 336.33,-952.8 342.33,-952.8 348.33,-958.8 348.33,-964.8 348.33,-964.8 348.33,-976.8 348.33,-976.8 348.33,-982.8 342.33,-988.8 336.33,-988.8"/>
+<text text-anchor="middle" x="301" y="-967.2" font-family="Permanent Marker" font-size="12">Build Argument</text>
+</g>
+<!-- C&#45;&gt;D -->
+<g id="edge1" class="edge" data-name="C-&gt;D">
+
+<path fill="none" stroke="black" d="M301,-1024.5C301,-1017.21 301,-1008.53 301,-1000.34"/>
+<polygon fill="black" stroke="black" points="304.5,-1000.42 301,-990.42 297.5,-1000.42 304.5,-1000.42"/>
+</g>
+<!-- E -->
+<g id="node4" class="node" pointer-events="visible" data-name="E">
+
+<path fill="none" stroke="black" d="M363.63,-916.8C363.63,-916.8 238.37,-916.8 238.37,-916.8 232.37,-916.8 226.37,-910.8 226.37,-904.8 226.37,-904.8 226.37,-892.8 226.37,-892.8 226.37,-886.8 232.37,-880.8 238.37,-880.8 238.37,-880.8 363.63,-880.8 363.63,-880.8 369.63,-880.8 375.63,-886.8 375.63,-892.8 375.63,-892.8 375.63,-904.8 375.63,-904.8 375.63,-910.8 369.63,-916.8 363.63,-916.8"/>
+<text text-anchor="middle" x="301" y="-895.2" font-family="Permanent Marker" font-size="12">Resolve Action with Oracle</text>
+</g>
+<!-- D&#45;&gt;E -->
+<g id="edge2" class="edge" data-name="D-&gt;E">
+
+<path fill="none" stroke="black" d="M301,-952.5C301,-945.21 301,-936.53 301,-928.34"/>
+<polygon fill="black" stroke="black" points="304.5,-928.42 301,-918.42 297.5,-928.42 304.5,-928.42"/>
+</g>
+<!-- F -->
+<g id="node5" class="node" pointer-events="visible" data-name="F">
+
+<path fill="none" stroke="black" d="M289.8,-840.5C289.8,-840.5 265.28,-831.1 265.28,-831.1 259.67,-828.95 259.67,-824.65 265.28,-822.5 265.28,-822.5 289.8,-813.1 289.8,-813.1 295.4,-810.95 306.6,-810.95 312.2,-813.1 312.2,-813.1 336.72,-822.5 336.72,-822.5 342.33,-824.65 342.33,-828.95 336.72,-831.1 336.72,-831.1 312.2,-840.5 312.2,-840.5 306.6,-842.65 295.4,-842.65 289.8,-840.5"/>
+<text text-anchor="middle" x="301" y="-823.2" font-family="Permanent Marker" font-size="12">Result?</text>
+</g>
+<!-- E&#45;&gt;F -->
+<g id="edge3" class="edge" data-name="E-&gt;F">
+
+<path fill="none" stroke="black" d="M301,-880.5C301,-873.21 301,-864.53 301,-856.34"/>
+<polygon fill="black" stroke="black" points="304.5,-856.42 301,-846.42 297.5,-856.42 304.5,-856.42"/>
+</g>
+<!-- G -->
+<g id="node6" class="node" pointer-events="visible" data-name="G">
+
+<path fill="none" stroke="black" d="M256.15,-772.8C256.15,-772.8 175.85,-772.8 175.85,-772.8 169.85,-772.8 163.85,-766.8 163.85,-760.8 163.85,-760.8 163.85,-748.8 163.85,-748.8 163.85,-742.8 169.85,-736.8 175.85,-736.8 175.85,-736.8 256.15,-736.8 256.15,-736.8 262.15,-736.8 268.15,-742.8 268.15,-748.8 268.15,-748.8 268.15,-760.8 268.15,-760.8 268.15,-766.8 262.15,-772.8 256.15,-772.8"/>
+<text text-anchor="middle" x="216" y="-751.2" font-family="Permanent Marker" font-size="12">Yes: Update Story</text>
+</g>
+<!-- F&#45;&gt;G -->
+<g id="edge4" class="edge" data-name="F-&gt;G">
+
+<path fill="none" stroke="black" d="M286.58,-813.93C275.47,-804.77 259.72,-791.81 245.92,-780.44"/>
+<polygon fill="black" stroke="black" points="248.31,-777.87 238.37,-774.22 243.86,-783.28 248.31,-777.87"/>
+</g>
+<!-- H -->
+<g id="node7" class="node" pointer-events="visible" data-name="H">
+
+<path fill="none" stroke="black" d="M429.97,-772.8C429.97,-772.8 298.03,-772.8 298.03,-772.8 292.03,-772.8 286.03,-766.8 286.03,-760.8 286.03,-760.8 286.03,-748.8 286.03,-748.8 286.03,-742.8 292.03,-736.8 298.03,-736.8 298.03,-736.8 429.97,-736.8 429.97,-736.8 435.97,-736.8 441.97,-742.8 441.97,-748.8 441.97,-748.8 441.97,-760.8 441.97,-760.8 441.97,-766.8 435.97,-772.8 429.97,-772.8"/>
+<text text-anchor="middle" x="364" y="-751.2" font-family="Permanent Marker" font-size="12">No: Introduce Complications</text>
+</g>
+<!-- F&#45;&gt;H -->
+<g id="edge5" class="edge" data-name="F-&gt;H">
+
+<path fill="none" stroke="black" d="M312.56,-812.96C320.52,-804.12 331.36,-792.06 341.04,-781.31"/>
+<polygon fill="black" stroke="black" points="343.38,-783.94 347.47,-774.17 338.18,-779.26 343.38,-783.94"/>
+</g>
+<!-- J -->
+<g id="node8" class="node" pointer-events="visible" data-name="J">
+
+<path fill="none" stroke="black" d="M334.8,-671.2C334.8,-671.2 245.2,-671.2 245.2,-671.2 239.2,-671.2 233.2,-665.2 233.2,-659.2 233.2,-659.2 233.2,-647.2 233.2,-647.2 233.2,-641.2 239.2,-635.2 245.2,-635.2 245.2,-635.2 334.8,-635.2 334.8,-635.2 340.8,-635.2 346.8,-641.2 346.8,-647.2 346.8,-647.2 346.8,-659.2 346.8,-659.2 346.8,-665.2 340.8,-671.2 334.8,-671.2"/>
+<text text-anchor="middle" x="290" y="-649.6" font-family="Permanent Marker" font-size="12">Determine AI Intent</text>
+</g>
+<!-- G&#45;&gt;J -->
+<g id="edge6" class="edge" data-name="G-&gt;J">
+
+<path fill="none" stroke="black" d="M228.89,-736.45C240.28,-721.12 257.07,-698.52 270.17,-680.89"/>
+<polygon fill="black" stroke="black" points="272.95,-683.01 276.11,-672.9 267.33,-678.84 272.95,-683.01"/>
+</g>
+<!-- H&#45;&gt;J -->
+<g id="edge7" class="edge" data-name="H-&gt;J">
+
+<path fill="none" stroke="black" d="M351.11,-736.45C339.72,-721.12 322.93,-698.52 309.83,-680.89"/>
+<polygon fill="black" stroke="black" points="312.67,-678.84 303.89,-672.9 307.05,-683.01 312.67,-678.84"/>
+</g>
+<!-- K -->
+<g id="node9" class="node" pointer-events="visible" data-name="K">
+
+<path fill="none" stroke="black" d="M355.13,-599.2C355.13,-599.2 224.87,-599.2 224.87,-599.2 218.87,-599.2 212.87,-593.2 212.87,-587.2 212.87,-587.2 212.87,-575.2 212.87,-575.2 212.87,-569.2 218.87,-563.2 224.87,-563.2 224.87,-563.2 355.13,-563.2 355.13,-563.2 361.13,-563.2 367.13,-569.2 367.13,-575.2 367.13,-575.2 367.13,-587.2 367.13,-587.2 367.13,-593.2 361.13,-599.2 355.13,-599.2"/>
+<text text-anchor="middle" x="290" y="-577.6" font-family="Permanent Marker" font-size="12">Choose Target for AI Action</text>
+</g>
+<!-- J&#45;&gt;K -->
+<g id="edge8" class="edge" data-name="J-&gt;K">
+
+<path fill="none" stroke="black" d="M290,-634.9C290,-627.61 290,-618.93 290,-610.74"/>
+<polygon fill="black" stroke="black" points="293.5,-610.82 290,-600.82 286.5,-610.82 293.5,-610.82"/>
+</g>
+<!-- L -->
+<g id="node10" class="node" pointer-events="visible" data-name="L">
+
+<path fill="none" stroke="black" d="M332.99,-527.2C332.99,-527.2 247.01,-527.2 247.01,-527.2 241.01,-527.2 235.01,-521.2 235.01,-515.2 235.01,-515.2 235.01,-503.2 235.01,-503.2 235.01,-497.2 241.01,-491.2 247.01,-491.2 247.01,-491.2 332.99,-491.2 332.99,-491.2 338.99,-491.2 344.99,-497.2 344.99,-503.2 344.99,-503.2 344.99,-515.2 344.99,-515.2 344.99,-521.2 338.99,-527.2 332.99,-527.2"/>
+<text text-anchor="middle" x="290" y="-505.6" font-family="Permanent Marker" font-size="12">Build AI Argument</text>
+</g>
+<!-- K&#45;&gt;L -->
+<g id="edge9" class="edge" data-name="K-&gt;L">
+
+<path fill="none" stroke="black" d="M290,-562.9C290,-555.61 290,-546.93 290,-538.74"/>
+<polygon fill="black" stroke="black" points="293.5,-538.82 290,-528.82 286.5,-538.82 293.5,-538.82"/>
+</g>
+<!-- M -->
+<g id="node11" class="node" pointer-events="visible" data-name="M">
+
+<path fill="none" stroke="black" d="M360.79,-455.2C360.79,-455.2 219.21,-455.2 219.21,-455.2 213.21,-455.2 207.21,-449.2 207.21,-443.2 207.21,-443.2 207.21,-431.2 207.21,-431.2 207.21,-425.2 213.21,-419.2 219.21,-419.2 219.21,-419.2 360.79,-419.2 360.79,-419.2 366.79,-419.2 372.79,-425.2 372.79,-431.2 372.79,-431.2 372.79,-443.2 372.79,-443.2 372.79,-449.2 366.79,-455.2 360.79,-455.2"/>
+<text text-anchor="middle" x="290" y="-433.6" font-family="Permanent Marker" font-size="12">Resolve AI Action with Oracle</text>
+</g>
+<!-- L&#45;&gt;M -->
+<g id="edge10" class="edge" data-name="L-&gt;M">
+
+<path fill="none" stroke="black" d="M290,-490.9C290,-483.61 290,-474.93 290,-466.74"/>
+<polygon fill="black" stroke="black" points="293.5,-466.82 290,-456.82 286.5,-466.82 293.5,-466.82"/>
+</g>
+<!-- N -->
+<g id="node12" class="node" pointer-events="visible" data-name="N">
+
+<path fill="none" stroke="black" d="M369.13,-383.2C369.13,-383.2 210.87,-383.2 210.87,-383.2 204.87,-383.2 198.87,-377.2 198.87,-371.2 198.87,-371.2 198.87,-359.2 198.87,-359.2 198.87,-353.2 204.87,-347.2 210.87,-347.2 210.87,-347.2 369.13,-347.2 369.13,-347.2 375.13,-347.2 381.13,-353.2 381.13,-359.2 381.13,-359.2 381.13,-371.2 381.13,-371.2 381.13,-377.2 375.13,-383.2 369.13,-383.2"/>
+<text text-anchor="middle" x="290" y="-361.6" font-family="Permanent Marker" font-size="12">Interpret Results and Update Story</text>
+</g>
+<!-- M&#45;&gt;N -->
+<g id="edge11" class="edge" data-name="M-&gt;N">
+
+<path fill="none" stroke="black" d="M290,-418.9C290,-411.61 290,-402.93 290,-394.74"/>
+<polygon fill="black" stroke="black" points="293.5,-394.82 290,-384.82 286.5,-394.82 293.5,-394.82"/>
+</g>
+<!-- P -->
+<g id="node13" class="node" pointer-events="visible" data-name="P">
+
+<path fill="none" stroke="black" d="M374.98,-281.6C374.98,-281.6 205.02,-281.6 205.02,-281.6 199.02,-281.6 193.02,-275.6 193.02,-269.6 193.02,-269.6 193.02,-257.6 193.02,-257.6 193.02,-251.6 199.02,-245.6 205.02,-245.6 205.02,-245.6 374.98,-245.6 374.98,-245.6 380.98,-245.6 386.98,-251.6 386.98,-257.6 386.98,-257.6 386.98,-269.6 386.98,-269.6 386.98,-275.6 380.98,-281.6 374.98,-281.6"/>
+<text text-anchor="middle" x="290" y="-260" font-family="Permanent Marker" font-size="12">Update Faction Status and Storylines</text>
+</g>
+<!-- N&#45;&gt;P -->
+<g id="edge12" class="edge" data-name="N-&gt;P">
+
+<path fill="none" stroke="black" d="M290,-346.85C290,-332.16 290,-310.79 290,-293.52"/>
+<polygon fill="black" stroke="black" points="293.5,-293.6 290,-283.6 286.5,-293.6 293.5,-293.6"/>
+</g>
+<!-- R -->
+<g id="node14" class="node" pointer-events="visible" data-name="R">
+
+<path fill="none" stroke="black" d="M278.85,-175.57C278.85,-175.57 255.83,-166.43 255.83,-166.43 250.26,-164.21 250.26,-159.79 255.83,-157.57 255.83,-157.57 278.85,-148.43 278.85,-148.43 284.42,-146.21 295.58,-146.21 301.15,-148.43 301.15,-148.43 324.17,-157.57 324.17,-157.57 329.74,-159.79 329.74,-164.21 324.17,-166.43 324.17,-166.43 301.15,-175.57 301.15,-175.57 295.58,-177.79 284.42,-177.79 278.85,-175.57"/>
+<text text-anchor="middle" x="290" y="-158.4" font-family="Permanent Marker" font-size="12">Mood?</text>
+</g>
+<!-- P&#45;&gt;R -->
+<g id="edge13" class="edge" data-name="P-&gt;R">
+
+<path fill="none" stroke="black" d="M290,-245.25C290,-230.56 290,-209.19 290,-191.92"/>
+<polygon fill="black" stroke="black" points="293.5,-192 290,-182 286.5,-192 293.5,-192"/>
+</g>
+<!-- S -->
+<g id="node15" class="node" pointer-events="visible" data-name="S">
+
+<path fill="none" stroke="black" d="M179.6,-108C179.6,-108 28.4,-108 28.4,-108 22.4,-108 16.4,-102 16.4,-96 16.4,-96 16.4,-84 16.4,-84 16.4,-78 22.4,-72 28.4,-72 28.4,-72 179.6,-72 179.6,-72 185.6,-72 191.6,-78 191.6,-84 191.6,-84 191.6,-96 191.6,-96 191.6,-102 185.6,-108 179.6,-108"/>
+<text text-anchor="middle" x="104" y="-86.4" font-family="Permanent Marker" font-size="12">Dramatic Turn: Escalate Conflict</text>
+</g>
+<!-- R&#45;&gt;S -->
+<g id="edge15" class="edge" data-name="R-&gt;S">
+
+<path fill="none" stroke="black" d="M267.56,-152.56C241.27,-142.66 196.72,-125.89 160.75,-112.36"/>
+<polygon fill="black" stroke="black" points="162.38,-109.23 151.79,-108.98 159.91,-115.78 162.38,-109.23"/>
+</g>
+<!-- T -->
+<g id="node16" class="node" pointer-events="visible" data-name="T">
+
+<path fill="none" stroke="black" d="M358.81,-108C358.81,-108 221.19,-108 221.19,-108 215.19,-108 209.19,-102 209.19,-96 209.19,-96 209.19,-84 209.19,-84 209.19,-78 215.19,-72 221.19,-72 221.19,-72 358.81,-72 358.81,-72 364.81,-72 370.81,-78 370.81,-84 370.81,-84 370.81,-96 370.81,-96 370.81,-102 364.81,-108 358.81,-108"/>
+<text text-anchor="middle" x="290" y="-86.4" font-family="Permanent Marker" font-size="12">Quiet Turn: Regroup and Plan</text>
+</g>
+<!-- R&#45;&gt;T -->
+<g id="edge16" class="edge" data-name="R-&gt;T">
+
+<path fill="none" stroke="black" d="M290,-143.7C290,-136.41 290,-127.73 290,-119.54"/>
+<polygon fill="black" stroke="black" points="293.5,-119.62 290,-109.62 286.5,-119.62 293.5,-119.62"/>
+</g>
+<!-- U -->
+<g id="node17" class="node" pointer-events="visible" data-name="U">
+
+<path fill="none" stroke="black" d="M603.63,-108C603.63,-108 400.37,-108 400.37,-108 394.37,-108 388.37,-102 388.37,-96 388.37,-96 388.37,-84 388.37,-84 388.37,-78 394.37,-72 400.37,-72 400.37,-72 603.63,-72 603.63,-72 609.63,-72 615.63,-78 615.63,-84 615.63,-84 615.63,-96 615.63,-96 615.63,-102 609.63,-108 603.63,-108"/>
+<text text-anchor="middle" x="502" y="-86.4" font-family="Permanent Marker" font-size="12">Meanwhile Turn: Focus on Another Faction</text>
+</g>
+<!-- R&#45;&gt;U -->
+<g id="edge17" class="edge" data-name="R-&gt;U">
+
+<path fill="none" stroke="black" d="M313.91,-153.11C343.89,-143.21 396.46,-125.85 438.41,-112"/>
+<polygon fill="black" stroke="black" points="439.27,-115.4 447.67,-108.94 437.07,-108.75 439.27,-115.4"/>
+</g>
+<!-- V -->
+<g id="node18" class="node" pointer-events="visible" data-name="V">
+
+<path fill="none" stroke="black" d="M308.66,-36C308.66,-36 271.34,-36 271.34,-36 265.34,-36 259.34,-30 259.34,-24 259.34,-24 259.34,-12 259.34,-12 259.34,-6 265.34,0 271.34,0 271.34,0 308.66,0 308.66,0 314.66,0 320.66,-6 320.66,-12 320.66,-12 320.66,-24 320.66,-24 320.66,-30 314.66,-36 308.66,-36"/>
+<text text-anchor="middle" x="290" y="-14.4" font-family="Permanent Marker" font-size="12">End Turn</text>
+</g>
+<!-- S&#45;&gt;V -->
+<g id="edge18" class="edge" data-name="S-&gt;V">
+
+<path fill="none" stroke="black" d="M150.46,-71.52C180.51,-60.21 219.3,-45.61 248.36,-34.67"/>
+<polygon fill="black" stroke="black" points="249.43,-38.01 257.56,-31.21 246.97,-31.46 249.43,-38.01"/>
+</g>
+<!-- T&#45;&gt;V -->
+<g id="edge19" class="edge" data-name="T-&gt;V">
+
+<path fill="none" stroke="black" d="M290,-71.7C290,-64.41 290,-55.73 290,-47.54"/>
+<polygon fill="black" stroke="black" points="293.5,-47.62 290,-37.62 286.5,-47.62 293.5,-47.62"/>
+</g>
+<!-- U&#45;&gt;V -->
+<g id="edge20" class="edge" data-name="U-&gt;V">
+
+<path fill="none" stroke="black" d="M449.05,-71.52C412.8,-59.55 365.39,-43.89 331.8,-32.8"/>
+<polygon fill="black" stroke="black" points="333,-29.51 322.4,-29.7 330.8,-36.16 333,-29.51"/>
+</g>
+</g>
+</svg>
