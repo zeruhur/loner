@@ -4,7 +4,7 @@
   - [Core Rules 3e](en/loner-en.md)
   - [Adventure Packs](en/adventure-packs.md)
   - [Geared Towards Loner games](en/geared_towards_loner.md)
-  - [Creator's Kit](en/creators_kit/creators_kit.md)
+  - [Third Party License](en/third_party_license.md)
   - [Core Rules 2e (legacy)](en/loner-2e.md)
   - [Core Rules 1e (legacy)](en/loner-1e.md)  - 
 - **SRD Versione Italiana**
