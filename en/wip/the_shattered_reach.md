@@ -961,7 +961,22 @@ The geography of the sector is not just physical—it is also political, cultura
 
 ### **Regions of the Quaternary Sector**  
 
-#### **1. The Core Worlds**: Heart of Prosperity  
+#### 1. Stellar Profiles
+
+| Name            | Type            | Mass (\(M_{\odot}\)) | Radius (\(R_{\odot}\)) | Temperature (K) | Luminosity (\(L_{\odot}\)) | Description |
+|---------------|----------------|-----------------|-----------------|----------------|-----------------|-------------|
+| **Vaelora** | G2V (Sun-like)  | 1.1 \(M_{\odot}\) | 1.0 \(R_{\odot}\) | 5800 K | 1.2 \(L_{\odot}\) | The primary star of the system, a stable yellow sun hosting key Core Worlds. |
+| **Oron** | K3V (Orange dwarf) | 0.8 \(M_{\odot}\) | 0.7 \(R_{\odot}\) | 4800 K | 0.4 \(L_{\odot}\) | A cooler, orange dwarf closely orbiting Vaelora in a stable binary. |
+| **Nyris** | M1V (Red dwarf) | 0.5 \(M_{\odot}\) | 0.5 \(R_{\odot}\) | 3700 K | 0.05 \(L_{\odot}\) | A dim, long-lived red dwarf with tidally locked planets and mysterious activity. |
+| **Zephos** | F6V (Bright yellow-white) | 1.3 \(M_{\odot}\) | 1.2 \(R_{\odot}\) | 6500 K | 2.5 \(L_{\odot}\) | A hotter, more luminous white-yellow star forming a binary with Nyris. |
+
+#### Stellar Configuration & Distances  
+
+- **Vaelora & Oron** → Close binary (~0.5 AU separation, ~50-day orbit).  
+- **Nyris & Zephos** → Wider binary (~5 AU separation, ~12-year orbit).  
+- **Two binary pairs orbit each other** → ~60 AU separation (~500-year period).  
+
+#### **2. The Core Worlds**: Heart of Prosperity  
 
 The **Core Worlds** represent the height of human achievement in the sector. Located near the gravitational heart of the quaternary system, these planets were among the first to be settled and boast the most Earth-like environments. Advanced terraforming and centuries of development have transformed them into hubs of commerce, culture, and political power.  
 
@@ -972,7 +987,15 @@ The **Core Worlds** represent the height of human achievement in the sector. Loc
   - **Auraxis**: A lush agricultural world, vital for feeding the Core and maintaining its economic stability.  
   - **Heliostation-7**: A massive orbital station serving as the Concordat Fleet’s primary shipyard.  
 
-#### **2. The Contested Zone**: Frontier of Conflict  
+#### Planetary Structure by Subsystem
+
+| Star System | Inner Planets | Outer Planets | Gas Giants | Notable Moons |
+|------------|--------------|--------------|-----------|--------------|
+| **Vaelora-Oron System** | **Auraxis (habitable)**, **Caldera-9 (industrial)** | **Sable-3 (desert world)**, Caldora Minor | **Caldora Majoris (gas giant)** | **Lirin's Rest, Oros-VI** |
+| **Nyris System** | **Gamma Nexus (volcanic)**, Wraith Node (tidally locked) | Calibra Delta (cold world) | None (due to small mass) | — |
+| **Zephos System** | **Glintspire (habitable)**, Haven's Rest (frozen)** | **Obsidian Core (dark world)** | **Chrysalix (gas giant)** | **Krynn, Shard-27** |
+
+#### **3. The Contested Zone**: Frontier of Conflict  
 
 The **Contested Zone** is a chaotic expanse of asteroid belts, resource-rich moons, and unaligned stations. It is here that the ambitions of the Concordat and the Frontier League collide most directly.  
 
@@ -983,7 +1006,7 @@ The **Contested Zone** is a chaotic expanse of asteroid belts, resource-rich moo
   - **Asteroid Cluster 473-Gamma**: A vital source of rare minerals, fiercely contested by mining conglomerates and pirate clans.  
   - **Drake’s Divide**: A treacherous asteroid field rumored to be haunted by Dominion artifacts—or Dominion probes.  
 
-#### **3. The Frontier**: The Struggle for Survival  
+#### **4. The Frontier**: The Struggle for Survival  
 
 The **Frontier** encompasses the harsh, less-developed planets and moons at the fringes of the sector. These worlds, defined by extreme environments and scarce resources, are home to the **Frontier League** and its fiercely independent colonies.  
 
@@ -994,7 +1017,7 @@ The **Frontier** encompasses the harsh, less-developed planets and moons at the 
   - **Sable-3**: A wind-blasted desert world, infamous for its thriving black-market trade in Predecessor artifacts.  
   - **Haven’s Refuge**: A struggling terraformed world, whose population clings to survival despite Concordat-imposed trade blockades.  
 
-#### **4. The Outer Reaches**: Mystery and Danger  
+#### **5. The Outer Reaches**: Mystery and Danger  
 
 The **Outer Reaches** are the most remote and uncharted parts of the sector, where humanity’s presence is thin, and the remnants of the **Predecessors** are most prominent. These regions are dangerous and alluring, drawing explorers, scientists, and opportunists eager to uncover the secrets of the ancient ruins scattered across desolate moons and dead planets.  
 
@@ -1005,7 +1028,7 @@ The **Outer Reaches** are the most remote and uncharted parts of the sector, whe
   - **The Obsidian Spire**: A towering alien structure on a dead world, emitting a low-frequency hum that drives intruders to madness.  
   - **Wraith Nebula**: A dense cloud of gas hiding Dominion bioships and unexplained gravitational anomalies.  
 
-#### **5. The Nexus**: Crossroads of the Sector  
+#### **6. The Nexus**: Crossroads of the Sector  
 
 The **Nexus** is a sprawling, artificial station situated at the sector’s central trade nexus. Officially neutral, it serves as a meeting point for diplomats, traders, mercenaries, and smugglers alike. The station’s size and complexity make it a microcosm of the sector itself: vibrant, chaotic, and filled with intrigue.  
 
