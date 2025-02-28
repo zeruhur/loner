@@ -679,7 +679,7 @@ Who will you align with? And who will become your **greatest enemy**?
 
 ## Creatures & Foes
 
-### Akaname
+### 11. Akaname
 - **Concept**: Goblin-like spirit that licks filth
 - **Skills**: Filth Manipulation, Disgusting Aura
 - **Frailty**: Vulnerable to cleanliness or purification rituals
@@ -688,7 +688,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Sustain itself and fulfill its purpose
 - **Nemesis**: Those who keep their spaces clean or protective spirits
 
-### Akashita
+### 12. Akashita
 - **Concept**: Ghostly hand beneath tatami mats
 - **Skills**: Surprise Attack, Stealth
 - **Frailty**: Vulnerable to light or salt
@@ -697,7 +697,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek amusement or surprise
 - **Nemesis**: Those who seal off tatami mats or protective charms
 
-### Amanojaku
+### 13. Amanojaku
 - **Concept**: Mischievous demons causing chaos and confusion
 - **Skills**: Instigation, Manipulation
 - **Frailty**: Vulnerable to exorcism or divine intervention
@@ -706,7 +706,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek amusement or exert control
 - **Nemesis**: Individuals skilled in conflict resolution or harmony
 
-### Enenra
+### 14. Enenra
 - **Concept**: Creature of smoke or mist
 - **Skills**: Smoke Manipulation, Intangibility
 - **Frailty**: Vulnerable to strong wind or air purification
@@ -715,7 +715,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek confusion or fear
 - **Nemesis**: Air manipulators or those with smoke-resistant abilities
 
-### Hitotsume-kozo
+### 15. Hitotsume-kozo
 - **Concept**: One-eyed monk spirit
 - **Skills**: Hypnotic Gaze, Stealth
 - **Frailty**: Vulnerable to salt or purification rituals
@@ -724,7 +724,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek amusement or sustenance
 - **Nemesis**: Those with strong willpower or mystical abilities
 
-### Hihi
+### 16. Hihi
 - **Concept**: Creature with bird-like appearance and fire control
 - **Skills**: Pyrokinesis, Fiery Aura
 - **Frailty**: Vulnerable to water or fire-extinguishing methods
@@ -733,7 +733,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Maintain the balance of fire's destructive and creative aspects
 - **Nemesis**: Water manipulators or those with fire-resistant abilities
 
-### Hyakki Yagyō
+### 21. Hyakki Yagyō
 - **Concept**: Parade of one hundred demons and supernatural beings
 - **Skills**: Collective Action, Illusion Projection
 - **Frailty**: Vulnerable to disruption or dispelling magic
@@ -742,7 +742,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek amusement or confusion
 - **Nemesis**: Guardians of order or individuals skilled in countering illusions
 
-### Jibakurei
+### 22. Jibakurei
 - **Concept**: Land-bound spirits attached to specific locations
 - **Skills**: Manifestation, Territorial Influence
 - **Frailty**: Vulnerable to purification rituals or displacement
@@ -751,7 +751,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Protect their domain and maintain balance
 - **Nemesis**: Individuals who desecrate or disrupt their territory
 
-### Jorogumo
+### 23. Jorogumo
 - **Concept**: Seductive spider woman
 - **Skills**: Shape-shifting, Deception
 - **Frailty**: Vulnerable to fire or purification rituals
@@ -760,7 +760,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Sustain themselves through deception
 - **Nemesis**: Fire-wielding individuals or cautious travelers
 
-### Kamagami
+### 24. Kamagami
 - **Concept**: Deities or spirits residing in natural elements
 - **Skills**: Elemental Affinity, Blessings
 - **Frailty**: Vulnerable to pollution or defilement of their element
@@ -769,7 +769,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Preserve balance and harmony
 - **Nemesis**: Those who exploit or misuse their domains
 
-### Kamaitachi
+### 25. Kamaitachi
 - **Concept**: Trio of weasel-like spirits associated with winds
 - **Skills**: Speed, Cutting Winds
 - **Frailty**: Vulnerable when winds are calm
@@ -778,7 +778,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Playful pranks or seek food
 - **Nemesis**: Wind-manipulating individuals or those with strong barriers
 
-### Kamikakushi
+### 26. Kamikakushi
 - **Concept**: Phenomenon of mysterious disappearances
 - **Skills**: Invisibility, Dimensional Manipulation
 - **Frailty**: Vulnerable to detection or sealing methods
@@ -787,7 +787,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Unknown, possibly fascination with human world
 - **Nemesis**: Dimensional travelers or beings with detection abilities
 
-### Kamikiri
+### 31. Kamikiri
 - **Concept**: Hair-cutting creature
 - **Skills**: Stealth, Precision Cutting
 - **Frailty**: Vulnerable to protective charms or hair talismans
@@ -796,7 +796,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek hair for its nest or use in rituals
 - **Nemesis**: People with strong protective measures or hair-enhancing abilities
 
-### Kappa
+### 32. Kappa
 - **Concept**: Mischievous water-dwelling creatures
 - **Skills**: Swimming, Pranks
 - **Frailty**: Vulnerable to spilling water from its head
@@ -805,7 +805,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek amusement and food
 - **Nemesis**: Skilled swimmers or clever humans
 
-### Kijo
+### 33. Kijo
 - **Concept**: Seductive and dangerous female demon
 - **Skills**: Charm, Deception
 - **Frailty**: Vulnerable to purity or divine intervention
@@ -814,7 +814,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek pleasure or spread chaos
 - **Nemesis**: Virtuous individuals or those with strong will
 
-### Kitsune
+### 34. Kitsune
 - **Concept**: Cunning fox spirits
 - **Skills**: Shape-shifting, Illusion
 - **Frailty**: Vulnerable to certain chants or rituals
@@ -823,7 +823,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Gain power or amusement
 - **Nemesis**: Skilled priests or holy relics
 
-### Konaki-jiji
+### 35. Konaki-jiji
 - **Concept**: Old man youkai who cries like a baby
 - **Skills**: Mimicry, Emotional Manipulation
 - **Frailty**: Vulnerable to recognition or protective chants
@@ -832,7 +832,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek amusement or feed on emotions
 - **Nemesis**: Emotionally resilient individuals or those who see through its act
 
-### Kubire-oni
+### 36. Kubire-oni
 - **Concept**: Headless demon or ogre
 - **Skills**: Brute Strength, Fear-Inducing Roar
 - **Frailty**: Vulnerable to sealing rituals or holy symbols
@@ -841,7 +841,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek dominance or terrorize humans
 - **Nemesis**: Skilled exorcists or brave warriors
 
-### Kawa-no-kami
+### 41. Kawa-no-kami
 - **Concept**: River deities or spirits
 - **Skills**: Water Manipulation, Communication
 - **Frailty**: Vulnerable to pollution or desecration
@@ -850,7 +850,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Maintain the balance of nature
 - **Nemesis**: Those who pollute or harm water sources
 
-### Kawa-uso
+### 42. Kawa-uso
 - **Concept**: River otter spirits known for pranks
 - **Skills**: Mischief, Shapeshifting
 - **Frailty**: Vulnerable to protective charms or water purification
@@ -859,7 +859,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek amusement or entertainment
 - **Nemesis**: Those who outwit or out-prank them
 
-### Kasha
+### 43. Kasha
 - **Concept**: Corpse-stealing creature
 - **Skills**: Grave Desecration, Stealth
 - **Frailty**: Vulnerable to protective barriers or sanctified ground
