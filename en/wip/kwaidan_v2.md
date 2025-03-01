@@ -27,7 +27,7 @@ Unlike a gamebook (such as the Fighting Fantasy, Lone Wolf, and Tunnels & Trolls
 
 Through the interaction of player, oracle, tools, and prompts, the character's actions will build an **emergent narrative** within whose boundaries anything can be attempted, without predetermined limits.
 
-## **What is Kwaidan?**  
+## What is Kwaidan?  
 
 The word *Kwaidan* (怪談) means "strange tales"—a tradition of **ghost stories, myths, and folklore** deeply rooted in Japanese culture. These stories blend history with supernatural horror, where spirits and creatures reflect the **fears, regrets, and karmic consequences** of the past.
 
@@ -50,13 +50,11 @@ To play *[Product Name]* you will need:
 - **Character sheet**: you may use the provided sheet at the back or a simple index card.
 - **Notebook**: *[Product Name]* is not a solo journaling game, you can easily play it in the "theater of mind". But you can keep track of you game if you feel the need!
 
-## **Setting Introduction**  
+## Setting Introduction  
 
 Feudal Japan is a land **divided by war and united by superstition**. The setting of *Loner: Kwaidan* takes place in an **alternate version of this historical period**, where the supernatural is not just a belief—it is real. Spirits, yokai, and ghosts wander the land, bound by the karmic cycles of life, death, and revenge.  
 
 The world is both beautiful and perilous, where duty, honor, and fear shape the fate of individuals and entire villages. You will explore **forgotten shrines, mist-laden forests, and cursed battlefields**, encountering beings from the unseen world and uncovering ancient secrets.  
-
----
 
 ### **Core Setting Features**  
 
@@ -85,9 +83,7 @@ The world is both beautiful and perilous, where duty, honor, and fear shape the 
   - A single act of dishonor may bring **spiritual curses, divine wrath, or exile**.  
   - A wandering ronin, an outcast priest, or a disgraced noble **may find redemption—or fall deeper into darkness**.  
 
----
-
-### **Playable Themes**  
+### Playable Themes  
 
 - **Ghost Stories & Folklore Horror** – Investigate haunted temples, broken spirits, and eerie mysteries.  
 - **Samurai & Bushido** – Struggle between honor, duty, and supernatural vengeance.  
@@ -97,9 +93,7 @@ The world is both beautiful and perilous, where duty, honor, and fear shape the 
 - **The Balance of Nature & Spirits** – Respect for sacred sites, appeasement of ancient gods, and the price of defiling the natural order.  
 - **Personal Redemption & Revenge** – Can a fallen warrior atone, or will they be consumed by vengeance?  
 
----
-
-### **Timeline of the Setting**  
+### Timeline of the Setting  
 
 This world is shaped by centuries of conflict, belief, and forgotten history. The past haunts the present—sometimes **literally**.  
 
@@ -129,9 +123,9 @@ Each character carries **burdens, skills, and secrets**—but in a world where *
 
 Your journey will be one of **mystery, horror, and fate**, where each step brings you **closer to the unknown**. Will you break free from your past, or will your story become another whispered legend?
 
-## **Character Traits**  
+## Character Traits  
 
-### **Concepts**  
+### Concepts  
 
 |     | 1                | 2               | 3                 | 4                 | 5               | 6               |
 | --- | ---------------- | --------------- | ----------------- | ----------------- | --------------- | --------------- |
@@ -142,9 +136,7 @@ Your journey will be one of **mystery, horror, and fate**, where each step bring
 | 5   | Yokai Whisperer  | Amnesiac Traveler| Ill-Fated Lover  | Cursed Blacksmith | Wandering Herbalist | Ghost-Seeking Child |
 | 6   | Masked Duelist   | Spirit Negotiator | Betrayed Courtier | Shadow Puppeteer  | Orphaned Scout  | Doomed Court Lady |
 
----
-
-### **Skills**  
+### Skills  
 
 |     | 1                | 2               | 3                 | 4                 | 5               | 6               |
 | --- | ---------------- | --------------- | ----------------- | ----------------- | --------------- | --------------- |
@@ -155,9 +147,7 @@ Your journey will be one of **mystery, horror, and fate**, where each step bring
 | 5   | Naginata Mastery | Lore of the Dead | Fire Magic      | Mapmaking        | Lockpicking     | Healing Arts    |
 | 6   | Shape-Resisting  | Moon Rituals    | Fan Combat        | Silent Movement  | Negotiation     | Ritual Dancing  |
 
----
-
-### **Frailties**  
+### Frailties  
 
 |     | 1                | 2               | 3                 | 4                 | 5               | 6               |
 | --- | ---------------- | --------------- | ----------------- | ----------------- | --------------- | --------------- |
@@ -168,9 +158,7 @@ Your journey will be one of **mystery, horror, and fate**, where each step bring
 | 5   | Weak to Iron     | Cannot Swim     | Cannot Sleep Unarmed | Speaks to the Dead Unbidden | Fear of Heights | Never Breaks a Promise |
 | 6   | Bad with Money   | Prone to Fits of Rage | Outcast by Society | Crippled by Guilt | Mistrusts Everyone | Fear of the Ocean |
 
----
-
-### **Gear**  
+### Gear  
 
 |     | 1                | 2               | 3                 | 4                 | 5               | 6               |
 | --- | ---------------- | --------------- | ----------------- | ----------------- | --------------- | --------------- |
@@ -181,11 +169,9 @@ Your journey will be one of **mystery, horror, and fate**, where each step bring
 | 5   | Tattered Banner | Folding Fan      | Mask of the Forgotten | Sealed Bottle of River Water | Demon-Sealing Rope | Small Bag of White Sand |
 | 6   | Sandals of the Lost | Enchanted Umbrella | Rusted Helmet | Ghostly Calligraphy Brush | Dragon’s Claw Pendant | Broken Spearhead |
 
----
+## Names  
 
-## **Names**  
-
-### **Female Names**  
+### Female Names  
 
 |     | 1       | 2       | 3       | 4       | 5       | 6       |
 | --- | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -196,9 +182,7 @@ Your journey will be one of **mystery, horror, and fate**, where each step bring
 | 5   | Amaya   | Eri     | Kana    | Misaki  | Tomoko  | Ayumi   |
 | 6   | Yui     | Nozomi  | Hinata  | Yuna    | Akane   | Nanami  |
 
----
-
-### **Male Names**  
+### Male Names  
 
 |     | 1       | 2       | 3       | 4       | 5       | 6       |
 | --- | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -209,9 +193,7 @@ Your journey will be one of **mystery, horror, and fate**, where each step bring
 | 5   | Kaito   | Taro    | Yuma    | Ryo     | Keisuke | Hayato  |
 | 6   | Renji   | Junichi | Taichi  | Shota   | Hiroto  | Sosuke  |
 
----
-
-### **Surnames**  
+### Surnames  
 
 |     | 1       | 2       | 3       | 4       | 5       | 6       |
 | --- | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -284,7 +266,7 @@ To resolve a closed question, roll one **Chance Die** and one **Risk Die**:
 - If the Risk Die is highest, the answer is **No**.
 - If both are low (3 or less), add a **but...**. 
 - If both are high (4 or more), add an **and...**.
-- If both are equal, the answer is **Yes, and...**. Add a point to the **[Twist Counter](#twist-counter)**.
+- If both are equal, the answer is **Yes, but...**. Add a point to the **[Twist Counter](#twist-counter)**.
 
 
 | Dice Value |    Chance Die > Risk Die   | Risk Die > Chance Die |
@@ -293,7 +275,7 @@ To resolve a closed question, roll one **Chance Die** and one **Risk Die**:
 |  Both > 3  |         Yes, and...        |       No, and...      |
 | Mismatched |             Yes            |           No          |
 |            |                            |                       |
-|    Equal   | Add 1 to the Twist Counter |                       |
+|    Equal   | Yes, but... Add 1 to the Twist Counter |                       |
 
 ### Advantage and Disadvantage
 
@@ -357,8 +339,6 @@ Chi (**気**, "vital energy") represents **inner balance, resilience, and supern
   - Drinking sacred water, resting in temples, or connecting with spirits can **regain Chi**, pending an **Oracle check**.  
   - A character at **0 Chi is spiritually exhausted**, unable to use abilities until they **properly rest or receive divine aid**.  
 
----
-
 #### Corruption: The Pull of Darkness  
 
 In a world filled with **vengeful ghosts, curses, and forbidden magic**, corruption is an ever-present danger. **The more one interacts with evil, the more it clings to the soul.**  
@@ -381,8 +361,6 @@ In a world filled with **vengeful ghosts, curses, and forbidden magic**, corrupt
   - At **10+, they are lost**—either turning into a vengeful ghost, a cursed warrior, or a yokai themselves.  
 
 Corruption can be mitigated, but **never fully erased**—what has been touched by darkness always leaves a stain.  
-
----
 
 #### Honor: Reputation & Spiritual Integrity  
 
@@ -407,8 +385,6 @@ Losing Honor does not mean losing *power*, but it **changes how the world treats
   - Peasants at **0 Honor are cursed**, believed to be spiritually impure.  
   - Monks at **0 Honor are forsaken**, unable to call upon divine blessings.  
   - **A character whose Honor drops below 0 may become a vengeful ghost upon death.**  
-
----
 
 ### When Traits Interact  
 
@@ -482,15 +458,13 @@ At the end of the adventure you may add another trait to the character. It is be
 
 Also update the list of **NPCs**, **Locations**, and **Events** that may show up again in future adventures.
 
-## **Setting Information**  
+## The Setting  
 
 The world of *Loner: Kwaidan* is a reflection of **feudal Japan, infused with the supernatural**. It is a place where **ancient shrines hold forgotten spirits, battlefields echo with the cries of lingering ghosts, and yokai walk among humans in disguise**.  
 
 This is not the Japan of history books, but rather a **mythic and haunted landscape**, where superstition and folklore are **indistinguishable from reality**. Every village, mountain, and river carries its own story—some filled with wisdom, others with warnings.  
 
----
-
-### **Geography: A Haunted Land**  
+### Geography: A Haunted Land  
 
 The geography of *Kwaidan* is shaped by **both nature and the supernatural**, where the landscape itself **holds memories of past tragedies and hidden forces**.  
 
@@ -500,13 +474,11 @@ The geography of *Kwaidan* is shaped by **both nature and the supernatural**, wh
 - **The Ruins of War** – The bones of long-forgotten battles litter the land. Ghosts of fallen warriors **reenact their last moments**, forever seeking an end to their struggles.  
 - **The Spirit Roads** – Roads that do not always lead where they should. A traveler may set out for one place and find themselves **somewhere else entirely—sometimes, in a time long past**.  
 
----
-
-### **Cultures & People**  
+### Cultures & People  
 
 The people of this world live in a **constant state of fear, reverence, and acceptance of the supernatural**. Villages, towns, and courts are all shaped by **a belief in fate, omens, and spirits**.  
 
-### **Social Structure**  
+### Social Structure  
 Feudal society is strict, but the influence of spirits, curses, and omens can **upset even the highest lords**.  
 
 - **Samurai (武士, Bushi)** – Warriors bound by **duty, loyalty, and ritual**. They may be noble retainers or disgraced ronin **wandering in exile**.  
@@ -515,7 +487,7 @@ Feudal society is strict, but the influence of spirits, curses, and omens can **
 - **Merchants & Artisans** – Traders who carry **both goods and rumors** from town to town. Some unknowingly transport **cursed objects**, while others **sell talismans that may—or may not—work**.  
 - **Outcasts & Hidden Folk** – Bandits, wanderers, and those touched by **forbidden knowledge**. Some are **shapeshifters in disguise**, while others are simply **those whom society has cast aside**.  
 
-#### **Everyday Beliefs**  
+#### Everyday Beliefs  
 Life is dictated by **customs, taboos, and signs** that must not be ignored:  
 
 - Never **whistle at night**—it calls the dead.  
@@ -523,9 +495,7 @@ Life is dictated by **customs, taboos, and signs** that must not be ignored:
 - A sword passed down through **too many battles** may have its own will.  
 - The fox that watches you from the forest **knows something you do not**.  
 
----
-
-### **Trade and Commerce**  
+### Trade and Commerce  
 
 Wealth and power flow through trade, but in *Kwaidan*, **not all merchants deal in earthly goods**.  
 
@@ -534,9 +504,7 @@ Wealth and power flow through trade, but in *Kwaidan*, **not all merchants deal 
 - **Monk Charms & Protective Talismans** – Not all of these work, but **in a world filled with yokai, no one takes chances**.  
 - **Blood Pacts & Ghost Deals** – In secret, some trade with **the dead**—for knowledge, power, or protection. But spirits **always demand a price**.  
 
----
-
-### **Art and Culture**  
+### Art and Culture  
 
 Music, theater, and poetry are not just forms of entertainment—they are **ways to ward off evil, honor the dead, and tell cautionary tales**.  
 
@@ -544,9 +512,7 @@ Music, theater, and poetry are not just forms of entertainment—they are **ways
 - **Calligraphy & Spirit Wards** – A written word can be **as powerful as a blade**. Some monks can **trap spirits within ink**, while others **write poetry that reveals hidden truths**.  
 - **Tea Ceremonies & Divination** – A properly brewed cup can **soothe restless spirits** or reveal the **future in its patterns**.  
 
----
-
-### **Magic and Mysticism**  
+### Magic and Mysticism  
 
 The supernatural is deeply embedded in everyday life. Those who understand it **may wield it**, but those who misuse it **are often doomed by it**.  
 
@@ -556,9 +522,7 @@ The supernatural is deeply embedded in everyday life. Those who understand it **
 - **Blood Oaths & Spirit Contracts** – Some warriors **bind spirits into their weapons**—but these weapons have **wills of their own**.  
 - **The Land’s Wrath** – When **mountains, rivers, and forests** are disrespected, they respond with **floods, landslides, and misfortune**.  
 
----
-
-### **Folklore and Mythology**  
+### Folklore and Mythology  
 
 The world of *Kwaidan* is shaped by **stories of gods, ghosts, and monsters**, passed down for generations.  
 
@@ -567,15 +531,13 @@ The world of *Kwaidan* is shaped by **stories of gods, ghosts, and monsters**, p
 - **Kami (神)** – Divine beings who **dwell in shrines, mountains, and rivers**. They demand **respect, offerings, and rituals**.  
 - **Tsukumogami (付喪神)** – Objects that, after **100 years**, awaken with **souls and memories of their owners**.  
 
-## **Factions & Organizations**  
+## Factions & Organizations  
 
 The world of *Loner: Kwaidan* is shaped by **rival factions, secretive orders, and supernatural societies**, each with its own **agenda, motives, and hidden struggles**. These six factions influence the balance between **humans, spirits, and yokai**, sometimes acting as guardians, and at other times, as the very source of conflict.  
 
 Each faction holds **secrets, alliances, and rivalries**, ensuring that no journey is without unexpected encounters.  
 
----
-
-### **The Sohei Brotherhood**  
+### The Sohei Brotherhood  
 - **Concept**: Militant Monks  
 - **Skills**: **Exorcism, Martial Arts**  
 - **Frailty**: **Unyielding Fanaticism**  
@@ -588,9 +550,7 @@ The Sohei Brotherhood are a militant sect of warrior-monks who view all supernat
 
 Not all monks follow this path—some within the Brotherhood **question its extremism**, leading to internal strife. However, to openly oppose the order is to risk **being labeled a heretic and hunted down**.  
 
----
-
-### **The Fox Court**  
+### The Fox Court  
 - **Concept**: Cunning Tricksters  
 - **Skills**: **Shapeshifting, Misdirection**  
 - **Frailty**: **Bound by Oaths**  
@@ -603,9 +563,7 @@ An **ancient and secretive** faction composed of **kitsune (fox spirits) and the
 
 Foxes are bound by **strange supernatural laws**—they **must honor deals, cannot lie outright, and must return favors**. They orchestrate **intrigues in noble courts, assist lost souls, and guard yokai shrines** from human destruction. However, their **mischief is not always well-received**, making them **both feared and sought after**.  
 
----
-
-### **The Silent Exorcists**  
+### The Silent Exorcists  
 - **Concept**: Ghost Hunters  
 - **Skills**: **Calligraphy, Spirit-Sealing**  
 - **Frailty**: **Bound to Silence**  
@@ -618,9 +576,7 @@ The Silent Exorcists are a **wandering order of spirit-sealers** who communicate
 
 Feared for their **unnerving presence and ghostly silence**, they are nonetheless respected for their skill in **dealing with malevolent spirits and yokai**. Some suspect that **those who fail in their trials are themselves bound into their cursed scrolls**—but no Silent Exorcist will ever confirm or deny it.  
 
----
-
-### **The Shogun’s Onmyoji**  
+### The Shogun’s Onmyoji  
 - **Concept**: Imperial Sorcerers  
 - **Skills**: **Divination, Elemental Magic**  
 - **Frailty**: **Loyalty to the Shogun**  
@@ -633,9 +589,7 @@ The Shogun’s Onmyoji are **court sorcerers and spiritual advisors**, wielding 
 
 Though they perform **valuable services such as reading omens, controlling the weather, and sealing curses**, many see them as **power-hungry manipulators who hoard spiritual secrets**. Some even whisper that they **strike deals with yokai for their own gain**, though such accusations rarely reach the ears of the living.  
 
----
-
-### **The Whispering Blades**  
+### The Whispering Blades  
 - **Concept**: Cursed Assassins  
 - **Skills**: **Stealth, Poison Arts**  
 - **Frailty**: **Haunted by Past Kills**  
@@ -648,9 +602,7 @@ The Whispering Blades are **an order of assassins and spies**, known for their *
 
 Legends say that when a Whispering Blade **fails to complete a mission**, the spirit that haunts them **claims their soul as punishment**. Many among them seek to **atone for their bloodstained past**, but few ever escape the cycle of **murder, duty, and retribution**.  
 
----
-
-### **The Dragon Clan**  
+### The Dragon Clan  
 - **Concept**: Honorable Warlords  
 - **Skills**: **Kenjutsu, Leadership**  
 - **Frailty**: **Unbending Pride**  
@@ -663,9 +615,7 @@ The Dragon Clan is one of the last noble houses still **adhering to the old ways
 
 However, their rigid ideals have made them **blind to the changing world**—while they refuse to **strike from the shadows or negotiate with yokai**, their enemies **have no such reservations**. Even among their own ranks, whispers of **betrayal and unrest** suggest that the clan’s **future is uncertain**.  
 
----
-
-### **The Ties That Bind Them**  
+### The Ties That Bind Them  
 
 These factions **do not exist in isolation**—they **interact, conspire, and clash**, shaping the world’s fate.  
 
@@ -733,16 +683,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Maintain the balance of fire's destructive and creative aspects
 - **Nemesis**: Water manipulators or those with fire-resistant abilities
 
-### 21. Hyakki Yagyō
-- **Concept**: Parade of one hundred demons and supernatural beings
-- **Skills**: Collective Action, Illusion Projection
-- **Frailty**: Vulnerable to disruption or dispelling magic
-- **Gear**: Various youkai abilities
-- **Goal**: Roam and cause chaos during the night parade
-- **Motive**: Seek amusement or confusion
-- **Nemesis**: Guardians of order or individuals skilled in countering illusions
-
-### 22. Jibakurei
+### 21. Jibakurei
 - **Concept**: Land-bound spirits attached to specific locations
 - **Skills**: Manifestation, Territorial Influence
 - **Frailty**: Vulnerable to purification rituals or displacement
@@ -751,7 +692,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Protect their domain and maintain balance
 - **Nemesis**: Individuals who desecrate or disrupt their territory
 
-### 23. Jorogumo
+### 22. Jorogumo
 - **Concept**: Seductive spider woman
 - **Skills**: Shape-shifting, Deception
 - **Frailty**: Vulnerable to fire or purification rituals
@@ -760,7 +701,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Sustain themselves through deception
 - **Nemesis**: Fire-wielding individuals or cautious travelers
 
-### 24. Kamagami
+### 23. Kamagami
 - **Concept**: Deities or spirits residing in natural elements
 - **Skills**: Elemental Affinity, Blessings
 - **Frailty**: Vulnerable to pollution or defilement of their element
@@ -769,7 +710,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Preserve balance and harmony
 - **Nemesis**: Those who exploit or misuse their domains
 
-### 25. Kamaitachi
+### 24. Kamaitachi
 - **Concept**: Trio of weasel-like spirits associated with winds
 - **Skills**: Speed, Cutting Winds
 - **Frailty**: Vulnerable when winds are calm
@@ -778,16 +719,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Playful pranks or seek food
 - **Nemesis**: Wind-manipulating individuals or those with strong barriers
 
-### 26. Kamikakushi
-- **Concept**: Phenomenon of mysterious disappearances
-- **Skills**: Invisibility, Dimensional Manipulation
-- **Frailty**: Vulnerable to detection or sealing methods
-- **Gear**: None
-- **Goal**: Abduct and hide people
-- **Motive**: Unknown, possibly fascination with human world
-- **Nemesis**: Dimensional travelers or beings with detection abilities
-
-### 31. Kamikiri
+### 25. Kamikiri
 - **Concept**: Hair-cutting creature
 - **Skills**: Stealth, Precision Cutting
 - **Frailty**: Vulnerable to protective charms or hair talismans
@@ -796,7 +728,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek hair for its nest or use in rituals
 - **Nemesis**: People with strong protective measures or hair-enhancing abilities
 
-### 32. Kappa
+### 26. Kappa
 - **Concept**: Mischievous water-dwelling creatures
 - **Skills**: Swimming, Pranks
 - **Frailty**: Vulnerable to spilling water from its head
@@ -805,7 +737,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek amusement and food
 - **Nemesis**: Skilled swimmers or clever humans
 
-### 33. Kijo
+### 31. Kijo
 - **Concept**: Seductive and dangerous female demon
 - **Skills**: Charm, Deception
 - **Frailty**: Vulnerable to purity or divine intervention
@@ -814,7 +746,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek pleasure or spread chaos
 - **Nemesis**: Virtuous individuals or those with strong will
 
-### 34. Kitsune
+### 32. Kitsune
 - **Concept**: Cunning fox spirits
 - **Skills**: Shape-shifting, Illusion
 - **Frailty**: Vulnerable to certain chants or rituals
@@ -823,7 +755,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Gain power or amusement
 - **Nemesis**: Skilled priests or holy relics
 
-### 35. Konaki-jiji
+### 33. Konaki-jiji
 - **Concept**: Old man youkai who cries like a baby
 - **Skills**: Mimicry, Emotional Manipulation
 - **Frailty**: Vulnerable to recognition or protective chants
@@ -832,7 +764,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek amusement or feed on emotions
 - **Nemesis**: Emotionally resilient individuals or those who see through its act
 
-### 36. Kubire-oni
+### 34. Kubire-oni
 - **Concept**: Headless demon or ogre
 - **Skills**: Brute Strength, Fear-Inducing Roar
 - **Frailty**: Vulnerable to sealing rituals or holy symbols
@@ -841,7 +773,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek dominance or terrorize humans
 - **Nemesis**: Skilled exorcists or brave warriors
 
-### 41. Kawa-no-kami
+### 35. Kawa-no-kami
 - **Concept**: River deities or spirits
 - **Skills**: Water Manipulation, Communication
 - **Frailty**: Vulnerable to pollution or desecration
@@ -850,7 +782,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Maintain the balance of nature
 - **Nemesis**: Those who pollute or harm water sources
 
-### 42. Kawa-uso
+### 36. Kawa-uso
 - **Concept**: River otter spirits known for pranks
 - **Skills**: Mischief, Shapeshifting
 - **Frailty**: Vulnerable to protective charms or water purification
@@ -859,7 +791,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek amusement or entertainment
 - **Nemesis**: Those who outwit or out-prank them
 
-### 43. Kasha
+### 41. Kasha
 - **Concept**: Corpse-stealing creature
 - **Skills**: Grave Desecration, Stealth
 - **Frailty**: Vulnerable to protective barriers or sanctified ground
@@ -868,7 +800,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Unknown, possibly collecting remains for unknown purposes
 - **Nemesis**: Guardians of burial sites or those protecting the dead
 
-### Nue
+### 42. Nue
 - **Concept**: Chimera-like creature with various animal parts
 - **Skills**: Elemental Affinities, Shape-shifting
 - **Frailty**: Vulnerable to certain elemental attacks
@@ -877,7 +809,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek dominance or play pranks
 - **Nemesis**: Elemental specialists or skilled shape-shifters
 
-### Nukarumi
+### 43. Nukarumi
 - **Concept**: Female spirit appearing from the waist up in water
 - **Skills**: Water Manipulation, Emotional Manifestation
 - **Frailty**: Vulnerable to drying or containment
@@ -886,7 +818,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek connection or communication
 - **Nemesis**: Water manipulators or those with abilities to control emotions
 
-### Noppera-bo
+### 44. Noppera-bo
 - **Concept**: Faceless ghostly figures
 - **Skills**: Invisibility, Disguise
 - **Frailty**: Vulnerable to light or certain charms
@@ -895,7 +827,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Cause confusion and fear
 - **Nemesis**: Sharp-eyed individuals or those unaffected by illusions
 
-### Nurari
+### 45. Nurari
 - **Concept**: Youkai that lounges in unoccupied homes
 - **Skills**: Stealth, Deception
 - **Frailty**: Vulnerable when confronted or exposed to bright light
@@ -904,16 +836,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek comfort and luxury
 - **Nemesis**: Vigilant homeowners or protective spirits
 
-### Nurarihyon
-- **Concept**: Youkai that makes itself at home in empty houses
-- **Skills**: Stealth, Deception
-- **Frailty**: Vulnerable when confronted or exposed to bright light
-- **Gear**: None
-- **Goal**: Claim empty homes and spaces
-- **Motive**: Seek comfort and convenience
-- **Nemesis**: Vigilant homeowners or protective spirits
-
-### Oni
+### 46. Oni
 - **Concept**: Malevolent demons or ogres
 - **Skills**: Strength, Intimidation
 - **Frailty**: Vulnerable to sacred symbols or exorcism
@@ -922,7 +845,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Instill fear and exert dominance
 - **Nemesis**: Powerful priests or brave warriors
 
-### Raiju
+### 51. Raiju
 - **Concept**: Creature associated with lightning
 - **Skills**: Lightning Manipulation, Thunderstorm Control
 - **Frailty**: Vulnerable to grounding or weather-controlling abilities
@@ -931,7 +854,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Maintain balance or unleash chaos
 - **Nemesis**: Storm manipulators or lightning-resistant beings
 
-### Rokurokubi
+### 52. Rokurokubi
 - **Concept**: Humanoid spirits with stretchable necks
 - **Skills**: Neck Extension, Stealth
 - **Frailty**: Vulnerable when neck is extended
@@ -940,16 +863,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek amusement or explore
 - **Nemesis**: Observant individuals or those with anti-magic abilities
 
-### Satori
-- **Concept**: Mind-reading creature
-- **Skills**: Telepathy, Mind Reading
-- **Frailty**: Vulnerable to psychic barriers or strong wills
-- **Gear**: None
-- **Goal**: Learn the thoughts and secrets of humans
-- **Motive**: Seek knowledge or manipulate individuals
-- **Nemesis**: Those with strong mental defenses or psychic powers
-
-### Shirime
+### 53. Shirime
 - **Concept**: Creature with an eye in place of its anus
 - **Skills**: Startling Gaze, Stealth
 - **Frailty**: Vulnerable to salt or counter-illusion
@@ -958,7 +872,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek amusement or disturb humans
 - **Nemesis**: Those unaffected by its gaze or those with strong wills
 
-### Tengu
+### 54. Tengu
 - **Concept**: Bird-like creatures with supernatural powers
 - **Skills**: Flight, Martial Arts
 - **Frailty**: Vulnerable to talismans or divine intervention
@@ -967,7 +881,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Promote harmony or discipline
 - **Nemesis**: Skilled martial artists or divine beings
 
-### Tesso
+### 55. Tesso
 - **Concept**: Vengeful spirit of a mistreated priest or monk
 - **Skills**: Curse Casting, Disruptive Presence
 - **Frailty**: Vulnerable to purification or redemption rituals
@@ -976,7 +890,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek justice or restitution
 - **Nemesis**: Compassionate individuals or those seeking to right wrongs
 
-### Tanuki
+### 56. Tanuki
 - **Concept**: Playful shape-shifting raccoon dog spirits
 - **Skills**: Shape-shifting, Misdirection
 - **Frailty**: Vulnerable to charms or spells
@@ -985,7 +899,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Enjoyment and freedom
 - **Nemesis**: Protective deities or skilled exorcists
 
-### Umibozu
+### 61. Umibozu
 - **Concept**: Sea spirit that causes storms
 - **Skills**: Water Manipulation, Tempest Creation
 - **Frailty**: Vulnerable to certain chants or rituals
@@ -994,7 +908,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek chaos and destruction
 - **Nemesis**: Skilled sailors or divine protectors
 
-### Yamabiko
+### 62. Yamabiko
 - **Concept**: Echo spirits that mimic human voices
 - **Skills**: Echo Mimicry, Illusion
 - **Frailty**: Vulnerable to silence or counter-illusion
@@ -1003,7 +917,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek interaction or amusement
 - **Nemesis**: Skilled ventriloquists or sound manipulators
 
-### Yuki-onna
+### 63. Yuki-onna
 - **Concept**: Spirit associated with snowstorms
 - **Skills**: Cold Manipulation, Illusion
 - **Frailty**: Vulnerable to warmth or heat-based attacks
@@ -1012,7 +926,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Seek companionship or revenge
 - **Nemesis**: Fire-wielding individuals or those with strong willpower
 
-### Yokai
+### 64. Yokai
 - **Concept**: Mysterious shape-shifting spirits
 - **Skills**: Shapeshifting, Illusion
 - **Frailty**: Vulnerable to pure iron
@@ -1021,7 +935,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Mischievous or malevolent intentions
 - **Nemesis**: Talismans or individuals skilled in exorcism
 
-### Yurei
+### 65. Yurei
 - **Concept**: Ghostly spirits of the deceased
 - **Skills**: Manifestation, Frightening Aura
 - **Frailty**: Vulnerable to prayers or appeasement
@@ -1030,7 +944,7 @@ Who will you align with? And who will become your **greatest enemy**?
 - **Motive**: Resolve unfinished business or seek justice
 - **Nemesis**: Skilled mediums or compassionate priests
 
-### Zashiki-warashi
+### 66. Zashiki-warashi
 - **Concept**: Child spirits that bring fortune or misfortune
 - **Skills**: Luck Manipulation, Playful Behavior
 - **Frailty**: Vulnerable when neglected or angered
@@ -1207,11 +1121,667 @@ Who will you align with? And who will become your **greatest enemy**?
 | 65 | **Guardian of Dreams**: A guardian spirit visits you in your dreams, offering advice or cryptic visions of the future.                     |
 | 66 | **Wandering Shadows**: Eerie figures wander the forest, trailing shadows that seem disconnected from their forms. Approach with caution. |
 
-### **Inspiration Tables**  
 
----
+### Supernatural Omens  
 
-#### **Verbs (Actions, Events, and Forces in Motion)**  
+| D66 | Supernatural Omens |
+| --- | ------------------ |
+| 11  | A blood-red moon rises, casting an eerie glow over the land. |
+| 12  | A flock of crows gathers, circling a lone figure in the village square. |
+| 13  | A traveler arrives with a third shadow that moves independently. |
+| 14  | A sudden eclipse plunges the land into darkness at an unnatural hour. |
+| 15  | The river turns black as ink for a single night, then runs clear again. |
+| 16  | A familiar reflection in the water does not match the onlooker’s movements. |
+| 21  | The wind whispers forgotten names, carrying unseen messages. |
+| 22  | A newborn child is born with strange markings resembling ancient seals. |
+| 23  | The sound of temple bells rings, though the temple stands abandoned. |
+| 24  | A comet streaks across the sky, leaving a spectral trail behind it. |
+| 25  | A storm approaches, yet no clouds can be seen in the sky. |
+| 26  | A traveler swears they saw their own doppelgänger walking the roads at dawn. |
+| 31  | A sacred shrine’s statues begin to weep tears of blood. |
+| 32  | The trees in a sacred grove suddenly lose all their leaves overnight. |
+| 33  | A full moon rises in the sky, even though it was new just the night before. |
+| 34  | The face of an unknown person appears reflected in every still water surface. |
+| 35  | A traveler’s shadow moves several seconds after they do. |
+| 36  | The village well echoes with voices from the past, whispering warnings. |
+| 41  | Foxes are seen gathering in groups, watching passersby in eerie silence. |
+| 42  | A house’s entrance disappears, leaving its residents unable to leave. |
+| 43  | Lanterns flicker in unison before blowing out, despite a lack of wind. |
+| 44  | A road that always led one way now loops back onto itself. |
+| 45  | An entire night passes, yet the sun does not rise at dawn. |
+| 46  | Strange constellations appear in the sky, unknown to any astrologer. |
+| 51  | A shrine guardian statue shifts position when no one is looking. |
+| 52  | The smell of incense fills the air, but no source can be found. |
+| 53  | A long-dead ancestor’s name is heard whispered on the wind. |
+| 54  | Snow falls in the height of summer, melting as soon as it touches the ground. |
+| 55  | An abandoned temple suddenly radiates a warm, welcoming glow at night. |
+| 56  | A wandering monk predicts doom, then vanishes into thin air. |
+| 61  | A mirror cracks on its own, revealing an unfamiliar reflection. |
+| 62  | A lone white stag appears, bows to an observer, then vanishes. |
+| 63  | The sound of an unseen flute plays throughout the valley for a single night. |
+| 64  | A child claims to remember their past life in uncanny detail. |
+| 65  | Stone carvings rearrange themselves into warnings as one watches. |
+| 66  | A field of flowers blooms overnight, spelling out forgotten words. |
+
+### Cursed Villages  
+
+| D66 | Cursed Villages |
+| --- | -------------- |
+| 11  | A village is plagued by an eternal twilight—neither day nor night ever fully arrives. |
+| 12  | No one in the village speaks above a whisper, afraid of waking something sleeping beneath. |
+| 13  | Every newborn in the village is born blind, yet they seem to see something others cannot. |
+| 14  | The village's water has turned crimson, and no well or stream can produce fresh water. |
+| 15  | Villagers wake to find unfamiliar family members among them, with no memory of their arrival. |
+| 16  | The village headman has not aged in decades, yet none dare question it. |
+| 21  | Each villager bears an identical scar, though none remember how they got it. |
+| 22  | The village bell rings out randomly, though no one is there to ring it. |
+| 23  | Strangers passing through are asked to leave before dusk, no matter the circumstances. |
+| 24  | A mysterious house stands at the edge of town, but no one can recall who lives there. |
+| 25  | The rice fields refuse to grow anything but thorny, inedible weeds. |
+| 26  | At midnight, the villagers gather in the center square, their eyes blank, murmuring in an unknown tongue. |
+| 31  | The village animals refuse to enter a certain house, growling at something unseen. |
+| 32  | Every full moon, a child goes missing, yet no one seems to acknowledge it. |
+| 33  | The village’s temple is sealed with chains, and no one remembers why. |
+| 34  | Strangers who spend the night in the village wake up missing their memories. |
+| 35  | The villagers fear mirrors, and none are allowed within the town. |
+| 36  | A festival is held in the village, but outsiders are forbidden from attending. |
+| 41  | No footprints ever remain in the village streets, no matter how many people walk them. |
+| 42  | The village blacksmith hammers at an unseen weapon, never stopping to rest. |
+| 43  | Every dawn, the entire village resets as if the previous day never happened. |
+| 44  | The temple’s statues change position each night, facing an unseen threat. |
+| 45  | An invisible force prevents anyone from leaving once they enter the village. |
+| 46  | The village elder is always seen speaking to an unseen figure by the riverbank. |
+| 51  | No one in the village acknowledges the rain, even when soaked to the bone. |
+| 52  | The town's clock tower chimes at random hours, foretelling strange events. |
+| 53  | Villagers perform an unknown ritual every new moon, but none remember why. |
+| 54  | Strangers visiting the town find their reflections move out of sync. |
+| 55  | Every night, someone claims to hear their name called from the forest. |
+| 56  | All paper in the village slowly turns blank, erasing records and messages. |
+| 61  | The village well whispers secrets to those who listen closely. |
+| 62  | A black-robed figure stands at the village’s outskirts, but no one has ever seen them move. |
+| 63  | The local inn never has vacancies, yet no guests are ever seen entering or leaving. |
+| 64  | Paintings in the village change subtly each night, depicting unknown landscapes. |
+| 65  | The village headstones have fresh offerings every morning, though no one leaves them. |
+| 66  | A villager claims to have died years ago, yet stands before you, alive. |
+
+### Wandering Spirits  
+
+| D66 | Wandering Spirits |
+| --- | ----------------- |
+| 11  | A woman in white walks the roads at dusk, always vanishing when approached. |
+| 12  | A spectral samurai kneels in meditation at a crossroads, waiting for something. |
+| 13  | A shadow follows travelers, but disappears under direct light. |
+| 14  | The sound of weeping echoes through an empty temple—no source can be found. |
+| 15  | A spirit child asks for help finding their lost home, but no one remembers them. |
+| 16  | A lone fisherman casts his line into an empty pond, whispering to something unseen. |
+| 21  | A pale figure stands in the rain, only visible when reflected in puddles. |
+| 22  | A masked dancer moves through the forest at night, performing for no audience. |
+| 23  | A long-dead ancestor manifests before a family, warning of imminent disaster. |
+| 24  | A horse with no rider gallops through the mist, vanishing at dawn. |
+| 25  | The scent of incense lingers in the air, leading to an abandoned grave. |
+| 26  | A monk with empty eyes recites prayers, but cannot remember his own name. |
+| 31  | An old man offers riddles at a shrine, but his feet do not touch the ground. |
+| 32  | A ghostly child plays alone in a field of wilted flowers, inviting others to join. |
+| 33  | The reflection of a woman in a lake remains even after she walks away. |
+| 34  | A warrior’s severed head speaks in riddles, seeking justice for its death. |
+| 35  | A woman holding an umbrella appears in the rain but disappears when approached. |
+| 36  | A spectral caravan of merchants sells rare goods, but at a terrible price. |
+| 41  | A lost spirit begs for help remembering their name before they fade away. |
+| 42  | A man wanders the roads, searching for his wife—unaware that he is dead. |
+| 43  | A faceless spirit offers to trade memories for wisdom. |
+| 44  | The sound of footsteps follows travelers, but no one is there. |
+| 45  | A white fox leads lost travelers to safety, but never speaks. |
+| 46  | A woman with her face obscured by hair asks for directions—if answered, she vanishes. |
+| 51  | The flickering lanterns of a ghostly procession illuminate the road at midnight. |
+| 52  | A broken doll sits at a crossroads, whispering when no one is looking. |
+| 53  | A man prays at a roadside shrine, never leaving, even as years pass. |
+| 54  | A ghostly figure appears in a dream, warning of an upcoming event. |
+| 55  | A group of laughing figures disappear into the mist, leaving no footprints. |
+| 56  | A skeleton dressed in fine robes sits at a feast table, waiting for a guest. |
+| 61  | A glowing figure in a bamboo forest guides travelers—sometimes to safety, sometimes to doom. |
+| 62  | A woman’s voice calls for help from an abandoned house, but the door won’t open. |
+| 63  | A child follows travelers, always a few steps behind, never speaking. |
+| 64  | A ronin duels invisible foes at night, his form growing fainter with each fight. |
+| 65  | The shadow of a spirit remains, even after its body has moved on. |
+| 66  | A grieving father still carries the ashes of his daughter, unaware that she is watching over him. |
+
+### Mysterious Visitors  
+
+| D66 | Mysterious Visitors |
+| --- | -------------------- |
+| 11  | A traveling storyteller shares eerie tales, but all of them seem to come true. |
+| 12  | A blind seer arrives, offering predictions that always come with a cost. |
+| 13  | A masked swordsman issues a challenge to any willing to face them. |
+| 14  | A merchant sells wares that should not exist—items from forgotten times. |
+| 15  | A young girl carries a cage with an unseen creature inside. |
+| 16  | A noblewoman travels with a procession, but none of her retainers cast shadows. |
+| 21  | A monk arrives, seeking a cursed item he claims must be destroyed. |
+| 22  | A beautiful musician performs haunting melodies, but no one sees her leave. |
+| 23  | A warrior with no name claims to have been sent from the afterlife to fulfill a duty. |
+| 24  | A traveler seeks shelter, but refuses to remove their hood, even indoors. |
+| 25  | A man dressed in funeral robes knocks on doors, looking for someone long dead. |
+| 26  | A mysterious woman claims she can make someone disappear—forever. |
+| 31  | A young samurai claims to be searching for their past life’s killer. |
+| 32  | A noble offers an invitation to a feast that no one else remembers. |
+| 33  | A traveler’s shadow does not match their movements. |
+| 34  | A fortune teller’s predictions become more accurate the longer they are listened to. |
+| 35  | A peddler sells charms that seem to work, but at an unknown cost. |
+| 36  | A group of travelers appear identical, speaking in perfect unison. |
+| 41  | A fisherman returns from the sea, though he was lost decades ago. |
+| 42  | A young woman asks for protection, but those who help her disappear. |
+| 43  | A drunkard claims to have seen the past and future in a single moment. |
+| 44  | A stranger in ragged robes claims they have no memory of how they arrived. |
+| 45  | A white-clad wanderer says they are looking for their “other self.” |
+| 46  | A pair of twins travel the roads, finishing each other’s sentences eerily. |
+| 51  | A warrior seeks someone who can end their immortal curse. |
+| 52  | A scholar searches for a book that never existed—except in dreams. |
+| 53  | A woman offers tea to those passing by, but the tea always reveals a vision. |
+| 54  | A lone child claims to have no parents, yet knows everyone's name. |
+| 55  | A priest asks for help carrying a relic, but will not say why it must be moved. |
+| 56  | A stranger asks for directions to a village that burned down long ago. |
+| 61  | A man dressed in imperial robes demands to be escorted home—but his family died centuries ago. |
+| 62  | A traveler always arrives before they are expected, as if they knew the future. |
+| 63  | A noblewoman's servant is never seen eating or drinking. |
+| 64  | A person dressed in all red arrives, asking for someone who died recently. |
+| 65  | A merchant sells a single item—a locked box that whispers in the night. |
+| 66  | A pale man claims he is only passing through, but no one remembers when he arrived. |
+
+
+### Rituals & Ceremonies  
+
+| D66 | Rituals & Ceremonies |  
+| --- | -------------------- |  
+| 11  | A funeral procession must pass undisturbed, or the dead will not rest. |  
+| 12  | A village performs an annual ritual to ward off a lurking spirit—but this year, something is wrong. |  
+| 13  | A monk asks for help conducting a long-forgotten exorcism rite. |  
+| 14  | A sacred dance is performed under the full moon, but the lead dancer vanishes. |  
+| 15  | A new bride is presented to a hidden god—whether she goes willingly is another matter. |  
+| 16  | A tea ceremony honoring the dead takes a dark turn when unseen guests arrive. |  
+| 21  | A shrine maiden enters a trance to speak with spirits, but she does not wake. |  
+| 22  | A festival’s lanterns guide the spirits home—except one refuses to leave. |  
+| 23  | A village elder must be buried at the break of dawn, or misfortune will follow. |  
+| 24  | An emperor’s relic is cleansed in fire each year—but this time, it does not burn. |  
+| 25  | The ringing of a sacred bell prevents disaster, but this year, the bell is missing. |  
+| 26  | A night of silence is observed in a remote temple, but something whispers in the dark. |  
+| 31  | A sacred river must be crossed without speaking, or the crossing will fail. |  
+| 32  | A blood pact must be renewed between two feuding families, or war will begin anew. |  
+| 33  | A lone priest offers a midnight prayer to a long-forgotten deity—until someone joins in. |  
+| 34  | A new shrine maiden is chosen every ten years—though the last one never returned. |  
+| 35  | A marriage between a noble and a yokai is arranged, but one party is reluctant. |  
+| 36  | A fasting ritual is performed to bring good harvest, but the one fasting vanishes. |  
+| 41  | A mysterious drumbeat echoes in the mountains, always during a full moon. |  
+| 42  | A warrior prays before battle, asking the spirits for a sign of victory or defeat. |  
+| 43  | A temple’s statues are washed daily—except one, which must remain untouched. |  
+| 44  | A monk performs sutras over a dying man, but he refuses to die. |  
+| 45  | A festival honoring the sea gods is interrupted when an unnatural fog rolls in. |  
+| 46  | A newborn is marked with a symbol that only appears under candlelight. |  
+| 51  | A masked ritual must be performed in a forest, but no one knows why. |  
+| 52  | A warrior’s armor is blessed before battle, but the blessing goes awry. |  
+| 53  | A young woman is chosen as a sacrifice—but her spirit lingers. |  
+| 54  | A priestess recites an ancient hymn that causes an unknown presence to respond. |  
+| 55  | A family gathers to honor their ancestors, only for an extra place to be set. |  
+| 56  | A cursed man seeks to undo his fate by partaking in a forbidden ceremony. |  
+| 61  | A monk carves prayers into the walls of a temple—one line at a time, every night. |  
+| 62  | A single, unlit lantern in a procession signals an unseen presence walking among them. |  
+| 63  | A riverboat carries souls to the next life—tonight, it carries one too many. |  
+| 64  | A ritual drumbeat keeps a restless spirit trapped—until the drum falls silent. |  
+| 65  | A blessing for a newborn must be completed before the child turns one month old. |  
+| 66  | A sacred mask is worn only once every century, but this time, it resists being removed. |  
+
+### Forbidden Knowledge  
+
+| D66 | Forbidden Knowledge |  
+| --- | ------------------- |  
+| 11  | A scroll bound in red silk contains a spell that no one dares to read aloud. |  
+| 12  | An ancient monk keeps records of all forgotten gods—some of whom should stay forgotten. |  
+| 13  | A book found in an abandoned temple details a ritual no one dares to attempt. |  
+| 14  | A poet’s verses seem to predict the future, but only after they have passed. |  
+| 15  | A dying sage whispers a secret before passing, but no one can understand it. |  
+| 16  | A forgotten prophecy resurfaces, warning of impending disaster. |  
+| 21  | A noble’s diary contains records of meetings with a spirit advisor. |  
+| 22  | A village elder knows why the town is cursed—but refuses to speak. |  
+| 23  | A merchant sells a map to a place that does not exist—yet. |  
+| 24  | A family heirloom hides a compartment containing an ancient warning. |  
+| 25  | A library’s restricted section holds records of the dead returning to life. |  
+| 26  | A simple riddle, when answered correctly, reveals a terrible truth. |  
+| 31  | A shrine maiden is visited by an unknown god who whispers in her ear. |  
+| 32  | A scroll sealed in wax has never been opened—until now. |  
+| 33  | A forgotten folk song describes events no one living should remember. |  
+| 34  | A calligrapher writes messages that appear in the dreams of strangers. |  
+| 35  | A young child knows things they could not possibly have learned. |  
+| 36  | A forbidden name, when spoken, causes windows to frost over. |  
+| 41  | A monk claims to know the location of the lost afterlife. |  
+| 42  | A warrior’s final words were recorded, but the ink changes daily. |  
+| 43  | A fisherman claims to have seen an island that should not exist. |  
+| 44  | A noblewoman’s reflection whispers secrets when no one else is watching. |  
+| 45  | A gate buried under a mountain is said to lead to the past. |  
+| 46  | A traveler swears that they have died before—but no one believes them. |  
+| 51  | A child recites an unknown language in their sleep. |  
+| 52  | A merchant’s journal describes the sale of a soul-bound artifact. |  
+| 53  | A storyteller knows a tale that causes listeners to remember forgotten lives. |  
+| 54  | A letter arrives from someone long dead, predicting future events. |  
+| 55  | A set of wooden charms rearranges itself into new words each morning. |  
+| 56  | A spirit trapped in a painting whispers to those who come too close. |  
+| 61  | A statue in a temple is seen holding different objects at night. |  
+| 62  | A gate in an abandoned village is always slightly open, but leads nowhere. |  
+| 63  | A monk’s chant, when sung backwards, reveals a hidden prayer. |  
+| 64  | A storyteller who never ages claims to be searching for their final tale. |  
+| 65  | A well-known legend is proven false—but someone insists it is true. |  
+| 66  | A warrior’s death poem changes, revealing new lines after each reading. |  
+
+### Shapeshifters & Illusions  
+
+| D66 | Shapeshifters & Illusions |  
+| --- | ------------------------- |  
+| 11  | A merchant's shadow does not match their form, flickering between different shapes. |  
+| 12  | A noblewoman is revealed to have a second face on the back of her head, speaking in riddles. |  
+| 13  | A reflection in a pool of water shows a different person entirely. |  
+| 14  | A stranger’s hands sometimes appear as claws when glimpsed from the corner of the eye. |  
+| 15  | A masked performer changes their appearance with each act, though they never remove the mask. |  
+| 16  | A familiar companion seems subtly different each time they are seen. |  
+| 21  | A fox follows a traveler at a distance, mirroring their every move. |  
+| 22  | A storyteller's face shifts as they tell tales, becoming the characters they describe. |  
+| 23  | A village elder has not aged in decades, though their reflection is that of an old crone. |  
+| 24  | A stranger reacts in perfect unison with their doppelgänger standing beside them. |  
+| 25  | A deer leads travelers through the forest, only to transform into a woman at dusk. |  
+| 26  | A guest at an inn never speaks, yet their lips move when others talk. |  
+| 31  | A noble’s son is discovered to have no reflection—until night falls. |  
+| 32  | A mirror shows not the present, but a past version of the one gazing into it. |  
+| 33  | A group of travelers all share the same face, each claiming to be unique. |  
+| 34  | A tanuki merchant sells objects that vanish at sunrise. |  
+| 35  | A noblewoman's maid is never seen eating, yet always appears full. |  
+| 36  | A shrine guardian appears as different people to different travelers. |  
+| 41  | A fisherman claims his wife has been replaced—though she insists she is herself. |  
+| 42  | A child claims to be the reincarnation of a famous warrior, remembering details no one told them. |  
+| 43  | A masked dancer never removes their mask, yet their eyes change color each night. |  
+| 44  | A river reflects an entirely different world than the one above it. |  
+| 45  | A village woman claims her shadow belongs to another. |  
+| 46  | A shrine maiden’s voice echoes with multiple tones when she chants. |  
+| 51  | A noble’s wife seems to vanish whenever lightning strikes. |  
+| 52  | A pair of identical travelers claim to have never met before. |  
+| 53  | A young boy changes eye color between blinks. |  
+| 54  | A cat watches visitors with unsettling intelligence, answering questions in a whisper. |  
+| 55  | A house rearranges its rooms overnight, confusing those who live in it. |  
+| 56  | A mysterious calligraphy scroll changes its message with each reading. |  
+| 61  | A merchant’s wares appear as junk to some, but as treasures to others. |  
+| 62  | A warrior’s opponent disappears upon defeat, leaving no body behind. |  
+| 63  | A woman visits each night but is forgotten by morning. |  
+| 64  | A traveler is warned of their own arrival an hour before they arrive. |  
+| 65  | A noble's portrait ages, though the noble does not. |  
+| 66  | A road that once led home now leads somewhere entirely unknown. |  
+
+### Sealed Away  
+
+| D66 | Sealed Away |  
+| --- | ---------- |  
+| 11  | A heavy iron door in a ruined temple bears a warning never to be opened. |  
+| 12  | A lake conceals an ancient prison where something stirs beneath the water. |  
+| 13  | A monk stands guard over a single scroll, refusing to let anyone read it. |  
+| 14  | A forest shrine is bound in paper charms, its doors shaking in the wind. |  
+| 15  | A broken sword rests beneath a sacred tree, its spirit still unquiet. |  
+| 16  | A hidden chamber in a noble’s estate contains a sealed coffin—no one knows who is inside. |  
+| 21  | A bell tower rings despite having no bell; something within wants out. |  
+| 22  | A cave entrance is marked with the names of all who entered and never returned. |  
+| 23  | A riverbed dries up, revealing an ancient gate beneath the stones. |  
+| 24  | A shrine deep in the mountains has stood locked for centuries, and no one remembers why. |  
+| 25  | A pagoda's final floor is inaccessible, though strange sounds echo from above. |  
+| 26  | A tomb was built over an older, unknown burial site—the original seal is now cracking. |  
+| 31  | An abandoned monastery is filled with statues of monks covering their mouths. |  
+| 32  | A small wooden box in a merchant’s shop hums softly, despite being empty. |  
+| 33  | A family home has a door that has never been opened, locked since its construction. |  
+| 34  | A field of smooth stones is said to be a burial site for something best left forgotten. |  
+| 35  | A village burns incense daily at a single, unmarked grave, ensuring it remains at rest. |  
+| 36  | A castle dungeon holds a single, immovable iron chain that rattles without wind. |  
+| 41  | A mask sealed in a shrine is rumored to contain the soul of a wicked lord. |  
+| 42  | A small scroll tied with golden string is found deep in the forest, pulsing with warmth. |  
+| 43  | A sword in a temple altar remains unsheathed—those who attempt to draw it vanish. |  
+| 44  | A well is filled with salt, rumored to hold something beneath the surface. |  
+| 45  | A noble’s family heirloom is locked in a shrine, guarded for generations. |  
+| 46  | A festival celebrates an old victory against an evil force—but the force was never truly destroyed. |  
+| 51  | A series of ancient stone rings encircle a forgotten battlefield, marking a sealed site. |  
+| 52  | A wooden prayer board left at a shrine bears a plea to never let something return. |  
+| 53  | A temple guardian stands unmoving before a sealed gate, waiting for someone worthy. |  
+| 54  | A ghostly whisper warns travelers never to unearth an old tomb. |  
+| 55  | A village fears a ruined estate, where doors slam shut on their own. |  
+| 56  | A mysterious ink painting shifts each day, showing a different prison. |  
+| 61  | A chained box floats downriver, covered in sutras warning not to open it. |  
+| 62  | A lone lantern lights a crossroads each night, though no one is there to light it. |  
+| 63  | A merchant is seen carrying a large, locked chest, never letting it leave his sight. |  
+| 64  | A river delta has a patch of land no one dares to farm, despite its fertile soil. |  
+| 65  | An old shrine maiden guards an ancient relic, refusing to say what it contains. |  
+| 66  | A sword buried at a temple is said to be waiting for its rightful wielder. |  
+
+### Spiritual Bargains  
+
+| D66 | Spiritual Bargains |  
+| --- | ----------------- |  
+| 11  | A ghostly merchant offers rare treasures, but each purchase costs a memory. |  
+| 12  | A wandering monk claims he can remove any curse—but only if another is willing to take it. |  
+| 13  | A noble offers their soul in exchange for eternal youth, unaware of the consequences. |  
+| 14  | A fox spirit proposes a trade: wisdom for loyalty, beauty for deception. |  
+| 15  | A hungry spirit offers to protect a village, but only if it is fed nightly. |  
+| 16  | A traveler finds a talisman that grants a wish—but at the price of another’s misfortune. |  
+| 21  | A mysterious voice offers guidance in exchange for a favor to be determined later. |  
+| 22  | A cursed warrior can only be freed if someone else takes their place. |  
+| 23  | A shrine maiden holds a sealed letter, only to be opened by someone willing to pay an unknown price. |  
+| 24  | A child claims to hear the whispers of spirits offering power for obedience. |  
+| 25  | A dying man asks for help completing a ritual to ensure his spirit does not linger. |  
+| 26  | A river god offers passage in exchange for something deeply personal. |  
+| 31  | A blind seer will answer one question truthfully—but each answer carries an unseen burden. |  
+| 32  | A merchant sells an item that grants protection—but the protection is finite, and the price increases each time. |  
+| 33  | A lone monk guards an ancient scroll containing forbidden knowledge—he will share it, but at a cost. |  
+| 34  | A demon offers a deal: great skill in battle, but each victory will come with regret. |  
+| 35  | A ronin is offered a second chance at life, but only if they agree to serve an unknown master. |  
+| 36  | A woman claims she can resurrect the dead, but only for those who are willing to exchange places. |  
+| 41  | A whispering mask offers the wearer insight into any enemy’s weakness—but it must never be removed. |  
+| 42  | A bridgekeeper demands an offering from each traveler who crosses—those who refuse disappear. |  
+| 43  | A samurai seeks an unbreakable sword, but the blade must first taste the blood of its future master. |  
+| 44  | A cursed bell will grant a wish if rung three times—but the wish will be granted in an unpredictable way. |  
+| 45  | A dying noble offers their land to the first person willing to inherit their burdens. |  
+| 46  | A fox spirit offers guidance, but in return, the traveler must never reveal the truth of their meeting. |  
+| 51  | A merchant sells charms that guarantee good fortune—until they are lost or given away. |  
+| 52  | A masked stranger claims to be able to erase any regret—but warns the price is steep. |  
+| 53  | A man offers eternal sleep to those weary of life—none have accepted and returned. |  
+| 54  | A storyteller claims to have the answer to any question—but the price is a future secret yet to be learned. |  
+| 55  | A tea master brews a cup that reveals a traveler’s fate—but the fate cannot be avoided. |  
+| 56  | A shrine statue grants a blessing to those who kneel before it—but it demands a whispered promise in return. |  
+| 61  | A woman offers a jade comb that grants beauty—so long as it is never removed. |  
+| 62  | A mysterious musician claims that his song can change fate—but it must be played in absolute solitude. |  
+| 63  | A calligrapher writes a name on a scroll—whoever’s name appears next will disappear forever. |  
+| 64  | A spirit asks for one final conversation with a loved one before passing on—but they must not know they are dead. |  
+| 65  | A man in white robes offers a charm that will ward off death, but it must be renewed annually with an unknown ritual. |  
+| 66  | A fox-eared woman offers companionship in exchange for a promise that can never be broken. |  
+
+### Echoes of the Past  
+
+| D66 | Echoes of the Past |  
+| --- | ------------------ |  
+| 11  | An old battlefield still echoes with the sounds of clashing swords at night. |  
+| 12  | A village refuses to speak about a fire that happened decades ago. |  
+| 13  | A well holds an object someone threw away in shame, waiting to be recovered. |  
+| 14  | A shrine once honored a forgotten hero, but their name has been erased. |  
+| 15  | A crumbling bridge was once the site of a tragic duel—those who cross hear whispers of regret. |  
+| 16  | A long-dead emperor’s decree is discovered, its implications dangerous. |  
+| 21  | A ruined pagoda was once home to a secret sect—evidence of their existence remains. |  
+| 22  | A woman appears in dreams, asking for a message to be delivered to her descendant. |  
+| 23  | A child sings a song that no one has heard in centuries. |  
+| 24  | A noble family’s crest is discovered carved into the wall of a remote cave. |  
+| 25  | A sword buried in an ancestor’s tomb begins to glow faintly. |  
+| 26  | A lantern festival is held in remembrance of a forgotten tragedy. |  
+| 31  | A temple bell rings, though no one has touched it in years. |  
+| 32  | A lonely samurai reenacts his final battle each night, fighting unseen foes. |  
+| 33  | An heirloom reveals a hidden compartment containing an old secret. |  
+| 34  | A rice field has never been harvested, its owner waiting for a promise to be fulfilled. |  
+| 35  | A merchant’s ledger from a century ago describes an ongoing transaction. |  
+| 36  | A fisherman casts his net, pulling up jewelry lost in a long-ago shipwreck. |  
+| 41  | A mask is discovered, perfectly preserved, depicting a face no one recognizes. |  
+| 42  | A dying man asks for a message to be delivered to someone already long dead. |  
+| 43  | A woman prays at a roadside shrine for her lover to return—though he died generations ago. |  
+| 44  | A temple’s foundation is uncovered, revealing buried offerings from another era. |  
+| 45  | A storyteller recites a tale so vividly it seems as if the past is reliving itself. |  
+| 46  | A cave painting depicts a person in modern clothing standing among ancient warriors. |  
+| 51  | A festival is celebrated for a reason no one remembers. |  
+| 52  | A lake reflects an image of a vanished village beneath its surface. |  
+| 53  | A sealed letter from a samurai to his lord is discovered, but the names are unfamiliar. |  
+| 54  | A musician plays a melody heard only in a dream. |  
+| 55  | A teacup bears an inscription that suggests it belonged to a missing noble. |  
+| 56  | A ghostly army marches silently through a valley on a night with no moon. |  
+| 61  | A mother rocks an empty cradle, waiting for a child who never returned. |  
+| 62  | A blacksmith’s unfinished blade sits untouched in his abandoned forge. |  
+| 63  | A city once stood in a meadow, but now only its foundations remain. |  
+| 64  | A map shows a road that no longer exists. |  
+| 65  | A storyteller’s final tale remains unfinished, its last words lost to time. |  
+| 66  | A shattered mirror reflects an unfamiliar past, hinting at forgotten truths. |  
+
+### Ghostly Processions  
+
+| D66 | Ghostly Processions |  
+| --- | ------------------ |  
+| 11  | A long line of monks carrying lanterns marches through the night, vanishing at dawn. |  
+| 12  | A wedding procession passes silently through town, though no one recognizes the bride and groom. |  
+| 13  | A row of samurai ride through the village, their armor untouched by time. |  
+| 14  | A funeral march plays solemn music, but the coffin they carry is empty. |  
+| 15  | A parade of dancers weaves through the streets, though their faces remain blank. |  
+| 16  | A group of farmers walks to the fields as if going to work, yet they have been dead for decades. |  
+| 21  | A group of musicians plays an eerie tune, their instruments vanishing in the daylight. |  
+| 22  | A caravan of merchants passes by, selling goods that disappear upon purchase. |  
+| 23  | A line of children holding hands walks toward the forest but disappears before reaching the edge. |  
+| 24  | A battalion of foot soldiers marches toward an unseen battlefield. |  
+| 25  | A noble’s retinue walks the palace corridors at night, whispering about a coming war. |  
+| 26  | A masked troupe performs a play with no audience, their shadows moving on their own. |  
+| 31  | A fisherman’s procession leads an invisible boat to the shore, though no sea exists nearby. |  
+| 32  | A row of women in mourning robes drifts through the streets, weeping softly. |  
+| 33  | A group of warriors reenacts a duel at an abandoned shrine, reliving their final moments. |  
+| 34  | A lantern procession lights up the mountains, marking a path that no one dares follow. |  
+| 35  | A silent festival occurs in a remote village, where the living and dead dance together. |  
+| 36  | A long procession of monks kneels before a ruined temple, whispering forgotten prayers. |  
+| 41  | A line of shadowy figures follows a priest, their feet never touching the ground. |  
+| 42  | A noblewoman's escort stops at an inn each year, though she never enters. |  
+| 43  | A squadron of ghostly riders charges across a battlefield, clashing with an unseen enemy. |  
+| 44  | A bride in white floats down the river, followed by unseen mourners. |  
+| 45  | A funeral barge drifts down the lake, though no body is aboard. |  
+| 46  | A procession of headless warriors walks through a ruined castle at night. |  
+| 51  | A tea ceremony is held in the village square, though no one is serving the tea. |  
+| 52  | A horse-drawn carriage rides through town, but when it stops, no one emerges. |  
+| 53  | A group of children walks single-file through the fields, singing an old lullaby. |  
+| 54  | A line of courtiers bows before an invisible emperor before vanishing. |  
+| 55  | A torchlit parade marches toward a ruined shrine, vanishing before sunrise. |  
+| 56  | A ship sails through the mist, its crew visible but never reaching shore. |  
+| 61  | A group of farmers reenacts the harvest festival from fifty years ago. |  
+| 62  | A ghostly feast is laid out on the temple steps, though no one eats. |  
+| 63  | A long line of monks chants sutras that can only be heard at night. |  
+| 64  | A lord’s funeral cortege moves through the streets, though his grave lies empty. |  
+| 65  | A parade of masked figures walks in circles around the town, stopping only when noticed. |  
+| 66  | A golden palanquin is carried through the streets, though its occupant is unseen. |  
+
+### Sacred Relics  
+
+| D66 | Sacred Relics |  
+| --- | ------------ |  
+| 11  | A weathered prayer bead necklace grants protection, but only to those who recite its forgotten mantra. |  
+| 12  | A rusted bell tolls by itself when danger is near. |  
+| 13  | A ceremonial dagger can only be drawn when justice is at stake. |  
+| 14  | A bamboo flute plays melodies on its own, warning of impending doom. |  
+| 15  | A calligraphy brush grants wisdom, but each stroke erases part of the writer’s memory. |  
+| 16  | A tea bowl grants visions to those who drink from it at dusk. |  
+| 21  | A candle never melts, burning only when yokai are near. |  
+| 22  | A set of wooden sandals leave no footprints, no matter where they step. |  
+| 23  | A set of prayer scrolls float in the air when an oath is spoken nearby. |  
+| 24  | A ceremonial kimono shines in moonlight but disappears when worn in daylight. |  
+| 25  | A wooden charm protects its bearer from misfortune but causes misfortune to those nearby. |  
+| 26  | A war fan painted with a dragon summons a gust of wind with each flick. |  
+| 31  | A rice bowl that refills itself once per night, but only for the truly hungry. |  
+| 32  | A torii gate stands alone in a field, leading to a place unknown. |  
+| 33  | A pair of chopsticks clatter on their own when lies are spoken. |  
+| 34  | A sandalwood comb summons the ghost of its previous owner when used. |  
+| 35  | A broken arrowhead points toward a lost battlefield when placed in water. |  
+| 36  | A silk fan is said to grant longevity, though no one who carries it has aged. |  
+| 41  | A scroll details a forgotten prophecy, but its final words are missing. |  
+| 42  | A wooden staff hums when carried into a sacred place. |  
+| 43  | A statue of a lion moves slightly when no one is looking. |  
+| 44  | A paper talisman causes unseen hands to write messages in the dust. |  
+| 45  | A mirror only reflects spirits, never the living. |  
+| 46  | A sword bound in red cloth cannot be drawn without consequences. |  
+| 51  | A set of coins, when cast, spell out different words for each person who sees them. |  
+| 52  | A pouch of black sand erases footprints, even on solid stone. |  
+| 53  | A wooden pipe plays a melody that attracts fireflies—or spirits. |  
+| 54  | A lantern never needs oil but must be spoken to each night. |  
+| 55  | A bead of polished jade turns warm in the presence of deception. |  
+| 56  | A sealed urn whispers the names of the unburied dead. |  
+| 61  | A ceremonial ribbon ties itself when wrapped around an object, binding it shut. |  
+| 62  | A set of dice, when rolled, always land on the same numbers—until the right question is asked. |  
+| 63  | A pearl glows faintly when submerged in water, revealing long-lost reflections. |  
+| 64  | A sword handle remains intact, though its blade has long since shattered. |  
+| 65  | A single, unbroken thread, stretching impossibly long, appears in different places. |  
+| 66  | A book of empty pages reveals words only when exposed to moonlight. |  
+
+### Yokai Conflicts  
+
+| D66 | Yokai Conflicts |  
+| --- | -------------- |  
+| 11  | A family of kitsune (fox spirits) accuses a local priest of sealing one of their own unjustly. |  
+| 12  | A village is caught in the crossfire of a feud between two tengu clans. |  
+| 13  | A shrine’s protective spirit refuses to allow a noble’s retainers to pass. |  
+| 14  | A water yokai demands retribution after a fisherman polluted its sacred river. |  
+| 15  | A group of mischievous tanuki have turned an entire inn into a maze of illusions. |  
+| 16  | A vengeful onryo (ghost) blames a samurai family for an ancient betrayal. |  
+| 21  | A legendary sword once used to slay yokai has been reforged, and its former enemies want it destroyed. |  
+| 22  | An unseen entity scratches warnings onto temple walls, but no one knows who the message is for. |  
+| 23  | A young girl is claimed as kin by both a human family and a clan of shapechangers. |  
+| 24  | A yokai disguised as a merchant sells cursed objects that bring disaster. |  
+| 25  | A dying monk confesses to having bound an evil spirit, but the seal is now breaking. |  
+| 26  | A village headman has made a deal with a yokai for prosperity, but now it demands more. |  
+| 31  | A powerful oni returns each full moon to challenge warriors to duels. |  
+| 32  | A yokai-controlled gambling house traps the souls of those who lose. |  
+| 33  | A shifty exorcist offers to remove a spirit from a village, but their methods seem dubious. |  
+| 34  | A fox spirit and a tanuki are engaged in a long-running prank war that is escalating. |  
+| 35  | An elder tengu seeks an apprentice among humans, but those who fail disappear. |  
+| 36  | A yokai-infested temple is the last line of defense against something even worse. |  
+| 41  | A famous warrior defeated a monstrous yokai long ago, but now the yokai’s child seeks revenge. |  
+| 42  | A normally benevolent river spirit refuses to let boats cross, for reasons unknown. |  
+| 43  | A ghostly procession appears every night, seeking a missing member who may still be alive. |  
+| 44  | A kappa offers to let a traveler pass safely—but only if they can outwit it in a game. |  
+| 45  | A temple cat that has lived for over a hundred years is beginning to show unnatural intelligence. |  
+| 46  | A mirror yokai traps people in reflections, replacing them with perfect doubles. |  
+| 51  | A bridge toll collector is suspected of being a disguised yokai that feeds on regret. |  
+| 52  | A farmer’s livestock are being eaten, but the culprit is not a beast—it is something far stranger. |  
+| 53  | A clan of rokurokubi (long-necked yokai) disguises themselves as humans during the day. |  
+| 54  | A tengu challenges a swordsman to a duel, but its motives are unclear. |  
+| 55  | A traveling merchant’s wares have become strangely sentient. |  
+| 56  | A village’s protector spirit is losing its power, and a rival yokai is moving in. |  
+| 61  | A storyteller’s ghost refuses to leave until its final tale is told to a worthy audience. |  
+| 62  | A yokai hunter is accused of breaking an ancient peace pact between humans and spirits. |  
+| 63  | A jorogumo (spider spirit) offers to spin an unbreakable silk, but at an unknown price. |  
+| 64  | A shrine maiden is actually a disguised yokai, protecting the village from something worse. |  
+| 65  | A haunted battlefield replays an ancient war, with yokai and ghosts trapped in endless combat. |  
+| 66  | A yokai claims that a human is its reincarnated kin—but the human has no memory of this. |  
+
+### Blood Ties & Family Curses  
+
+| D66 | Blood Ties & Family Curses |  
+| --- | ------------------------- |  
+| 11  | A once-prosperous family line has dwindled due to an ancestor’s broken oath. |  
+| 12  | A child is born with the same strange birthmark that marked their cursed ancestors. |  
+| 13  | A family heirloom carries whispers of past tragedies to its newest owner. |  
+| 14  | A noble’s son is fated to die before his 25th birthday unless the family’s sins are atoned for. |  
+| 15  | An elder dies clutching an old family scroll, begging for it to be burned. |  
+| 16  | A long-lost family member returns—but they have not aged a day. |  
+| 21  | The firstborn of every generation disappears under mysterious circumstances. |  
+| 22  | A samurai discovers that every warrior in their lineage met a violent, unnatural end. |  
+| 23  | A girl’s shadow does not belong to her, and it has begun moving on its own. |  
+| 24  | A mother dreams of an ancestor warning her of impending disaster. |  
+| 25  | A family crest glows faintly under the moonlight, revealing a hidden message. |  
+| 26  | A cursed sword has been passed down for generations, but no one dares wield it. |  
+| 31  | A noble’s house has remained untouched for centuries, yet servants swear they still see its former owner. |  
+| 32  | A family’s patriarch refuses to die, his body withering but his spirit clinging on. |  
+| 33  | A ghostly child appears each night in the family estate, singing an old lullaby. |  
+| 34  | The eldest daughter of each generation is fated to marry an unknown figure from the spirit world. |  
+| 35  | A forgotten relative is revealed to have been watching over the family in secret. |  
+| 36  | A family’s bloodline is said to be intertwined with that of a vanished yokai clan. |  
+| 41  | A shrine on family land has fallen into disrepair, and strange things have begun happening. |  
+| 42  | The family ancestral sword shatters upon being drawn, revealing something hidden within. |  
+| 43  | A noble is warned by a spirit that their bloodline will end with them. |  
+| 44  | A dying grandmother confesses that the family’s wealth was built on a terrible act. |  
+| 45  | A child speaks fluently in a language that no one alive remembers. |  
+| 46  | A farmer’s crops flourish unnaturally, but they dream of a past relative whispering warnings. |  
+| 51  | A family home remains in pristine condition, despite no one living there for decades. |  
+| 52  | A lost family ring is found—but it has aged centuries in appearance. |  
+| 53  | A family head suddenly ages decades overnight, leaving their heir terrified. |  
+| 54  | A noble’s painting ages and changes on its own, revealing dark secrets. |  
+| 55  | A villager wakes up with no memories of their family, though everyone remembers them. |  
+| 56  | A long-vanished ancestor appears in the village, looking exactly as they did in old portraits. |  
+| 61  | A bloodstained letter is found under the floorboards of an old estate. |  
+| 62  | A family ghost appears to only one descendant, whispering cryptic warnings. |  
+| 63  | A merchant’s heirloom is said to bring fortune—but only at someone else’s cost. |  
+| 64  | A widow’s deceased husband appears in the village, insisting he never died. |  
+| 65  | A family estate has a room no one remembers building, locked for generations. |  
+| 66  | A child is born looking exactly like an ancestor who vanished mysteriously. |  
+
+### Natural Disasters & Omens  
+
+| D66 | Natural Disasters & Omens |  
+| --- | ------------------------ |  
+| 11  | A sudden earthquake splits a shrine in half, revealing a hidden chamber beneath. |  
+| 12  | A river runs backward for a day, then returns to normal. |  
+| 13  | A typhoon is predicted to strike, but the winds carry whispers of an ancient promise. |  
+| 14  | A flock of crows gathers above the temple, forming an ominous symbol. |  
+| 15  | A red sunrise foretells doom, and the elders of the village refuse to leave their homes. |  
+| 16  | A comet streaks across the sky, and the old monks whisper that a great soul has been reborn. |  
+| 21  | A lake’s surface turns to ice in midsummer, trapping something beneath. |  
+| 22  | A landslide buries an entire village, except for one untouched home. |  
+| 23  | Thunder rumbles, but no clouds are in the sky. |  
+| 24  | A mist rolls in that makes people forget the day before. |  
+| 25  | The cherry blossoms bloom a second time in autumn—something is deeply wrong. |  
+| 26  | A full moon is eclipsed by shadows that do not belong to the earth. |  
+| 31  | A snowfall buries a mountain shrine, revealing an ancient staircase below. |  
+| 32  | Lightning strikes the same tree every night, splitting it open further each time. |  
+| 33  | A drought has lasted longer than anyone remembers—until a single drop of blood falls with the first rain. |  
+| 34  | A great tsunami is seen approaching from the horizon, but never arrives. |  
+| 35  | The sun sets at the wrong time, confusing all who watch. |  
+| 36  | A fire burns a field without consuming it, revealing messages in the ash. |  
+| 41  | An earthquake shakes a temple, but the only damage is a single cracked idol. |  
+| 42  | The sea recedes too far and does not return for a full day. |  
+| 43  | A village elder sees a falling star and claims the time of reckoning is near. |  
+| 44  | A windstorm carries whispers of unknown voices. |  
+| 45  | A river glows at night, illuminating ancient symbols on the rocks beneath. |  
+| 46  | A great tree collapses overnight, its rings showing a face in the pattern of its bark. |  
+| 51  | A black sun rises at dawn, returning to normal moments later. |  
+| 52  | The tide carries in thousands of fish—but they are all frozen solid. |  
+| 53  | An entire field of crops withers in a single night, spelling out a warning. |  
+| 54  | A monk stands unmoving in the town square, staring at the sky for three days straight. |  
+| 55  | A frozen waterfall begins flowing again—but upward instead of down. |  
+| 56  | The morning dew forms writing on every surface, but it disappears when read. |  
+| 61  | A rainbow appears at midnight, glowing unnaturally bright. |  
+| 62  | A boulder cracks open, revealing the skeleton of something no one recognizes. |  
+| 63  | A fox is seen leading a group of people toward an unknown destination. |  
+| 64  | A storm lasts for exactly one hour, returning every night at the same time. |  
+| 65  | A shadow moves across the landscape, though no object casts it. |  
+| 66  | A mountain rumbles, and from its depths, an unfamiliar voice speaks a single name. |  
+
+### The World Between  
+
+| D66 | The World Between |  
+| --- | ----------------- |  
+| 11  | A traveler steps through a torii gate at dusk and finds themselves in a different time. |  
+| 12  | A shrine only appears on certain nights, its interior filled with offerings from unknown patrons. |  
+| 13  | A road that leads nowhere in daylight extends endlessly under the full moon. |  
+| 14  | A tea house welcomes guests from both the living and the dead. |  
+| 15  | A mirror in a noble’s house does not reflect the present—it shows a world untouched by time. |  
+| 16  | A fisherman catches a creature that speaks in human tongue before vanishing into mist. |  
+| 21  | A village elder steps into the forest and is found decades younger the next morning. |  
+| 22  | A bridge collapses in a storm, yet travelers still cross it as if it were never broken. |  
+| 23  | A gate built centuries ago finally swings open—but only for certain individuals. |  
+| 24  | A noble’s shadow separates from them at night, wandering freely. |  
+| 25  | The scent of incense fills the air, though no fire has been lit. |  
+| 26  | A lone traveler recounts tales of places that exist only in dreams. |  
+| 31  | A child draws a path in the dirt, and the road appears in reality. |  
+| 32  | A town remains unseen by travelers unless they carry a specific token. |  
+| 33  | A priest walks a pilgrimage to a temple that does not appear on any map. |  
+| 34  | A lone house stands at the edge of the forest, and those who enter find themselves in an unfamiliar land. |  
+| 35  | A festival is held for spirits on a single night of the year—anyone who stays too long risks joining them. |  
+| 36  | A merchant sells objects from a land no one has heard of, and no one can recall him arriving. |  
+| 41  | A single tree stands in the middle of a river, bearing fruit that glows in moonlight. |  
+| 42  | A lantern carried by a monk never burns out, though he claims it was lit centuries ago. |  
+| 43  | A lost traveler is found, claiming they have only been gone a day—though years have passed. |  
+| 44  | A woman in a white kimono appears at a bridge, waiting for someone to return. |  
+| 45  | A door in a village house leads to an endless field under a starless sky. |  
+| 46  | A shrine appears only to those who seek answers, and vanishes once the answer is given. |  
+| 51  | A noble’s estate is untouched by time, though no one has lived there in decades. |  
+| 52  | A shadowy figure rows a boat across the misty lake, waiting for a passenger. |  
+| 53  | A small shop sells books no one can read, but those who take one gain visions in their sleep. |  
+| 54  | A bell rings at the same time every day, though no one knows where the sound comes from. |  
+| 55  | A hidden path in the forest always leads to a different place depending on the traveler. |  
+| 56  | A lone tree on a hill is the only thing visible in a fog that never lifts. |  
+| 61  | A festival occurs in an abandoned town, where music and laughter echo with no source. |  
+| 62  | A traveler steps into a house to escape the rain, only to find themselves in another village entirely. |  
+| 63  | A noble’s tea set is found still warm, though no one has used it for years. |  
+| 64  | A painter’s mural changes daily, depicting scenes of events that have yet to occur. |  
+| 65  | A river’s reflection shows a different season than the world above. |  
+| 66  | A child is found wandering alone, claiming they came from a village that does not exist. |  
+
+### Inspiration Tables  
+
+#### Verbs 
 
 |     | 1        | 2        | 3         | 4         | 5         | 6         |
 | --- | -------- | -------- | --------- | --------- | --------- | --------- |
@@ -1222,9 +1792,7 @@ Who will you align with? And who will become your **greatest enemy**?
 | 5   | Weep     | Carve    | Twist     | Call      | Burn      | Stalk     |
 | 6   | Entangle | Unravel  | Possess   | Silence   | Reveal    | Curse     |
 
----
-
-#### **Adjectives (Descriptors of Mood, Atmosphere, and Identity)**  
+#### Adjectives  
 
 |     | 1         | 2         | 3         | 4         | 5         | 6         |
 | --- | --------- | --------- | --------- | --------- | --------- | --------- |
@@ -1235,9 +1803,7 @@ Who will you align with? And who will become your **greatest enemy**?
 | 5   | Whispering | Ancient | Hidden    | Bound     | Silent    | Accursed  |
 | 6   | Flickering | Broken  | Unholy    | Murmuring | Unfinished | Hollowed |
 
----
-
-#### **Nouns (Objects, Beings, and Themes of the Supernatural World)**  
+#### Nouns  
 
 |     | 1          | 2          | 3          | 4          | 5          | 6          |
 | --- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
