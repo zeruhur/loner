@@ -183,6 +183,45 @@ A new generation of Adventure Packs: self-contained, stand-alone games with all 
     </div>
 </div>
 
+<div class="w3-row-padding w3-container w3-padding-16">
+    <div class="w3-card w3-third">
+    <img src="assets/img/covers/dummy.png" alt="Avatar" style="width:100%">
+        <div class="w3-center">
+            <h2><b>Loner Dungeoneer</b></h2>
+            <p> Coming Soon 2025</p>
+            <div class="w3-row">
+                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (itch.io)</a>
+                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (DriveThruRPG)</a>
+                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">Softcover (Amazon)</a>
+            </div>
+            </div>
+    </div>      
+    <div class="w3-card w3-third">
+    <img src="assets/img/covers/dummy.png" alt="Avatar" style="width:100%">
+        <div class="w3-center">
+            <h2><b>Loner Spacer</b></h2>
+            <p> Coming Soon 2025</p>
+            <div class="w3-row">
+                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (itch.io)</a>
+                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (DriveThruRPG)</a>
+                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">Softcover (Amazon)</a>
+            </div>
+            </div>
+    </div>      
+    <div class="w3-card w3-third">
+    <img src="assets/img/covers/dummy.png" alt="Avatar" style="width:100%">
+        <div class="w3-center">
+            <h2><b>Loner World Builder's Guide</b></h2>
+            <p> Coming Soon 2025</p>
+            <div class="w3-row">
+                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (itch.io)</a>
+                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (DriveThruRPG)</a>
+                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">Softcover (Amazon)</a>
+            </div>
+            </div>
+    </div>      
+</div>
+
 ## Web SRD
 The complete text of Loner, the Adventure Packs and the Geared Toward Loner Games are available for free in web format on this site. Just navigate the navbar above!
 

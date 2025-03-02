@@ -8,3 +8,4 @@ The following games are intended to be a new generation of Adventure Packs: self
 - [Legends of Camelot](en/geared_towards_loner/legends_of_camelot.md)
 - [Pulp Adventures!](en/geared_towards_loner/pulp_adventures.md)
 - [Steel & Sorcery](en/geared_towards_loner/steel_and_sorcery.md)
+- [Tales & Tumbles!](en/geared_towards_loner/tales_and_tumbles.md)
