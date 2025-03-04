@@ -1125,6 +1125,338 @@ What they truly are is still uncertain.
 | 65  | A contact has **vital information** about an experiment gone wrong. But every time they speak, **the words never leave their mouth.** |
 | 66  | A classified space station **wasn’t responding for weeks**. Suddenly, they reconnect—and **ask who we are**. |
 
+### **Anomaly Discovery**  
+
+| D66 | Anomaly Discovery |  
+| --- | ---------------- |  
+| 11  | A **perfect sphere** made of an unknown material is found buried deep underground. It is warm to the touch and emits a faint hum when spoken to. |  
+| 12  | A **ghostly figure** appears in satellite images of a remote island—yet no one has set foot there for over a century. |  
+| 13  | A **black void** opens up in the middle of an apartment complex. Objects dropped inside never hit the ground. |  
+| 14  | A group of hikers finds an **abandoned campsite**—food still warm, journals open—yet all people are missing without a trace. |  
+| 15  | A **tree that bleeds** when cut is discovered in a restricted national park. Its DNA does not match any known species. |  
+| 16  | A **seemingly normal house** is put up for sale, but every time someone enters, they report stepping out **into a completely different location.** |  
+| 21  | A derelict **cargo ship** is found drifting in the ocean, its crew missing—except for one, who hasn’t aged since the 1800s. |  
+| 22  | An unmapped **cave system** is discovered, containing **fossils of creatures that have never existed**—or haven’t yet. |  
+| 23  | A town's **oldest building** suddenly shifts three feet overnight, despite weighing thousands of tons. It now **aligns perfectly with the stars.** |  
+| 24  | A car is found on the side of the road, headlights on, engine running. The **driver's seat is completely empty**, but the doors were locked from the inside. |  
+| 25  | A **radio signal from deep space** is received, replaying an old distress call from Earth—one that was never actually sent. |  
+| 26  | A **forest trail vanishes overnight**, replaced by dense trees. However, footprints can be seen leading into **where the path used to be.** |  
+| 31  | Security footage of an underground subway station reveals **passengers entering a train that was decommissioned decades ago.** |  
+| 32  | A skyscraper has **one floor that doesn't appear in any blueprints**. Workers assigned there refuse to talk about it. |  
+| 33  | A **door appears overnight** on the side of a mountain. It is made of **modern materials**, but it **leads to nothing but solid rock** when opened. |  
+| 34  | A group of construction workers uncovers a **sealed underground vault**—with **their own names engraved on the walls inside.** |  
+| 35  | A **small town's residents all vanish overnight**, yet their phones still **send text messages** to loved ones. |  
+| 36  | A lake suddenly **freezes solid in mid-summer**, but the ice **never melts**—even when taken indoors. |  
+| 41  | A child discovers a **hidden tunnel behind their bedroom wall**—it leads to **a place that does not match their home's architecture.** |  
+| 42  | A **statue in a public park** moves slightly every night. Security footage **shows nothing changing**, yet by morning, it has changed position. |  
+| 43  | A **meteorite lands in a desert**, but instead of a crater, it **left an unnaturally perfect cube of black stone**. |  
+| 44  | A missing **airplane reappears after 50 years**, perfectly intact—but there is no one inside, and no records of its takeoff. |  
+| 45  | A **carnival ride from the 1960s** is found in the middle of a forest. It is still fully operational, though it was **never transported there.** |  
+| 46  | A researcher uncovers a **documented anomaly case that was supposedly erased**—and the file **is written in their own handwriting.** |  
+| 51  | A **warehouse explosion** destroys an entire research facility—yet no wreckage, debris, or bodies are found, as if the building never existed. |  
+| 52  | A **famous author disappears**, leaving behind an **unpublished book** describing events **that haven’t happened yet—but soon do.** |  
+| 53  | A field investigator receives a package with **an old VHS tape**. Playing it **shows footage of them investigating an anomaly they haven’t encountered yet.** |  
+| 54  | A **military submarine returns to port**, but none of the crew remember deploying. Their logs describe **a year-long voyage**, yet **they were only gone for a week.** |  
+| 55  | A journalist goes missing after uncovering **a room in a government building that doesn’t appear on any blueprints**—the last entry in their notes just says: **"DON'T OPEN IT."** |  
+| 56  | A **perfectly intact medieval ship** washes up on shore—with **fresh footprints leading from the deck into the water.** |  
+| 61  | A **radio tower in a remote town starts transmitting numbers**—coordinates leading to **a location wiped from all maps.** |  
+| 62  | A famous building **disappears overnight**, leaving nothing but **pristine grass where it once stood.** |  
+| 63  | A missing child is found wandering a highway at night, claiming they were **“with the others” in a place with no doors or windows.** |  
+| 64  | A woman **gains access to classified information** through a strange **dream that details events in real-time**. |  
+| 65  | A research team documents a **section of road that loops infinitely**—cars exit but **never reach their destination.** |  
+| 66  | An entire **city block suddenly experiences "missing time"**, with every resident losing **exactly 42 minutes** from their memories. |
+
+
+### **Government Cover-Ups**  
+
+| D66 | Government Cover-Ups |  
+| --- | --------------------- |  
+| 11  | A **classified military aircraft** crashes in a rural area. Officials claim it was a "weather balloon," but locals saw something **crawl out of the wreckage.** |  
+| 12  | A town experiences **mass hallucinations** for exactly one hour. Government officials **arrive before anyone even reports it.** |  
+| 13  | A **leaked document** details a containment failure of an unknown anomaly. The official response? **"No such facility exists."** |  
+| 14  | A **meteor impact site** is immediately sealed off by the military. No impact crater is ever found. |  
+| 15  | A **viral video shows a non-human entity in a government building**. The original uploader **goes missing within 24 hours.** |  
+| 16  | A journalist attempting to expose **an experimental weapon program** dies in an "accident"—right before publishing their findings. |  
+| 21  | A **census report reveals a town of 10,000 people vanished overnight.** The government's official statement: **"Clerical error."** |  
+| 22  | Satellite images of a **classified research facility** are altered within minutes of being uploaded. The original images? **Nowhere to be found.** |  
+| 23  | A nuclear plant **fails an emergency drill**—but the footage is erased, and all employees are ordered to **"forget it ever happened."** |  
+| 24  | An **underground highway tunnel collapses**—but no debris is ever recovered, and the tunnel entrance is **bricked over overnight.** |  
+| 25  | A veteran whistleblower claims that **a secret agency operates above world governments**. They are **arrested for unrelated tax fraud** the next day. |  
+| 26  | A prominent scientist goes missing, but their **research continues being published posthumously.** |  
+| 31  | A **strange animal** is hit by a truck. The **body is confiscated** by government agents before anyone can take a photo. |  
+| 32  | A **subway station is suddenly closed indefinitely**. Official reason: "structural issues." Unofficially? **Workers report seeing passengers from the 1950s.** |  
+| 33  | A major city experiences a **48-hour blackout**. The media blames a cyberattack, but **all digital records of that timeframe are mysteriously corrupted.** |  
+| 34  | A **former black-ops agent** tries to confess their involvement in an experiment that went wrong. Within hours, their entire **family is relocated.** |  
+| 35  | A **hidden government bunker** is accidentally uncovered during construction. Officials **bulldoze it within 24 hours** and declare the site "unstable." |  
+| 36  | A **former classified site** is opened to the public—but **all documents from its operational years have been destroyed.** |  
+| 41  | A **deep-sea drilling project** is abruptly shut down. The reason? **"Environmental concerns"—but satellite footage shows armed forces surrounding the area.** |  
+| 42  | A **whistleblower vanishes mid-livestream** while exposing an underground containment facility. Their apartment is **already rented to someone new the next day.** |  
+| 43  | A leaked autopsy report describes a **non-human corpse**. The coroner claims the report is **fake**—but resigns immediately after. |  
+| 44  | A **government building mysteriously burns down**, but all nearby CCTV footage is **deleted before the fire started.** |  
+| 45  | A **classified research satellite** disappears from orbit. Officials claim it malfunctioned—**but amateur astronomers track its signal moving into deep space.** |  
+| 46  | A **documented UFO sighting from decades ago** resurfaces. The official stance? **"Never happened."** But former military officers claim otherwise. |  
+| 51  | A **mass shooter’s manifesto** is leaked, claiming they were **"compelled by voices"**—but the document is **swiftly erased from all platforms.** |  
+| 52  | A government project mapping **"earthquake zones"** aligns **suspiciously well** with **old classified underground structures.** |  
+| 53  | A **chemical spill forces a city-wide evacuation**, yet all emergency responders are wearing **radiation suits, not hazmat gear.** |  
+| 54  | A **train derailment is blamed on human error**, but recovered **black box audio contains screams and an unknown language.** |  
+| 55  | **Declassified UFO reports** reveal an unexplained **crash retrieval program**—but all surviving witnesses have been **declared mentally unfit.** |  
+| 56  | A **"volunteer study"** offers large cash rewards for participation. Weeks later, participants **go missing**, and their families receive **final paychecks.** |  
+| 61  | A **government-funded biotech startup** goes bankrupt overnight. Every executive **flees the country, leaving all lab equipment abandoned.** |  
+| 62  | A secret **tunnel system under a major city is "accidentally" discovered**. The media reports it was built **"for historical reasons."** |  
+| 63  | A **famous missing person case is suddenly closed**, but no body is found—just a **vague statement from law enforcement: "Case resolved."** |  
+| 64  | A **satellite picks up unexplained energy emissions** from Antarctica. The research team investigating **is immediately transferred to unrelated projects.** |  
+| 65  | A **mysterious artifact is uncovered** at an archaeological site. The lead researcher **dies in an "accident"** before publishing their findings. |  
+| 66  | A **classified agency sends out emergency recruitment notices**, stating **"something is coming"—but does not specify what.** |
+
+
+### **Unusual Missing Person Cases**  
+
+| D66 | Unusual Missing Person Cases |  
+| --- | ----------------------------- |  
+| 11  | A well-known **physicist vanishes from a conference mid-sentence**. Security footage shows them **glitching out of existence.** |  
+| 12  | A **tourist reappears** 20 years after disappearing—**without aging a day** and with **no memory of where they’ve been.** |  
+| 13  | A missing **hiker is found in the woods, barefoot and disoriented**, claiming they **never left**—but the search team found **their body a week ago.** |  
+| 14  | An entire **high school class vanishes overnight**, but **their families don’t remember ever having children.** |  
+| 15  | A **man who disappeared as a child returns as an adult**—but **with no recollection of growing up.** |  
+| 16  | A **detective investigating a series of disappearances** is found—except they **aren't the same person anymore.** |  
+| 21  | A **passenger steps off a plane and vanishes in plain sight**, in front of security cameras. Their luggage arrives intact. |  
+| 22  | A famous **actor vanishes on live TV**, mid-interview. The station claims **it was a "special effect."** |  
+| 23  | A missing teenager returns home with **a new name, new memories, and no recollection of their past life.** |  
+| 24  | A journalist investigating a **classified research project** vanishes—but their **shadow remains imprinted on the office wall.** |  
+| 25  | A child disappears in a **museum exhibit about lost civilizations**, leaving behind **a footprint from an unknown species.** |  
+| 26  | A scientist working on **quantum teleportation technology** disappears—**but their voice can be heard over phone static.** |  
+| 31  | A **missing woman is found hundreds of miles away** in the middle of the desert, wearing **clothes from a different century.** |  
+| 32  | A ghost town is rediscovered—but **every missing resident has returned, exactly as they were when they vanished decades ago.** |  
+| 33  | A police officer vanishes after responding to a **disturbance call at an abandoned house**—only their **radio transmission remains, repeating the words "Don’t let it see you."** |  
+| 34  | A deep-sea diving crew **vanishes underwater**, but their live transmission **continues broadcasting from the void.** |  
+| 35  | A **missing CEO resurfaces, wandering the streets**, repeating **a set of coordinates that don’t exist on any map.** |  
+| 36  | A **prison inmate disappears from their locked cell**, leaving behind **handwritten equations predicting the next ten years.** |  
+| 41  | A group of students enter a **supposedly haunted forest** for a documentary. Their footage is found—but **they are not.** |  
+| 42  | A famous astronaut returns from a **deep-space mission**, but DNA tests confirm they **aren’t the same person who left.** |  
+| 43  | An artist disappears, leaving behind **paintings of places that do not exist**—or **have not been built yet.** |  
+| 44  | A **research team investigating a forbidden archaeological site** vanishes. The only survivor **forgets their own name.** |  
+| 45  | A group of urban explorers **enter an abandoned subway station**. A week later, **one of them emerges—except they weren’t part of the group.** |  
+| 46  | A young woman vanishes, but her **reflections remain in mirrors**, showing her **screaming for help.** |  
+| 51  | A shipwreck is found in pristine condition—except the **crew’s skeletons are all seated at their stations.** |  
+| 52  | A missing man is found **trapped inside a locked storage unit** that had **never been opened from the inside.** |  
+| 53  | An office worker **disappears from their cubicle**—but their **co-workers claim they never existed.** |  
+| 54  | A woman vanishes **mid-sentence** while talking on the phone. The line stays **open for days, broadcasting static.** |  
+| 55  | A child is reported missing—but **they appear in the background of photographs taken weeks after their disappearance.** |  
+| 56  | A famous professor working on **artificial intelligence disappears**. Their AI assistant **continues responding as if they never left.** |  
+| 61  | A group of campers vanish—but **their tents remain intact, with meals still warm on the fire.** |  
+| 62  | A scientist’s **entire research lab vanishes**, replaced by **an empty, dust-covered room that looks abandoned for decades.** |  
+| 63  | A **subway train enters a tunnel** but **never comes out the other side.** |  
+| 64  | A mountaineer disappears on an expedition—but a **letter arrives from them a year later, postmarked from an uninhabited island.** |  
+| 65  | A missing person case is closed when the **person is found inside their own childhood home**—except the house was **demolished years ago.** |  
+| 66  | A missing hiker is **found years later**, completely unchanged, claiming they were **only gone for a few minutes.** |
+
+### **Containment Breach Scenarios**  
+
+| D66 | Containment Breach Scenarios |  
+| --- | ----------------------------- |  
+| 11  | A **secured anomaly containment site** goes silent. The last recorded transmission: **"It figured out the cameras."** |  
+| 12  | A **biological containment facility** loses power, allowing a **classified organism to escape into the ventilation system.** |  
+| 13  | A **storage vault containing cursed artifacts** is compromised. **Several items are missing**, but security footage **shows no signs of entry.** |  
+| 14  | A **psychic entity contained in an underground bunker** suddenly vanishes—**except its cell door never opened.** |  
+| 15  | A **remote research station** sends a distress signal. When backup arrives, **the entire team is found fused together into a single mass.** |  
+| 16  | A **non-human entity** breaches containment, but **security cameras fail to capture its escape.** Guards only recall **"a feeling of being watched."** |  
+| 21  | A **hazardous artifact vault is breached**, but **the person responsible does not remember doing it.** |  
+| 22  | A contained **dimensional rift pulses unexpectedly**, and **two identical copies** of a missing researcher step out—**claiming they’re both the original.** |  
+| 23  | A **containment chamber is found empty**, but all security personnel insist that **the entity is still there.** |  
+| 24  | A facility designed to **house time-looping anomalies** collapses in on itself—except its **internal clock shows no time has passed.** |  
+| 25  | A **secure government archive catches fire**—but instead of burning, **classified documents are replaced with blank pages.** |  
+| 26  | A **radioactive entity breaches containment**, but instead of leaving, **it writes a message in an unknown language on the walls.** |  
+| 31  | An **AI-driven security system goes offline**, but technicians find its **self-repair logs show it attempted to “contain” personnel instead.** |  
+| 32  | A facility’s **quarantine protocol activates automatically**, but the **containment cell is found empty—except for a heartbeat on the monitors.** |  
+| 33  | A **prison for anomalous criminals loses power**, and when it comes back on, **only one cell is open—but all inmates are missing.** |  
+| 34  | A **classified paranormal research base is abandoned overnight**, with all **staff uniforms neatly folded in a pile at the entrance.** |  
+| 35  | A **team of field operatives fails to return** from a containment mission—until weeks later, when they arrive at HQ **with no memory of the time gap.** |  
+| 36  | A **heavily secured vault door is found wide open**, but security records show **it never actually unlocked.** |  
+| 41  | A **contained psychic experiment reaches out telepathically**, begging to be freed—**but the anomaly it refers to is supposedly harmless.** |  
+| 42  | An **entire wing of a containment facility collapses inward**, leaving **a perfectly smooth sphere where the rooms used to be.** |  
+| 43  | A **classified research station suddenly reappears after being missing for decades**—but all personnel inside **act as if no time has passed.** |  
+| 44  | A **creature designed to adapt to containment measures evolves beyond all protocols**—and disappears without a trace. |  
+| 45  | A facility’s **security footage is wiped clean**, leaving behind a single frame: **a blurred, unknown face looking directly at the camera.** |  
+| 46  | A **restricted underground chamber is breached**, but all security logs state **“DO NOT OPEN” with no further context.** |  
+| 51  | A **containment team reports success in neutralizing a threat**—but the field logs **show no record of them ever being deployed.** |  
+| 52  | A secured artifact begins **emitting an unknown frequency**, disrupting electronics across an entire city. |  
+| 53  | A **facility door is found welded shut from the inside**, but the containment entity **was never reported missing.** |  
+| 54  | An **escapee from a containment center** turns themselves in—but they claim **they were never actually held there.** |  
+| 55  | A **sealed containment bunker reopens** decades after being shut down. Inside, researchers are **still alive—but aging in reverse.** |  
+| 56  | A government storage site housing **highly classified artifacts is looted**, but the intruders **only stole a single blank notebook.** |  
+| 61  | A classified **bioweapon experiment breaches containment**, infecting staff—**but the symptoms don’t appear to be biological.** |  
+| 62  | A contained **time anomaly leaks**, causing **staff members to experience events in reverse.** |  
+| 63  | A **containment breach occurs**, but the threat is never found. Instead, all **personnel on site become eerily silent and refuse to acknowledge the incident.** |  
+| 64  | A **locked room is found open**, with no security breaches—only a **handwritten note inside reading, “Let me out again.”** |  
+| 65  | A **transport team delivering a highly dangerous object goes missing**—but their radio transmissions continue, **claiming they’re still en route.** |  
+| 66  | A **lab fire destroys a containment chamber**, but the anomaly remains **exactly where it was—watching.** |
+
+### **Paranormal Surveillance Reports**  
+
+| D66 | Paranormal Surveillance Reports |  
+| --- | -------------------------------- |  
+| 11  | Security footage from a **government lab** shows a researcher talking to someone—but the second person **does not appear on camera.** |  
+| 12  | A **CCTV camera in a subway station** records a train that **never existed** arriving on schedule. |  
+| 13  | An **abandoned building is monitored** due to reported hauntings. A week later, the camera **catches a door opening—but nothing inside casts a shadow.** |  
+| 14  | A surveillance drone **disappears mid-flight**, but its final transmission shows **it entered a building that no longer exists.** |  
+| 15  | A **military satellite detects unexplained movement** in a **remote desert base long thought abandoned.** |  
+| 16  | A **news helicopter records a massive unidentified structure** in the middle of a city. But the next day, **no one remembers seeing it.** |  
+| 21  | A camera in a **corporate research facility** catches a scientist **walking into an anomaly—and emerging seconds later aged 30 years.** |  
+| 22  | A **private investigator installs hidden cameras** in their office after strange occurrences. The footage shows **them talking to someone who isn't there.** |  
+| 23  | A **security guard vanishes on duty**, but the camera continues recording as their **reflection remains visible in the glass.** |  
+| 24  | A **highway surveillance system tracks a car** driving through an empty stretch of road **at impossible speeds—then abruptly disappearing.** |  
+| 25  | A **baby monitor picks up whispering voices**, but no one else was in the house. The whispers **predict something that later comes true.** |  
+| 26  | A **park ranger’s bodycam records a conversation**—except **the other voice belongs to them, speaking in an unfamiliar language.** |  
+| 31  | A **classified drone records movement** in a decommissioned research facility—where **biological experiments were once conducted.** |  
+| 32  | A **live streamer's camera glitches**—for a brief moment, the feed shows **a completely different person wearing their clothes.** |  
+| 33  | A **traffic cam captures a pedestrian crossing the street**—then replaying the exact same moment every night, down to the second. |  
+| 34  | A **prison surveillance system records a prisoner escaping**, yet **guards on duty claim the prisoner is still in their cell.** |  
+| 35  | A **door inside a classified bunker keeps opening by itself**. Motion sensors show **movement, but thermal scans detect no body heat.** |  
+| 36  | A **government database archives a report** about an unknown surveillance operation—but **no agency claims ownership of the program.** |  
+| 41  | A **construction site security camera** records workers entering a newly built tunnel—but **no tunnel was ever built there.** |  
+| 42  | A **hospital’s security system picks up a patient checking in**, but **no matching records of their existence are found.** |  
+| 43  | A **drone patrolling a national park** picks up **a shadow moving independently of its surroundings.** |  
+| 44  | A **bank vault camera records a break-in**, but the footage shows **the thieves entering before the vault was unlocked.** |  
+| 45  | A **surveillance satellite picks up an unknown structure** in the Arctic—but when investigators arrive, **it’s gone.** |  
+| 46  | A **missing person is found sitting in an empty train station**—but **only visible in night vision mode.** |  
+| 51  | A **scientist reviews lab footage** and sees **themselves entering the lab two minutes before they actually arrived.** |  
+| 52  | A **store’s security footage loops the same hour every night**—but each time, the camera angle shifts slightly. |  
+| 53  | A **high-altitude weather balloon captures footage of Earth**—but the landmasses **are not arranged the way they should be.** |  
+| 54  | A **carnival security camera** records an unknown figure entering the funhouse. The footage ends, and **the ride was never operational that night.** |  
+| 55  | A **classified government storage facility** logs a motion alarm. The camera feed shows **someone resembling a researcher who disappeared decades ago.** |  
+| 56  | A **space station security camera detects movement** outside the hull—**in the vacuum of space.** |  
+| 61  | A **seismograph station in a remote location picks up rhythmic vibrations**, as if **something enormous is moving underground.** |  
+| 62  | A **traffic cam in a ghost town** records **a single car driving down an abandoned street every night at the same time.** |  
+| 63  | A **warehouse security camera feed reveals an unknown door** that **no employees remember seeing before.** |  
+| 64  | A **surveillance van parked outside a high-profile scientist’s house** malfunctions just as they leave—then **detects motion inside an empty house.** |  
+| 65  | A **government AI tasked with monitoring anomalous activity** flags an unknown entity—**standing right behind the camera operator.** |  
+| 66  | A **live news broadcast captures a split-second glimpse** of **someone watching from the background—who shouldn’t exist.** |
+
+### **Secret Society Rituals & Events**  
+
+| D66 | Secret Society Rituals & Events |  
+| --- | ------------------------------ |  
+| 11  | A **wealthy elite group** hosts an annual masked ceremony—guests swear **they hear whispers coming from the walls.** |  
+| 12  | A **forgotten order** reappears, claiming to be the **true keepers of human history.** They invite select individuals to a private gathering. |  
+| 13  | A **sealed underground temple** is discovered beneath a city. Secretive figures **move in to reclaim it before authorities can intervene.** |  
+| 14  | A **private auction of artifacts** is raided by unknown operatives. Survivors claim the item in question **disappeared before anyone could claim it.** |  
+| 15  | A **congressman is seen entering a hidden lodge** with other high-ranking officials. They emerge the next morning **with no recollection of the night.** |  
+| 16  | A **small rural town hosts an annual festival**—outsiders are welcome, but those who attend **refuse to speak about it afterward.** |  
+| 21  | A **cryptic symbol starts appearing** in graffiti worldwide. Some claim it’s linked to **a secret cabal influencing global events.** |  
+| 22  | A **video leaks online** of robed figures chanting around a **floating, glowing sigil.** The video is taken down, and the uploader disappears. |  
+| 23  | A **charismatic cult leader rises to power**, claiming to communicate with **beings from another dimension.** Government agencies take interest. |  
+| 24  | A **billionaire funds the construction of a private temple**, only allowing members of an **exclusive, centuries-old order to enter.** |  
+| 25  | A **strange book is found in an abandoned library**, filled with **coded rituals and references to forgotten gods.** |  
+| 26  | A **secret society dating back to the Renaissance** is revealed to still be active—its members **are much older than they should be.** |  
+| 31  | A high-profile murder suspect **claims innocence**, saying they were participating in a **ritual that prevents time from collapsing.** |  
+| 32  | A **well-connected banker vanishes**, leaving behind **a ledger detailing financial contributions to a hidden esoteric order.** |  
+| 33  | A **fraternity at an Ivy League university** is rumored to have **initiations that leave new members with no memory of their past lives.** |  
+| 34  | A **strange underground chamber** is found beneath a historic cathedral. Inside are **perfectly preserved robes and offerings—dating back centuries.** |  
+| 35  | A **mass marriage ceremony takes place in an undisclosed location**—but none of the participants remember who their spouse is afterward. |  
+| 36  | A group of **powerful CEOs meet at a remote lodge** every year. Documents suggest they perform **rituals to ensure their continued success.** |  
+| 41  | A **well-respected scientist publishes a research paper**, but its methodology **contains references to an ancient forbidden text.** |  
+| 42  | A survivor of a **failed initiation ritual** speaks out. They claim the society was attempting to **merge minds into a single consciousness.** |  
+| 43  | A **hidden monastery in the Himalayas** is rumored to house monks who **live outside of time.** Those who seek them never return. |  
+| 44  | A secret society's **meeting location is uncovered**—a **chamber filled with intricate star maps and symbols not of this world.** |  
+| 45  | A **deceased royal’s tomb** is discovered to be **completely empty**, with signs that **someone or something left recently.** |  
+| 46  | A **mansion collapses overnight**, leaving behind **a crater filled with markings resembling an ancient summoning ritual.** |  
+| 51  | A **mass grave is uncovered**—but forensic analysis shows the skeletons **belong to the same person, repeated dozens of times.** |  
+| 52  | A mysterious **broadcast interrupts global television signals**, displaying **a sigil and a date counting down to an unknown event.** |  
+| 53  | A **secret gathering of intellectuals** is exposed, revealing their goal: **to rewrite human history before it is forgotten.** |  
+| 54  | A **coded message in the stock market reports** suggests high-profile investors are actually communicating about **an ancient blood pact.** |  
+| 55  | A man claims to have **escaped a secret society's clutches**, showing **strange symbols carved into his skin.** |  
+| 56  | A **powerful political dynasty** is linked to a **cult that claims to have made a deal with something non-human.** |  
+| 61  | A **mysterious floating object appears above an island**—rumors circulate that it is **the meeting place of a hidden council.** |  
+| 62  | A **sealed vault door beneath a historic museum is found**, with a countdown timer still running toward **an unknown date.** |  
+| 63  | A **high-profile scientist claims their recent breakthrough** was given to them in a **vision during a ritualistic meditation.** |  
+| 64  | A series of **elite boarding schools** are linked to a **multi-generational secret society preparing “special individuals” for an upcoming shift.** |  
+| 65  | A **mysterious organization recruits people for an “ascension program”**—those who join **are never heard from again.** |  
+| 66  | A **forgotten manuscript details a ritual** that, when performed correctly, **allows participants to rewrite a single event in history.** |
+
+
+### **Encounters with Cryptids**  
+
+| D66 | Encounters with Cryptids |  
+| --- | ------------------------- |  
+| 11  | A **large, shadowy figure** is spotted moving **just outside the range of security cameras** in a remote forest. |  
+| 12  | A **fisherman reports catching a strange creature**—when authorities arrive, they find only **a puddle of black ichor and torn fishing nets.** |  
+| 13  | Hikers claim to have seen **glowing red eyes peering at them from the treetops**—but the trees were **too thin to support anything that size.** |  
+| 14  | A **highway patrol officer reports hitting something on the road**, but upon checking, **the car shows no damage—except deep claw marks on the doors.** |  
+| 15  | A **drone captures footage of an unknown creature swimming** in a restricted lake—**it moves too fast for any known aquatic species.** |  
+| 16  | A **series of livestock mutilations** occur in a small town, each carcass **surgically dissected with inhuman precision.** |  
+| 21  | A **tourist captures a blurry photo of a humanoid figure** with **elongated limbs** before their camera mysteriously malfunctions. |  
+| 22  | A **security guard at a research facility reports an “invisible” entity”**—they only see its **shadow moving across the walls.** |  
+| 23  | A **local legend describes a creature that mimics human voices**. A rescue team **searching for lost hikers hears their own voices calling from deep within the woods.** |  
+| 24  | A **child goes missing for three days**, then returns unharmed—except they **refuse to enter their own house and claim their parents “aren’t real.”** |  
+| 25  | A **truck driver encounters a hairless, humanoid figure** running alongside their vehicle at **impossible speeds** before veering into the darkness. |  
+| 26  | A **distant howling sound echoes through a valley**—audio analysis suggests **it belongs to no known species.** |  
+| 31  | A **nighttime security patrol catches glimpses of an eight-foot-tall silhouette** darting between buildings **faster than the human eye can track.** |  
+| 32  | A **mountain expedition finds a series of deep claw marks** carved into a rock face—**hundreds of feet above the ground.** |  
+| 33  | A **family reports something living inside their walls**—when investigators arrive, **they hear scratching from inside, but nothing is found.** |  
+| 34  | A **local fisherman refuses to go near a certain part of the lake**, claiming he saw **a face staring up at him from beneath the water.** |  
+| 35  | A **wildlife camera captures an unknown bipedal entity**, but when researchers go to investigate, **the footage is mysteriously corrupted.** |  
+| 36  | A **park ranger discovers a fresh trail of animal tracks** that suddenly stop **mid-step—like the creature simply disappeared.** |  
+| 41  | A **farmer reports waking up to strange symbols burned into their crops**, but no evidence of human activity is found. |  
+| 42  | A **local police station receives dozens of 911 calls** about **a creature crawling through backyards—but when officers arrive, there’s nothing there.** |  
+| 43  | A **hunter disappears without a trace**, leaving behind **their rifle and boots—but no footprints leading away from the site.** |  
+| 44  | A **motion-activated trail camera records an unknown quadrupedal creature**—but its movements seem **deliberately unnatural, as if aware of being watched.** |  
+| 45  | A **group of campers find a large nest-like structure** filled with **bones—but no predator in the area matches the size of the remains.** |  
+| 46  | A **military surveillance drone spots something enormous moving** under the ocean surface—larger than any known whale species. |  
+| 51  | A **truck stop diner has an unofficial “NO PHOTOS” rule** due to **frequent sightings of an inhuman figure sitting at the corner booth.** |  
+| 52  | A **small-town mayor holds an emergency meeting** after multiple people report seeing **a giant, winged figure circling the town at night.** |  
+| 53  | A **scientist studying an unexplored cave system vanishes**, leaving behind **only a static-filled final radio transmission.** |  
+| 54  | A **UFO researcher publishes an article linking cryptid sightings** to an **increase in electromagnetic disturbances.** The researcher disappears a week later. |  
+| 55  | A **forest fire reveals an underground warren** filled with **pale, eyeless humanoid creatures—but by the time authorities arrive, it’s empty.** |  
+| 56  | A **group of teenagers go missing** near a lake, and their last known photo shows **a tall, spindly figure watching from the trees.** |  
+| 61  | A **ship’s sonar picks up an enormous moving object** deep in the ocean, but when they return to the site, **it’s gone without a trace.** |  
+| 62  | A **city sewer worker discovers an unnaturally large tunnel** leading deep underground. Explorers **never return from venturing inside.** |  
+| 63  | A **meteorologist detects a fast-moving aerial object** that disappears from radar—locals report seeing **a giant, bat-like creature that night.** |  
+| 64  | A **group of spelunkers report seeing something watching them from deep inside a cave**—their cameras **fail to capture anything in the darkness.** |  
+| 65  | A **wilderness survivalist sets up camp** only to find **their supplies carefully rearranged overnight—with large, humanoid footprints surrounding the site.** |  
+| 66  | A **rare photograph from the early 1900s depicts a group of settlers**—and a tall, shadowy humanoid figure **standing just behind them.** |
+
+
+### **Urban Legends That Might Be Real**  
+
+| D66 | Urban Legends That Might Be Real |  
+| --- | -------------------------------- |  
+| 11  | A **forgotten highway exit** is said to lead to a town that **doesn’t exist on any map.** Travelers who enter **never find the way out.** |  
+| 12  | A **mysterious phone number** is passed around online. Those who call **hear themselves answering—but saying things they never said.** |  
+| 13  | A **local bridge is rumored to be cursed**—if you stop your car at midnight, **someone unseen gets in the back seat.** |  
+| 14  | A **college library has a book no one admits to checking out.** Those who read it **wake up in a place they don’t recognize.** |  
+| 15  | A **creepy children’s song** is spreading among playgrounds. No one knows where it came from, but its lyrics **describe events before they happen.** |  
+| 16  | A **video game cartridge from the ‘90s** is rumored to contain **footage of places that don’t exist—yet.** |  
+| 21  | A **certain elevator button** shouldn’t be pressed. Those who do **arrive somewhere… wrong.** |  
+| 22  | A **run-down motel offers a “Room 000”**—but guests **who stay there leave with memories of a life they never lived.** |  
+| 23  | An **old amusement park ride is said to be haunted**—not by ghosts, but by **passengers who never left.** |  
+| 24  | A **tunnel beneath the city** is rumored to house **people who have never seen daylight.** |  
+| 25  | A **museum exhibit on historical artifacts** includes **one item that no one remembers acquiring.** It **changes locations when no one is watching.** |  
+| 26  | A **radio station that doesn’t officially exist** sometimes **interrupts broadcasts**—playing **distorted voices speaking in an unknown language.** |  
+| 31  | A **small town has a street with no recorded addresses.** Those who visit at night **report hearing whispers in their own voice.** |  
+| 32  | A **statue in the city square moves slightly** every time it’s photographed—but **never while being watched directly.** |  
+| 33  | A **forgotten hospital ward still receives power**, though **it has been abandoned for decades.** |  
+| 34  | A **mysterious email circulates every year**, promising **knowledge beyond human comprehension.** Those who reply **disappear.** |  
+| 35  | A **house in the suburbs is listed for sale**—but neighbors say **it has been abandoned for decades, despite lights turning on at night.** |  
+| 36  | A **certain painting in a museum changes slightly every week**, depicting **people who were recently reported missing.** |  
+| 41  | A **discontinued brand of candy appears in vending machines randomly**—people who eat it **suffer vivid, identical dreams.** |  
+| 42  | A **secret concert venue is rumored to exist**, but those who attend **never return quite the same.** |  
+| 43  | A **childhood imaginary friend from a popular urban legend** has been spotted in **multiple locations across the world.** |  
+| 44  | A **small town diner only opens once a year.** People who eat there **never experience déjà vu again.** |  
+| 45  | A **rumored website lets users "chat with their future selves."** The ones who receive a response **are never seen again.** |  
+| 46  | A **man claims to have met his twin**—a version of himself that **knows things he shouldn’t.** |  
+| 51  | A **forest known for strange disappearances** has a **single payphone deep inside**—it **rings only when someone is about to vanish.** |  
+| 52  | A **whistleblower claims the government debunks certain urban legends** because **they’re actually true.** |  
+| 53  | A **particular bus never stops for passengers**—except for **those who have no recorded history of existing.** |  
+| 54  | A **mirror found in an antique shop** **reflects places other than the room it’s in.** |  
+| 55  | A **hidden frequency on old TV sets** plays **distorted news broadcasts from events that haven’t happened yet.** |  
+| 56  | A **photobooth in a mall produces pictures** that **show moments from the subject’s future.** |  
+| 61  | A **haunted lighthouse emits a warning beacon**—but there’s no **light source inside.** |  
+| 62  | A **famous missing person** is spotted in a **grainy home video from years after they disappeared.** |  
+| 63  | A **vintage toy is rumored to predict disasters**—when wound up, **it tells a rhyme that matches upcoming events.** |  
+| 64  | A **certain alley only appears in foggy weather.** People who enter **report glimpses of an alternate version of the city.** |  
+| 65  | A **conspiracy theorist vanishes after claiming a certain fast-food chain** is **actually a front for an ancient order.** |  
+| 66  | A **lost episode of a children’s TV show appears on streaming services**—but it **never originally aired, and no one remembers making it.** |
+
 
 
 ### Inspiration Tables
