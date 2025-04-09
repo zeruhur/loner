@@ -205,6 +205,7 @@ A game in *Loner: Spacer* is a succession of scenes.
 A scene is a unit of time in which a certain action takes place in pursuit of a certain short-term goal. 
 
 In *Loner: Spacer* at each scene:
+
 1. **Identify what you expect from the scene**. Compared to traits, goal, and motivation determine the Protagonist's action. What might be the reaction of the game world?
 2. **Test your expectations**. When you are uncertain (or overconfident) about the reaction to your actions, [ask the Oracle](#consulting-the-oracle) a closed question (answer is Yes or No), considering the tags involved to determine if there is an [Advantage or Disadvantage](#advantage-and-disadvantage).
 3. **Interpret the result**. Is the Oracle's answer in line with your expectations? If not, in the context in which the scene takes place, how should an answer that subverts them be considered?
@@ -218,6 +219,7 @@ When you need to test your expectations you'll ask the Oracle a closed question.
 You’ll need 2d6 in one color (**Chance Dice**), and 2d6 in another (**Risk Dice**).
 
 To resolve a closed question, roll one **Chance Die** and one **Risk Die**:
+
 - If the Chance Die is highest, the answer is **Yes**. 
 - If the Risk Die is highest, the answer is **No**.
 - If both are low (3 or less), add a **but...**. 
@@ -264,6 +266,7 @@ This applies both in a practical and metaphorical sense.
 So, a Conflict is not only limited to combat (or fighting) in the strict sense but also to competitive situations (such as contests, duels, verbal confrontations, etc.) in which two or more characters (including vehicles, of course!) compete.
 
 Conflicts can be resolved in different ways depending on preferences and context:
+
 1. Ask a single closed question. The Oracle's answer determines the outcome of the conflict.
 2. Ask a series of closed questions to resolve current single actions.
 3. Use the rules of Harm & Luck below.
@@ -336,6 +339,7 @@ Customization occurs during play using tags and oracle-driven prompts. A ship ca
 
 #### **Upgrading Modules**
 To upgrade a module:
+
 1. **Determine Availability**: Ask the oracle whether the upgrade is available at your current location.
 2. **Check Requirements**: Modules may require tags like *"Advanced Engineering"* or *"Alien Tech Specialist."*
 3. **Pay Costs**: Use the economic system to purchase or barter for upgrades.
@@ -822,6 +826,7 @@ Each star system has an economy based on its **Tags**, which define its wealth, 
 | **Demand**          | High, Low, Stable          |
 
 Ask the oracle or roll 2d6 to assign tags to a system:
+
 - 2-4: Poor Economy
 - 5-9: Moderate Economy
 - 10-12: Rich Economy
@@ -859,6 +864,7 @@ Adjust base prices by rolling 1d6 and consulting the **Market Modifier Table**.
 | 6      | Doubled (High Demand)    |
 
 Modifiers are further influenced by tags:
+
 - *"High Demand"* adds +1 to the roll.
 - *"Illegal Commodity"* always starts with a +25% price increase.
 - *"Perishable"* may reduce price if delivery is delayed.
@@ -869,6 +875,7 @@ Reputation reflects your character's standing within the trading community, infl
 
 #### Reputation Tags
 Your reputation is described by tags like:
+
 - *"Trusted Merchant"* (discounts at ports)
 - *"Notorious Smuggler"* (access to black markets)
 - *"Unreliable Dealer"* (reduced customer base)
@@ -1024,6 +1031,7 @@ The *Loner: Spacer* framework allows you to build complex, engaging narratives u
 
 #### Step 1: Start with a Hook
 Roll or decide on an initial event to kickstart the adventure. Example hooks:
+
 - A distress signal from a stranded vessel (*"Unknown Origin" tag*).
 - A lucrative job offer from a faction (*"Urgent and High-Paying" tag*).
 - Discovery of a mysterious star map leading to uncharted space.
@@ -1033,6 +1041,7 @@ Add challenges to create tension. Use the **Environmental Challenge Systems** be
 
 #### Step 3: Develop NPC and Faction Ties
 Include NPCs or factions that connect to the mission. Example:
+
 - A rival smuggler complicates the mission (*"Cunning and Ruthless"* tag).
 - A faction offers unexpected assistance in exchange for a favor (*"Influential but Demanding"* tag).
 
@@ -1064,12 +1073,14 @@ Space is hostile and unpredictable. The following systems introduce environmenta
 
 #### Survival Mechanics
 When encountering a hazard:
+
 1. **Assess Tags**: Use relevant ship or character tags (e.g., *"Shielded Hull"* or *"Expert Pilot"*) to determine if you have an **Advantage**.
 2. **Consult the Oracle**: Ask whether the hazard can be mitigated or overcome.
 3. **Apply Consequences**: If unsuccessful, impose narrative consequences, such as damage to equipment (*"Weakened Hull"*) or increased tension with factions (*"Law Enforcement Suspicious"*).
 
 #### Environmental Interactions
 Characters can attempt to modify the environment using equipment:
+
 - **Action**: Use a tool or system, like deploying drones or stabilizing a station.
 - **Outcome**: Consult the oracle or apply tags like *"Specialized Tools"* for success.
 
@@ -1165,6 +1176,7 @@ Factions shape the political and economic dynamics of the galaxy. Each faction i
 
 #### **Step 1: Faction Traits**
 Define the faction with the following tags:
+
 - **Concept**: Summarize the faction’s identity (e.g., *"Galactic Trade Guild"* or *"Pirate Confederacy"*).
 - **Skills** (x2): Two general traits that define what they excel at (e.g., *"Efficient Logistics"* or *"Espionage Specialists"*).
 - **Frailty**: A notable weakness (e.g., *"Corrupt Leadership"* or *"Overextended Territories"*).
@@ -1172,6 +1184,7 @@ Define the faction with the following tags:
 
 #### **Step 2: Diplomacy**
 Determine the faction’s stance toward others. Use the **Faction Relations Matrix** to define relationships as:
+
 - **Allied**: Strong cooperation.
 - **Friendly**: Positive interactions.
 - **Neutral**: Indifference.
@@ -1251,6 +1264,54 @@ Roll to determine how culture and technology interact on a planet using the **Pl
 - **Faction Influence**: Controlled by the Galactic Trade Guild (*"Economic Powerhouse"*)  
 - **Planetary Influence**: Balanced interplay between culture and technology.  
 
+## Celestial Object Names
+
+### Stars
+
+|     | 1         | 2         | 3         | 4         | 5         | 6         |
+|-----|-----------|-----------|-----------|-----------|-----------|-----------|
+| 1   | Achenor   | Zha'Rii   | Kephos    | N'Ketra   | Velkaris  | Xanthel   |
+| 2   | Esharin   | Drayek    | Oruloth   | Threxil   | Ulvora    | Krellian  |
+| 3   | Gorrin    | Vaskari   | Tzaleth   | Rionyx    | Haldrun   | Myrenax   |
+| 4   | Yvorka    | Quelari   | Zondar    | Aruvel    | Serken    | Bhaznur   |
+| 5   | Valtor    | Ilydris   | Teshkar   | Kryndor   | Khaelos   | Phyrrion  |
+| 6   | Elnath    | Obareth   | Syrak     | Iridion   | Maleth    | Corvalex  |
+
+### Planets
+
+|     | 1         | 2         | 3         | 4         | 5         | 6         |
+|-----|-----------|-----------|-----------|-----------|-----------|-----------|
+| 1   | Talexis   | Dreva     | Myrr      | Olkara    | Cintar    | Fyssun    |
+| 2   | Braxis    | Kelari    | Vuneth    | Ashara    | Jornis    | Quivira   |
+| 3   | Xephon    | Turava    | Malzor    | Entra     | Zael      | Ghorin    |
+| 4   | Lethros   | Solentha  | Nyskar    | Belyra    | Vecon     | Joraxis   |
+| 5   | Uveth     | Daruun    | Impara    | Skorix    | Kryta     | Zhonar    |
+| 6   | Arkanis   | Ylvara    | Mezeth    | Tilion    | Exova     | Dereth    |
+
+### Moons & Asteroid Clusters
+
+|     | 1         | 2         | 3         | 4         | 5         | 6         |
+|-----|-----------|-----------|-----------|-----------|-----------|-----------|
+| 1   | Talvet's Ring | Cryn Belt | Drifthollow | Irna's Eye | Mavak Cradle | The Shale Coil |
+| 2   | Xharn's Crown | Koro Verge | Hollow Ember | Yiln Crust | Zaruun Chain | Lintari Coil |
+| 3   | Frostpin    | Albor Blight | Theta Rocks | Vulcari Rim | Dros Crag   | Gelt Shard |
+| 4   | Bramble Halo | Vakhan Field | Krelos Rim | Quarric Arc | Xydra Cloud | Emberreach |
+| 5   | Rion’s Dust | Lethen Drift | Kassandra’s Halo | Iron Vane | Mirix Maw | Zenth Cluster |
+| 6   | Rookfall    | Tarn Maw  | Voidglass | Nelma's Ring | Flayer Crest | Galder Ice |
+
+
+### Stations & Installations Names
+
+|     | 1         | 2         | 3         | 4         | 5         | 6         |
+|-----|-----------|-----------|-----------|-----------|-----------|-----------|
+| 1   | Relay K-47 | Velth Prime | Port Cyan | Obrex Nexus | Navspire Gamma | Juno Array |
+| 2   | Ardent Bastion | Kerrin's Reach | Boreal Station | Nova Vane | Respite Anchor | Outpost Yarra |
+| 3   | Drixel Hub | Haven Shard | Blackport | Citadel 9 | Glass Halo | Horath Spoke |
+| 4   | Echelon V | Kora Point | Tangent Relay | Wraith Base | Voidcall Node | Pax Ascendant |
+| 5   | Trinary Helm | Delphi Outpost | K'Tal Foundry | Skell Station | Beacon Arus | Enclave Nox |
+| 6   | Zenith Arc | Zeek's Coil | Omega Refuge | Tristorm Yard | Silent Mooring | Station Myndra |
+
+
 ### Inspiration Tables
 
 #### Verbs
@@ -1285,6 +1346,44 @@ Roll to determine how culture and technology interact on a planet using the **Pl
 | **4**         | Planet       | Data Core   | Smuggler    | Cargo       | Ruins       | Diplomat    |
 | **5**         | Signal       | Prisoner    | Pirate      | Map         | Relic       | Creature    |
 | **6**         | Spy          | Prototype   | Rebel       | Star        | Resource    | Portal      |
+
+## Appendix: Inspirational Media
+
+The following works served as direct or spiritual inspiration for *Loner: Spacer*. While the game is designed to support emergent storytelling, these sources offer tone, themes, and aesthetic guidance to enrich your solo voyages through the stars.
+
+### **Books**
+- *Traveller RPG* (original & Mongoose editions) – For modular worldbuilding and hard sci-fi trading mechanics.
+- *The Expanse* series by James S. A. Corey – Realistic space travel, political factions, and station life.
+- *Rimworld* (sourcebook) by Greg Stolze – A narrative-first exploration of frontier survival and alien ecosystems.
+- *Downbelow Station* by C.J. Cherryh – Station-based drama, trading politics, and survival in interstellar war.
+- *Solaris* by Stanisław Lem – Alien incomprehensibility and introspective encounters in space.
+- *Neuromancer* by William Gibson – Aesthetic cues and tone for black market tech and high-risk trading.
+
+### **Films**
+- *Outland* (1981) – Corporate frontier lawlessness and industrial isolation.
+- *Alien* & *Aliens* (1979, 1986) – For gritty ship interiors and hostile space.
+- *Interstellar* (2014) – Tense, realistic space travel and relativity.
+- *Moon* (2009) – Loneliness, resource extraction, and AI ambiguity.
+- *Blade Runner* (1982) – Dystopian cities and noir-infused futurism.
+- *The Black Hole* (1979) – Weird science, lost stations, and cosmic madness.
+
+### **TV Series**
+- *The Mandalorian* – Lone trader life, episodic missions, and fringe societies.
+- *Firefly* – Free traders, faction tension, and frontier survival.
+- *The Expanse* – System-wide politics, realistic physics, and multi-faction dynamics.
+- *Battlestar Galactica (2004)* – Survival on the run, moral compromise, and deep space uncertainty.
+
+### **Video Games**
+- *Elite* series (especially *Elite: Dangerous*) – Core gameplay loop of trading, exploration, and risk.
+- *FTL: Faster Than Light* – Procedural travel, decision-making, and survival.
+- *No Man’s Sky* – Procedural systems, colorful biomes, and lonely exploration.
+- *EVE Online* – Faction economics, open-ended interaction, and market-driven dynamics.
+- *Hardspace: Shipbreaker* – Industrial tools, salvage gameplay, and working-class space life.
+
+### **Comics & Visual Media**
+- *Prophet* (Brandon Graham) – Alien weirdness and interstellar scavenging.
+- *Saga* (Brian K. Vaughan & Fiona Staples) – Emotionally driven space opera.
+- *Descender* (Jeff Lemire & Dustin Nguyen) – AI mysteries and exploration aesthetics.
 
 ## License
 
