@@ -1,6 +1,6 @@
 # **Loner: World Builder’s Guide**
 
-*Loner* is about crafting stories in worlds of your own making. Whether you’re adapting a beloved setting or building something entirely from scratch, this guide provides the structure to create living, breathing worlds, filled with compelling characters and dynamic events that unfold naturally in solo play.
+*Loner* invites you to tell stories in worlds of your own design. You might be drawing inspiration from a familiar setting or inventing something entirely original—either way, this guide equips you with tools to build vivid, reactive environments where characters breathe and events unfold naturally through solo play.
 
 In these pages, you’ll find tools to help you:
 
@@ -12,15 +12,15 @@ In these pages, you’ll find tools to help you:
 
 ### **Who This Guide is For**
 
-Whether you thrive on worldbuilding or just need a framework to get started, this guide provides flexible tools that encourage **emergent storytelling**, helping you shape a world that surprises you as much as it does your protagonist.
+This guide is for anyone who wants to build engaging worlds—from seasoned worldbuilders to those looking for a clear starting point. Its flexible tools support **emergent storytelling**, helping you shape settings that grow and shift in unexpected ways, revealing surprises for both you and your protagonist.
 
 ## **Chapter 1: Building Your Setting**
 
-A setting in *Loner* isn’t just a backdrop — it’s the foundation of the story. It dictates the struggles your protagonist will face, the tone of their journey, and the themes that emerge through play. Every world is shaped by its conflicts, its mood, and the role the protagonist plays within it. This chapter will help you define a setting that enhances your storytelling, making every scene feel rich and immersive.
+In *Loner*, a setting isn’t just scenery—it’s the engine of the story. It shapes the challenges your protagonist will encounter, sets the emotional tone of their journey, and brings key themes to the surface through play. Every world pulses with its own tensions, atmosphere, and expectations. This chapter guides you in crafting settings that do more than support the story—they *drive* it, making each scene vivid, textured, and alive.
 
 ### **The Core of a Setting**
 
-Your setting is a living, breathing entity that interacts with your protagonist in meaningful ways. It doesn’t exist just to be described — it influences decisions, obstacles, and the narrative itself. Whether you’re diving into a ruined city where scavengers pick through the bones of the past or navigating the high courts of an interstellar empire, every world has defining traits that shape its stories.
+Your setting is a dynamic force—more than just background, it actively shapes the story. It influences your protagonist’s choices, the obstacles they face, and the path the narrative takes. From the shattered ruins of a forgotten city to the tangled politics of a galactic empire, each world carries its own identity—its tone, tensions, and narrative pull.
 
 #### **1\. Theme & Genre**
 
@@ -44,7 +44,7 @@ The first step in building a setting is understanding its **theme and genre**. T
 
 **Medieval Fantasy:** *A world where ancient kingdoms clash over divine relics, and magic is feared as much as it is revered. The protagonist is a disgraced knight seeking redemption, navigating a land torn between prophecy and political intrigue. In Loner, this setting could emphasize honor-bound duels, factional disputes, and moral dilemmas, where every decision shifts the balance of power.*
 
-**Hard Sci-Fi:** *A distant colony world on the edge of known space, where corporate overlords exploit resources while rogue scientists uncover anomalies in reality itself. The protagonist is a former researcher turned fugitive, hunted for what they’ve discovered. This setting would lean into resource scarcity, survival mechanics, and existential threats, where the protagonist’s choices determine whether they expose the truth or vanish into the void.*
+**Hard Sci-Fi:** *On a remote colony at the edge of explored space, corporate powers strip the land for profit while rogue scientists stumble upon reality-warping phenomena. The protagonist—a former researcher turned fugitive—carries knowledge too dangerous to share and too costly to bury. This setting thrives on scarcity, tension, and survival, where every decision edges closer to revelation or oblivion.*
 
 #### **2\. A Central Conflict**
 
@@ -71,10 +71,10 @@ No world is static — something is happening that forces change, tension, or un
 The **tone and mood** of your setting dictate how the world feels. It affects how challenges are presented, how NPCs interact, and the overall emotional weight of the story.
 
 * **What kind of atmosphere does this world evoke?**  
-  Is it *bright and adventurous* like a sprawling fantasy epic, or *oppressive and unsettling* like a dystopian survival horror? Think about whether the world is **thriving**, **dying**, or **on the edge of something massive**.  
+  Does it feel *vibrant and full of wonder*, like a vast fantasy realm teeming with adventure? Or is it *tense and suffocating*, like a crumbling society on the verge of collapse? Consider if the world is **flourishing**, **in decay**, or **balanced precariously before a major shift**—each mood carries different narrative weight and emotional texture.
     
 * **What emotions should the player feel?**  
-  Are you aiming for *wonder and discovery*, *hopelessness and dread*, or *excitement and momentum*? Every setting should evoke a strong feeling — whether it’s the eerie quiet of an abandoned space station or the chaotic energy of a revolution.  
+  Should the experience spark *awe and curiosity*, *tension and unease*, or *urgency and exhilaration*? A strong setting stirs the player’s emotional core—whether through the stillness of a derelict station echoing with secrets or the charged atmosphere of a society on the brink of revolt. 
     
 * **Does the world encourage hope or despair?**  
   In some settings, **the world can be saved** — people fight back, there is light at the end of the tunnel. In others, **entropy is inevitable** — civilization is crumbling, the gods are dead, and the protagonist is simply trying to survive as long as possible.  
@@ -118,7 +118,7 @@ Blending genres creates fresh, unexpected storytelling opportunities, allowing p
 
 ##### **📌 Example: Blending Genres in Action**
 
-*The frontier town of Black Hollow stands isolated in the wastelands, where the sky burns red at dusk and the wind carries whispers from the mines below. The protagonist, a bounty hunter with a cursed six-shooter, tracks outlaws through the desolate canyons, but as their hunt progresses, they begin to question whether their targets were ever human. Legends of an ancient hunger beneath the sands prove true, and survival means learning the rules of a world that is neither fully lawless nor entirely mortal.*
+*The frontier town of Black Hollow stands alone in the wastelands, where the sky burns red at dusk and the wind carries whispers from the mines below. The protagonist, a bounty hunter wielding a cursed six-shooter, tracks outlaws through desolate canyons—only to realize their targets may not be human at all. Legends speak of an ancient hunger beneath the sands, and surviving this place means understanding a world that defies both mortal law and natural order.*
 
 ### **Making the Setting Playable**
 
@@ -228,9 +228,9 @@ A setting’s details should **actively impact the mechanics of play**. Consider
 
 ## **Chapter 2: Character Archetypes & NPCs**
 
-A world without characters is just an empty stage. The protagonist and the people they encounter are what bring the setting to life, shaping the conflicts, alliances, and turning points that define the story. In *Loner*, every character — whether hero, rival, or background figure — should feel like a natural extension of the world, not just a list of traits.
+A world without characters is nothing more than an empty stage. It’s the protagonist and those they meet who animate the setting, driving its conflicts, forging alliances, and marking its key turning points. In *Loner*, every character—hero, rival, or passerby—should emerge organically from the world itself, not exist as a detached bundle of traits.
 
-A well-crafted protagonist doesn’t just exist in the setting; they **belong** to it. Whether they’re a revolutionary trying to tear down an empire, a wanderer seeking a place to call home, or an exile returning to confront the past, their story should be woven into the world’s fabric.
+A well-crafted protagonist isn’t simply placed in the setting—they **belong** to it. Their story is rooted in the world’s conflicts, culture, and history—be it a revolutionary aiming to dismantle a corrupt regime, a drifter searching for belonging, or an exile facing the ghosts of their former life. Their journey should feel inseparable from the world that shaped them.
 
 ### **Designing Protagonists for the Setting**
 
@@ -243,7 +243,7 @@ A protagonist is more than just a **stateless figure dropped into a setting** �
   Some protagonists challenge the norms of their world. Others are deeply entrenched in them but begin to question their place. A character who has **something to fight for** — or fight against — creates natural tension.  
     
 * **What kind of tension exists in their role?**  
-  A protagonist who is perfectly in sync with the world has little reason to act. But a character who is **on the edge of something bigger** — whether a discovery, a rebellion, or a desperate escape — creates story momentum.
+  A protagonist fully aligned with the world around them has little to push against. Tension arises when they stand **on the brink of something greater**—a revelation waiting to surface, a rebellion gaining ground, or a narrow window for escape. This sense of imbalance fuels momentum and keeps the story alive.
 
 ##### **📌 Example: A Protagonist Shaped by the World**
 
@@ -410,7 +410,7 @@ A great setting doesn’t tell the protagonist what to do — it **asks question
 
 ### **Designing Meaningful Locations**
 
-Every location in *Loner* should **serve the story**. A place is worth including only if it adds **opportunity, danger, or mystery**. Whether it’s a neon-drenched undercity, a crumbling temple swallowed by the jungle, or an abandoned space station drifting through the void, a great location should **invite exploration**.
+Every location in *Loner* should **serve the story**. Include a place only if it offers **opportunity, danger, or mystery**. From neon-lit undercities to vine-choked temples or derelict stations lost in space, the best locations **demand exploration** and promise something beneath the surface.
 
 #### **1\. Locations Need Purpose**
 
@@ -516,8 +516,7 @@ Not everything needs to be planned. Sometimes, the best moments come from **unex
 
 Bringing an established setting into *Loner* is less about **translating every rule** and more about **capturing its essence**. A good adaptation doesn’t just recreate a world — it **reshapes it to fit solo play**, ensuring that every encounter, conflict, and revelation works **without a party of adventurers to rely on**.
 
-Whether you’re adapting a published RPG setting, a favorite fictional universe, or a world of your own creation, the key is to **distill its core themes, define it with evocative tags, and adjust its challenges for a single protagonist**.
-
+Adapting a published RPG setting, a beloved fictional universe, or an original creation all starts with the same approach: **distill the core themes, express them through evocative tags, and reshape the challenges to suit a solo protagonist.**
 ### Guidelines for adapting settings
 
 #### **Step 1: Identify the Core Themes**
@@ -699,7 +698,7 @@ In group campaigns, **side quests** exist to **keep multiple players engaged**. 
 
 ## **Chapter 5: Crafting Your Own D66 Random Tables**
 
-One of *Loner*'s strengths is its use of **D66 tables** to generate unexpected details, helping solo players spark creativity and break through decision paralysis. Whether you’re creating a setting, filling it with encounters, or defining unique narrative elements, D66 tables allow you to introduce structured randomness while keeping the world flexible and emergent.
+One of *Loner*'s greatest tools is the **D66 table**—a compact engine of surprise that helps solo players spark ideas and overcome decision paralysis. These tables inject structured randomness into setting creation, encounters, and narrative twists, keeping the world fluid, unpredictable, and full of possibility.
 
 This chapter will guide you through designing **custom D66 tables** that fit your setting, enrich gameplay, and ensure every session feels fresh and dynamic.
 
@@ -1033,7 +1032,7 @@ Some genres thrive on **open-ended prompts**, while others benefit from **detail
   - "A bounty of 500,000 credits has been placed on your head by the Black Sun Syndicate."  
   - "A rogue AI is rewriting security protocols at the city’s central data hub."
 
-If remixing a table, determine whether your **new genre benefits more from keeping things vague or providing clear direction**.
+If remixing a table, determine if your **new genre benefits more from keeping things vague or providing clear direction**.
 
 ### **Final Thoughts: Building a Collection of Remixable Tables**
 
