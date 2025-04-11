@@ -932,13 +932,14 @@ Different settings require **different tones and terminology**. The same basic *
 
 Below is the same **table structure** adapted for three different settings.
 
-| D66 | Fantasy | Cyberpunk | Post-Apocalyptic |
-| :---- | :---- | :---- | :---- |
-| **12** | A hooded traveler offers a cryptic warning. | A masked hacker sends you an encrypted message. | A nomad scrawls a message in the dust before vanishing. |
-| **22** | A knight challenges you to a duel. | A corporate enforcer demands a meeting. | A warlord’s lieutenant claims you owe a debt. |
-| **32** | A merchant has an item that shouldn’t exist. | A black-market dealer offers rare tech. | A scavenger tries to sell you something "cursed." |
-| **42** | An old friend has changed allegiances. | A former ally now works for a rival corp. | A past companion is now the leader of a raider gang. |
-| **52** | A celestial event is considered an omen. | A solar flare disrupts all tech. | A strange storm sweeps through, carrying whispers. |
+| D6 | Fantasy | Cyberpunk | Post-Apocalyptic |
+| :--: | :---------------------------- | :----------------------------- | :-------------------------------------- |
+| **1** | A hooded traveler offers a cryptic warning. | A masked hacker sends you an encrypted message. | A nomad scrawls a message in the dust before vanishing. |
+| **2** | A knight challenges you to a duel. | A corporate enforcer demands a meeting. | A warlord’s lieutenant claims you owe a debt. |
+| **3** | A merchant has an item that shouldn’t exist. | A black-market dealer offers rare tech. | A scavenger tries to sell you something "cursed." |
+| **4** | An old friend has changed allegiances. | A former ally now works for a rival corp. | A past companion is now the leader of a raider gang. |
+| **5** | A celestial event is considered an omen. | A solar flare disrupts all tech. | A strange storm sweeps through, carrying whispers. |
+| **6** | A strange animal follows you and speaks in dreams. | A synthetic pet contains encrypted memories. | A mutated creature mimics your voice at night. |
 
 #### **Takeaways from This Remix**
 
