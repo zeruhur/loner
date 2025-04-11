@@ -168,6 +168,57 @@ A new generation of Adventure Packs: self-contained, stand-alone games with all 
         </div>
 </div>
     <div class="w3-card w3-third">
+    <img src="assets/img/covers/steel_sorcery.png" alt="Avatar" style="width:100%">
+        <div class="w3-center">
+            <h2><b>Steel & Sorcery</b></h2>
+            <p>
+                In <b>Loner: Steel & Sorcery</b>, you are the wandering sword, the doomed warlock, the relentless survivor carving a path through a world of ruin and peril. This solo tabletop RPG casts you into a dark and mythic land where ancient cities crumble, tyrants rise and fall, and forbidden magic lingers like a whisper in the wind. 
+            </p>
+            <p>                
+                Will you seek vengeance for past betrayals, claim lost treasures buried beneath forgotten tombs, or forge uneasy alliances in lawless borderlands? Your choices drive the story, and fate is decided by the roll of the dice.
+            </p>
+            <div class="w3-row">
+                <a href="https://www.drivethrurpg.com/en/product/512879/loner-steel-sorcery" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (DriveThruRPG)</a>
+                <a href="https://www.amazon.com/dp/B0DXTHWR66" target="_blank" class="w3-btn w3-black w3-hover-white">Softcover (Amazon)</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="w3-row-padding w3-container w3-padding-16">
+    <div class="w3-card w3-third">
+    <img src="assets/img/covers/dungeoneer.png" alt="Avatar" style="width:100%">
+        <div class="w3-center">
+            <h2><b>Loner: Dungeoneer</b></h2>
+            <p>
+                Descend into the depths of forgotten dungeons, where untold treasures and lurking horrors await. Loner: Dungeoneer is a minimalist, system-light solo RPG that emphasizes tactical exploration, emergent storytelling, and resourceful survival.
+            </p>
+            <p>
+                With only a handful of six-sided dice and a notebook, you will navigate treacherous ruins, outwit ancient traps, and face relentless adversaries—all while forging your own path through an unpredictable world. Using a streamlined oracle system and a unique tag-based character creation, every delve unfolds into a fresh, self-driven adventure.
+            </p>
+            <div class="w3-row">
+                <a href="https://www.drivethrurpg.com/en/product/515506/loner-dungeoneer" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (DriveThruRPG)</a>
+                <a href="https://www.amazon.com/dp/B0DZ5YJW3D" target="_blank" class="w3-btn w3-black w3-hover-white">Softcover (Amazon)</a>
+            </div>
+            </div>
+    </div>      
+    <div class="w3-card w3-third">
+    <img src="assets/img/covers/spacer.png" alt="Avatar" style="width:100%">
+        <div class="w3-center">
+            <h2><b>Loner: Spacer</b></h2>
+            <p>
+                Venture into the vast unknown of deep space, where derelict stations, thriving trade routes, and ancient mysteries lie beyond every star. Loner: Spacer is a minimalist, system-light solo RPG that emphasizes emergent storytelling, open-ended travel, and character-driven exploration.
+            </p>
+                With only a handful of six-sided dice and a notebook, you’ll pilot your ship across a procedurally unfolding galaxy—navigating faction conflicts, surviving dangerous encounters, and shaping your legacy one decision at a time. Using a streamlined oracle system and tag-based design, every journey is a unique story waiting to be uncovered.
+            <p>
+            </p>
+            <div class="w3-row">
+                <a href="https://www.drivethrurpg.com/en/product/518298/loner-spacer" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (DriveThruRPG)</a>
+                <a href="https://www.amazon.com/dp/B0F4KCPHDY" target="_blank" class="w3-btn w3-black w3-hover-white">Softcover (Amazon)</a>
+            </div>
+            </div>
+    </div>
+    <div class="w3-card w3-third">
     <img src="assets/img/covers/arabian_nights.png" alt="Avatar" style="width:100%">
         <div class="w3-center">
             <h2><b>Arabian Nights Adventures</b></h2>
@@ -180,34 +231,9 @@ A new generation of Adventure Packs: self-contained, stand-alone games with all 
                 <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">Softcover (Amazon)</a>
             </div>
         </div>
-    </div>
+    </div>      
 </div>
-
-<div class="w3-row-padding w3-container w3-padding-16">
-    <div class="w3-card w3-third">
-    <img src="assets/img/covers/dummy.png" alt="Avatar" style="width:100%">
-        <div class="w3-center">
-            <h2><b>Loner Dungeoneer</b></h2>
-            <p> Coming Soon 2025</p>
-            <div class="w3-row">
-                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (itch.io)</a>
-                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (DriveThruRPG)</a>
-                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">Softcover (Amazon)</a>
-            </div>
-            </div>
-    </div>      
-    <div class="w3-card w3-third">
-    <img src="assets/img/covers/dummy.png" alt="Avatar" style="width:100%">
-        <div class="w3-center">
-            <h2><b>Loner Spacer</b></h2>
-            <p> Coming Soon 2025</p>
-            <div class="w3-row">
-                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (itch.io)</a>
-                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (DriveThruRPG)</a>
-                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">Softcover (Amazon)</a>
-            </div>
-            </div>
-    </div>      
+<div  class="w3-row-padding w3-container w3-padding-16">
     <div class="w3-card w3-third">
     <img src="assets/img/covers/dummy.png" alt="Avatar" style="width:100%">
         <div class="w3-center">
@@ -219,7 +245,31 @@ A new generation of Adventure Packs: self-contained, stand-alone games with all 
                 <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">Softcover (Amazon)</a>
             </div>
             </div>
-    </div>      
+    </div>
+    <div class="w3-card w3-third">
+    <img src="assets/img/covers/dummy.png" alt="Avatar" style="width:100%">
+        <div class="w3-center">
+            <h2><b>Paranormal Files</b></h2>
+            <p> Coming Soon 2025</p>
+            <div class="w3-row">
+                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (itch.io)</a>
+                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (DriveThruRPG)</a>
+                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">Softcover (Amazon)</a>
+            </div>
+            </div>
+    </div>
+    <div class="w3-card w3-third">
+    <img src="assets/img/covers/dummy.png" alt="Avatar" style="width:100%">
+        <div class="w3-center">
+            <h2><b>Cozy Fantasy</b></h2>
+            <p> Coming Soon 2025</p>
+            <div class="w3-row">
+                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (itch.io)</a>
+                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">PDF (DriveThruRPG)</a>
+                <a href="#" target="_blank" class="w3-btn w3-black w3-hover-white">Softcover (Amazon)</a>
+            </div>
+            </div>
+    </div>          
 </div>
 
 ## Web SRD

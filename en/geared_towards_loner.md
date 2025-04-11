@@ -9,3 +9,5 @@ The following games are intended to be a new generation of Adventure Packs: self
 - [Pulp Adventures!](en/geared_towards_loner/pulp_adventures.md)
 - [Steel & Sorcery](en/geared_towards_loner/steel_and_sorcery.md)
 - [Tales & Tumbles!](en/geared_towards_loner/tales_and_tumbles.md)
+- [Dungeoneer](en/geared_towards_loner/dungeoneer.md)
+- [Spacer](en/geared_towards_loner/spacer.md)
