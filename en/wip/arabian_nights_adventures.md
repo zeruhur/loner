@@ -45,26 +45,27 @@ This is a **work of imaginative fiction**, not a cultural documentary. If you be
 
 Most of all: **play generously**, with an open heart and a reflective mind.
 
-
 ## Setting Introduction
 
-**Bustling Cities and Serene Landscapes:** The world of *Arabian Nights Adventures* is filled with exotic locations that captivate the imagination. Bustling cities like Baghdad, Damascus, and Cairo teem with vibrant markets, majestic mosques, and labyrinthine alleys. Beyond the cities lie vast deserts with their ever-shifting sands and treacherous sandstorms, as well as serene oasis towns shaded by palm trees and refreshed by cool waters. Mystical islands and hidden paradises dot the landscape, along with towering mountains and challenging passes. Ancient ruins and lost cities, brimming with treasures and secrets, beckon explorers and adventurers alike.
+*Arabian Nights Adventures* takes place in a world of dazzling wonders and shadowed secrets, where every corner holds a tale waiting to be told. Inspired by the timeless stories of Scheherazade, this setting invites solo adventurers to wander through bustling cities, whispering deserts, and enchanted isles, encountering both peril and marvel at every turn. It is a land where the mundane meets the magical, and where wit, courage, and charm are just as powerful as sword and spell.
 
-**Diverse Cultures and Influential Figures:** The setting is rich with diverse cultures and peoples, blending Arabic, Persian, and Turkish influences. Nomadic desert tribes maintain their unique customs while merchant caravans traverse extensive trade routes. The opulence of powerful sultans and viziers is evident in their lavish palaces, while skilled artisans, poets, and scholars contribute to the cultural tapestry. Mysterious sorcerers and mystics add an element of the unknown and the magical.
+- **Bustling Cities and Serene Landscapes:** The cities of this world — like Baghdad, Damascus, and Cairo — pulse with life. Their streets overflow with colorful bazaars, sweet-smelling spice stalls, and the echo of prayers from majestic mosques. These urban centers are a maze of shadowed alleyways and opulent courts, where merchants, thieves, scholars, and spies brush shoulders. Beyond the city gates, golden deserts stretch endlessly under the sun, their sands shifting to hide oases and ancient secrets. Towering mountains loom on the horizon, guarding forgotten temples and dangerous passes. Mystical islands lie just beyond the waves, veiled in mist and legend, and ruins of lost civilizations offer treasures, traps, and timeless enigmas.
 
-**Mythical Beings and Magical Creatures:** Mythical beings and creatures abound in this world. Djinns, with their immense power and wish-granting abilities, share the stage with powerful sorcerers and wizards wielding arcane magic. Legendary beasts such as rocs, ghuls, and marids challenge adventurers, while talking animals and shape-shifting creatures add whimsy and danger. Enchanted objects and artifacts with magical properties lie hidden, waiting to be discovered.
+- **Diverse Cultures and Influential Figures:** This is a land shaped by many tongues and traditions. Arabic, Persian, and Turkish influences mingle in its architecture, music, and manners. Nomadic desert tribes live by ancestral codes, expert in survival and wary of outsiders. Merchant caravans thread the trade roads like lifeblood, linking distant cities and remote settlements. Within marble palaces, sultans and viziers plot, entertain, and rule with absolute splendor. And all the while, poets, artisans, and scholars breathe life into the arts, while mystics and sorcerers walk a line between revered wisdom and feared power.
 
-**Thrilling Adventures and Quests:** Fantastical adventures and quests are at the heart of *Arabian Nights Adventures*. Characters embark on perilous journeys across vast deserts and treacherous lands, explore ancient ruins to uncover lost treasures, and navigate the intricate webs of palace intrigue and political machinations. Encounters with powerful sorcerers lead to battles of wits and magic, while the search for legendary artifacts and relics drives many a tale. Ancient mysteries and intricate riddles provide endless opportunities for adventure.
+- **Mythical Beings and Magical Creatures** From the stories told by campfire and court come beings of wonder and dread. Djinns — beings of smokeless fire — hold the power to reshape fate, but their boons are never without danger. Rocs blot out the sun with their wings; marids command the ocean depths; ghuls prowl graveyards, craving flesh. Talking animals offer cryptic advice, shape-shifters blur the lines between forms, and arcane artifacts whisper to those who dare touch them. Every tale warns: nothing is as it seems, and every creature has its price.
 
-**Magic and Mysticism:** Magic and mysticism are pervasive, with powerful arcane magic and spellcasting being central elements. Divination and fortune-telling practices reveal the future, while alchemical experiments seek to unlock the secrets of immortality. Ancient rituals and incantations, along with mystical orders and secret societies, add depth to the mystical landscape.
+- **Thrilling Adventures and Quests** Adventurers cross scorching sands, sail perilous seas, and brave cursed tombs in search of glory and truth. They face riddles older than kings, bargain with spirits, and challenge cunning viziers in courts filled with danger. Some seek lost relics of unimaginable power; others unravel family secrets, escape wrongful fates, or fight for justice in a world where power often lies hidden behind a veil. Every quest is a story waiting to be told, and every story might just reshape the world.
 
-**Intrigue and Espionage:** Intrigue and espionage thrive in the shadows, where palace intrigues and political machinations are commonplace. Assassins and thieves' guilds operate alongside spies and double agents, all entangled in conspiracy theories and hidden agendas. Treacherous plots and betrayals keep the tension high.
+- **Magic and Mysticism** Magic permeates every layer of life — sometimes openly, sometimes hidden behind ritual and superstition. Arcane spellcasting reshapes reality, while diviners read fates in stars and sand. Alchemists pursue forbidden transformations, and mystics recite incantations passed down from ages beyond memory. Hidden orders preserve sacred texts, guard dangerous truths, and train those who would wield the unseen. Magic in this world is potent, but its costs are often steep, and its paths rarely straight.
 
-**Vibrant Trade and Commerce:** Trade and commerce are vital to the setting's economy. Merchant caravans navigate trade routes laden with exotic goods and valuable commodities. Skilled negotiation and bargaining are essential for success, with merchant guilds wielding significant economic power. Piracy and banditry on trade routes present constant threats.
+- **Intrigue and Espionage** Behind silk curtains and behind-the-scenes alliances, power shifts like sand in the wind. Palaces are rife with secret deals, assassinations, and spies playing dangerous games. Thieves' guilds, rival factions, and hidden sects vie for control of cities, secrets, and souls. In this world, a dagger may serve better than a sword, and a whispered word may cut deeper than steel. Deception, seduction, and cunning are tools as vital as strength or sorcery.
 
-**Flourishing Art and Culture:** Art and culture flourish, reflected in the exquisite calligraphy and intricate architectural patterns. Poetry and storytelling traditions are celebrated, while music and dance performances enliven social gatherings. Craftsmanship in metalwork, glassblowing, and textile weaving is highly prized, and elaborate cuisines featuring exotic spices tantalize the senses.
+- **Vibrant Trade and Commerce** Trade routes stretch like veins across the map, linking every city, caravanserai, and seaport. Spices, silks, gems, and magical curiosities fill the markets, where haggling is an art and reputation is coin. Merchant guilds hold vast influence, sometimes eclipsing royal courts. But where there is wealth, there is danger: pirates stalk the coasts, and bandits lie in wait among the dunes. Commerce is both livelihood and battlefield.
 
-**Folklore and Mythology:** Elements from folklore and mythology permeate the setting. Themes and motifs from Middle Eastern folklore and legends, elements from the Quran and Islamic mythology, and influences from Persian, Turkish, and other regional mythologies enrich the narrative. Ancient beliefs and superstitions are explored, adding layers of depth and mystery to the world of *Arabian Nights Adventures*.
+- **Flourishing Art and Culture** Culture thrives in every gesture, every poem, every dish. Walls bloom with calligraphy and sacred geometry, while minstrels recite verses that move the heart and sharpen the mind. Music and dance are not merely entertainment, but expressions of joy, rebellion, or mourning. Master artisans forge works that outlast dynasties, and storytellers shape how history remembers the past. Even meals are an art — feasts filled with layered spices, golden fruits, and stories served with each dish.
+
+- **Folklore and Mythology** The old tales are never far from reality. Spirits dwell in wells and trees, and the stars whisper secrets to those who listen. The Quran and other sacred texts inspire visions and magic; Persian and Turkish myths add layers of trickery, valor, and divine interference. Every village has a legend, every ruin a curse, and every family a story passed from grandmother to grandchild. Whether these tales serve as warnings, blessings, or challenges — that is for the adventurer to discover.
 
 ### Playable Themes
 
@@ -80,17 +81,13 @@ Most of all: **play generously**, with an open heart and a reflective mind.
 
 The world of *Arabian Nights Adventures* is not bound by a strict historical timeline. Instead, it draws inspiration from a rich mosaic of legends, cultural memories, and literary traditions that span centuries and empires. Use these broad timeframes to guide the flavor and tone of your stories — or blend them freely to create something entirely your own.
 
-#### **Mythic Antiquity**
-A time before time, when spirits walked openly and ancient deities still received offerings beneath the stars. The world is shaped by heroic epics, desert myths, and whispered tales passed from campfire to caravan. Magic is raw and wild, cities are few and far between, and the stories feel like dreams on the edge of memory.
+- **Mythic Antiquity:** A time before time, when spirits walked openly and ancient deities still received offerings beneath the stars. The world is shaped by heroic epics, desert myths, and whispered tales passed from campfire to caravan. Magic is raw and wild, cities are few and far between, and the stories feel like dreams on the edge of memory.
 
-#### **Golden Age of Knowledge**
-Inspired by the heights of intellectual and artistic achievement across the Islamic world, this is an age of libraries, observatories, and wonder. Cities like Baghdad and Samarkand shine as beacons of learning. Scholars debate the nature of the stars, poets compose verses that move the heart, and magical sciences flourish in secret chambers.
+- **Golden Age of Knowledge:** Inspired by the heights of intellectual and artistic achievement across the Islamic world, this is an age of libraries, observatories, and wonder. Cities like Baghdad and Samarkand shine as beacons of learning. Scholars debate the nature of the stars, poets compose verses that move the heart, and magical sciences flourish in secret chambers.
 
-#### **Dynasties and Intrigue**
-The world is ruled by powerful sultans, cunning viziers, and secretive guilds. Palaces teem with politics and plots. Trade routes weave gold and silk through deserts and over seas. This is an age of human drama — of betrayals, forbidden love, power struggles, and the constant shadow of magic.
+- **Dynasties and Intrigue:** The world is ruled by powerful sultans, cunning viziers, and secretive guilds. Palaces teem with politics and plots. Trade routes weave gold and silk through deserts and over seas. This is an age of human drama — of betrayals, forbidden love, power struggles, and the constant shadow of magic.
 
-#### **Age of Voyages**
-Adventurers cross distant lands and uncharted waters. Merchant fleets sail toward unknown shores. Strange islands drift on the horizon, and old maps whisper of lost cities and buried treasures. This is an age of exploration, where every journey is a leap into the unknown — and every discovery comes with a price.
+- **Age of Voyages:** Adventurers cross distant lands and uncharted waters. Merchant fleets sail toward unknown shores. Strange islands drift on the horizon, and old maps whisper of lost cities and buried treasures. This is an age of exploration, where every journey is a leap into the unknown — and every discovery comes with a price.
 
 ## Characters
 
@@ -99,8 +96,8 @@ In *Arabian Nights Adventures*, Non-Playing Characters (NPCs), Foes, Organizatio
 Your Protagonist is described by some fixed traits:
 
 - **Name**: The name should be iconic and consistent with the tone and setting of the story.
-- **Concept**: A concise description of the character's profession, background, and abilities. The best are adjective-name pairings, like *"Venturous Smuggler"* or *"Child Prodigy"*.
-- **Skills** (x2): Abilities not necessarily character-specific but not characteristics common to all. *"Smart"* is not a skill, *"Engine Whisperer"* is.
+- **Concept**: A concise description of the character's profession, background, and abilities. The best are adjective-name pairings, like *“Cunning Vizier”*, *“Desert Wanderer”*, *“Disgraced Prince”*, or *“Moon-Touched Oracle”*.
+- **Skills** (x2): Abilities not necessarily character-specific but not characteristics common to all. *"Smart"* is not a skill, *"Silver-Tongued Merchant"* is.
 - **Frailty**: Something that could potentially get in the way of the character, either physically, mentally, or socially.
 - **Gear** (x2): Particular equipment supplied to the character in coherence with the setting. Everyday items are taken for granted and do not fall under this trait.
 - **Goal**: The long-term objective.
@@ -120,47 +117,47 @@ You can use these traits to create a character on the fly, mix them, or just use
 
 #### Concepts
 
-|     | 1           | 2             | 3          | 4          | 5           | 6           |
-| --- | ----------- | ------------- | ---------- | ---------- | ----------- | ----------- |
-| 1   | Scholar     | Merchant      | Warrior    | Sorcerer   | Explorer    | Mystic      |
-| 2   | Thief       | Diplomat      | Nomad      | Alchemist  | Artisan     | Poet        |
-| 3   | Seer        | Navigator     | Healer     | Bard       | Smith       | Dancer      |
-| 4   | Spy         | Shadowblade   | Herbalist  | Teacher    | Calligrapher| Guard       |
-| 5   | Trader      | Sailor        | Monk       | Messenger  | Courtier    | Outcast     |
-| 6   | Pilgrim     | Farmer        | Hunter     | Philosopher| Juggler     | Priest      |
+|     | 1                   | 2                   | 3                  | 4                   | 5                   | 6                   |
+| --- | ------------------- | ------------------- | ------------------ | ------------------- | ------------------- | ------------------- |
+| 1   | Desert Wanderer      | Cunning Vizier       | Star-Touched Seer   | Masked Assassin      | Whispering Alchemist | Sandborn Mystic     |
+| 2   | Exiled Prince        | Moonlight Dancer     | Saffron Merchant    | Spirit-Talker        | Wandering Poet       | Fire-Eyed Blacksmith|
+| 3   | Veiled Courtesan     | Fortune-Hungry Thief | Snake-Charmed Healer| Caravan Guard        | Glassblower of Secrets | Desert Falconer   |
+| 4   | Oracle of the Oasis  | Spell-Cursed Outcast | Shadow-Walker       | Wandering Dervish    | Mirror-Wise Philosopher | Tamer of Roc Hatchlings |
+| 5   | Sand-Scribe          | Wind-Blessed Nomad   | Pearl Diver         | Story-Hunter         | Palace Juggler       | Keeper of Forgotten Names |
+| 6   | Stormbound Sailor    | Blood-Bound Sorcerer | Jewel-Eyed Artisan  | Dream-Driven Prophet | Laughing Duelist     | Pilgrim of the Mirage |
 
 #### Skills
 
-|     | 1           | 2             | 3              | 4          | 5           | 6           |
-| --- | ----------- | ------------- | -------------- | ---------- | ----------- | ----------- |
-| 1   | Swordplay   | Archery       | Stealth        | Persuasion | Navigation  | Medicine    |
-| 2   | Alchemy     | Survival      | Diplomacy      | Deception  | Investigation| Artistry    |
-| 3   | Magic       | Acrobatics    | Craftsmanship  | Tactics    | Linguistics | Cooking     |
-| 4   | Healing     | Music         | Storytelling   | Astrology  | Tracking     | Horse Riding|
-| 5   | Engineering | Sailing       | Reading        | Writing    | History      | Geography   |
-| 6   | Astronomy   | Animal Handling| Trading       | Hunting    | Herbology    | Riddlecraft |
+|     | 1                   | 2                      | 3                     | 4                     | 5                     | 6                     |
+| --- | ------------------- | ---------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
+| 1   | Whirling Blade Dancer | Sandstep Sneak          | Silver-Tongued Charmer | Celestial Navigator     | Potion-Brewer         | Oasis Healer          |
+| 2   | Smoke and Mirror Tricks | Desert Survivalist     | Whispered Negotiator   | Shadowed Infiltrator   | Truth-Seeker          | Master of Miniatures  |
+| 3   | Djinn-Bound Spellwork | Fire-Juggler’s Grace    | Story-Weaver           | Tactician of the Bazaar| Tongue of Many Lands  | Feast-Table Savant    |
+| 4   | Song of Soothing Winds| Oud Virtuoso            | Tale-Spinning Orator   | Sky-Chart Reader       | Beast-Way Tracker     | Horse Whisperer       |
+| 5   | Relic Engineer        | Starbound Sailor        | Ink-Stained Archivist  | Calligraphy of Secrets | Chronicler of Dynasties| Cartographer of the Lost |
+| 6   | Stargazer of Omens    | Beast Handler of the Sands | Marketwise Trader    | Falcon-Eyed Hunter     | Herb-Lore Gatherer    | Riddle-Cracker         |
 
 #### Frailties
 
-|     | 1           | 2             | 3              | 4            | 5           | 6              |
-| --- | ----------- | ------------- | -------------- | ------------ | ----------- | -------------- |
-| 1   | Greedy      | Cowardly      | Arrogant       | Impulsive    | Gullible    | Naive          |
-| 2   | Envious     | Lazy          | Hot-tempered   | Stubborn     | Shy         | Reckless       |
-| 3   | Vain        | Unreliable    | Superstitious  | Distrustful  | Proud       | Vengeful       |
-| 4   | Forgetful   | Anxious       | Pessimistic    | Melancholic  | Insecure    | Suspicious     |
-| 5   | Hypocritical| Jealous       | Nervous        | Moody        | Selfish     | Easily Distracted|
-| 6   | Overconfident| Gluttonous   | Secretive      | Overcurious  | Careless    | Obsessive      |
+|     | 1                      | 2                      | 3                        | 4                       | 5                       | 6                         |
+| --- | ---------------------- | ---------------------- | ------------------------ | ----------------------- | ----------------------- | ------------------------- |
+| 1   | Gold-Lust              | Trembles Before Blades | Proud Beyond Reason      | Rash Tongue             | Easily Fooled by Charm  | Stranger to Deceit         |
+| 2   | Green-Eyed for Glory   | Sleeps While the Sun Rises | Fire-Tempered Soul   | Unyielding in Belief    | Soft Voice in Conflict  | Rider of Risk             |
+| 3   | Mirror-Obsessed        | Vows Broken Like Twigs | Haunted by Omens         | Trusts No One           | Hungers for Praise      | Vows Revenge Too Quickly  |
+| 4   | Forgets Sacred Details | Fear of Being Forgotten| Sees Shadows in Faces    | Melancholy Moon-Gazer   | Confidence Crumbles in Silence | Hears Secrets in Silence |
+| 5   | Tongue Forked in Prayer| Lover of Rival’s Fortune| Shakes Before Crowds     | Heart Tossed by the Winds| Grasper of All, Keeper of None | Mind Adrift in Wonder |
+| 6   | Too Sure of Fate       | Feeds When He Should Fast | Walled in Secrets     | Hungers for Forbidden Truth | Breaker of Rituals     | Fixates on the Impossible |
 
 #### Gear
 
-|     | 1           | 2             | 3          | 4          | 5           | 6           |
-| --- | ----------- | ------------- | ---------- | ---------- | ----------- | ----------- |
-| 1   | Magic Lamp  | Enchanted Sword| Compass    | Healing Herbs| Fine Robe | Ancient Scroll|
-| 2   | Dagger      | Amulet        | Map        | Musical Instrument| Book | Potion      |
-| 3   | Lockpicks   | Jewelry       | Spyglass   | Magical Ring| Lantern    | Writing Tools|
-| 4   | Bow         | Arrow         | Tent       | Water Flask | Backpack   | Shield      |
-| 5   | Sandals     | Rug           | Coin Purse | Firestarter | Rope       | Food Rations|
-| 6   | Saddle      | Horse         | Talisman   | Cloak       | Mirror     | Chess Set   |
+|     | 1                   | 2                   | 3                  | 4                   | 5                    | 6                   |
+| --- | ------------------- | ------------------- | ------------------ | ------------------- | -------------------- | ------------------- |
+| 1   | Polished oil lamp   | Curved short sword  | Brass compass      | Pouch of dried herbs| Embroidered robe     | Rolled parchment    |
+| 2   | Slim-bladed dagger  | Worn leather amulet | Hand-drawn map     | Wooden oud          | Small prayer book    | Clay potion vial    |
+| 3   | Bone lockpicks      | Silver earrings     | Small spyglass     | Bronze ring         | Paper lantern        | Ink and reed pen    |
+| 4   | Shortbow and quiver | Simple arrows       | Folded tent cloth  | Water skin          | Woven satchel        | Round wooden shield |
+| 5   | Sand-wrapped sandals| Rolled travel rug   | Stringed coin purse| Flint and steel     | Coiled rope          | Pack of dry food    |
+| 6   | Worn saddle         | Sturdy desert horse | Carved talisman    | Plain travel cloak  | Palm-sized mirror    | Painted game board  |
 
 ### Names
 
@@ -286,66 +283,69 @@ Making a wish is never just a roll. It is a **negotiation with the unknown**.
 
 Instead of just Yes/No, use this twist table:
 
-**Wish Complications (roll 1d6):**
-1. The wish is granted… but too literally.  
-2. A secret price must be paid — later.  
-3. The Djinn interprets it with irony.  
-4. Someone else benefits instead.  
-5. The wish warps fate — a thread of the world is pulled loose.  
-6. It works perfectly… for now.
+| D6  | Wish Complications                                           |
+| --- | ------------------------------------------------------------ |
+| 1   | The wish is granted… but too literally.                      |
+| 2   | A secret price must be paid — later.                         |
+| 3   | The Djinn interprets it with irony.                          |
+| 4   | Someone else benefits instead.                               |
+| 5   | The wish warps fate — a thread of the world is pulled loose. |
+| 6   | It works perfectly… for now.                                 |
 
 > **Note:** Negotiating with Djinn is a scene — not a spell. Give them names, moods, and grudges. Treat each wish like a fable in the making.
-
----
 
 ### Desert Survival
 
 Crossing the desert isn’t about rolling for rations — it’s about *what happens when the sun burns your path away*.
 
 Use a **Desert Journey Clock** with four segments:
+
 - Fill a segment for every setback (bad Oracle roll, sandstorm, lost supplies, etc.).
 - When full: something breaks — the caravan splinters, a guide vanishes, a mirage leads you astray.
 
 On a strong Oracle result, instead mark **Desert Gifts**:
+
 - An oasis with ancient writing.
 - A caravan in need (or offering help).
 - Strange lights in the distance.
 
-**Desert Perils (roll 1d6):**
-1. Sandstorm hides a ruin.  
-2. A guide lies — or is possessed.  
-3. Water turns brackish.  
-4. You hear music in the dunes.  
-5. Something follows.  
-6. You arrive... but somewhere wrong.
+| D6  | Desert Perils                      |
+| --- | ---------------------------------- |
+| 1   | Sandstorm hides a ruin.            |
+| 2   | A guide lies — or is possessed.    |
+| 3   | Water turns brackish.              |
+| 4   | You hear music in the dunes.       |
+| 5   | Something follows.                 |
+| 6   | You arrive... but somewhere wrong. |
 
 > **Tip:** Keep journeys short — but make each one *matter*. The desert is memory, illusion, and ordeal.
-
----
 
 ### Palace Intrigue
 
 Every court is a stage, and every noble plays two roles: one in daylight, one in whispers.
 
 When entering a court, define:
+
 - **Whispers**: What rumors swirl about the PCs?
 - **Factions**: Who vies for influence? What do they want?
 - **Secrets**: What forbidden truth hangs in the air, waiting?
 
 Each intrigue scene can earn:
+
 - **Favor** (used to gain invitations, protections, gifts)  
 - **Scandal** (used *against* the PCs by others)  
 - **Leverage** (a secret, a debt, a blackmailable detail)
 
 Use the Oracle for maneuvers — but always ask: *What will it cost to succeed?*
 
-**Intrigue Complications (roll 1d6):**
-1. An ally turns out to be a spy.  
-2. A love letter is misdelivered.  
-3. A masked figure offers a deal.  
-4. You're invited… but into a trap.  
-5. A gift holds a hidden message.  
-6. The prince's twin returns from exile.
+| D6  | Intrigue Complications                |
+| --- | ------------------------------------- |
+| 1   | An ally turns out to be a spy.        |
+| 2   | A love letter is misdelivered.        |
+| 3   | A masked figure offers a deal.        |
+| 4   | You're invited… but into a trap.      |
+| 5   | A gift holds a hidden message.        |
+| 6   | The prince's twin returns from exile. |
 
 > **Caution:** Don't play intrigue like combat — play it like *poetry with knives*.
 
@@ -405,62 +405,84 @@ Also update the list of **NPCs**, **Locations**, and **Events** that may show up
 
 ## Exploring the World
 
-In *Arabian Nights Adventures*, exploration is not just travel — it is transformation. The world unfolds like a tapestry of stories stitched by wind, sand, and starlight. Every journey is a tale in the making, every map a whisper of what once was — or might still be.
+In *Arabian Nights Adventures*, a journey is never just a means to an end. It is a thread in the great tapestry of fate — filled with trials, wonder, and transformation. Whether gliding over the dunes on a flying carpet, braving the sea’s moods, or crossing the scorched belly of the desert, travel is the lifeblood of every tale.
 
-### Preparing the Journey
+All journeys follow three essential phases: **Preparation**, **The Journey**, and **Arrival**.
 
-Before setting out, ask: *What draws you toward the horizon?*
+### 1. Preparation
 
-- **Define Your Destination**: Choose a place — perhaps marked on your map, perhaps drawn from a dream. Or let the Oracle reveal a rumor, a name, a riddle.
-- **Choose Your Mode of Travel**: Will you walk, fly, or sail? Each path speaks in its own tongue.
-- **Gather Supplies**: You carry not just rations, but hopes. Pack accordingly.
+Before setting off, you must determine where you are going, how you plan to get there, and how well equipped you are to face the unknown.
 
-### Paths Through the Unknown
+- **Choose Your Destination:** Pick a known location, draw inspiration from a tale, or roll on the Oracle for a vague direction, rumor, or omen.  
+  > *"Is it hidden by magic?"*  
+  > *"Is it guarded by a dangerous creature?"*
+
+- **Gather Your Supplies:** Supplies include water, food, charms, and travel tools. Note Tags such as *“Sack of Rations”*, *“Blessed Water Flask”*, or *“Talisman Against Sand Spirits”*. Roll the Oracle to determine your preparedness:  
+  - **Yes, and...**: Your gear is flawless, and you gain a bonus item or insight.  
+  - **Yes**: You're ready and well-stocked.  
+  - **Yes, but...**: You're mostly prepared, but something is flawed or missing.  
+  - **No, but...**: You lack key items, but find makeshift substitutes.  
+  - **No**: Your preparations fall short, putting you at risk.  
+  - **No, and...**: A mistake in planning brings misfortune before departure.
+
+### 2. The Journey
+
+The nature of the journey changes based on how you travel — each mode has its own challenges and procedures. Pick your path, and follow its rules.
 
 #### Desert Crossing
 
-The desert does not guide — it tests.
+The desert is a trial of endurance and faith. Its winds carry whispers, and its paths shift like memory.
 
-- **Navigation Roll**: Roll 1d6. On a 4+, you remain on course. On 3 or less, consult the Desert Encounters table — the dunes have other plans.
-- **Weather Roll**: Every 1d6 hours, roll. On 1–2, face scorching winds, storms, or omens in the sky.
-- **Scouting Roll (optional)**: Before resting or approaching a place, roll 1d6. On a 4+, gain insight. On 3 or less, danger hides behind a dune.
+- **Navigation Roll:** Roll 1d6 to determine if you stay on course. On a 4+, you make good progress. On 3 or less, consult the **Desert Encounters** table.
 
-> *Tip:* The desert offers no paths — only decisions.
+- **Weather Roll:** Every 1d6 hours of travel, roll again. On a 1–2, you encounter a weather event: sandstorm, scorching heat, or a mirage.
+
+- **Foraging & Water:** If your water or rations run low, roll the Oracle to forage or dig for a hidden spring.  
+  - Success may uncover *“Salt-kissed Well”* or *“Palm Fruit Cache”*.  
+  - Failure may trigger *“Dehydration”*, *“Scorpion Nest”*, or *“False Oasis”*.
+
+- **Rest & Shelter:** Before resting, you may attempt a **Scouting Roll** (1d6). On 4+, you find a safe dune hollow or shade. On 3 or less, you risk exposure or unwanted visitors.
 
 #### Magic Carpet Flight
 
-The sky is a fickle road, and the wind remembers old grudges.
+Flight is the privilege of the enchanted — but the sky is no gentler than the land.
 
-- **Flight Roll**: Roll 1d6. On 4+, your carpet obeys. On 3 or less, consult the Magic Carpet Encounters — something stirs in the clouds.
-- **Wind Roll**: Every 1d6 hours, roll. On 1–2, a storm rises, or the wind turns hostile.
-- **Landing Roll (optional)**: Before descent, roll 1d6. On 4+, you land smoothly. On 3 or less, the earth greets you with surprises.
+- **Flight Roll:** Roll 1d6. On 4+, the carpet obeys smoothly. On 3 or less, consult the **Magic Carpet Encounters** table. Expect wind spirits, air beasts, or vertiginous magic.
 
-> *Note:* A carpet may know more than its rider — listen to its tremble.
+- **Wind Roll:** Every 1d6 hours, roll to test the wind. On 1–2, you hit strong turbulence or stray currents.
+
+- **Landing Roll:** (optional) Before descent, roll 1d6. On 4+, you land smoothly. On 3 or less, there's risk — loose stones, enemies nearby, or the carpet falters.
+
+- **Carpet Condition:** If overused or mistreated, a carpet may gain a Tag like *“Fraying Threads”* or *“Bound Djinn Displeased”*.
 
 #### Sea Voyage
 
-The sea speaks in moods, not directions.
+The sea offers no certainty — it merely allows passage. Sometimes.
 
-- **Navigation Roll**: Roll 1d6. On 4+, you hold your heading. On 3 or less, roll on the Sea Encounters — something surfaces.
-- **Weather Roll**: Every 1d6 hours, roll. On 1–2, storms churn the water or fog hides the stars.
-- **Port Roll (optional)**: Before arriving, roll 1d6. On 4+, a safe harbor opens. On 3 or less, the docks hold danger or debt.
+- **Navigation Roll:** Roll 1d6. On 4+, you hold your heading. On 3 or less, consult the **Sea Encounters** table. You may drift into reefs, pirates, or singing whirlpools.
 
-> *Tip:* A calm sea hides more secrets than a roaring one.
+- **Weather Roll:** Every 1d6 hours, roll. On a 1–2, storms strike, fog rolls in, or waves batter the hull.
 
-### When You Arrive
+- **Supplies & Crew:** If traveling with a crew or passengers, use Tags to track morale and provisions. Examples: *“Fresh Casks”*, *“Mutinous Whispering”*, *“Sea-Sickness”*.
 
-Upon reaching your destination, do not simply “arrive.” Let the place reveal itself. Use the Oracle or your imagination:
+- **Port Approach Roll:** Before arriving, roll 1d6. On 4+, you are welcomed or dock safely. On 3 or less, expect trouble — dock fees, curses, or rivals awaiting.
 
-- A city of bronze towers under a sleeping curse  
-- A ruined shrine whose walls echo with forgotten prayers  
-- A valley where shadows move against the wind
+### 3. Arrival
 
-What dangers wait? What gifts lie buried? What stories will be born here?
+Arrival is never just “getting there” — it’s what happens next that counts.
 
-> *Reminder:* Exploration is not a way to get somewhere. It is a way to **become someone** new.
+**Discovery Roll (Oracle):** Let the Oracle guide how the location reveals itself:
 
+  - **Yes, and...**: You find more than expected — treasure, allies, answers.
+  - **Yes**: The location is just as expected — challenging, but navigable.
+  - **Yes, but...**: It matches your vision — but something is wrong, missing, or cursed.
+  - **No, but...**: It is not what you expected, but offers a new lead or twist.
+  - **No**: You were misled — nothing remains of what you sought.
+  - **No, and...**: The place is dangerous, occupied, or cursed.
 
-## Setting Information
+## The Lands of the Crescent Realms
+
+From the golden domes of ancient cities to the shifting dunes that swallow forgotten empires, the Crescent Realms stretch across a vast and storied world. This is a land where myth and memory intertwine, where trade routes cross paths with magic, and where every oasis, mountain pass, and market stall hums with tales waiting to unfold.
 
 ### Geography
 
@@ -512,23 +534,17 @@ The world of *Arabian Nights Adventures* is shaped by a diverse and layered mix 
 
 #### Cultural Currents
 
-**A Confluence of Traditions**  
-The setting blends influences from Arabic, Persian, and Turkish cultures, reflected in language, art, music, architecture, and daily life. Cities may be known for their poetic schools, geometric tilework, or traditions of hospitality. These cultures coexist, sometimes blending fluidly, sometimes holding to their distinct ways — a shared world built from different paths.
+- **A Confluence of Traditions:** The setting blends influences from Arabic, Persian, and Turkish cultures, reflected in language, art, music, architecture, and daily life. Cities may be known for their poetic schools, geometric tilework, or traditions of hospitality. These cultures coexist, sometimes blending fluidly, sometimes holding to their distinct ways — a shared world built from different paths.
 
-**Desert Tribes**  
-Nomadic communities move with the seasons, guided by their knowledge of the land and sky. Their customs are deeply tied to the rhythm of the desert — storytelling, oral law, hospitality, and ancestral memory define their way of life. While some remain isolated, others act as guides, scouts, or traders.
+- **Desert Tribes:** Nomadic communities move with the seasons, guided by their knowledge of the land and sky. Their customs are deeply tied to the rhythm of the desert — storytelling, oral law, hospitality, and ancestral memory define their way of life. While some remain isolated, others act as guides, scouts, or traders.
 
-**Merchant Caravans**  
-Caravans are the lifeblood of long-distance trade and cultural exchange. They carry not only goods — spices, fabrics, gems — but also news, songs, and knowledge. Caravan leaders often serve as diplomats or informants, maintaining vast networks of allies and contacts across regions.
+- **Merchant Caravans:** Caravans are the lifeblood of long-distance trade and cultural exchange. They carry not only goods — spices, fabrics, gems — but also news, songs, and knowledge. Caravan leaders often serve as diplomats or informants, maintaining vast networks of allies and contacts across regions.
 
-**Courts and Councils**  
-Power is concentrated in the hands of sultans, governors, and influential viziers. Their courts range from austere halls to ornate palaces, often acting as political, intellectual, and artistic centers. Some courts are known for their tolerance and patronage; others are riddled with rivalry and secret agendas.
+- **Courts and Councils:** Power is concentrated in the hands of sultans, governors, and influential viziers. Their courts range from austere halls to ornate palaces, often acting as political, intellectual, and artistic centers. Some courts are known for their tolerance and patronage; others are riddled with rivalry and secret agendas.
 
-**Artisans, Scholars, and Poets**  
-The creative and intellectual life of the region is vibrant. Artisans craft metalwork, textiles, and ceramics with extraordinary skill. Scholars pursue astronomy, medicine, law, and philosophy. Poets compose in public squares or court salons, their verses shaping public opinion and preserving local values.
+- **Artisans, Scholars, and Poets:** The creative and intellectual life of the region is vibrant. Artisans craft metalwork, textiles, and ceramics with extraordinary skill. Scholars pursue astronomy, medicine, law, and philosophy. Poets compose in public squares or court salons, their verses shaping public opinion and preserving local values.
 
-**Mystics and Magicians**  
-Across the land, mystics pursue spiritual insight through prayer, ritual, or isolation. Sorcerers, meanwhile, study forgotten languages, hidden books, or forge pacts with otherworldly beings. Whether revered or feared, they are often consulted in times of crisis — or blamed when things go wrong.
+- **Mystics and Magicians:** Across the land, mystics pursue spiritual insight through prayer, ritual, or isolation. Sorcerers, meanwhile, study forgotten languages, hidden books, or forge pacts with otherworldly beings. Whether revered or feared, they are often consulted in times of crisis — or blamed when things go wrong.
 
 ### Trade and Commerce
 
@@ -545,6 +561,7 @@ Some routes are ancient and well-mapped; others shift with the seasons, alliance
 Markets range from sprawling urban bazaars to dusty roadside stalls. They offer more than goods — they’re theaters of interaction, places to gather news, forge alliances, or lose a coin purse if you're not careful.
 
 Common wares include:
+
 - Spices and incense  
 - Fine silks and woven tapestries  
 - Polished gems, jewelry, and coins  
@@ -616,6 +633,7 @@ Mysticism, too, runs deep — offering wisdom, transformation, and danger to tho
 Magic is elusive and rarely taught in the open. Those who cast spells — whether sorcerers, hedge-wizards, or hermits — often learn from lost manuscripts, obscure traditions, or whispered guidance from beings beyond understanding.
 
 Magic may:
+
 - Shape wind or flame
 - Banish spirits or summon them
 - Bind illusions to silence or light
@@ -627,6 +645,7 @@ But no spell is without cost, and few trust the spellcaster who smiles too often
 Across the region, people turn to **diviners** for guidance — not just in times of crisis, but in the rhythm of daily life. A star reader might guide a sultan’s war. A dream interpreter might warn a village elder. A quiet woman in the market might draw symbols in sand that change someone’s fate.
 
 Common methods include:
+
 - Reading the stars and planets
 - Casting marked stones or bones
 - Interpreting dreams or omens
@@ -639,6 +658,7 @@ Some diviners work alone. Others belong to quiet schools, often attached to shri
 Alchemy is the study of change — in matter, in self, in spirit.
 
 Alchemists mix science, myth, and magic in search of:
+
 - Elixirs of healing or long life
 - Liquids that transmute one substance into another
 - Powders that alter memory, vision, or voice
@@ -648,6 +668,7 @@ Their labs are cluttered with glassware, scrolls, and controlled chaos. Success 
 ### Ritual and Inheritance
 
 Many magical practices are passed down — family to child, order to initiate, master to apprentice. These rituals might involve:
+
 - Protective charms made from knots or ink
 - Songs that call rain or sleep
 - Offerings left for desert spirits
@@ -662,6 +683,7 @@ Some groups protect magical knowledge. Others exploit it.
 Mystical orders may be tied to temples, old bloodlines, or vanished civilizations. Some are respected. Others work in shadows, their symbols marked in alleyways or sewn into clothing.
 
 They gather for:
+
 - Silent ceremonies
 - The study of forbidden texts
 - Influence over political or spiritual affairs
@@ -776,7 +798,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 
 ## Creatures & Foes
 
-### Assassin Cult
+### 11. Assassin Cult
 - **Concept**: Secretive Group of Killers
 - **Skills**: Stealth, Poison Mastery
 - **Frailty**: Distrustful of Outsiders
@@ -785,7 +807,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Survival and Profit
 - **Nemesis**: Palace Guards
 
-### Basilisk
+### 12. Basilisk
 - **Concept**: Deadly Reptilian Beast
 - **Skills**: Petrifying Gaze, Venomous Bite
 - **Frailty**: Vulnerable to Mirrors
@@ -794,7 +816,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Instinct
 - **Nemesis**: Heroic Adventurers
 
-### Buraq
+### 13. Buraq
 - **Concept**: Celestial Steed
 - **Skills**: Flight, Swift Travel
 - **Frailty**: Bound to Sacred Duty
@@ -803,7 +825,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Divine Command
 - **Nemesis**: Dark Sorcerers
 
-### Cyclops
+### 14. Cyclops
 - **Concept**: One-Eyed Giant
 - **Skills**: Incredible Strength, Craftsmanship
 - **Frailty**: Poor Depth Perception
@@ -812,7 +834,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Greed
 - **Nemesis**: Clever Heroes
 
-### Desert Troll
+### 15. Desert Troll
 - **Concept**: Sand-Dwelling Brute
 - **Skills**: Regeneration, Burrowing
 - **Frailty**: Weak to Fire
@@ -821,7 +843,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Survival
 - **Nemesis**: Fire-Wielding Warriors
 
-### Desert Wurm
+### 16. Desert Wurm
 - **Concept**: Massive Sand Serpent
 - **Skills**: Burrowing, Sandstorm Creation
 - **Frailty**: Sensitivity to Vibrations
@@ -830,7 +852,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Hunger
 - **Nemesis**: Experienced Hunters
 
-### Djinn (Genie)
+### 21. Djinn (Genie)
 - **Concept**: Powerful Spirit
 - **Skills**: Wish Granting, Shape-shifting
 - **Frailty**: Bound to Lamp
@@ -839,7 +861,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Seek Freedom
 - **Nemesis**: Lamp Holder
 
-### Efreet Sultan
+### 22. Efreet Sultan
 - **Concept**: Ruler of Fire Spirits
 - **Skills**: Fire Manipulation, Commanding Efreet
 - **Frailty**: Hubris
@@ -848,7 +870,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Power
 - **Nemesis**: Water Spirits
 
-### Gargoyle
+### 23. Gargoyle
 - **Concept**: Stone Guardian
 - **Skills**: Flight, Stone Transformation
 - **Frailty**: Vulnerable When in Stone Form
@@ -857,7 +879,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Duty
 - **Nemesis**: Desecrators
 
-### Ghoul
+### 24. Ghoul
 - **Concept**: Flesh-Eating Undead
 - **Skills**: Flesh Consumption, Enhanced Strength
 - **Frailty**: Sunlight Weakness
@@ -866,7 +888,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Unending Hunger
 - **Nemesis**: Holy Warriors
 
-### Ghul
+### 25. Ghul
 - **Concept**: Desert Demon
 - **Skills**: Shape-shifting, Illusion Creation
 - **Frailty**: Bound to Desert
@@ -875,7 +897,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Malice
 - **Nemesis**: Righteous Heroes
 
-### Hashshashin
+### 26. Hashshashin
 - **Concept**: Elite Assassin
 - **Skills**: Stealth, Poison Use
 - **Frailty**: Fanatical Loyalty
@@ -884,7 +906,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Serve Their Order
 - **Nemesis**: Royal Guards
 
-### Ifrit
+### 31. Ifrit
 - **Concept**: Malevolent Fire Spirit
 - **Skills**: Fire Control, Invisibility
 - **Frailty**: Bound to Earth
@@ -893,7 +915,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Malice
 - **Nemesis**: Water Spirits
 
-### Jackalopes
+### 32. Jackalopes
 - **Concept**: Mythical Rabbit-Antelope
 - **Skills**: Speed, Camouflage
 - **Frailty**: Small Size
@@ -902,7 +924,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Survival
 - **Nemesis**: Desert Predators
 
-### Jinn-Vampire
+### 33. Jinn-Vampire
 - **Concept**: Bloodsucking Spirit
 - **Skills**: Hypnosis, Shape-shifting
 - **Frailty**: Sunlight Vulnerability
@@ -911,7 +933,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Thirst
 - **Nemesis**: Vampire Hunters
 
-### Lamia
+### 34. Lamia
 - **Concept**: Serpentine Seductress
 - **Skills**: Hypnosis, Venomous Bite
 - **Frailty**: Vanity
@@ -920,7 +942,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Power
 - **Nemesis**: Holy Priests
 
-### Manticore
+### 35. Manticore
 - **Concept**: Monstrous Chimera
 - **Skills**: Poisoned Tail, Flight
 - **Frailty**: Prone to Rage
@@ -929,7 +951,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Hunger
 - **Nemesis**: Skilled Hunters
 
-### Marid
+### 36. Marid
 - **Concept**: Water Djinn
 - **Skills**: Water Control, Healing
 - **Frailty**: Bound to Water
@@ -938,7 +960,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Pride
 - **Nemesis**: Desert Nomads
 
-### Mirage Stalker
+### 41. Mirage Stalker
 - **Concept**: Illusory Predator
 - **Skills**: Illusion Creation, Stealth
 - **Frailty**: Dispelled by Wind
@@ -947,7 +969,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Hunger
 - **Nemesis**: Wind Spirits
 
-### Mummy Lord
+### 42. Mummy Lord
 - **Concept**: Undead Pharaoh
 - **Skills**: Necromancy, Curse Casting
 - **Frailty**: Vulnerable to Fire
@@ -956,7 +978,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Eternal Power
 - **Nemesis**: Tomb Raiders
 
-### Naga
+### 43. Naga
 - **Concept**: Serpentine Guardian
 - **Skills**: Venomous Bite, Water Control
 - **Frailty**: Cold Temperatures
@@ -965,7 +987,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Duty
 - **Nemesis**: Trespassers
 
-### Nephilim
+### 44. Nephilim
 - **Concept**: Giant Offspring of Angels
 - **Skills**: Immense Strength, Flight
 - **Frailty**: Pride
@@ -974,7 +996,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Righteousness
 - **Nemesis**: Fallen Angels
 
-### Peri
+### 45. Peri
 - **Concept**: Benevolent Spirit
 - **Skills**: Healing, Flight
 - **Frailty**: Pure Heart
@@ -983,7 +1005,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Compassion
 - **Nemesis**: Dark Sorcerers
 
-### Qareen
+### 46. Qareen
 - **Concept**: Doppelganger Spirit
 - **Skills**: Shape-shifting, Mind Reading
 - **Frailty**: Bound to One Person
@@ -992,7 +1014,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Bond
 - **Nemesis**: Host's Enemies
 
-### Rakshasa
+### 51. Rakshasa
 - **Concept**: Malevolent Shape-shifter
 - **Skills**: Illusion, Dark Magic
 - **Frailty**: Silver
@@ -1001,7 +1023,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Malice
 - **Nemesis**: Holy Warriors
 
-### Roc
+### 52. Roc
 - **Concept**: Giant Bird of Prey
 - **Skills**: Flight, Enormous Strength
 - **Frailty**: Large Size
@@ -1010,7 +1032,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Hunger
 - **Nemesis**: Sky Hunters
 
-### Roc Hatchling
+### 53. Roc Hatchling
 - **Concept**: Young Giant Bird
 - **Skills**: Rapid Growth, Keen Eyesight
 - **Frailty**: Inexperience
@@ -1019,7 +1041,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Survival
 - **Nemesis**: Predators
 
-### Sandling
+### 54. Sandling
 - **Concept**: Living Sand Creature
 - **Skills**: Sand Manipulation, Burrowing
 - **Frailty**: Water
@@ -1028,7 +1050,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Duty
 - **Nemesis**: Treasure Seekers
 
-### Sandstorm Elemental
+### 55. Sandstorm Elemental
 - **Concept**: Spirit of the Desert Storm
 - **Skills**: Wind Control, Sandstorm Creation
 - **Frailty**: Calm Conditions
@@ -1037,7 +1059,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Instinct
 - **Nemesis**: Desert Travelers
 
-### Scorpion Swarm
+### 56. Scorpion Swarm
 - **Concept**: Collective of Deadly Scorpions
 - **Skills**: Venomous Stings, Swarming
 - **Frailty**: Fire
@@ -1046,7 +1068,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Instinct
 - **Nemesis**: Fire-Wielders
 
-### Shaitan (Demon)
+### 61. Shaitan (Demon)
 - **Concept**: Malevolent Fire Demon
 - **Skills**: Fire Manipulation, Mind Control
 - **Frailty**: Holy Symbols
@@ -1055,7 +1077,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Evil
 - **Nemesis**: Holy Warriors
 
-### Simurgh
+### 62. Simurgh
 - **Concept**: Benevolent Mythical Bird
 - **Skills**: Healing, Prophecy
 - **Frailty**: Rare Appearances
@@ -1064,7 +1086,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Compassion
 - **Nemesis**: Dark Beasts
 
-### Sluagh
+### 63. Sluagh
 - **Concept**: Spirit of the Restless Dead
 - **Skills**: Shadow Manipulation, Soul Capture
 - **Frailty**: Sunlight
@@ -1073,7 +1095,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Eternal Restlessness
 - **Nemesis**: Light Bringers
 
-### Sphinx
+### 64. Sphinx
 - **Concept**: Guardian of Secrets
 - **Skills**: Riddle Mastery, Flight
 - **Frailty**: Hubris
@@ -1082,7 +1104,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Duty
 - **Nemesis**: Knowledge Seekers
 
-### Thunderbird
+### 65. Thunderbird
 - **Concept**: Storm-Bringing Bird
 - **Skills**: Lightning Control, Flight
 - **Frailty**: Grounded
@@ -1091,7 +1113,7 @@ The Whispering Veil is a network of spies and informants who gather and sell inf
 - **Motive**: Dominance
 - **Nemesis**: Sky Hunters
 
-### Yeti (Desert Variant)
+### 66. Yeti (Desert Variant)
 - **Concept**: Sand-Dwelling Beast
 - **Skills**: Strength, Burrowing
 - **Frailty**: Heat
