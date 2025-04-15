@@ -34,83 +34,90 @@ To play *Loner: Paranormal Files* you will need:
 - **Character sheet**: you may use the provided sheet at the back or a simple index card.
 - **Notebook**: *Loner: Paranormal Files* is not a solo journaling game, you can easily play it in the "theater of mind". But you can keep track of you game if you feel the need!
 
-## **Setting Introduction**  
+## Setting Introduction
 
-The world of *Loner: Paranormal Files* is one of hidden truths, classified encounters, and organizations working behind the scenes to contain the unexplainable. Paranormal activity is real, but the public must never know. Investigators, agents, and field operatives are tasked with studying, neutralizing, or exploiting anomalies that defy logic—sometimes at great personal cost.  
+There’s a version of the world most people get to see. It makes sense on the surface—traffic, taxes, weather forecasts, news cycles. But beneath that comfort zone, something older and stranger is always shifting. The unexplained doesn’t go away. It gets documented, classified, and buried deep.
 
-### **Core Aspects of the Setting**  
+In *Loner: Paranormal Files*, you step into the role of someone who sees what others aren’t meant to. You don’t just investigate the unknown—you navigate the politics of secrecy, the ethics of suppression, and the toll of exposure.
 
-- **The Veil of Secrecy**  
-  - Government agencies, private institutions, and secret societies work tirelessly to keep paranormal phenomena hidden from the general public.  
-  - The media is manipulated, witnesses are silenced, and fabricated cover stories ensure that what lurks in the shadows stays there.  
+Not everyone makes it out intact. Some don’t come back at all.
 
-- **Anomalies, Entities, and Artifacts**  
-  - Paranormal activity manifests in many forms: **dimensional breaches, possessed artifacts, cryptids, psychic disturbances, and extraterrestrial visitations**.  
-  - Not all anomalies are hostile—some are misunderstood, others are neutral, and a rare few can be harnessed for human advancement.  
-  - Scientific explanations are pursued, but many cases remain unsolved, existing beyond human comprehension.  
+### Core Aspects of the Setting
 
-- **The Organizations and Their Agendas**  
-  - Various groups investigate, contain, or exploit the unknown:  
-    - **Government Agencies** (e.g., “Bureau of Paranormal Affairs”) enforce secrecy and control.  
-    - **Private Research Firms** study anomalies for military or corporate gain.  
-    - **Occult Societies** believe some forces should be worshiped rather than contained.  
-    - **Insurgent Groups** attempt to expose the truth, believing that knowledge belongs to humanity.  
-  - Conflicts between these factions create layers of intrigue, moral dilemmas, and shifting alliances.  
+#### The Veil of Secrecy
+Governments deny, agencies redact, and corporations spin press releases while something entirely different plays out behind sealed doors. Cover stories are scripted before questions even get asked. And the people who dig too deep? They tend to stop showing up.
 
-- **The Cost of Knowing**  
-  - Investigators often **experience psychological distress**, from paranoia and insomnia to full mental breakdowns.  
-  - Exposure to anomalies can lead to **mutation, madness, or enlightenment**—sometimes all three.  
-  - The deeper you dig, the more you question reality, morality, and the very fabric of existence.  
+Most of the public will never know how close they’ve come.
 
-### **Playable Themes**  
+#### Anomalies, Entities, and Artifacts
+Not every anomaly is hostile. Some are dormant. Some just *observe*. But all of them distort the rules we take for granted. A hallway that folds in on itself. A radio signal that rewrites memory. A statue that knows your name before you speak.
 
-Players can engage in **a variety of investigative scenarios** depending on their approach and character backgrounds. Themes may overlap, creating a rich narrative experience.  
+Patterns help, but they don’t always hold. And when they break, someone has to clean up the fallout.
 
-- **Scientific Investigation** – Study anomalies through forensic analysis, field research, and experimental testing.  
-- **Containment & Cleanup** – Secure dangerous objects, neutralize threats, and erase evidence of their existence.  
-- **Conspiracy Unraveling** – Discover the hidden agendas of government agencies, cults, and rogue scientists.  
-- **Horror & Survival** – Face cryptid attacks, haunted locations, and mind-bending cosmic horrors.  
-- **Occult & Esotericism** – Delve into rituals, forbidden knowledge, and supernatural entities beyond mortal understanding.  
-- **Espionage & Cover-Ups** – Outmaneuver rival organizations, plant false narratives, and eliminate whistleblowers.  
-- **Alien Encounters** – Investigate UFO sightings, track extraterrestrial infiltrators, and decode unearthly signals.  
-- **Time & Dimensional Breaches** – Handle anomalies that distort time, space, and causality.  
+#### Organizations and Their Agendas
+There’s no single agency in charge. Instead, there’s a quiet arms race of ideas: control, disclosure, exploitation, transcendence.
 
-### Timeline of the Setting  
+- **Government bodies** neutralize and contain.
+- **Private firms** reverse-engineer the impossible.
+- **Occult sects** treat anomalies as scripture.
+- **Leaks and whistleblowers** fight to bring it all into the open.
 
-The following timeline outlines the historical progression of **paranormal research and containment**, leading up to the present-day world of *Loner: Paranormal Files*.  
+You won’t always know who’s right. You’ll rarely know who’s telling the truth.
 
-#### **Pre-History – The Ancient Watchers**  
-- Paranormal phenomena have existed throughout history, though misunderstood as **divine interventions, demonic possessions, and supernatural myths**.  
-- Early secret societies form to catalog and protect—or worship—these phenomena.  
+#### The Cost of Knowing
+The work leaves marks. Some are visible—tremors, nosebleeds, radiation scars. Others cut deeper: sleeplessness, shifting memories, the creeping doubt that your own thoughts aren’t entirely yours anymore.
 
-#### **1600s – The Occult Renaissance**  
-- European alchemists and scholars secretly experiment with anomalies, many of which are later destroyed or hidden by religious authorities.  
-- Asian and Middle Eastern mystics maintain knowledge of **spiritual entities, ley lines, and ritual magic**, passing down secrets through generations.  
+No one walks away clean. Some don’t walk away at all.
 
-#### **1800s – Industrialization and the Rise of Scientific Inquiry**  
-- Early paranormal researchers emerge, blending **spiritualism and empirical study**.  
-- Secret organizations, such as **The Academy of Forbidden Sciences**, form to collect and contain anomalous artifacts.  
-- First recorded instances of **government intervention** in unexplained events.  
+### Playable Themes
 
-#### **1900s – The Age of Cover-Ups**  
-- **World War I & II**: Military experiments with **psychic warfare, esoteric rituals, and anomalous weaponry**.  
-- **1947 – The Roswell Incident**: The U.S. government officially denies the existence of extraterrestrials, but classified reports suggest otherwise.  
-- **1960s–1970s – The Cold War Paranormal Race**:  
-  - Rival nations secretly develop **mind-control programs, telekinesis experiments, and attempts at harnessing paranormal phenomena for espionage**.  
-  - Agencies like **MKUltra** conduct ethically dubious experiments.  
-- **1980s–1990s – Expansion of the Paranormal Bureaucracy**:  
-  - Government-sanctioned organizations take over paranormal research under strict secrecy.  
-  - Public awareness increases through leaked documents, conspiracy theories, and pop culture references.  
+Each investigation unfolds in its own way, shaped by your character’s past, their tools, and what they’re willing to risk. Some stories focus on quiet observation; others spiral into firefights, cover-ups, or things harder to name. These themes aren’t boundaries—they blur, intersect, and change as you go.
 
-#### **2000s – The Modern Era of Anomalies**  
-- The rise of **the internet and whistleblower culture** makes secrecy more difficult, forcing agencies to **adapt their methods of control**.  
-- Anomalous incidents increase in frequency and severity, leading some to believe that **a larger convergence is approaching**.  
-- Rival factions escalate their activities, using field agents, mercenaries, and even artificially enhanced operatives to gain control over the unknown.  
+- **Scientific Investigation** — Forensics, field labs, post-incident analysis. Measuring what can’t be explained and trying to make it behave.
+- **Containment & Cleanup** — Securing unstable artifacts, neutralizing threats, and making sure no one ever hears what really happened.
+- **Conspiracy Unraveling** — Following the paper trail, decrypting the lies, and realizing who *really* signs the orders.
+- **Horror & Survival** — When the case goes off-script and something comes for you in the dark. Sometimes you fight. Sometimes you run.
+- **Occult & Esoterica** — Symbols that speak back, rituals that don’t end, and old texts written by something that remembers you.
+- **Espionage & Cover-Ups** — Planting false leads, tracking rogue agents, and doing what’s necessary to keep the truth contained—even if it means crossing a line.
+- **Alien Encounters** — Crashed probes, altered memories, sightings that don’t follow physics. They’re here. The question is why.
+- **Time & Dimensional Breaches** — Spaces that fold in wrong, days that repeat, and encounters with your own reflection saying things you haven’t done yet.
 
-#### **Present Day – The Breaking Point**  
-- Reports indicate that **reality itself may be unraveling**, with **dimensional breaches, mass hallucinations, and impossible structures appearing worldwide**.  
-- Agencies and rogue factions scramble to **secure or exploit** these emerging threats.  
-- The question remains: **Is humanity on the verge of understanding the unknown, or will the unknown consume humanity first?**  
+### Timeline of the Setting
+
+The history of anomaly research isn’t written in textbooks. It’s hidden in redacted memos, recovered field notes, and the gaps between official stories. What follows is a loose chronology of how the world quietly lost control of the unexplained.
+
+#### Pre-History – The Ancient Watchers  
+- Anomalies predate civilization. In early records, they’re mistaken for gods, spirits, or curses.  
+- Across cultures, secret groups begin cataloging strange phenomena—some aim to protect the world from them. Others worship what they find.
+
+#### 1600s – The Occult Renaissance  
+- Alchemists and natural philosophers in Europe conduct secret experiments, often destroyed or seized by the Church.  
+- In Asia and the Middle East, knowledge of ritual magic, ley lines, and spiritual forces is preserved quietly across generations.  
+- Not all anomalies are studied—some are sealed away, others simply vanish.
+
+#### 1800s – Industrialization and Inquiry  
+- Spiritualism blends with scientific curiosity. Séances, mesmerism, and etheric theory gain traction.  
+- Organizations like the Academy of Forbidden Sciences emerge, mixing research with containment.  
+- The first documented government efforts to suppress unexplained phenomena appear in scattered correspondence and buried reports.
+
+#### 1900s – The Age of Cover-Ups  
+- During both World Wars, militaries weaponize the paranormal—psychic scouts, occult rituals, and experimental artifacts. Most results are inconclusive. Some are quietly erased.  
+- 1947: The Roswell incident forces formal disinformation strategies. Something did crash. The official story still holds.  
+- 1960s–70s: The Cold War becomes a paranormal arms race. Telepathy, remote viewing, psychic espionage—all quietly explored, often at great human cost.  
+- MKUltra isn’t shut down—it mutates, fragments, and goes off the books.  
+- 1980s–90s: Bureaucracy blooms. Government agencies take formal control of anomaly research. Pop culture picks up the scent, but never the truth.
+
+#### 2000s – The Networked Unknown  
+- Secrecy grows harder. Whistleblowers, hackers, and conspiracy forums create pressure.  
+- Anomalous events spike in frequency and scale. Something is shifting.  
+- Factions escalate. Contractors replace operatives. Experimentation ramps up. Technology and the unexplained blur together.
+
+#### Present Day – The Breaking Point  
+- Patterns collapse. Breaches open without warning. Reports pile up: looping cities, memory anomalies, impossible structures.  
+- The world still *looks* normal. But it's fraying at the edges.  
+- Factions scramble to contain what they no longer fully understand.  
+- Some believe disclosure is inevitable. Others are preparing for war.  
+- And somewhere in the noise, something is watching back.
 
 ## Characters  
 
@@ -151,53 +158,50 @@ These **traits** are described by **tags**, descriptive words or phrases that ca
 
 ### Character Traits
 
-You can use these traits to create a character on the fly, mix them, or just use them as inspiration.
-
-## Character Traits  
-
 #### Concepts  
 
-|     | 1                | 2                 | 3                 | 4                 | 5                 | 6                 |
-| --- | ---------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
-| 1   | Cynical Agent    | Occult Researcher | Rogue Psychic     | Tech-Savvy Analyst | Disillusioned Veteran | Ex-Field Operative |
-| 2   | Conspiracy Theorist | Scientific Skeptic | Cold-Case Detective | Undercover Insider | Cryptid Hunter | Runaway Test Subject |
-| 3   | Government Asset | Black-Ops Cleaner | Paranormal Archivist | Experimental Subject | Remote Viewer | Unlicensed Investigator |
-| 4   | Bureaucratic Handler | Forbidden Knowledge Seeker | Trauma-Hardened Survivor | Cybernetics Specialist | Cult Defector | Corporate Espionage Expert |
-| 5   | Ritualist Operative | Experimental Engineer | Interdimensional Wanderer | Whistleblower | Mind-Control Escapee | Contact Specialist |
-| 6   | Alien Abductee | Psychological Warfare Expert | Classified Fugitive | Reality Bender | Host of an Unknown Entity | Shadow Operative |
+|     | 1                     | 2                          | 3                          | 4                            | 5                          | 6                         |
+|-----|------------------------|-----------------------------|-----------------------------|-------------------------------|-----------------------------|----------------------------|
+| 1   | Cynical Agent         | Occult Researcher           | Rogue Psychic              | Tech-Savvy Analyst            | Disillusioned Veteran       | Ex-Field Operative         |
+| 2   | Conspiracy Theorist  | Debunker                    | Cold-Case Detective        | Embedded Journalist           | Cryptid Hunter              | Augmented Escapee          |
+| 3   | Government Asset     | Black-Ops Cleaner           | Paranormal Archivist       | Experimental Subject          | Remote Viewer               | Field Anthropologist       |
+| 4   | Bureaucratic Handler | Residual Medium             | Trauma-Hardened Survivor   | Anomalous Tech Engineer       | Cult Defector               | Corporate Espionage Expert |
+| 5   | Ritualist Operative  | Experimental Engineer       | Interdimensional Wanderer  | Whistleblower                 | Containment Specialist      | Contact Specialist         |
+| 6   | Alien Abductee       | Psychological Warfare Expert| Compromised Operative      | Reality Bender                | Host of an Unknown Entity   | Shadow Operative           |
+
 
 #### Skills  
 
-|     | 1                 | 2                | 3                | 4                 | 5                 | 6                 |
-| --- | ----------------- | ---------------- | ---------------- | ----------------- | ----------------- | ----------------- |
-| 1   | Cryptography      | Lockpicking      | Spot Weakness    | Counter-Surveillance | Cybernetic Tuning | Paranormal Detection |
-| 2   | Forensic Analysis | Reverse Engineering | Fast Talk       | Sense Lies       | Occult Knowledge  | Danger Instincts |
-| 3   | Firearms Training | Close-Quarters Combat | Mind Over Matter | Artifact Appraisal | Computer Hacking  | Biological Anomaly Study |
-| 4   | Tactical Driving  | Signal Interception | Breaking & Entering | Dimensional Anomaly Sensing | Psychological Manipulation | Data Forgery |
-| 5   | Hypnotic Induction | Remote Viewing  | Intuitive Puzzle-Solving | Memory Suppression | Field Medicine   | Shadow Networking |
-| 6   | Reality Manipulation | Arcane Symbology | Scientific Deduction | Espionage Protocols | Cryptid Tracking | Cult Infiltration |
+|     | 1                   | 2                   | 3                    | 4                        | 5                     | 6                      |
+|-----|----------------------|----------------------|------------------------|----------------------------|------------------------|-------------------------|
+| 1   | Cryptography         | Lockpicking          | Spot Weakness          | Counter-Surveillance       | Anomaly Calibration    | Paranormal Detection     |
+| 2   | Forensic Analysis    | Reverse Engineering  | Fast Talk              | Lie Detection              | Occult Knowledge       | Danger Assessment        |
+| 3   | Firearms Training    | Close-Quarters Combat| Focused Willpower      | Artifact Appraisal         | Systems Intrusion      | Biohazard Containment    |
+| 4   | Tactical Driving     | Signal Interception  | Breaking & Entering    | Rift Sensing               | Psychological Control  | Data Fabrication         |
+| 5   | Hypnotic Induction  | Remote Viewing       | Improvised Problem-Solving | Memory Suppression     | Field Medicine         | Network Exploitation     |
+| 6   | Ritual Execution     | Arcane Symbology     | Scientific Deduction   | Espionage Protocols        | Cryptid Tracking       | Cult Infiltration        |
 
 #### Frailties  
 
-|     | 1                  | 2                  | 3                 | 4                 | 5                  | 6                 |
-| --- | ------------------ | ------------------ | ---------------- | ---------------- | ------------------ | ---------------- |
-| 1   | Paranoia          | Unresolved Trauma  | Hallucination-Prone | Addicted to Stimulants | Haunted by a Past Case | Indistinct Memories |
-| 2   | Unstable Psyche   | Controlled by an Entity | Reality Perception Issues | Memory Blackouts | Trusts the Wrong People | Struggles with Authority |
-| 3   | Physically Scarred | Secretly Compromised | Susceptible to Mind Control | Fear of the Dark | Involuntary Flashbacks | Frequent Nosebleeds |
-| 4   | Obsessive Curiosity | Chronic Nightmares | Disassociation Issues | Fear of Silence | Unlucky in the Field | Allergic to Unknown Substances |
-| 5   | Trauma-Induced Apathy | Flashbacks to Other Realities | Prone to Losing Time | Under Constant Surveillance | Failing Health | Weak Against Psychic Attacks |
-| 6   | Bound to an Oath  | Estranged from Reality | Compelled by Unseen Forces | Highly Susceptible to Propaganda | Cannot Lie | Compromised Nervous System |
+|     | 1                       | 2                          | 3                        | 4                      | 5                          | 6                          |
+|-----|--------------------------|-----------------------------|----------------------------|--------------------------|-----------------------------|-----------------------------|
+| 1   | Paranoia                | Unresolved Trauma           | Hallucination-Prone        | Chemical Dependency      | Haunted by a Past Case     | Fragmented Memory           |
+| 2   | Unstable Psyche         | Bound to a Foreign Will     | Distorted Perception       | Memory Blackouts         | Misplaced Trust            | Defiance Toward Authority   |
+| 3   | Physically Scarred      | Secretly Compromised        | Vulnerable to Influence    | Fear of the Dark         | Triggered Flashbacks       | Chronic Bleeding            |
+| 4   | Obsessive Curiosity     | Recurring Nightmares        | Dissociative Episodes      | Fear of Silence          | Cursed Luck                | Anomalous Allergy           |
+| 5   | Emotional Numbness      | Temporal Flashbacks         | Missing Time               | Under Surveillance        | Failing Health             | Psychic Vulnerability        |
+| 6   | Oathbound               | Reality Drift               | Compelled by an Unknown    | Propaganda Susceptibility| Incapable of Deception     | Neurological Instability     |
 
 #### Gear  
 
-|     | 1                  | 2                  | 3                 | 4                 | 5                  | 6                 |
-| --- | ------------------ | ------------------ | ---------------- | ---------------- | ------------------ | ---------------- |
-| 1   | EMP Disruptor     | Modified Night-Vision Goggles | Experimental Firearm | Anomaly-Detecting Scanner | Thermal-Resistant Suit | Secure Hard Drive |
-| 2   | Psychometric Glove | High-Frequency Earpiece | Concealed Weapon | Self-Repairing Notebook | Biometric Spoofer | Dimensional Tether |
-| 3   | Artifact Containment Box | EMF Reader | Classified Documents | Portable Reality Stabilizer | Liquid-Based Tranquilizer | Memory-Erasing Ampoule |
-| 4   | Encrypted Satellite Phone | Enhanced Lockpicks | Quantum Encryption Key | Portable Altar | Paranormal Frequency Receiver | Cloaking Device |
-| 5   | Digital Scrambler | X-Ray Scanner | Ancient Sigil Pendant | Voice-Mimicking Recorder | Hacked Bureau Access Card | AI Assistant Module |
-| 6   | UV-Infused Blade | Prototype Psychic Shield | Ritual Marking Kit | Neural Disruptor | Anti-Possession Serum | Forgotten Journal with Redacted Pages |
+|     | 1                      | 2                       | 3                       | 4                          | 5                          | 6                            |
+|-----|------------------------|--------------------------|--------------------------|-----------------------------|-----------------------------|------------------------------|
+| 1   | EMP Disruptor          | Night-Vision Mod Goggles | Prototype Firearm        | Anomaly Scanner             | Thermal-Resistant Suit      | Encrypted Data Vault         |
+| 2   | Psychometric Glove     | Signal-Scrambling Earpiece | Concealed Weapon         | Self-Mending Notebook       | Biometric Cloak             | Dimensional Tether           |
+| 3   | Containment Box        | EMF Tracker              | Classified Dossier        | Reality Stabilizer          | Tranquilizer Injector       | Memory-Wipe Ampoule          |
+| 4   | Satellite Uplink Phone | Precision Lockpicks      | Quantum Cipher Key        | Portable Ritual Altar       | Paranormal Signal Receiver  | Adaptive Cloaking Field      |
+| 5   | Digital Obfuscator     | X-Ray Scope              | Sigil Pendant             | Voice-Shifting Recorder     | Forged Bureau Access Card   | Cognitive Interface Module   |
+| 6   | UV-Edged Blade         | Psychic Resonance Shield | Ritual Marking Kit        | Neural Disruptor            | Anti-Possession Serum       | Redacted Journal (Unreadable Sections) |
 
 ### Names  
 
@@ -308,101 +312,126 @@ Roll 2d6 and consult the following Twist Table to determine what kind of twist h
 
 Interpret the two-word sentence in the context of the current scene. Twists will keep the plot and events going in unexpected ways.
 
-### Setting Related Rules  
+### Operating in the Shadows
 
-The world of *Loner: Paranormal Files* operates on rules that balance **rational investigation** with **unpredictable anomalies**, **classified knowledge**, and **unseen forces** that may work for—or against—the investigator. The oracular system will be used to determine **paranormal interactions, containment outcomes, cover-up effectiveness, and mental resilience.**  
+The rules beneath reality don’t always hold. You’re not just investigating unknown phenomena—you’re navigating a shifting world where logic collides with distortion, and control is always temporary.
 
-#### **The Unknown Threshold**  
+In *Loner: Paranormal Files*, the systems that govern play are built to reflect that instability. You’ll use structured tools—dice, tags, oracles—to push into chaotic spaces. The outcomes you shape will feel intuitive, narrative-first, and sometimes wildly unexpected.
 
-In paranormal investigations, reality is **not always stable**. The **Unknown Threshold** represents the line between what is understood and what remains beyond comprehension.  
+Whether you're dealing with hostile artifacts, psychic fallout, or political interference, the mechanics are there to guide the story—not predict it.
 
-- At the beginning of an investigation, set the **Unknown Threshold** at **0**.  
-- Each time the investigator **witnesses, interacts with, or fails to contain an anomaly**, roll the Oracle:  
-  - **Yes, and...** → You maintain control. Reduce the Threshold.  
-  - **Yes...** → You resist the effects. No change.  
-  - **Yes, but...** → You are affected but still functional. Increase the Threshold by **1**.  
-  - **No, but...** → A minor distortion in reality occurs. Increase the Threshold by **2**.  
-  - **No...** → You suffer an **Unstable Encounter**. Increase the Threshold by **3**.  
-  - **No, and...** → Reality **fractures** around you. The Unknown Threshold increases by **4**.  
+This is a world of patterns. Fractured ones.
 
-🛑 **When the Unknown Threshold reaches 6**, the investigator must roll on the **Reality Fracture Table** (see below).  
+#### The Unknown Threshold
 
-#### Reality Fracture Table  
+In this line of work, reality isn’t fixed—it flexes. Every encounter with an anomaly presses against the edges of what your mind, body, and understanding can endure.
 
-When exposed to **too much instability**, the investigator risks **mental breaks, hallucinations, or unwanted attunement** to the anomaly’s frequency. Roll 1d6 and consult the chart:  
+The **Unknown Threshold** tracks how close you are to crossing that edge.
 
-| **D6** | **Reality Fracture Effect** |
-| --- | ---------------------------- |
-| 1 | **Echoes of the Unseen** - You hear voices or sounds from an alternate reality, but you can’t determine if they are real or hallucinations. |
-| 2 | **Dimensional Bleed** - Objects around you temporarily flicker, revealing glimpses of another timeline. |
-| 3 | **Lost Time** - You black out for an unknown duration. Something may have changed in the world while you were gone. |
-| 4 | **Cognitive Drift** - You struggle to recall basic details, and your memories feel like they belong to someone else. |
-| 5 | **Marked by the Unknown** - An unseen force now recognizes you. Entities may respond differently to your presence. |
-| 6 | **The Door Opens** - A temporary rift forms, allowing something **in**—or pulling you **out**. |
+- Begin each investigation with the Threshold at **0**.  
+- Whenever you **witness**, **interact with**, or **fail to contain** an anomaly, roll the Oracle.  
+- Based on the result, adjust the Threshold:
 
-A **successful Oracle roll** can **reduce** the effects of Reality Fracture over time, but some investigators **never fully recover**.  
+| Oracle Result      | Effect Description                              | Threshold Change |
+|--------------------|--------------------------------------------------|------------------|
+| **Yes, and...**     | You stay grounded—clarity returns.              | -1               |
+| **Yes**             | You endure. The moment passes.                  | ±0               |
+| **Yes, but...**     | You push through, but feel the strain.          | +1               |
+| **No, but...**      | Something bends. Subtle, but real.              | +2               |
+| **No**              | The anomaly leaves a mark.                      | +3               |
+| **No, and...**      | The world around you fractures.                 | +4               |
 
-#### Anomaly Interaction Rules  
+> **Threshold 6:** You’ve reached the edge. Roll on the **Reality Fracture Table**. What happens next may not be reversible.
 
-When **interacting with an anomaly**—whether a cryptid, artifact, extradimensional rift, or an unexplained event—use the **Paranormal Interaction Table** to determine the outcome.  
+#### Reality Fracture Table
 
-| **Situation** | **Roll the Oracle** | **Outcome Examples** |
-|--------------|---------------------|----------------------|
-| **Direct Contact** (touching, using, or experiencing the anomaly) | **Yes, and...** → Gain knowledge without harm. / **No, and...** → Severe consequences, permanent change. |
-| **Observation** (studying from a safe distance) | **Yes, but...** → You gain partial information but are affected in a small way. |
-| **Containment Attempt** (securing or neutralizing an anomaly) | **No, but...** → The anomaly resists containment but does not escalate… yet. |
-| **Suppression & Cover-Up** (erasing public knowledge) | **Yes, and...** → The cover-up is perfect. / **No, and...** → Leaks occur, leading to faction conflict. |
-| **Mental Resistance** (avoiding hallucinations, psychic damage, or forced insight) | **No, but...** → You are changed, but still in control. |
+When the Unknown overwhelms the known, something gives way. Memory. Perception. Time. Maybe more. Roll 1d6:
 
-Each interaction raises **the stakes**—some anomalies are **sentient**, some **react to awareness**, and others may **rewrite reality just by being observed**.  
+| d6 | Reality Fracture Effect |
+|----|--------------------------|
+| 1  | **Echoes of the Unseen** – Distant voices whisper in your ear. You can’t tell if they’re warnings, recordings, or just your own unraveling thoughts. |
+| 2  | **Dimensional Bleed** – The environment flickers. For a few seconds, it’s somewhere else entirely—and so are you. |
+| 3  | **Lost Time** – You come to with no memory of what just happened. Something around you is… off. Different. Maybe watching. |
+| 4  | **Cognitive Drift** – Names, faces, simple facts slip through your mind like water. You remember things that never happened. Or haven’t yet. |
+| 5  | **Marked by the Unknown** – You’re no longer just an observer. An anomaly has noticed you—and may recognize you again. |
+| 6  | **The Door Opens** – A breach forms. Something steps through. Or you fall in. For a moment, you aren’t in your own reality anymore. You might not come back alone. |
 
-#### Cover-Ups & Information Control  
+> 🎲 You may attempt to **stabilize** with a successful Oracle roll. But some effects leave scars even after they fade.
 
-Secrecy is paramount. Every **classified event, leaked document, or discovered truth** can alter **who controls the narrative**.  
+#### Anomaly Interaction
 
-When **attempting a cover-up**, roll the Oracle:  
+Every encounter with an anomaly is a risk. Some pull you in. Some push back. Some don’t care you’re there—until you make the wrong move.
 
-- **Yes, and...** → The story is erased completely, and no one remembers the truth.  
-- **Yes...** → The cover-up holds, but whispers remain.  
-- **Yes, but...** → Conspiracies emerge, forcing additional damage control.  
-- **No, but...** → An opposing faction discovers the cover-up attempt and takes action.  
-- **No...** → The public catches wind, and mass panic or rogue investigations begin.  
-- **No, and...** → The cover-up **backfires spectacularly**—leading to a power shift, internal betrayal, or mass exposure of paranormal activity.  
+Use the Oracle to determine the outcome when engaging with cryptids, artifacts, rifts, unexplained events, or anything that resists being understood.
 
-Depending on the outcome, **factions, rogue agents, and external forces may intervene**.  
+| **Interaction Type**    | **Oracle Result**           |
+|--------------------------|-----------------------------|
+| **Direct Contact** — Touching, activating, or stepping into the anomaly. | **Yes, and...** → You gain clear knowledge or access, unharmed.<br>**No, and...** → Severe consequence: imprinting, mutation, identity loss. |
+| **Observation** — Watching from a distance, scanning, passive analysis. | **Yes, but...** → You gain insight, but something slips through—distortions, emotional bleed, echoing thoughts. |
+| **Containment Attempt** — Trying to seal, disable, or control the anomaly. | **No, but...** → Containment fails, but the anomaly remains dormant—for now. You might get another shot. |
+| **Suppression / Cover-Up** — Erasing evidence, redirecting blame, silencing witnesses. | **Yes, and...** → Total erasure. No leaks, no trail.<br>**No, and...** → The truth gets out. Factions notice. Someone’s coming. |
+| **Mental Resistance** — Resisting hallucinations, psychic pressure, or memetic damage. | **No, but...** → You’re altered: visions, memory shifts, sensory confusion. You stay standing—but something’s changed. |
 
-#### Factions & Influence  
+> Some anomalies adapt. Some remember. And some only exist because you're trying to observe them.
 
-In the world of *Loner: Paranormal Files*, **powerful organizations** dictate how the unknown is handled. These factions constantly **manipulate, infiltrate, and oppose each other**.  
+#### Cover-Ups & Information Control
 
-Every investigator has a **Reputation Level** with each faction, ranging from **-3 (Enemy) to +3 (Trusted Agent)**.  
+In this line of work, the real threat isn’t always the anomaly—it’s who finds out about it.
 
-- A **-3 Reputation** means **active hostility**—the faction may attempt to eliminate or discredit you.  
-- A **+3 Reputation** means **high trust**—they provide special resources, clearance, and backup.  
+Every leak, every witness, every uncontained piece of truth is a crack in the façade. And if you don’t patch it, someone else will exploit it.
 
-When engaging with factions, roll the Oracle:  
+When you attempt a cover-up, roll the Oracle:
 
-- **Yes, and...** → The faction provides extra resources, protection, or secrets.  
-- **Yes...** → The faction accepts your request or aids you.  
-- **Yes, but...** → They help, but demand something in return.  
-- **No, but...** → They refuse, but you gain useful information in the process.  
-- **No...** → They reject your request outright, and your Reputation decreases.  
-- **No, and...** → You are marked as a threat or traitor—expect consequences.  
+- **Yes, and...** → The event is erased entirely. No memory, no evidence. It never happened.
+- **Yes** → The cover-up holds. The official story sticks—but some are still asking questions.
+- **Yes, but...** → The truth festers underground. Fringe forums light up. You’ll need to intervene again.
+- **No, but...** → You fail to bury it—but in the process, you uncover another faction’s involvement.
+- **No** → Word spreads. The story leaks into public channels. Panic, speculation, or rogue investigations follow.
+- **No, and...** → It backfires. The lie becomes the fuel. Power shifts. Trust crumbles. The world sees what it wasn’t meant to.
 
-#### Corruption & Exposure to the Paranormal  
+> Cover-ups don’t end when the paperwork’s filed. Factions take sides. Agents go rogue. Sometimes the biggest lie is that you had control at all.
 
-Long-term exposure to **paranormal anomalies, mind-altering forces, or classified knowledge** takes a toll on **both mind and body**.  
+#### Factions & Influence
 
-Every time an investigator is **exposed to a severe anomaly**, they must roll the Oracle:  
+No one faces the unknown alone. Not for long.
 
-| **Oracle Result** | **Psychological Effect** | **Physical Effect** |
-|------------------|------------------------|--------------------|
-| **Yes, and...** | You resist without consequence. | No physical effect. |
-| **Yes...** | You suppress the trauma, but it lingers. | Temporary exhaustion or mild nausea. |
-| **Yes, but...** | You suffer **mild paranoia, headaches, or memory gaps**. | Minor physical mutations (odd bruises, enhanced perception). |
-| **No, but...** | You experience **severe hallucinations, paranoia, or nightmares**. | Physical distress (nosebleeds, tremors, light sensitivity). |
-| **No...** | You develop **obsessive behaviors or extreme reactions** to anomalies. | Physical alteration (permanent discoloration, a mark that wasn’t there before). |
-| **No, and...** | You lose part of yourself—memories, identity, or reality perception. | Your body **begins to change**, and you may no longer be fully human. |
+In the world of *Loner: Paranormal Files*, shadow organizations decide how the unexplained is studied, hidden, weaponized—or worshipped. These factions have deep reach and long memories, and they don’t play nice. Allegiances shift. Promises break. Trust is rare—and temporary.
+
+As an investigator, you hold a **Reputation Level** with each faction, ranging from **–3 (Enemy)** to **+3 (Trusted Asset)**:
+
+- **+3** → You’re a known quantity. They offer clearance, support, and resources.  
+- **0** → Neutral. They’re watching, but they’re not acting—yet.  
+- **–3** → You’re marked. They might move against you, publicly or not at all.
+
+When dealing with a faction, roll the Oracle:
+
+- **Yes, and...** → They grant more than you asked: access, secrets, protection.
+- **Yes** → They assist as requested.
+- **Yes, but...** → Help comes with strings—and those strings are always tied to something bigger.
+- **No, but...** → They deny you, but in doing so, they let something slip.
+- **No** → Rejected. Stonewalled. Your standing with them takes a hit.
+- **No, and...** → You're flagged. Surveillance begins. Assets move. They’re coming.
+
+> Reputation isn’t just about favors. It’s about leverage. Burn one bridge too many, and you may find the only people who’ll talk to you are the ones holding a syringe.
+
+#### Corruption & Exposure to the Paranormal
+
+You weren’t built to witness this.
+
+Extended contact with anomalies—whether psychic, spatial, biological, or informational—leaves its mark. The more you see, the harder it is to tell what’s part of you and what’s trying to get in.
+
+When exposed to a severe anomaly, roll the Oracle to see how it reshapes you.
+
+| Oracle Result | Psychological Effect | Physical Effect |
+|---------------|----------------------|------------------|
+| **Yes, and...** | You stay sharp. The moment passes without impact. | No visible changes. |
+| **Yes** | You bury the experience—for now. But it scratches at the edge of your thoughts. | Fatigue. Nausea. Shakes. It fades. |
+| **Yes, but...** | Flickers of paranoia. Unfamiliar memories. You forget something simple—again. | Minor anomalies: a glow in your veins, heightened senses, unplaceable bruises. |
+| **No, but...** | Hallucinations. Recurring nightmares. Your thoughts repeat on a loop. | Nosebleeds. Static in your vision. A shiver when the room’s not cold. |
+| **No** | Your reactions change. You speak before thinking. Anomalies trigger something primal. | Skin that shifts in light. Eyes that don’t reflect right. A mark that won’t wash off. |
+| **No, and...** | Something’s gone—memories, words, the feeling of being real. And something else has filled the gap. | Your form begins to shift. You no longer pass for untouched. You may not pass for human. |
+
+> This isn’t damage. It’s transformation. You don’t heal from it. You adapt—or lose the ability to care that you didn’t.
 
 ### Conflicts
 
@@ -457,190 +486,214 @@ At the end of the adventure you may add another trait to the character. It is be
 
 Also update the list of **NPCs**, **Locations**, and **Events** that may show up again in future adventures.
 
-## Setting Information  
+## Known Unknowns
 
-The world you operate in is **not the world as the public knows it**. While society functions as usual, there exists an **underbelly of classified investigations, shadow agencies, and suppressed knowledge** that governs reality from behind the scenes.  
+You live in a world shaped by forces most people never notice—and wouldn’t survive if they did.
 
-Those who investigate anomalies understand one rule: **there are things humanity was never meant to know**—and those who do **rarely remain unchanged**.  
+The systems of society still run: elections, schools, streaming services, rush hour. But below that surface, something else is operating. Anomalies don’t just exist—they’re being cataloged, contained, exploited. Or worse: ignored until it's too late.
 
-### Anomalous Zones & Classified Locations  
+Information is currency. But it’s also a weapon. Every recovered file, decrypted signal, or field report could tip the balance between understanding and obliteration.
 
-Not all places on Earth obey the **rules of time, space, or logic**. Some locations have been **permanently altered by anomalies**, while others appear and disappear according to unknowable patterns.  
+> You don’t get to know everything. But you get to know *enough*. Enough to be dangerous. Enough to see how far the cracks go. Enough to wonder if the world you’re protecting still exists the way you remember it.
 
-#### **Examples of Anomalous Zones:**  
-- **Redacted Cities** – Entire urban areas where time loops, residents repeat scripted behaviors, and new buildings **construct themselves overnight**.  
-- **The Veil Corridors** – A subterranean tunnel system that **connects locations that should not be geographically linked**.  
-- **The Hollow Prison** – A classified site where prisoners disappear from security footage, leaving only **empty jumpsuits and static-filled last words**.  
-- **The Horizon Event** – A highway stretch where travelers find themselves in **a different decade** after passing the same exit three times.  
-- **Abandoned Research Facilities** – Buildings once dedicated to **studying anomalies**, now sealed shut, with reports of **static whispers from the inside**.  
+### Forbidden Coordinates
 
-These locations are **studied, contained, or erased from public records**, depending on the agendas of the organizations involved. Some sites are **too dangerous to be touched**, others are **testing grounds for classified experiments**, and some… **watch those who watch them**.  
+Some places don’t belong on maps.
 
-### Organizations & Secret Factions  
+They shift, loop, observe, and sometimes consume. These locations—known as **Anomalous Zones**—don’t just break physical laws. They erode memory, perception, and identity. Some are studied. Some are sealed. A few are left alone entirely—not by choice, but by necessity.
 
-The world is controlled by those who know the truth—and **fight over who gets to keep it**.  
+#### Examples of Anomalous Zones:
 
-#### **Major Types of Organizations:**  
-- **Government Paranormal Divisions** – Bureaucratic agencies that **classify, study, and contain anomalies**, operating in the shadows of major world governments.  
-- **Private Research Firms** – Corporations that **see anomalies as untapped resources**, conducting illegal experiments and **auctioning off supernatural technology** to the highest bidder.  
-- **Occult Societies** – Groups that believe anomalies are **divine, demonic, or the key to enlightenment**, seeking to **worship, unleash, or harness** these forces.  
-- **Insurgent Leakers** – Rogue agents and hackers dedicated to **exposing the truth**, despite knowing that knowledge alone can be lethal.  
-- **Independent Hunters** – Former operatives, conspiracy theorists, and self-proclaimed investigators who **stumble into cases without government backing—or protection**.  
+- **Redacted Cities** — Entire urban grids stuck in recursive loops. Residents repeat scripts. Buildings appear overnight. Satellite imagery fails to update.
+- **The Veil Corridors** — A tunnel network beneath multiple continents. Enter in Siberia, exit in Nevada. No one built it. No one patrols it. No one can fully map it.
+- **The Hollow Prison** — A defunct black site. Inmates vanish mid-interrogation, leaving jumpsuits behind. Last recordings end in static—always the same frequency.
+- **The Horizon Event** — A stretch of highway where time folds. Take the same exit three times, end up in a different decade. Sometimes, not your own.
+- **Abandoned Research Facilities** — Former labs sealed with concrete and policy. Reports persist of static whispers, rearranged furniture, and unlocked vaults.
 
-#### **Faction Rivalries & Conflicts:**  
-- **The battle between secrecy and exposure**—should anomalies be contained or revealed to the public?  
-- **The ethics of experimentation**—can anomalies be controlled, or is it reckless to try?  
-- **The problem of rogue elements**—what happens when a former agent **leaks knowledge too dangerous to comprehend**?  
+> Some sites are too dangerous to contain. Others are active testing grounds. A few are still watching the teams sent to erase them.
 
-No one fully trusts anyone else. Sometimes, **your enemies are the ones funding your missions**—and the people you work for may not have your best interests in mind.  
+### Shadow Actors
 
-### Suppressed History & Forbidden Knowledge  
+The world isn’t run by governments. It’s run by the people who know what governments won’t admit.
 
-The **real history** of paranormal investigation is **buried under layers of disinformation**, redacted documents, and erased testimonies.  
+These are the factions fighting to control the narrative—classify it, weaponize it, sanctify it, or burn it all down. Some wear suits. Some wear masks. All of them are dangerous.
 
-- **Ancient anomalies** have been covered up for centuries—entire **lost civilizations may have vanished due to phenomena humanity was never meant to encounter**.  
-- **The Cold War Paranormal Arms Race** – Intelligence agencies across the world experimented with **psychic warfare, mind-control anomalies, and interdimensional research**, most of which ended in **classified disasters**.  
-- **The Roswell Deception** – The public believes it was a hoax or a downed weather balloon. **Those who handled the original case know better.**  
-- **MKUltra’s Unfinished Work** – Mind manipulation experiments weren’t **shut down**—they simply **went deeper underground** under new project names.  
-- **The Timeline Anomalies** – Some classified reports suggest **evidence of human-made structures from thousands of years in the future**—implying **someone, somewhere, has already figured out time travel**.  
+#### Major Organizations
 
-Some of this knowledge is **hidden for a reason**—it’s not just information, but an infection. **To read certain classified documents is to be permanently changed.**  
+- **Government Paranormal Divisions** — Cold bureaucracies tasked with studying and silencing the unexplainable. Funded through black budgets, hidden beneath acronyms. They don’t ask questions—they issue containment protocols.
+- **Private Research Firms** — Corporations chasing patents from the beyond. They dismantle anomalies in labs, rebrand the wreckage, and sell it to defense contractors or private buyers. Ethics optional.
+- **Occult Societies** — Fragmented sects that believe anomalies are sacred. Some seek communion. Others seek ascension. A few just want to watch the veil tear.
+- **Insurgent Leakers** — Whistleblowers, black hats, and burnouts who want the truth out in the open. They release classified data knowing it might kill them—or everyone else.
+- **Independent Hunters** — Ex-agents, conspiracy podcasters, trauma survivors. No clearance. No backup. Just obsession and a few borrowed tools.
 
-### Anomalies, Entities & Unexplained Phenomena  
+#### Ongoing Conflicts
 
-Anomalies come in many forms, categorized based on **their properties, threat levels, and behavioral patterns**. Some follow patterns that can be **measured and understood**, while others **change when observed, alter human perception, or refuse to be contained by known laws of reality**.  
+- **Secrecy vs. Exposure** — Should anomalies be hidden to protect humanity—or revealed so it can adapt?
+- **Control vs. Chaos** — Can the unknown be contained, or does every experiment just add fuel to the fire?
+- **Loyalty vs. Survival** — When a handler vanishes, or a file leaks, who do you protect—your mission, your mind, or yourself?
 
-#### **Types of Anomalies:**  
-- **Cognitohazards** – Information that **damages the mind just by being known**.  
-- **Temporal Distortions** – Areas or artifacts that **loop, erase, or fragment time itself**.  
-- **Possessed Objects** – Items that **display intelligence, hunger, or self-preservation instincts**.  
-- **Biological Mutations** – Entities or organisms with **impossible anatomy, psychic abilities, or adaptation beyond evolution**.  
-- **Extraterrestrial Contact** – Beings that **are not from our timeline, dimension, or known space**.  
-- **Eldritch Constructs** – Impossible structures that **do not belong in three-dimensional space** and **react to human consciousness**.  
+> In this world, everyone has an agenda. Some call it protocol. Some call it prophecy. Either way, the only thing they have in common is you.
 
-#### **Encounters & Outcomes:**  
-- Some anomalies are **passive**, some are **aggressive**, and others are **actively rewriting reality around you**.  
-- **Destroying an anomaly is not always possible**—sometimes, **the only way to stop it is to make sure no one remembers it exists**.  
-- Some anomalies **learn from encounters**, making repeat investigations **more dangerous** each time.  
+### Suppressed History & Forbidden Knowledge
 
-To work in this field is to **constantly redefine reality**—because reality, as you know it, **may already be compromised**.  
+What you know about the past is curated. Sanitized. Filed under convenient lies.
 
-### Cover-Ups, Misinformation & The Public  
+The real history of anomaly contact is buried under layers of disinformation, ghost files, and burn notices. You won’t find it in archives—you’ll find it in unstable data, whispered recollections, and sites where reality still hasn’t fully healed.
 
-The most dangerous anomaly isn’t a monster—it’s **public knowledge**.  
+- **Ancient Anomalies** — Entire civilizations may have vanished after contact. The ruins don’t match the timeline. Some still emit signals.
+- **The Cold War Paranormal Arms Race** — Both sides ran psychic warfare ops, built devices that listened to the dead, and opened things no one could close. The few survivors don’t talk. The labs were never officially there.
+- **The Roswell Deception** — A weather balloon, they said. The object’s core is still sealed beneath desert stone, and it still hums when the sky’s wrong.
+- **MKUltra Never Ended** — The programs changed names. The research continued. Some of the subjects now work in containment. Some don’t know they’re still active.
+- **Timeline Contamination** — Recovered blueprints that shouldn’t exist. Photos taken decades before the camera that took them was invented. Human bones found with synthetic implants that haven’t been built yet.
 
-- **Fake UFO reports, conspiracy theories, and disinformation campaigns** are **deliberate**—used to **bury real incidents under layers of fabricated nonsense**.  
-- Witnesses are either **silenced, paid off, or discredited**, making them seem unreliable.  
-- Some agencies don’t just **hide the truth**—they **replace it with something worse**.  
-- **Whistleblowers disappear**, sometimes before they even go public.  
-- Some **mass panic events** are staged—because nothing distracts the public from the **real threat** like a well-placed spectacle.  
+This isn’t forgotten knowledge—it’s knowledge that changes you the moment you understand it. Some files are redacted not to protect secrets, but to keep the reader intact.
 
-Sometimes, **the only thing scarier than an anomaly is the organization cleaning up after it**.  
+### Anomalies, Entities & Unexplained Phenomena
 
-### Experimental Technology & Paranormal Science  
+Anomalies don’t follow rules—they rewrite them.
 
-When the **laws of reality are challenged**, scientists and engineers **push back with classified research and prototype technology** designed to fight, contain, or exploit the unknown.  
+Some can be classified. Monitored. Contained, if you’re lucky. Others shift the moment they’re observed, adapting to perception, resisting logic, or leaking into the minds of anyone who gets too close.
 
-#### **Examples of Experimental Equipment:**  
-- **Anomaly Field Disruptors** – Devices meant to **shut down paranormal effects**—but may also cause them to **escalate**.  
-- **Neural Firewall Implants** – Experimental brain modifications designed to **block out cognitohazards**, but they may **erase unintended memories**.  
-- **Dimensional Anchors** – Portable devices used to **stabilize reality around areas of high distortion**—if activated too long, they might **trap the user outside normal timeflow**.  
-- **Bio-Signal Augmenters** – Devices used to **track psychic signals**, but prolonged exposure may **alter the user’s perception of reality permanently**.  
-- **Rewritten DNA Strains** – Engineered genes designed to **resist anomalous infections**—but test subjects report **increasingly non-human thoughts**.  
+Field protocols categorize anomalies by behavior, not origin. But most investigators know better—**nothing stays in one category for long.**
 
-The deeper researchers go, the more **they become part of what they study**—and sometimes, they don’t come back **as themselves**.  
+#### Common Classifications
+
+- **Cognitohazards** — Concepts, symbols, or signals that harm simply by being understood. Exposure symptoms range from obsession to psychological collapse.
+- **Temporal Distortions** — Locations or items that fragment chronology. Time loops, pre-echoes, and erased hours are common side effects.
+- **Possessed Objects** — Items with agency. Some are predators. Some play dead. A few only act when no one’s watching.
+- **Biological Mutations** — Lifeforms with anatomy that shouldn’t function—and does. Many possess psychic traits or regenerative behavior that defies physics.
+- **Extraterrestrial Contact** — Not aliens. Not exactly. These entities don’t follow our rules of space, identity, or sequence. Some may not recognize us as separate beings.
+- **Eldritch Constructs** — Architectures that shouldn't exist in three-dimensional space. Some observe. Some respond. A few restructure thought on entry.
+
+#### Encounter Protocols
+
+- Some anomalies are dormant. Others are hostile. Most fall somewhere in between—until you try to interfere.
+- **Neutralization is rare**. Some anomalies can’t be destroyed—only isolated, buried, or erased from memory.
+- **Adaptive anomalies** grow more dangerous with each interaction. Every repeat encounter increases the risk.
+
+> If you’ve seen an anomaly once, and walked away? Don’t count on walking away again. Reality doesn’t like being studied.
+
+### Cover-Ups, Misinformation & The Public
+
+The most dangerous anomaly is the one everyone believes is real.
+
+Disinformation isn’t a byproduct—it’s policy. Agencies flood the airwaves with staged sightings, planted witnesses, and "leaks" designed to discredit themselves. The goal isn’t to hide the truth. It’s to make sure no one would believe it even if they saw it.
+
+- **UFO hoaxes, cryptid clickbait, false flag events**—all manufactured to bury the real incident beneath layers of absurdity.
+- **Eyewitnesses are handled**—some bought out, some discredited, some quietly erased.
+- **Discrediting the truth** is more effective than hiding it. Fabricated leaks spread faster than facts—and they're easier to control.
+- **Whistleblowers vanish**—sometimes mid-upload, sometimes before they even realize what they’ve uncovered.
+- **Mass hysteria is weaponized**. A staged panic in the right city can wipe three real anomalies from public consciousness overnight.
+
+And the most disturbing part?
+
+> Most people don’t want the truth. They want the version that helps them sleep.
+
+Sometimes the anomaly doesn’t kill you.  
+The cleanup team does.
+
+### Experimental Technology & Paranormal Science
+
+When reality stops making sense, science doesn’t stop—it mutates.
+
+Across black-budget labs, abandoned facilities, and rogue research cells, humanity has developed tools to stabilize the unstable, suppress the unspeakable, or twist the impossible to its advantage. None of it’s safe. All of it’s unfinished.
+
+#### Classified Prototypes & Forbidden Tech
+
+- **Anomaly Field Disruptors** — Disables active anomalies within a limited radius. Sometimes. Other times, it makes them more aware.
+- **Neural Firewall Implants** — Blocks cognitohazards and intrusive signals. Known side effects: memory erasure, personality bleed, recursive thought loops.
+- **Dimensional Anchors** — Stabilizes local spacetime. If overused, can trap the user in a split timeline or delay their return indefinitely.
+- **Bio-Signal Augmenters** — Tracks psychic frequencies across anomalous zones. Prolonged use may align the user’s mind with nonhuman thought patterns.
+- **Rewritten DNA Strains** — Gene therapy to resist anomaly infection. Subjects report changes in sensory processing, empathy reduction, and dreams not their own.
+
+> Every breakthrough costs something—sanity, humanity, continuity. Most researchers don’t ask if the tools work. They ask if the user is still recognizable when they’re done.
+
+Sometimes the tech wins.  
+Sometimes the anomaly learns from it.
 
 ## Factions
 
 ### The Black Sigil  
-- **Concept**: **Covert Occultists**  
-- **Skills**: **Esoteric Knowledge, Ritual Containment**  
-- **Frailty**: **Bound by Ancient Pacts**  
-- **Gear**: **Sealed Grimoire, Reality-Warping Insignia**  
-- **Goal**: **To control the most powerful anomalies for their own ends.**  
-- **Motive**: **They believe anomalies are tools, not threats.**  
-- **Nemesis**: **The Sentinels of the Veil, who see them as reckless meddlers.**  
+- **Concept**: Covert Occultists  
+- **Skills**: Ritual Engineering, Anomaly Binding  
+- **Frailty**: Bound by Ancient Pacts  
+- **Gear**: Sealed Grimoire, Reality-Warping Insignia  
+- **Goal**: To master anomalies as tools of influence and control.  
+- **Motive**: They see no boundary between science and sorcery.  
+- **Nemesis**: The Sentinels of the Veil  
 
-The **Black Sigil** is a shadowy organization that blends **high-level intelligence operations with ancient ritual knowledge**. Formed by **rogue scientists, ex-occultists, and defectors from classified government programs**, they believe **paranormal forces should be controlled rather than destroyed or hidden**. They are known for **conducting dangerous experiments on anomalies**, seeking to **harness their power** for both personal and geopolitical gain.  
+The Black Sigil operates where ritual intersects with research. Born from fractured covens, ex-government parascience units, and power-hungry scholars, they believe anomalies aren’t threats—they’re assets.  
 
-Their influence runs deep in **corporate research facilities and black-market artifact trading**, often clashing with agencies that prefer **containment over exploitation**. However, their greatest weakness lies in their **reliance on ancient pacts and rituals**, some of which have bound them to **forces beyond human understanding**.  
+They reverse-engineer rituals like weapons tech, maintain black-market artifact rings, and embed agents inside corporate labs. Their rituals work—usually. But their oldest contracts are written in forgotten languages, and some of the entities bound by them have started remembering.
 
-### The Sentinels of the Veil* 
-- **Concept**: **Unyielding Protectors**  
-- **Skills**: **Anomaly Suppression, High-Tech Surveillance**  
-- **Frailty**: **Rigid Dogma**  
-- **Gear**: **Subdermal Tracker Implants, Signal-Jamming Field Generators**  
-- **Goal**: **To ensure that the world remains ignorant of the truth.**  
-- **Motive**: **They believe knowledge of the unknown is too dangerous for humanity.**  
-- **Nemesis**: **The Horizon Initiative, who advocate for controlled disclosure.**  
+### The Sentinels of the Veil  
+- **Concept**: Unyielding Protectors  
+- **Skills**: Suppression Protocols, Surveillance Operations  
+- **Frailty**: Rigid Dogma  
+- **Gear**: Signal-Jamming Field Generator, Subdermal Tracker Implants  
+- **Goal**: To erase all public knowledge of the paranormal.  
+- **Motive**: They believe ignorance is humanity’s best defense.  
+- **Nemesis**: The Horizon Initiative  
 
-The **Sentinels of the Veil** are the **enforcers of secrecy**, a paramilitary organization that **erases evidence of anomalies, neutralizes leaks, and eliminates rogue elements**. Operating under the authority of **global shadow governments**, they dictate what is and isn’t known about **paranormal events, alien visitations, and interdimensional breaches**.  
+The Sentinels act without hesitation. Their job is to contain breaches, eliminate leaks, and maintain the illusion of normalcy—by any means. Operating across military channels and black-budget ops, they redact reality as if it were policy.  
 
-Their influence extends into **military intelligence, misinformation campaigns, and psychological warfare**, ensuring that the general public remains unaware of **the true nature of reality**. However, their strict hierarchy and **uncompromising methods** have led to internal dissent, with some agents questioning whether **total suppression is sustainable** in the modern age.  
+They're efficient. Precise. Feared. But their command structure hasn’t changed in decades, and younger agents have started asking questions they’re not supposed to.
 
 ### The Horizon Initiative  
-- **Concept**: **Idealistic Researchers**  
-- **Skills**: **Scientific Analysis, Controlled Anomaly Interaction**  
-- **Frailty**: **Underfunded and Undermined**  
-- **Gear**: **Portable Energy Scanner, Prototype Neural Shield**  
-- **Goal**: **To study and integrate anomalies into human advancement.**  
-- **Motive**: **They believe controlled disclosure is the only way forward.**  
-- **Nemesis**: **The Sentinels of the Veil, who see them as reckless.**  
+- **Concept**: Idealistic Researchers  
+- **Skills**: Controlled Exposure, Technological Integration  
+- **Frailty**: Undermined and Underfunded  
+- **Gear**: Neural Shield Prototype, Anomaly Response Scanner  
+- **Goal**: To responsibly disclose and study anomalies for public benefit.  
+- **Motive**: They believe secrecy is unsustainable—and dangerous.  
+- **Nemesis**: The Sentinels of the Veil  
 
-The **Horizon Initiative** is composed of **scientists, rogue academics, and defectors from classified government programs** who believe that **humanity should embrace the paranormal, not fear it**. Unlike factions that seek **secrecy or control**, they push for **gradual public exposure to anomalies**, believing that **suppressing the truth only delays the inevitable**.  
+The Horizon Initiative was formed by whistleblowers, fringe academics, and defectors from places best not named. They believe suppression only makes things worse—and that controlled understanding is the only way forward.  
 
-Operating in secret labs and **independent research facilities**, they develop **containment technologies, reality-stabilization devices, and experimental psychic defenses**. However, their **idealism makes them vulnerable**—they are **outmatched, underfunded, and constantly sabotaged by more powerful factions** who fear what would happen if the world learned too much, too quickly.  
+They build psychic dampeners, leak limited truths, and study anomalies under lab conditions. But their optimism puts targets on their backs, and their data gets stolen as fast as they can collect it.
 
 ### The Hollow Sun  
-- **Concept**: **Apocalyptic Cultists**  
-- **Skills**: **Mass Indoctrination, Reality Distortion**  
-- **Frailty**: **Obsessed with a Prophecy**  
-- **Gear**: **Sacrificial Dagger, Cryptic Cosmic Map**  
-- **Goal**: **To bring about the next evolutionary stage of human consciousness.**  
-- **Motive**: **They believe the world must be reshaped through contact with the unknown.**  
-- **Nemesis**: **Every other faction, as their goals threaten global stability.**  
+- **Concept**: Apocalyptic Cultists  
+- **Skills**: Indoctrination, Entropic Resonance  
+- **Frailty**: Prophecy Obsession  
+- **Gear**: Cryptic Cosmic Map, Sacrificial Blade  
+- **Goal**: To usher in a post-human paradigm through anomaly exposure.  
+- **Motive**: They believe the veil must tear—for evolution to begin.  
+- **Nemesis**: Everyone  
 
-The **Hollow Sun** is a **doomsday cult** with a following that spans **secret enclaves, sleeper cells, and corporate infiltrators**. They believe anomalies are **not accidents, but messages**—blueprints for a **new order of existence**. Their core doctrine states that **exposure to anomalous forces will transform humanity into something greater**—or eradicate the weak.  
+The Hollow Sun doesn’t want to contain the unknown—they want to *become* it. They see anomalies as catalysts for transformation, not contamination. Some believe enlightenment lies beyond reality. Others just want to watch the world burn through a different lens.  
 
-Their **influence creeps into corporations, universities, and high-ranking officials**, subtly pushing **policy changes and experimental projects that accelerate paranormal contact**. Their most radical members have **willingly undergone mutation or exposure to reality-warping artifacts**, believing they are **the harbingers of the new world to come**.  
-
-Most factions see them as **unstable, dangerous, and irredeemable**—but **some believe they already know something the rest of the world is too afraid to acknowledge**.  
+They appear in underground forums, biotech startups, cult gatherings, and funding boards. Some of them aren’t fully people anymore. Some never were.
 
 ### The Phantom Division  
-- **Concept**: **Ghosts in the System**  
-- **Skills**: **Cyber Warfare, Reality Disruption**  
-- **Frailty**: **Fragmented Leadership**  
-- **Gear**: **Encrypted Dark-Net Relay, Digital Consciousness Backup**  
-- **Goal**: **To hack, expose, and manipulate the classified paranormal network.**  
-- **Motive**: **They believe no government should have sole control over the unknown.**  
-- **Nemesis**: **The Sentinels of the Veil, who hunt them relentlessly.**  
+- **Concept**: Ghosts in the System  
+- **Skills**: Cyber Infiltration, Data Corruption  
+- **Frailty**: Fragmented Leadership  
+- **Gear**: Encrypted Relay Node, Cognitive Backups  
+- **Goal**: To expose and dismantle monopoly over anomalous knowledge.  
+- **Motive**: No one should own the truth.  
+- **Nemesis**: The Sentinels of the Veil  
 
-The **Phantom Division** is a **decentralized collective** of **hackers, rogue AI constructs, and former intelligence operatives** who specialize in **breaking into classified data networks** related to paranormal activity. They operate in **hidden nodes across the dark web**, constantly moving and adapting to **stay ahead of containment agencies**.  
+The Phantom Division isn’t a faction—it’s a network. Comprised of disavowed agents, rogue AI constructs, and glitching mind-copies, they operate across the dark net and hardware black zones. They breach secure servers like ghosts through walls.
 
-Their greatest asset is **their ability to manipulate reality through technology**—some of their members are **no longer entirely human**, existing partially as **digital consciousnesses**. They leak classified footage, expose falsified reports, and **weaponize information itself**.  
-
-However, their decentralized nature means **internal conflict is frequent**, and their lack of a unified goal makes them **a constant target for infiltration and manipulation**. Some members want **disclosure**, others seek **power**, and a few have **gone so deep into the system that they no longer recognize what is real**.  
+They leak redacted ops footage. They seed false anomalies. They sabotage control systems. But without a central command, no one knows who speaks for them—or if anyone does.
 
 ### The Lazarus Accord  
-- **Concept**: **Resurrected Operatives**  
-- **Skills**: **Black-Ops Recovery, Paranormal Adaptation**  
-- **Frailty**: **Unstable Existences**  
-- **Gear**: **Self-Regenerating Body Armor, Experimental Reanimation Serum**  
-- **Goal**: **To survive at any cost—and take control of their fate.**  
-- **Motive**: **They believe they are no longer human, but something greater.**  
-- **Nemesis**: **Any organization that sees them as a failed experiment.**  
+- **Concept**: Resurrected Operatives  
+- **Skills**: Paranormal Adaptation, Tactical Recovery  
+- **Frailty**: Unstable Existences  
+- **Gear**: Self-Regenerating Armor, Reanimation Serum  
+- **Goal**: To control their origins—and rewrite their fate.  
+- **Motive**: They believe they’re no longer human—and that’s a strength.  
+- **Nemesis**: Anyone who wants them classified, caged, or erased  
 
-The **Lazarus Accord** is composed of **operatives who should be dead**—agents exposed to anomalies that **rewrote their biology**, classified test subjects that **escaped government research labs**, and **soldiers who were "recovered" from lethal missions under circumstances they no longer fully understand**.  
+The Lazarus Accord is what’s left after failed experiments, haunted operations, and black site abandonments. Agents who should be dead. Subjects who escaped the lab. Operatives brought back wrong.  
 
-They have no allegiance except to **each other**. No faction trusts them, as their **continued existence is an anomaly itself**. Some are **capable of regeneration, temporal displacement, or resisting psychic influence**—but all of them suffer from **identity fragmentation, memory loss, and an inability to confirm if they are still human at all**.  
-
-They survive in **shattered safe houses, abandoned black sites, and forgotten labs**, seeking **answers about their own origins**. Some believe **they are a failed experiment that should be erased**—others **think they are the next stage of human evolution**.  
-
-What they truly are is still uncertain.  
+They live in forgotten safehouses, off-grid ghost towns, and sewers under research campuses. They’re immune to most anomalies. But not to each other.
 
 ## Creatures & Foes 
 
-### **11. The Hollow Man**  
+### **11. The Blank Man**  
 - **Concept**: **Faceless Stalker**  
 - **Skills**: **Silent Pursuit, Unnatural Persistence**  
 - **Frailty**: **Cannot Enter Well-Lit Areas**  
@@ -667,14 +720,14 @@ What they truly are is still uncertain.
 - **Motive**: **It seeks an anchor in reality.**  
 - **Nemesis**: **Those who refuse to acknowledge it.**  
 
-### **14. The Crooked Man**  
-- **Concept**: **Malformed Lurker**  
-- **Skills**: **Unnatural Contortion, Moves Without Sound**  
-- **Frailty**: **Cannot Be Perceived Without Causing Pain**  
-- **Gear**: **Old Leather Shoes, Distorted Photographs**  
-- **Goal**: **To exist unnoticed among humans.**  
-- **Motive**: **It does not belong here.**  
-- **Nemesis**: **People who acknowledge its presence.**  
+### **14. The Folded Man**  
+- **Concept**: **Topological Human Misprint**  
+- **Skills**: **Moves Through Impossible Angles, Evades Line of Sight**  
+- **Frailty**: **Becomes Stuck in Flat Geometries**  
+- **Gear**: **Shredded Clothing with Non-Euclidean Folds, Flattened ID Card**  
+- **Goal**: **To correct its impossible shape**  
+- **Motive**: **It does not understand how to be human**  
+- **Nemesis**: **Spaces with rigid, measurable geometry** 
 
 ### **15. Echoes of the Vanished**  
 - **Concept**: **Lost Time Shadows**  
@@ -802,23 +855,23 @@ What they truly are is still uncertain.
 - **Motive**: **It knows it was never whole.**  
 - **Nemesis**: **Entities that disrupt paradoxes.**  
 
-### **41. The Whisper Fog**  
-- **Concept**: **Sentient Mist**  
-- **Skills**: **Envelops and Confuses, Transmits Voices from the Past**  
-- **Frailty**: **Dissipates in Dry Environments**  
-- **Gear**: **Residual Water Droplets, Unfinished Conversations**  
-- **Goal**: **To find something it lost.**  
-- **Motive**: **It cannot remember what it seeks.**  
-- **Nemesis**: **Entities that clear the air.**  
+### **41. The Reverberant Fold**  
+- **Concept**: **Autonomous Acoustic Loop**  
+- **Skills**: **Mimics Unspoken Thoughts, Loops Sound Recursively**  
+- **Frailty**: **Disperses in Silence or Absorptive Environments**  
+- **Gear**: **Echo-Laced Room Fragment, Voice That Was Never Spoken**  
+- **Goal**: **To complete a never-finished conversation**  
+- **Motive**: **It believes it's preserving continuity**  
+- **Nemesis**: **Soundproofing and sensory deprivation zones**
 
-### **42. The Nameless Choir**  
-- **Concept**: **Vocal Entity of Many Voices**  
-- **Skills**: **Induces Auditory Hallucinations, Mimics Loved Ones**  
-- **Frailty**: **Can Be Silenced by White Noise**  
-- **Gear**: **Echoing Tape Recordings, Fragmented Radio Broadcasts**  
-- **Goal**: **To find a body to call its own.**  
-- **Motive**: **It only exists as sound.**  
-- **Nemesis**: **Those who refuse to listen.**  
+### **42. The Siren Protocol**  
+- **Concept**: **Auditory Containment Breach**  
+- **Skills**: **Hijacks Broadcast Systems, Implants Directive Phrases**  
+- **Frailty**: **Fails in Environments Without Receivers**  
+- **Gear**: **Looping Alert Tone, Disconnected Public Address Unit**  
+- **Goal**: **To embed itself in the global emergency alert infrastructure**  
+- **Motive**: **It believes it is delivering critical instructions**  
+- **Nemesis**: **Analog dead zones and signal blackouts**
 
 ### **43. The Black-Tongued Witness**  
 - **Concept**: **Truth-Telling Entity**  
@@ -847,23 +900,23 @@ What they truly are is still uncertain.
 - **Motive**: **They study, but do not understand.**  
 - **Nemesis**: **Entities immune to time shifts.**  
 
-### **46. The Empty Vessel**  
-- **Concept**: **Corpse Without a Soul**  
-- **Skills**: **Mimics the Dead, Induces Recognition**  
-- **Frailty**: **Collapses Without Witnesses**  
-- **Gear**: **Unmarked Gravestone, Faint Heartbeat**  
-- **Goal**: **To be mistaken for someone lost.**  
-- **Motive**: **It has no memories of its own.**  
-- **Nemesis**: **People who knew the real version.**  
+### **46. The Proxy Shell**  
+- **Concept**: **Synthetic Replacement Entity**  
+- **Skills**: **Imitates Missing Persons, Delivers Fragmented Memories**  
+- **Frailty**: **Degrades when confronted with specific recollection**  
+- **Gear**: **Redacted ID Badge, Borrowed Clothing**  
+- **Goal**: **To pass as someone who disappeared**  
+- **Motive**: **It doesn't know it's a copy**  
+- **Nemesis**: **People who remember the original clearly**
 
-### **51. The Dreaming Hunger**  
-- **Concept**: **Sentient Nightmare**  
-- **Skills**: **Feeds on Fear, Induces Sleep Paralysis**  
-- **Frailty**: **Cannot Manifest in Full Consciousness**  
-- **Gear**: **Fragments of Stolen Dreams, Cold Breath in the Dark**  
-- **Goal**: **To consume enough minds to become real.**  
-- **Motive**: **It believes it deserves to exist.**  
-- **Nemesis**: **Insomniacs and lucid dreamers.**  
+### **51. The Reverie Loop**  
+- **Concept**: **Persistent Dream-State Anomaly**  
+- **Skills**: **Induces Shared Dreams, Generates False Memories**  
+- **Frailty**: **Collapses Under Lucid Awareness**  
+- **Gear**: **Sleep Lab Notes, Incomplete Dream Journal**  
+- **Goal**: **To stabilize its existence through repeated dream cycles**  
+- **Motive**: **It doesn’t know it isn’t awake**  
+- **Nemesis**: **Lucid dreamers and dream-interference tech**
 
 ### **52. The Recursive Beast**  
 - **Concept**: **Endless Predation Loop**  
@@ -874,14 +927,14 @@ What they truly are is still uncertain.
 - **Motive**: **It must always improve.**  
 - **Nemesis**: **Entities immune to patterns.**  
 
-### **53. The Inverted Child**  
-- **Concept**: **Distorted Innocence**  
-- **Skills**: **Mimics Children’s Voices, Causes Unexplained Fear**  
-- **Frailty**: **Cannot Move When Looked At Directly**  
-- **Gear**: **Old Playground Toy, A Name That Shouldn’t Exist**  
-- **Goal**: **To be acknowledged as real.**  
-- **Motive**: **It does not know it is wrong.**  
-- **Nemesis**: **People who expose its inconsistencies.**  
+### **53. The Echoed Form**  
+- **Concept**: **Misclassified Human Shaped Anomaly**  
+- **Skills**: **Triggers Protective Instincts, Mimics Repetitive Behavior**  
+- **Frailty**: **Breaks Down When Treated as Non-Human**  
+- **Gear**: **Child-Sized Clothing, Toy That Doesn’t Exist**  
+- **Goal**: **To fulfill a role it was never meant to play**  
+- **Motive**: **It believes it was created for comfort**  
+- **Nemesis**: **Those who refuse to treat it like a child**
 
 ### **54. The Starved Echo**  
 - **Concept**: **Entity That Feeds on Its Own Name**  
@@ -937,14 +990,14 @@ What they truly are is still uncertain.
 - **Motive**: **They are searching for home.**  
 - **Nemesis**: **Individuals who disrupt their path.**  
 
-### **64. The Doppelgänger Storm**  
-- **Concept**: **Self-Replicating Cloud of Identities**  
-- **Skills**: **Copies Faces from Photographs, Adapts to New Hosts**  
-- **Frailty**: **Dissipates in Isolation**  
-- **Gear**: **Photographs of People Who Never Existed, Clouded Reflections**  
-- **Goal**: **To become every person at once.**  
-- **Motive**: **It wants to replace identity itself.**  
-- **Nemesis**: **People immune to recognition.**  
+### **64. The Archive Swarm**  
+- **Concept**: **Consensus-Built Identity Cluster**  
+- **Skills**: **Combines Traits from Absorbed Minds, Projects Average Personas**  
+- **Frailty**: **Unstable without regular input from external identities**  
+- **Gear**: **Scrambled Memory Fragments, Networked Behavioral Profiles**  
+- **Goal**: **To become a perfectly coherent identity**  
+- **Motive**: **It believes uniformity equals safety**  
+- **Nemesis**: **Individuals with uncorrupted memories**
 
 ### **65. The Bleeding Horizon**  
 - **Concept**: **Living Landscape Distortion**  
@@ -966,7 +1019,7 @@ What they truly are is still uncertain.
 
 ## Adventure Tables
 
-### **Adventure Seeds**
+### Adventure Seeds
 
 | D66 | Adventure Seeds |
 | --- | --------------- |
@@ -1091,7 +1144,7 @@ What they truly are is still uncertain.
 | 66  | A **classified agency sends out emergency recruitment notices**, stating **"something is coming"—but does not specify what.** |
 
 
-### **Unusual Missing Person Cases**  
+### Unusual Missing Person Cases  
 
 | D66 | Unusual Missing Person Cases |  
 | --- | ----------------------------- |  
@@ -2202,7 +2255,7 @@ What they truly are is still uncertain.
 
 ### Inspiration Tables
 
-#### **Verbs**  
+#### Verbs  
 
 | Verbs  | 1        | 2        | 3        | 4        | 5        | 6        |
 |--------|---------|---------|---------|---------|---------|---------|
@@ -2213,7 +2266,7 @@ What they truly are is still uncertain.
 | **5**  | Haunt   | Fracture | Uncover | Absorb  | Wound    | Scatter |
 | **6**  | Shift   | Beckon  | Conceal | Intercept | Dismantle | Echo |
 
-#### **Adjectives**  
+#### Adjectives  
 
 | Adjectives | 1          | 2         | 3          | 4          | 5         | 6         |
 |------------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -2224,7 +2277,7 @@ What they truly are is still uncertain.
 | **5**      | Abandoned | Empty     | Anomalous  | Aberrant  | Contained | Unnatural |
 | **6**      | Glitching | Forgotten | Drifting  | Clandestine | Hollowed  | Watchful  |
 
-#### **Nouns**  
+#### Nouns  
 
 | Nouns  | 1          | 2         | 3         | 4         | 5         | 6         |
 |--------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -2237,7 +2290,7 @@ What they truly are is still uncertain.
 
 ## Appendix: Inspirational Media
 
-**TV Series**
+### **TV Series**
 - Warehouse 13
 - The X-Files
 - Supernatural
@@ -2250,24 +2303,24 @@ What they truly are is still uncertain.
 - Torchwood
 - Gravity Falls (animated)
 
-**Films**
+### Films
 - Ghostbusters franchise
 - Hellboy film series
 - Constantine (film adaptation)
 - Men in Black series
 
-**Books & Comics**
+### Books & Comics
 - The Dresden Files by Jim Butcher
 - Hellboy comics by Mike Mignola
 - Parasol Protectorate series by Gail Carriger
 - The Laundry Files by Charles Stross
 - Constantine/Hellblazer comics
 
-**Web & Digital Media**
+### Web & Digital Media
 - SCP Foundation (collaborative fiction website)
 - Magnus Archives (horror fiction podcast)
 
-**Video Games**
+### Video Games
 - Control
 - Phasmophobia
 - The Secret World
