@@ -2,11 +2,14 @@
 
 ## Setting Information
 
-- Time period: The action adventure genre can take place in different time periods, ranging from ancient history to the present day. Some popular time periods include the 1930s and 1940s, and the present day.
-- Location: The location of the game can vary greatly, from remote jungles and deserts to busy cities and ancient ruins. Locations can be inspired by real-world locations or entirely fictional ones.
-- Historical and cultural context: The setting of an action adventure game can draw inspiration from real historical events, legends, and cultures. For example, the game could feature references to ancient civilizations, lost artifacts, and mysterious artifacts.
-- Technology: Depending on the time period, the setting may feature various levels of technology. For example, in a game set in the 1930s, technology may be limited, while a game set in the present day may feature advanced technology like smartphones and GPS.
-- Political climate: The political climate of the setting can also play a role in the game. For example, a game set in a war-torn country might feature political and military conflicts, while a game set in a peaceful country might focus more on adventure and discovery.
+- The world is a shifting backdrop of peril and wonder — from vine-choked temples to neon-lit rooftops, every place hides a map, a myth, or a man with a gun.
+- The time is flexible, but always restless — the roaring 1930s, the tense Cold War, the tangled present, each era offering its own chaos wrapped in charm.
+- The setting moves fast — remote islands, cursed tombs, desert bazaars, ancient strongholds, forgotten ruins beneath bustling metropolises — each one waiting to be disturbed.
+- History lingers like smoke — ancient empires, vanished cults, whispered legends and forbidden truths buried under sand, ice, or bureaucracy.
+- Cultures clash and intertwine — explorers, thieves, scholars, mercenaries — each chasing glory, gold, or ghosts, often in someone else’s homeland.
+- Technology sets the pace — radios, pistols, and climbing gear in one tale; drones, satellites, and encrypted vaults in another. The tools change, the thrill remains.
+- Conflict brews behind every border — lost wars, secret pacts, corporate meddling, crumbling regimes — the world never sits still, and power is always shifting.
+- What matters is the chase — the relic, the rescue, the revelation — and the cost of catching it.
 
 ## Character Traits
 

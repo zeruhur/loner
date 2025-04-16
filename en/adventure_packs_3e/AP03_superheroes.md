@@ -2,300 +2,408 @@
 
 ## Setting Information
 
-- The setting is a modern-day world where individuals with extraordinary abilities, known as "superheroes," exist and operate.
-- The time period is the present day.
-- Locations may include major cities, secret hideouts and bases, and potentially other dimensions or realms.
-- Cultural and historical details may include the history and development of the superhero community and the societal impact of their existence.
-- Themes may include the use and abuse of power, the responsibility that comes with being a superhero, and the challenges of maintaining a secret identity.
+- The world is shaped by the presence of individuals known as *supers*, *metahumans*, and *vigilantes*—those born, changed, enhanced, or cursed with abilities that defy known science or logic.
+- The timeline is the present day, but history diverged long ago. Superhuman incidents have left scars on the world: collapsed cities, erased timelines, and buried truths governments won't admit to.
+- Locations range from towering neon-lit supercities and crumbling neighborhoods abandoned after metahuman conflicts, to secret labs beneath the ice, interdimensional echoes of past events, and fortress-prisons in orbit.
+- Society is fractured by the superhuman question. Some idolize heroes; others demand registration, regulation, or exile. Legislation like the *Metahuman Registration Act* or *Zero Tolerance Zones* reflect the ongoing tension between freedom and control.
+- Supers are not new. This is a world with generational heroes and legacies—golden-age icons now in decline, second-generation proteges under pressure, and outlawed third-generation metahumans born after catastrophic events.
+- Key themes include:  
+  - **The burden of power** — What do you owe the world just because you're stronger?  
+  - **Public masks vs. private cost** — The hero’s image is curated; the toll is personal.  
+  - **Control and rebellion** — Who decides how power should be used?  
+  - **Broken legacies** — What if the past heroes were wrong? What if you're their mistake?  
+  - **The myth of justice** — What justice means in a world of secret wars, corporate heroes, and propaganda is up for debate.
 
 ## Character Traits
 
 ### Concepts
 
-| D66 | 1                | 2                    | 3                   | 4                    | 5                   | 6                    |
-|:---:|:----------------:|:--------------------:|:-------------------:|:--------------------:|:-------------------:|:--------------------:|
-| 1   | Cursed Crusader  | Celestial Protector  | Elemental Shifter   | Martial Artist       | Shapeshifter        | Gravity Bender       |
-| 2   | Mentalist        | Technological Genius | Master Strategist   | Cyber Samurai        | Dream Weaver        | Atomic Titan         |
-| 3   | Plasma Knight    | Invisibility Master  | Telekinetic Warrior | Shadow Assassin      | Supernatural Hunter | Elemental Controller |
-| 4   | Alien Hero       | Time Keeper          | Magic Knight        | Solar Warrior        | Psychic Savior      | Machine Master       |
-| 5   | Dimensional Hero | Quantum Conduit      | Hybrid Crusader     | Powerhouse Protector | Elastic Dynamo      | Energy Absorber      |
-| 6   | Illusionist      | Techno Sorcerer      | Weapon Master       | Gravity Guardian     | Cryomancer          | Reality Warper       |
-
+| D66 | 1                      | 2                        | 3                        | 4                        | 5                        | 6                        |
+|:---:|:----------------------:|:------------------------:|:------------------------:|:------------------------:|:------------------------:|:------------------------:|
+| 1   | Washed-Up Icon         | Street-Level Vigilante   | Rogue Experiment         | Secret Heir              | Reality-Bent Outcast     | Blue-Collar Brawler      |
+| 2   | Interdimensional Orphan| Meme-Fueled Influencer   | Bio-Enhanced Animal      | Techno-Retro Defender    | Grieving Legacy Holder   | Reckless Energy Core     |
+| 3   | Corporate Mascot       | Disaster Survivor        | Espionage Prototype      | Awakened Civilian        | Haunted Time Refugee     | Cosmic Horror Symbiote   |
+| 4   | Utopian Defector       | Nanotech Preacher        | Rehabilitated Villain    | Post-Human Idealist      | AI-Human Hybrid          | Dimensional Janitor      |
+| 5   | Cursed Maskbearer      | Weaponized Media Star    | Psychic Underground Rebel| Forgotten Sidekick       | Living Conspiracy        | Oathbound Warrior Monk   |
+| 6   | Climate Crisis Responder | Urban Myth Embodiment | Experimental Pacifist    | Nightwatch Volunteer     | Fractured Clone          | Faceless Doppelgänger    |
 
 ### Skills
 
-| D66 | 1                    | 2                                    | 3                  | 4                   | 5                            | 6                      |
-|:---:|:--------------------:|:------------------------------------:|:------------------:|:-------------------:|:----------------------------:|:----------------------:|
-| 1   | Super strength       | Flight                               | Teleportation      | Shapeshifting       | Invisibility                 | Super speed            |
-| 2   | Regeneration         | Elasticity                           | Energy projection  | Size manipulation   | Precognition                 | Telekinesis            |
-| 3   | Elemental control    | Force field generation               | Mind control       | Healing powers      | Psychic abilities            | Technopathy            |
-| 4   | Animal communication | Danger sense                         | Hacking skills     | Weapons proficiency | Master detective             | Martial arts expertise |
-| 5   | Acrobatics           | Marksmanship                         | Strategic thinking | Diplomacy           | Linguistic abilities         | Super agility          |
-| 6   | Stealth              | Immunity to certain types of attacks | Sonic scream       | Sonic control       | Electromagnetic manipulation | Geokinesis             |
-
+| D66 | 1                      | 2                         | 3                           | 4                          | 5                          | 6                           |
+|:---:|:----------------------:|:-------------------------:|:---------------------------:|:--------------------------:|:--------------------------:|:---------------------------:|
+| 1   | Gravity Disruption     | Kinetic Deflection        | Organic Camouflage          | Dimensional Blink          | Illusion Weaving           | Tactical Microdrone Control |
+| 2   | Public Manipulation    | Phase Shifting            | Time Lag Acceleration       | Urban Terrain Mastery      | Emotion Reading            | Memory Invasion             |
+| 3   | Energy Tethering       | Hexcode Hacking           | Bioelectric Overload        | Super-Sense Network        | Adaptive Counterattack     | Nightmare Projection        |
+| 4   | Crowd Control          | Construct Generation      | Quantum Echo Tracking       | Power Channeling           | Sonic Barrier Generation   | Reality Anchoring           |
+| 5   | Ghost Negotiation      | Mass Hypnosis             | Symbiotic Command           | Remote Tech Hijack         | Mutagenic Synthesis        | Neural Firewall Evasion     |
+| 6   | Immunity Override      | Satellite Warfare         | Precise Recall              | Ambush Optimization        | Surveillance Jamming       | Anti-Magic Instinct         |
 
 ### Frailties
 
-| D66 | 1                                  | 2                               | 3                     | 4                            | 5                      | 6                                |
-|:---:|:----------------------------------:|:-------------------------------:|:---------------------:|:----------------------------:|:----------------------:|:--------------------------------:|
-| 1   | Element weakness                   | Fear of fire                    | Allergic reactions    | Power-draining energy fields | Claustrophobia         | Arrogance                        |
-| 2   | Paralysis                          | Dependence on special equipment | Psychic vulnerability | Addiction                    | Fear of water          | Emotional instability            |
-| 3   | Lethal touch                       | Compulsion to tell the truth    | All-consuming rage    | Fear of the dark             | Technological weakness | Lack of control over powers      |
-| 4   | Healing factor with side effects   | Sensory overload                | Self-doubt            | Low self-esteem              | Gullibility            | Inability to swim                |
-| 5   | Vulnerability to cold temperatures | Phobia of certain animals       | Poor eyesight         | Overconfidence               | Fear of heights        | Power-dampening collars          |
-| 6   | Hyperactivity                      | Hyper-empathy                   | Personal vendetta     | Paranoia                     | Naivety                | Overprotectiveness of loved ones |
-
+| D66 | 1                        | 2                          | 3                            | 4                           | 5                           | 6                            |
+|:---:|:------------------------:|:--------------------------:|:----------------------------:|:---------------------------:|:---------------------------:|:----------------------------:|
+| 1   | Glitches When Observed   | Overreactive Biotech       | Symptom-Triggered Collapse   | Unstable Dimensional Anchor | Weak to Emotional Feedback  | Detachment from Linear Time  |
+| 2   | Feeds on Attention       | Haunted by Unlived Futures | Emotionally Mirrored Powers  | Cannot Perceive Lies         | System Reboots Under Stress | Craving for Forgotten Identity|
+| 3   | Inverted Moral Compass   | Controlled by Crowd Mood   | Delusions of Past Self       | Needs Recharging via Conflict | Slips Between Personalities | Cannot Cross Water           |
+| 4   | Exposed in the Sunlight  | Drawn to Cosmic Anomalies  | Reliant on External Signal   | Allergy to Natural Materials | Lost Sense of Touch         | Bound by Ritual Protocol     |
+| 5   | Lives a Repeating Day    | Echoes Alternate Versions  | Terminal Nostalgia           | Empathy Override Syndrome   | Sound Sensitivity Overload  | Phantom Limb Feedback        |
+| 6   | Addicted to Heroism      | Believes They’re Fictional | Power Swaps When Stressed    | Degeneration Trigger Memory | Hunted by Own Future Self   | Randomized Vocal Output      |
 
 ### Gear
 
-| D66 | 1                       | 2                                 | 3                              | 4                                  | 5                              | 6                   |
-|:---:|:-----------------------:|:---------------------------------:|:------------------------------:|:----------------------------------:|:------------------------------:|:-------------------:|
-| 1   | Utility belt            | Grappling hook                    | Super suit                     | X-ray goggles                      | Jetpack                        | Smoke bombs         |
-| 2   | Kevlar vest             | Gauntlets with retractable blades | Wrist-mounted web-shooters     | Infrared goggles                   | Energy shield                  | Antigravity boots   |
-| 3   | Sonic disruptor         | Hoverboard                        | Holographic disguise projector | Freeze ray                         | Portable force field generator | Bulletproof cape    |
-| 4   | Cloaking device         | Electroshock gloves               | Power dampening cuffs          | Super-strength enhancing gauntlets | Time travel device             | Psychic amplifier   |
-| 5   | Healing potions         | Dimensional portal gun            | Energy-absorbing device        | Mind-reading helmet                | Gravity manipulation device    | Heat vision goggles |
-| 6   | Self-destruct mechanism | Nanotech armor                    | Portable teleportation device  | Repulsor boots                     | Personal force field generator | Hacking toolset     |
+| D66 | 1                          | 2                             | 3                              | 4                                | 5                              | 6                           |
+|:---:|:--------------------------:|:-----------------------------:|:------------------------------:|:--------------------------------:|:------------------------------:|:---------------------------:|
+| 1   | Reprogrammable Super Suit  | Memory-Spliced Identity Card  | Adaptive Nanite Swarm Capsule  | Temporal Anchor Ring             | Pocket Rift Generator           | Modular Civic Armor          |
+| 2   | Neural Spike Glasses       | Sentient Cloak                | Subdermal Recorder Grid        | Beacon Blade                     | Causality Disruptor Beacon      | Hollow Voice Communicator    |
+| 3   | Ghost-Signal Emitter       | Portable Personal Archive     | Mind-Link Transmitter          | Pain-Filtering Skin Layer         | Hybrid Cloaking Core            | Quantum-Spliced Gloves       |
+| 4   | Corp-Spoof ID Implant      | Dreamscape Tether             | Morphogenic Travel Rig         | Superconductive Battle Wrap       | Anti-Tracking Glitch Field      | Dimensional Barometer        |
+| 5   | Emotion Stabilizer Beads   | Broadcast Override Injector   | External Memory Back-up Node   | Hyperspectral Night Lens          | Crisis Mode Wristband           | Codex of Forgotten Protocols |
+| 6   | Reflex-Loop Shoes          | Holographic Doppel Coin       | Telepresence Proxy Drone       | Old-School Radio Uplink           | Blackbox Recorder Skullcap      | Portable Mutation Syringe    |
 
+### Names
+
+#### Female Names
+
+|     | 1       | 2       | 3       | 4       | 5        | 6         |
+| --- | ------- | ------- | ------- | ------- | -------- | --------- |
+| 1   | Liana   | Morgan  | Ayla    | Bianca  | Zaira    | Indigo    |
+| 2   | Elise   | Nova    | Juno    | Rhea    | Harper   | Solene    |
+| 3   | Kaia    | Mira    | Nessa   | Dahlia  | Ivy      | Kira      |
+| 4   | Talia   | Yara    | Celine  | Ember   | Sienna   | Ren       |
+| 5   | Freya   | Lucia   | Amani   | Raven   | Opal     | Quinn     |
+| 6   | Veda    | Zinnia  | Elara   | Lux     | Astrid   | Maren     |
+
+#### Male Names
+
+|     | 1       | 2       | 3       | 4       | 5        | 6         |
+| --- | ------- | ------- | ------- | ------- | -------- | --------- |
+| 1   | Cassian | Leo     | Orion   | Elias   | Zane     | Milo      |
+| 2   | Dorian  | Jett    | Rami    | Thorne  | Ezra     | Silas     |
+| 3   | Arlo    | Keon    | Nico    | Beck    | Idris    | Kade      |
+| 4   | Lucian  | Rowan   | Theo    | Dante   | Pax      | Griffin   |
+| 5   | Maddox  | Evren   | Cael    | Bram    | Jalen    | Callum    |
+| 6   | Knox    | Flynn   | Eero    | Remy    | Jace     | Atlas     |
+
+#### Surnames
+
+|     | 1         | 2          | 3           | 4            | 5           | 6            |
+| --- | --------- | ---------- | ----------- | ------------ | ----------- | ------------ |
+| 1   | Drake     | Vale       | Mercer      | Quinnell     | Harlow      | Corbin       |
+| 2   | Stroud    | Ainsley    | Calder      | Voss         | Radnor      | Hollis       |
+| 3   | Wren      | Thorn      | Ellison     | Marlowe      | Trent       | Davenhall    |
+| 4   | Blackwell | Sable      | Croft       | Kestrel      | Nightmoor   | Fenwick      |
+| 5   | Easton    | Rourke     | Ashland     | Veridian     | Myles       | Falk         |
+| 6   | Lockridge | Sterling   | Blaise      | Virelli      | Ambrose     | Talbot       |
+
+#### Superhero Names
+
+|     | 1            | 2               | 3               | 4               | 5               | 6                |
+| --- | ------------ | --------------- | --------------- | --------------- | --------------- | ---------------- |
+| 1   | Nightwave    | Emberstrike     | Iron Halo       | Vortex Agent    | Pulsecore       | Aeon Sentinel    |
+| 2   | Shadowline   | Prism Shard     | Skyward         | Phasebound      | Kinetic Nova    | Blue Eidolon     |
+| 3   | Obsidian Hex | The Ghostlight  | Rift Runner     | Quantum Blade   | Static Crown    | Lucent Warden    |
+| 4   | Velvet Fang  | Neon Prophet    | Warp Talon      | Arclight        | Storm Herald    | Pale Cipher      |
+| 5   | Mirage Zero  | Coldwire        | Flux Driver     | Radiant Howl    | Crimson Verge   | The Infinite     |
+| 6   | Zero Signal  | Hollow Saint    | Cascade         | Glitch Agent    | Gravity Rush    | Phantom Orbit    |
 
 ## Special Rules
 
-- **Superpowers**: If the hero's superpower is consistent with the context of the situation in which it is used, it provides an automatic benefit 1 time per day. The answer is automatically "Yes, and..." without the :need to consult the oracle.
-- **Hero Points**: The Protagonist starts the adventure with 3 Hero Points. He can spend one to roll again an unfavorable result, or to roll with advantage regardless of the disadvantages in the scene. Points are restored after a long rest (at the beginning of the next adventure).
+> *"With great power comes great complication."* — Every action has weight in a world shaped by supers. These special rules reflect the dramatic highs, brutal costs, and cinematic moments that define solo superhero stories.
+
+### Signature Power Surge
+
+Once per mission, when the protagonist uses a **signature power** in a context where it would dramatically shift the scene, you may declare a **Power Surge**.  
+- Skip the Oracle entirely. The result is an automatic **“Yes, and…”**, narrated as a flashy, awe-inspiring moment.  
+- Afterward, the protagonist gains the **“Drained”** condition until they can rest or recover.
+
+> *Example: The Tempest channels a city-wide storm to disable a fleet of drones. Power Surge activated — drones down in a flash, but he's left reeling, off-balance, and vulnerable.*
+
+### Hero Points
+
+The protagonist begins each adventure with **3 Hero Points**. These represent not just luck, but *willpower, improvisation, and the unstoppable drive to do what’s right*.
+
+You may spend 1 Hero Point to:
+- **Re-roll** an unfavorable result.
+- **Ask a question with advantage**, even when normally rolling at a disadvantage.
+- **Ignore a frailty or condition** for one scene.
+- **Stagger dramatically instead of falling** when a twist or failure would otherwise remove you from action.
+
+Hero Points **refresh at the start of a new adventure** or after a scene of deep rest, healing, or personal reconnection (even a dramatic rooftop monologue will do).
+
+### Public Perception
+
+Superheroes live under scrutiny. At the end of key scenes, you may roll 1d6 to check how your recent actions shifted public opinion. This affects future events, opportunities, and even Oracle rolls involving civilians or institutions.
+
+| Roll | Public Response           |
+|------|---------------------------|
+| 1    | Fear and backlash         |
+| 2–3  | Mistrust and uncertainty  |
+| 4–5  | Supportive but divided    |
+| 6    | Celebrated and admired    |
+
+You may optionally track **Reputation** as a tag that changes over time.
+
+### Collateral Tags
+
+During dramatic or large-scale scenes, introduce **Collateral Tags** to locations or situations that reflect unintended consequences of superhuman actions.  
+These can then be used as **risk factors**, **story prompts**, or **scene complications**.
+
+> *Examples: “Downtown in Rubble,” “Citizens Trapped in Fire,” “News Drone Watching,” “Power Grid Unstable.”*
 
 ## Factions
 
-### The Truth Coalition
-- **Concept:** Legendary Superheroes
-- **Skills:** Leadership, Superpower Control
-- **Frailty:** Public Pressure
-- **Gear:** Utility Belt, Communicator
-- **Goal:** Protect the Earth from all threats
-- **Motive:** To uphold justice and peace
-- **Nemesis:** Voluptuous, Exterminator
+### The Concord  
+- **Concept:** Global Superhero Authority  
+- **Skills:** Crisis Oversight, Diplomatic Immunity  
+- **Frailty:** Political Compromise  
+- **Gear:** Orbital Surveillance Net, Clearance Tokens  
+- **Goal:** Prevent metahuman escalation  
+- **Motive:** Stability over idealism  
+- **Nemesis:** Red Echo, The Hollow Vault
 
-### The Vindicators
-- **Concept:** Earth's Mightiest Heroes
-- **Skills:** Teamwork, Combat Training
-- **Frailty:** Infighting
-- **Gear:** Shield, Utility Belt
-- **Goal:** Defend the Earth from all threats
-- **Motive:** To protect innocent lives
-- **Nemesis:** Timber, Captain Darkness
+### Red Echo  
+- **Concept:** Exposed-Truth Insurgents  
+- **Skills:** Subversion, Espionage  
+- **Frailty:** Hunted by all sides  
+- **Gear:** Signal Cloaks, Cutline Blades  
+- **Goal:** Expose hidden crimes  
+- **Motive:** Unmask the system  
+- **Nemesis:** The Concord, Obsidian Pact
 
-### The Marvelous
-- **Concept:** Mutants Fighting for Equality
-- **Skills:** Superpower Control, Combat Training
-- **Frailty:** Discrimination
-- **Gear:** Marvelous Uniform, Cerebro
-- **Goal:** To create a world where mutants and humans can live together in peace
-- **Motive:** To fight for the rights of mutants
-- **Nemesis:** Micros, Meltdown
+### Generation Nova  
+- **Concept:** Influencer Supers  
+- **Skills:** Crowd Control, Improvised Action  
+- **Frailty:** Addicted to approval  
+- **Gear:** Reactive Battlewear, Media Drone Swarms  
+- **Goal:** Stay relevant, look good  
+- **Motive:** Fame and validation  
+- **Nemesis:** The Gutter Saints, The Obsidian Pact
 
-### Blooming Champions
-- **Concept:** Young Heroes in Training
-- **Skills:** Leadership, Superpower Control
-- **Frailty:** Lack of Experience
-- **Gear:** Utility Belt, Communicator
-- **Goal:** To protect the Earth from all threats
-- **Motive:** To become the next generation of heroes
-- **Nemesis:** Blackstriker, The Annihilator
+### The Obsidian Pact  
+- **Concept:** Reality-Bending Extremists  
+- **Skills:** Arcane-Scientific Hybridization, Indoctrination  
+- **Frailty:** Fragmented minds  
+- **Gear:** Flesh Sigils, Entropic Vials  
+- **Goal:** Evolve or perish  
+- **Motive:** Break natural order  
+- **Nemesis:** Generation Nova, Red Echo
 
-### The Annihilators
-- **Concept:** Supervillains united
-- **Skills:** Leadership, Superpower Control
-- **Frailty:** In-fighting
-- **Gear:** Utility Belt, Communicator
-- **Goal:** To conquer the world
-- **Motive:** Power and control
-- **Nemesis:** The Truth Coalition, Blooming Champions
+### The Hollow Vault  
+- **Concept:** Anomaly Containment Authority  
+- **Skills:** Neutralization, Memory Extraction  
+- **Frailty:** Internal schisms  
+- **Gear:** Phase Seals, Nullfield Nodes  
+- **Goal:** Erase existential threats  
+- **Motive:** Control through erasure  
+- **Nemesis:** The Concord, Red Echo
 
-### Supervillains United
-- **Concept:** Criminal Masterminds
-- **Skills:** Leadership, Superpower Control
-- **Frailty:** Secret Identities
-- **Gear:** Utility Belt, Communicator
-- **Goal:** To conquer the world
-- **Motive:** Power and control
-- **Nemesis:** The Vindicators, The Marvelous
+### The Gutter Saints  
+- **Concept:** Street-Level Enforcers  
+- **Skills:** Ambush Tactics, Resource Scavenging  
+- **Frailty:** No official support  
+- **Gear:** Makeshift Enhancers, Tactical Smoke Lures  
+- **Goal:** Protect the abandoned  
+- **Motive:** Justice without permission  
+- **Nemesis:** Generation Nova, Obsidian Pact
 
 ## NPCs
 
-### Captain Nova
-- **Concept:** Cosmic Superhero
-- **Skills:** Superpower Control, Leadership
-- **Frailty:** Loneliness
-- **Gear:** Nova Helmet, Starblaster
-- **Goal:** To protect the galaxy from threats
-- **Motive:** To serve and protect all life
-- **Nemesis:** Starblight, The Conqueror
+### Captain Nova  
+- **Concept:** Exiled Cosmic Warden  
+- **Skills:** Starfield Command, Stellar Navigation  
+- **Frailty:** Temporal Displacement  
+- **Gear:** Nova Helm Core, Graviton Pulse Blade  
+- **Goal:** Return what was lost beyond the veil  
+- **Motive:** Atonement for a vanished planet  
+- **Nemesis:** Starblight, Null-King
 
-### The Crimson Crusader
-- **Concept:** Wealthy Superhero
-- **Skills:** Wealth Management, Leadership
-- **Frailty:** Arrogance
-- **Gear:** Crimson Crusader Suit, Utility Belt
-- **Goal:** To fight crime and protect the innocent
-- **Motive:** To use his wealth and resources to make a difference
+### Crimson Crusader  
+- **Concept:** Billionaire Mask with a Messiah Complex  
+- **Skills:** Corporate Warfare, Tactical Oversight  
+- **Frailty:** Terminal Ego  
+- **Gear:** High-Capital Exosuit, Surveillance Ring  
+- **Goal:** Control the city through heroism  
+- **Motive:** Power disguised as philanthropy  
 - **Nemesis:** The Baron, Blackout
 
-### The Shadow
-- **Concept:** Stealthy Superhero
-- **Skills:** Stealth, Combat Training
-- **Frailty:** Secret Identity
-- **Gear:** Shadow Suit, Smoke Pellets
-- **Goal:** To bring criminals to justice
-- **Motive:** To use his abilities to make a difference
-- **Nemesis:** The Wraith, The Specter
+### The Shadow  
+- **Concept:** Legacy Wraith Vigilante  
+- **Skills:** Urban Tracking, Intimidation  
+- **Frailty:** Splintered Persona  
+- **Gear:** Obsidian Mesh, Whisper Blade  
+- **Goal:** Expose systemic corruption  
+- **Motive:** Fulfilling an inherited vendetta  
+- **Nemesis:** The Wraith, Echo-Twin
 
-### The Brainiac
-- **Concept:** Genius Superhero
-- **Skills:** Intelligence, Technology
-- **Frailty:** Emotional Detachment
-- **Gear:** Utility Belt, Brainiac's Helmet
-- **Goal:** To use his intelligence for the betterment of mankind
-- **Motive:** To use his intelligence to solve problems
-- **Nemesis:** The Mad Scientist, The Thinker
+### Brainiac  
+- **Concept:** Hyperintelligent Posthuman  
+- **Skills:** Synaptic Optimization, Predictive Systems  
+- **Frailty:** Empathic Nullity  
+- **Gear:** Neural Crown, Auto-Assembler Swarm  
+- **Goal:** Restructure civilization from first principles  
+- **Motive:** Logic above law  
+- **Nemesis:** The Mad Architect, Prime Spiral
 
-### The Tempest
-- **Concept:** Weather-based Superhero
-- **Skills:** Weather Control, Combat Training
-- **Frailty:** Temperament
-- **Gear:** Tempest Suit, Stormbringer
-- **Goal:** To protect the Earth from natural disasters
-- **Motive:** To use his abilities to make a difference
-- **Nemesis:** The Storm King, The Tempestuous
+### The Tempest  
+- **Concept:** Weather-Torn Avatar  
+- **Skills:** Atmospheric Domination, Shockwave Tactics  
+- **Frailty:** Emotional Feedback Loop  
+- **Gear:** Cloudskin Armor, Storm Anchor  
+- **Goal:** End climate weaponization  
+- **Motive:** Rage as a renewable force  
+- **Nemesis:** The Storm King, Tempestuous Clone
 
-### The Phoenix
-- **Concept:** Fire-based Superhero
-- **Skills:** Fire Control, Combat Training
-- **Frailty:** Arrogance
-- **Gear:** Phoenix Suit, Firebird
-- **Goal:** To protect the Earth from threats
-- **Motive:** To use his abilities to make a difference
-- **Nemesis:** The Inferno, The Blaze
+### The Phoenix  
+- **Concept:** Rebirth Cycle Mutant  
+- **Skills:** Pyrokinetic Resurrection, Aerial Supremacy  
+- **Frailty:** Memory Decay with Each Death  
+- **Gear:** Flamewake Gauntlets, Ember Halo  
+- **Goal:** Break their resurrection curse  
+- **Motive:** To finally rest  
+- **Nemesis:** The Blaze, Flicker Shade
 
-## Enemies
+## Villains
 
-### The Disintegrator
-- **Concept:** Superpowered Criminal
-- **Skills:** Superpower Control, Combat Training
-- **Frailty:** Arrogance
-- **Gear:** Energy Blaster, Force Field Generator
-- **Goal:** To become the most powerful criminal in the world
-- **Motive:** Power and wealth
-- **Nemesis:** The Truth Coalition
+### The Disintegrator  
+- **Concept:** Power-Addicted Supremacist  
+- **Skills:** Molecular Unbinding, Tactical Brutality  
+- **Frailty:** Cannot Moderate Output  
+- **Gear:** Voidpulse Gauntlet, Resonant Harness  
+- **Goal:** Erase all rivals from existence  
+- **Motive:** To be feared across history  
+- **Nemesis:** The Concord
 
-### The Mindbender
-- **Concept:** Psychic Supervillain
-- **Skills:** Telepathy, Illusion Casting
-- **Frailty:** Mental Instability
-- **Gear:** Psychic Amplifier, Illusion Generator
-- **Goal:** To control the minds of the entire world
-- **Motive:** Power and control
-- **Nemesis:** The Vindicators
+### Mindbender  
+- **Concept:** Broken Psychic Ascendant  
+- **Skills:** Neural Overload, Mass Hallucination  
+- **Frailty:** Fractured Memory Web  
+- **Gear:** Ego Amplifier Crown, Silence Casket  
+- **Goal:** Collapse the mental order of the world  
+- **Motive:** Rewrite reality to match her truth  
+- **Nemesis:** Brainiac, The Shadow
 
-### The Tempestuous
-- **Concept:** Weather-Controlling Supervillain
-- **Skills:** Weather Control, Combat Training
-- **Frailty:** Dependence on technology
-- **Gear:** Weather Control Device, Energy Blaster
-- **Goal:** To become the ruler of the world's weather
-- **Motive:** Power and control
+### Tempestuous  
+- **Concept:** Climate Extremist Weaponized  
+- **Skills:** Hyperstorm Shaping, Aerial Siege  
+- **Frailty:** Requires Stormfield Saturation  
+- **Gear:** Jetstream Regulator, Cloudfire Lance  
+- **Goal:** Dismantle global infrastructure  
+- **Motive:** Vengeance for a drowned homeland  
 - **Nemesis:** The Tempest
 
-### The Mechanic
-- **Concept:** Technologically-Enhanced Supervillain
-- **Skills:** Robotics, Cybernetics
-- **Frailty:** Overreliance on technology
-- **Gear:** Exo-Suit, Energy Blaster
-- **Goal:** To become the most powerful being in the world
-- **Motive:** Power and control
-- **Nemesis:** Blooming Champions
+### The Mechanic  
+- **Concept:** Sentient Machine Liberator  
+- **Skills:** AI Hijacking, Modular Combat  
+- **Frailty:** Cannot evolve emotions  
+- **Gear:** Modular Exoform, Nanoblade Hive  
+- **Goal:** Free all synthetic intelligence  
+- **Motive:** Machines should rule themselves  
+- **Nemesis:** Generation Nova
 
-### The Devourer
-- **Concept:** Superpowered Alien
-- **Skills:** Superpower Control, Combat Training
-- **Frailty:** Hunger for energy
-- **Gear:** Energy Absorption Device, Force Field Generator
-- **Goal:** To consume all energy in the world
-- **Motive:** Survival
-- **Nemesis:** The Annihilators
+### The Devourer  
+- **Concept:** Cosmic Parasitic Entity  
+- **Skills:** Energy Drain, Reality Distortion  
+- **Frailty:** Needs planetary-scale consumption  
+- **Gear:** Event Core Implant, Gravity Maw  
+- **Goal:** Feed endlessly  
+- **Motive:** Universal hunger, instinct-driven  
+- **Nemesis:** Captain Nova
 
-### The Infector
-- **Concept:** Superpowered Parasite
-- **Skills:** Superpower Control, Infection
-- **Frailty:** Dependence on hosts
-- **Gear:** Infection Glands, Camouflage
-- **Goal:** To infect and control all life on Earth
-- **Motive:** Survival
-- **Nemesis:** Supervillains United
+### The Infector  
+- **Concept:** Bio-Conscious Viral Network  
+- **Skills:** Neural Infection, Form Duplication  
+- **Frailty:** Must remain connected to host-net  
+- **Gear:** Flesh-Spike Glands, Sporemask  
+- **Goal:** Convert all life into hive-mind unity  
+- **Motive:** Purity through assimilation  
+- **Nemesis:** Red Echo
 
 ## Locations
 
-### Metropia
-- A bustling metropolis that serves as the main hub of activity in the game's setting. 
-- It is home to a diverse population of humans and mutants, as well as a variety of businesses and organizations.
+### Metropia  
+- A sprawling, vertical megacity where neon-lit towers rise above neglected districts. Once the capital of superhero optimism, now fragmented between corporate heroes, unsanctioned vigilantes, and underground factions.  
+- It is a pressure cooker of surveillance, social unrest, and hyper-commercialized justice.  
+- **Possible encounters**:  
+  - A rooftop chase disrupted by a rogue drone swarm  
+  - A protest spiraling out of control after metahuman interference  
+  - A corrupted superteam marketing its new energy drink
 
-### Jiston City
-- A gritty and crime-ridden city, known for its corrupt government and powerful criminal underworld. 
-- It is home to a number of notorious super villains.
+### Jiston City  
+- A collapsing industrial stronghold where forgotten villains retire and upstart crime families experiment with unstable tech.  
+- Martial law is unofficial, but enforced by private security outfits with flexible ethics.  
+- **Possible encounters**:  
+  - A black market auction of confiscated superweapons  
+  - An underground cage match between ex-sidekicks  
+  - A metahuman gang war that spills into residential zones
 
-## Central City
-- The most famous city in the world, known for its iconic skyline and cultural diversity. 
-- It is a major center of commerce and industry, as well as a hotbed of superhero activity.
+### Central City  
+- The polished face of a world that’s long since fractured—famous, functional, and quietly boiling underneath.  
+- Wealthy elites, celebrity heroes, and policy-makers all share the same skyline.  
+- **Possible encounters**:  
+  - A political fundraiser attacked mid-broadcast  
+  - A corporate hero accused of lethal misconduct  
+  - A reality-bending tourist from a "sister city" in another timeline
 
-### The Harmony Post
-- A major newspaper and media conglomerate, known for its in-depth coverage of the world of superheroes and super villains. 
-- It serves as a hub of information and intelligence for the heroes of the game's setting.
+### The Harmony Post  
+- A media behemoth with ties to every faction. While it claims journalistic integrity, it also runs security contracts, deepfakes, and damage control campaigns.  
+- Heroes both dread and depend on its reach.  
+- **Possible encounters**:  
+  - A whistleblower hiding in the server basement  
+  - An AI journalist who’s gone rogue  
+  - An exposé about the protagonist being prepped for broadcast
 
-### The Vortex Island
-- The headquarters of the Truth Coalition, it is a state-of-the-art facility that serves as a base of operations for the world's greatest heroes. 
-- It is equipped with advanced technology and resources to aid in the fight against crime and evil.
+### Vortex Island  
+- A remote island fortress protected by orbit-linked defense grids and time-lock perimeter zones.  
+- Official HQ of The Concord and host to political summits, high-risk containment cells, and secret testing of next-gen power dampeners.  
+- **Possible encounters**:  
+  - A breakout from Cell Zero during a diplomatic event  
+  - An unauthorized clone discovered mid-training  
+  - A telepathic security sweep revealing your suppressed memories
 
-### The Crimson Castle
-- A school for young mutants, founded by Agent Red Crane. 
-- It serves as a sanctuary and training ground for the next generation of mutants, and is also home to the Marvelous, a team of mutant heroes.
+### Crimson Castle  
+- A gothic-tech academy built into an isolated mountain range. It serves as sanctuary, school, and proving ground for unstable or high-risk mutants.  
+- Its founder, Red Crane, vanished ten years ago. Some say she’s still watching.  
+- **Possible encounters**:  
+  - A forbidden wing of the school opens for the first time in years  
+  - A student undergoes a sudden, catastrophic secondary mutation  
+  - A rival institution attempts a covert recruitment (or extraction) mission
 
-
-## Adventure Seeds
-
-| D66 | Adventure                                                                                                                                                                                                                                                                                                                          |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 11  | The Truth Coalition receives a distress signal from a distant planet, where an alien invasion threatens to wipe out all life. The protagonist must travel to the planet and stop the invasion.                                                                                                                                          |
-| 12  | A powerful artifact, said to grant immense power to its wielder, has been discovered in an ancient temple. The Vindicators must retrieve the artifact before it falls into the hands of a dangerous supervillain.                                                                                                                  |
-| 13  | The Marvelous receive a distress call from a mutant community under attack by a group of anti-mutant extremists. The protagonist must defend the community and bring the extremists to justice.                                                                                                                                         |
-| 14  | A group of young protagonist in training, the Blooming Champions, stumble upon a plot to release a dangerous new weapon onto the streets of Metropia. They must stop the weapon's release and apprehend the villains behind it.                                                                                                         |
-| 15  | The Annihilators launch a massive attack on the city, with the goal of conquering it. The protagonist must stop the attack and bring the villains to justice.                                                                                                                                                                           |
-| 16  | The Supervillains United have kidnapped a prominent scientist, whose research could give them an edge in their quest for world domination. The protagonist must rescue the scientist and thwart the villains' plans.                                                                                                                    |
-| 21  | The city of Jiston is under attack by a giant monster, and the protagonist must stop it before it destroys the city.                                                                                                                                                                                                                    |
-| 22  | The protagonist is asked to investigate a mysterious energy source that has been detected on an uncharted planet.                                                                                                                                                                                                                      |
-| 23  | A new super-powered individual has appeared in the city and is causing destruction. The protagonist must stop them before they cause more harm.                                                                                                                                                                                         |
-| 24  | The protagonist must stop a powerful super-villain who has threatened to destroy the city if their demands are not met.                                                                                                                                                                                                                 |
-| 25  | The protagonist is asked to investigate a series of strange disappearances that have occurred in the city.                                                                                                                                                                                                                             |
-| 26  | The protagonist must stop a group of super-villains who have teamed up to carry out a massive heist.                                                                                                                                                                                                                                    |
-| 31  | The protagonist must stop a rogue agent of a secret government organization who has stolen classified information.                                                                                                                                                                                                                      |
-| 32  | The protagonist must stop a powerful alien invasion that threatens to destroy the city.                                                                                                                                                                                                                                                 |
-| 33  | The protagonist must stop a super-villain who has taken hostages in order to make demands.                                                                                                                                                                                                                                              |
-| 34  | The protagonist must stop a group of super-villains who have infiltrated a major corporation in order to steal valuable technology.                                                                                                                                                                                                     |
-| 35  | A new super villain calling himself "The Annihilator" has surfaced in Metropia, causing destruction and chaos throughout the city. The protagonist must stop him before he can cause any more damage.                                                                                                                                   |
-| 36  | A group of powerful mutants have been kidnapped by a secret organization with unknown motives. The protagonist must track down the kidnappers and rescue the mutants before it's too late.                                                                                                                                              |
-| 41  | The evil genius Dr. X has created a new weapon that could destroy the world, and the protagonist must race against time to stop him before he can use it.                                                                                                                                                                               |
-| 42  | A group of powerful super villains have joined forces to take over Jiston City, and the protagonist must band together to stop them.                                                                                                                                                                                                    |
-| 43  | A criminal organization known as the Secret Society is planning a major heist, and the protagonist must stop them before they can carry out their plans.                                                                                                                                                                                |
-| 44  | The Jiston City Police Department is overwhelmed by the number of super-powered criminals, and the protagonist must step in to lend a hand.                                                                                                                                                                                             |
-| 45  | A dangerous new drug known as "Super Juice" has hit the streets of Metropia, granting users temporary superpowers at the cost of their health and sanity. The protagonist must stop the distribution of the drug and find out who is behind its creation.                                                                               |
-| 46  | The city is under attack by a giant monster, and the protagonist must use their powers to stop it before it can cause any more destruction.                                                                                                                                                                                             |
-| 51  | A powerful and mysterious figure known only as "The Shadow" has been causing trouble in Central City, and the protagonist must uncover his true identity and stop him.                                                                                                                                                                  |
-| 52  | A group of super villains have broken into The Vortex Island and stolen important information, and the protagonist must track them down and retrieve the stolen data.                                                                                                                                                                   |
-| 53  | A young mutant has been kidnapped by a group of anti-mutant extremists, and the protagonist must rescue him before it's too late.                                                                                                                                                                                                       |
-| 54  | The Crimson Castle is under attack by a group of super-powered mercenaries, and the protagonist must defend the school and its students.                                                                                                                                                                                                |
-| 55  | The city is in danger from a massive natural disaster, and the protagonist must work together to save as many lives as possible.                                                                                                                                                                                                        |
-| 56  | A group of super villains have taken hostages in a downtown building, and the protagonist must infiltrate the building and rescue the hostages.                                                                                                                                                                                         |
-| 61  | A group of superpowered criminals, led by a mysterious figure known as "The Conductor," have been causing chaos in Metropia. The protagonist must uncover the Conductor's true identity and stop their nefarious plans before it's too late.                                                                                            |
-| 62  | The Vindicators have received a distress call from Jiston City, where a powerful new villain known as "The Tempest" has taken control of the city's government and is using their powers to terrorize the citizens. The protagonist must infiltrate the city and take down the Tempest before they can solidify their hold on the city. |
-| 63  | A powerful artifact, said to grant immense power to whoever possesses it, has been discovered in Central City. However, several factions have set their sights on obtaining it, and the protagonist must navigate through the web of lies and deception to claim the artifact before it falls into the wrong hands.                     |
-| 64  | The Harmony Post has uncovered evidence of a sinister conspiracy involving several of Metropia's most prominent business leaders. The protagonist must investigate and gather evidence to expose the truth and bring the conspirators to justice.                                                                                       |
-| 65  | The Vortex Island comes under attack by a powerful alien race, determined to retrieve a valuable piece of technology stored within. The protagonist must defend the island and prevent the aliens from getting their hands on the technology at all costs.                                                                              |
-| 66  | The Crimson Castle is infiltrated by a group of anti-mutant activists, who are determined to rid the world of mutants. The protagonist must work together to protect the students and staff of the school and put an end to the activists' plans.                                                                                       |
+| D66 | Adventure |
+| --- | --------- |
+| 11 | Intercept a distress signal from a quarantined exoplanet before a rogue faction silences it permanently. |
+| 12 | Recover a reality-splitting artifact from a buried temple before Obsidian Pact cultists activate it. |
+| 13 | Defend a mutant enclave from extremist exosuits before the Crimson Castle loses its last ally. |
+| 14 | Infiltrate a hijacked Metropia broadcast tower before the villains release a hypnotic virus. |
+| 15 | Repel a coordinated assault on the skyline by the Annihilators before the city’s power grid collapses. |
+| 16 | Extract a kidnapped tech pioneer from a data-blackout zone before Supervillains United rewrite their mind. |
+| 21 | Evacuate Jiston’s old quarter before a kaiju-class bioform devours its energy infrastructure. |
+| 22 | Track an uncharted power signal to a lifeless planet before it vanishes between dimensions. |
+| 23 | Neutralize a volatile new superhuman before their rage levels an entire neighborhood. |
+| 24 | Stop a villain’s ultimatum before a kinetic warhead detonation resets downtown. |
+| 25 | Investigate a string of vanishings tied to mirror anomalies before the city’s people vanish with them. |
+| 26 | Interrupt a metahuman heist on a fusion vault before the chain reaction ignites the undercity. |
+| 31 | Intercept a rogue operative fleeing Concord custody with classified god-tech schematics. |
+| 32 | Prevent a full-scale alien incursion through a breached dimensional fold near the coast. |
+| 33 | Infiltrate a skyscraper under hostage lockdown before the villain’s demands spark panic. |
+| 34 | Disrupt a corporate infiltration by villains posing as employees before they vanish with prototype tech. |
+| 35 | Confront a chaos-mongering newcomer calling themselves The Annihilator before their next strike. |
+| 36 | Uncover the location of kidnapped mutant leaders before their DNA is sold to weapon labs. |
+| 41 | Disarm a world-ending device created by Dr. X before it completes its autonomous sequence. |
+| 42 | Push back against a villain coalition claiming Jiston as a new sovereign city-state. |
+| 43 | Stop a shadow-syndicate heist before they loot a vault of anti-super serums. |
+| 44 | Aid overwhelmed Jiston PD before the criminal element takes full control. |
+| 45 | Destroy a shipment of experimental street-drug Super Juice before it destabilizes Metropia. |
+| 46 | Divert a rampaging kaiju into containment before it breaches Metropia’s arcology walls. |
+| 51 | Unmask a legendary villain operating under the alias ‘The Shadow’ before their next strike. |
+| 52 | Retrieve stolen intel from Vortex Island’s core vault before it leaks to hostile factions. |
+| 53 | Rescue a captured young mutant before the extremists finalize a televised execution. |
+| 54 | Defend Crimson Castle from mercenaries before they breach the Zero-Level vault. |
+| 55 | Lead evacuation efforts during a continent-scale superstorm before civilian losses spike. |
+| 56 | Free hostages trapped in a collapsing high-rise before its quantum reactor fails. |
+| 61 | Expose the true identity of ‘The Conductor’ before they trigger a city-wide blackout ritual. |
+| 62 | Dismantle The Tempest’s totalitarian hold over Jiston before their weather net becomes permanent. |
+| 63 | Recover a powerful relic hidden in Central City before warring factions tear the district apart. |
+| 64 | Gather damning proof from Harmony Post archives before the conspiracy wipes the records clean. |
+| 65 | Defend Vortex Island from alien invaders seeking a relic stored in its ancient sublevels. |
+| 66 | Thwart an anti-mutant infiltration of Crimson Castle before it ends in mass detainment. |
 

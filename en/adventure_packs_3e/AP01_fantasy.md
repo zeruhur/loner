@@ -1,5 +1,7 @@
 # Fantasy Adventure Pack
 
+## Setting Information
+
 - The world is a realm of ancient mystery and living myth, where enchanted forests shift overnight, and echoes of old gods linger in the wind. Forgotten places stir with purpose, and magic weaves through every shadow and glimmer.
 - The time period resembles a late-medieval fantasy age, marked by crumbling empires, feuding dynasties, and the slow return of forces thought buried. Castles rise on dragon-haunted hills, and relics of the past rewrite the present.
 - The location is a fragmented kingdom called **Aldorath**, a land of rolling hills, cursed ruins, moonlit marshes, and jagged mountain ranges. Power is split among ancient houses, each ruling their province from keeps laced with intrigue. The capital, **Eldrida**, is both a beacon of order and a nest of secrets.

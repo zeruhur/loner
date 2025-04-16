@@ -2,11 +2,14 @@
 
 ## Setting Information
 
-- The Western Adventure Pack is set in the American Old West during the late 1800s.
-- The game takes place in a small town on the frontier, surrounded by vast, untamed wilderness.
-- The town is a hub for traders, cowboys, and settlers, as well as outlaws, bandits, and other dangerous characters.
-- The area is marked by rugged terrain, extreme weather conditions, and a variety of wildlife, including bears, wolves, and mountain lions.
-- The culture and lifestyle of the time are heavily influenced by the traditions and values of the cowboy way of life, such as individualism, self-reliance, and rugged individualism.
+- The world is dust, gunpowder, and silence — a stretch of sunburnt land where justice rides a tired horse and graves are dug with one eye open.
+- The age is the fading light of the 1800s — a time when the frontier gasps its last breath before the iron rails and telegraph wires stitch it shut.
+- The setting is a lonely town at the edge of the known — saloons creak at dusk, cattle trails run dry, and the nearest law rides days behind.
+- Wilderness presses from all sides — jagged canyons, storm-bit plains, forests thick with eyes, and rivers that have swallowed more than they quenched.
+- The town is a crossroads for fortune and ruin — ranchers, trappers, drifters, preachers, bounty men, and worse — all passing through, none passing clean.
+- Life runs on grit and guts — fences built by calloused hands, whiskey poured for coin or company, and grudges carried further than water.
+- Danger comes with the wind — wolves in the hills, bandits on the ridge, a stranger with a slow draw and no name to answer for.
+- This is a land where every man writes his name in lead, and the only truth worth a damn is what you can hold onto when the shooting starts.
 
 ## Character Traits
 

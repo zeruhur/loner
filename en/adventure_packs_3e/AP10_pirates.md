@@ -2,11 +2,14 @@
 
 ## Setting Information
 
-- The setting takes place during the Golden Age of Piracy, which was roughly between the late 17th century and the early 18th century.
-- The game is set in the Caribbean Sea, with the main locations being various islands and coastal towns in the region.
-- The political landscape of the Caribbean is highly fragmented, with various European colonial powers vying for control of the region, as well as independent pirate factions.
-- Due to the lack of strong centralized authority, piracy has become a major problem in the Caribbean, with many pirates preying on merchant ships and coastal towns for loot and plunder.
-- The culture of the Caribbean is heavily influenced by African, European, and indigenous peoples, and players can expect to encounter a wide variety of cultures and languages in the game.
+- The world is ruled by tide and cannon — a storm-wracked sea of blood, gold, and betrayal where every ship sails on superstition as much as sailcloth.
+- The age is the twilight of empire — the late 1600s to early 1700s — when crowns send fleets they cannot control and laws are more rumor than rule.
+- The setting is the Caribbean, where jungle-choked islands rise from sapphire waters, forts crumble under the sun, and every cove might hide a rogue fleet or buried sin.
+- Power is fractured and volatile — Spanish galleons patrol the trade lanes, English governors whisper to smugglers, and pirate captains carve empires from coral and gunpowder.
+- Justice is a matter of aim and timing — courts are bought, navies are stretched thin, and gallows swing heavy with names no one remembers.
+- Culture is wild and layered — tongues clash on every dock, drums echo in sugarcane fields, and stolen gods are prayed to under false names.
+- Gold is the hunger that drives it all — chests of coin, crates of rum, charts marked with cursed Xs — enough to make a sailor king, or sink him screaming.
+- The sea is freedom, but it keeps no promises — only the bold, the cruel, and the damned rise with the tide.
 
 ## Character Traits
 

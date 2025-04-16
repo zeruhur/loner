@@ -160,7 +160,7 @@ You can use these traits to create a character on the fly, mix them, or just use
 | 6   |     |     |     |     |     |     |
 
 
-### Nicknames
+#### Nicknames
 
 |     | 1   | 2   | 3   | 4   | 5   | 6   |
 | --- | --- | --- | --- | --- | --- | --- |

@@ -2,11 +2,14 @@
 
 ## Setting Information
 
-- The setting is a bleak and oppressive future where corporations have taken over the world and government control is minimal. This dystopian backdrop sets the tone for the game and informs the actions and motivations of the characters.
-- The game takes place in a sprawling metropolis that is constantly alive with the hum of technology and the glare of neon lights. This city is a character in itself, full of towering skyscrapers, seedy alleyways, and underground clubs.
-- In the world of Cyberpunk, cybernetic enhancements are commonplace, with many people opting to replace body parts with high-tech implants. This has created a divide between those who can afford the best enhancements and those who are forced to make do with lower-quality implants.
-- Another key feature of the Cyberpunk world is the prevalence of virtual reality, which is used for entertainment, work, and communication. However, the virtual world can also be dangerous, with hackers and rogue AIs lurking in the digital shadows.
-- The world of Cyberpunk is defined by power struggles between corporations, gangs, and underground movements. The characters in the game will need to navigate these conflicts and choose which side to take, or try to forge their own path in a world where power is everything.
+- The world is steel, static, and surveillance — a corporate dystopia where freedom is a marketing term and every breath is logged in a database you can’t see.
+- The age is a broken future — governments are ghosts, replaced by contracts and firewalls, and the streets answer only to those who pay in blood or bandwidth.
+- The setting is a neon-drenched megacity — towers scrape the clouds, alleys stink of oil and ozone, and light never quite reaches the ground.
+- Bodies are currency — cybernetic implants are everywhere, from high-end augment suites to junk-tier grafts that spark and fail under strain.
+- Virtual reality is more real than the meat — a labyrinth of digital sanctuaries and trapdoors, ruled by rogue AIs, corporate censors, and whispering code.
+- Power is fractured and predatory — megacorps rule from chrome citadels, gangs control the gutters, and insurgent nodes crack systems no one admits exist.
+- Identity is malleable, truth is encrypted, and memory is a service with monthly fees — who you are depends on who still has the data.
+- This is a world where survival means picking a side, faking a name, and never staying still — because the grid is always watching, and mercy isn't in the code.
 
 ## Character Traits
 

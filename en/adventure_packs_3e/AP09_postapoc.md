@@ -2,11 +2,14 @@
 
 ## Setting Information
 
-- This setting takes place 50 years after a catastrophic event.
-- The location is North America, specifically the Midwest region of the United States.
-- The cause of the Apocalypse was a sudden and massive solar flare caused widespread power outages and destroyed much of the world's technology and infrastructure.
-- The population has been drastically reduced, and many of the survivors have banded together in small communities to share resources and protect themselves from the dangers of the new world. Traditional societal structures have broken down, and new power structures have emerged. Bartering and trade have become the primary means of exchange, and the concept of ownership has been redefined.
-- Resources are scarce, and the survivors must scavenge for food, water, and other necessities. Technology has regressed to pre-industrial levels, but some relics of the old world remain. The most valuable resources are fuel, medicine, and clean water.
+- The world died fifty years ago when the Eden Protocol failed — a biotech energy system meant to end scarcity instead ruptured, flooding the atmosphere with mutagenic particles and radiation no suit could stop.
+- The setting is North America’s heartland — the old Midwest — now a scarred landscape of ash-choked forests, bone-dry riverbeds, and ruins half-swallowed by creeping vines that glow at night.
+- Cities lie cracked and hollow, their cores too toxic to enter without shielding. Rural zones fare little better — twisted by fallout storms, plagued by beasts that once were cattle, wolves, or people.
+- Survivors cling to the margins — makeshift settlements in old silos, cave networks rigged with solar foil, rail depots turned into barter forts. Nothing is safe, but some places are quieter than others.
+- Society is shattered into fragments — scavenger bands, trade clans, poison cults, and survivalist militias — each clinging to power by hoarding fuel, clean water, or working tech from before the collapse.
+- Trade is blood and risk — vaccines for bullets, batteries for meat, clean water for everything. Currency is whatever keeps you breathing one more day.
+- Technology is half-magic and half-dead — patched drones, solar rigs, hand-pumped railcars, and relics scavenged from zones no sane person enters twice.
+- Radiation is not just poison — it breeds new ecologies, new instincts, new terrors. The land mutates, and those who walk it too long often change with it.
 
 ## Character Traits
 
