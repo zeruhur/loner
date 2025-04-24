@@ -320,53 +320,49 @@ These can then be used as **risk factors**, **story prompts**, or **scene compli
 
 ## Locations
 
-### Metropia  
-- A sprawling, vertical megacity where neon-lit towers rise above neglected districts. Once the capital of superhero optimism, now fragmented between corporate heroes, unsanctioned vigilantes, and underground factions.  
-- It is a pressure cooker of surveillance, social unrest, and hyper-commercialized justice.  
-- **Possible encounters**:  
-  - A rooftop chase disrupted by a rogue drone swarm  
-  - A protest spiraling out of control after metahuman interference  
-  - A corrupted superteam marketing its new energy drink
+### **Metropia**  
+A vertical megacity of neon spires and forgotten streets, torn between corporate heroes, rogue vigilantes, and rebel factions.  
+**Encounters**:  
+- Drone swarm hijacks a rooftop chase  
+- Protest escalates after metahuman interference  
+- Superteam caught pushing their own energy drink  
 
-### Jiston City  
-- A collapsing industrial stronghold where forgotten villains retire and upstart crime families experiment with unstable tech.  
-- Martial law is unofficial, but enforced by private security outfits with flexible ethics.  
-- **Possible encounters**:  
-  - A black market auction of confiscated superweapons  
-  - An underground cage match between ex-sidekicks  
-  - A metahuman gang war that spills into residential zones
+### **Jiston City**  
+Cracked concrete and rusting skylines. Retired villains play kingmakers while outlaw tech floods the black market.  
+**Encounters**:  
+- Black market auction for seized superweapons  
+- Cage fight between washed-up sidekicks  
+- Gang war crashes into suburbia  
 
-### Central City  
-- The polished face of a world that’s long since fractured—famous, functional, and quietly boiling underneath.  
-- Wealthy elites, celebrity heroes, and policy-makers all share the same skyline.  
-- **Possible encounters**:  
-  - A political fundraiser attacked mid-broadcast  
-  - A corporate hero accused of lethal misconduct  
-  - A reality-bending tourist from a "sister city" in another timeline
+### **Central City**  
+Clean suits and camera flashes. A bright surface over deep cracks.  
+**Encounters**:  
+- Fundraiser ambushed on live TV  
+- Hero scandal sparks viral fallout  
+- Tourist from a parallel timeline drops in  
 
-### The Harmony Post  
-- A media behemoth with ties to every faction. While it claims journalistic integrity, it also runs security contracts, deepfakes, and damage control campaigns.  
-- Heroes both dread and depend on its reach.  
-- **Possible encounters**:  
-  - A whistleblower hiding in the server basement  
-  - An AI journalist who’s gone rogue  
-  - An exposé about the protagonist being prepped for broadcast
+### **The Harmony Post**  
+Media monolith and damage control empire. Sells truth with one hand, buries it with the other.  
+**Encounters**:  
+- Whistleblower hiding in the datacore  
+- Rogue AI reporter breaks containment  
+- Broadcast countdown targeting your past  
 
-### Vortex Island  
-- A remote island fortress protected by orbit-linked defense grids and time-lock perimeter zones.  
-- Official HQ of The Concord and host to political summits, high-risk containment cells, and secret testing of next-gen power dampeners.  
-- **Possible encounters**:  
-  - A breakout from Cell Zero during a diplomatic event  
-  - An unauthorized clone discovered mid-training  
-  - A telepathic security sweep revealing your suppressed memories
+### **Vortex Island**  
+Orbital guns, time-locked walls, and locked-down truths. The Concord’s crown jewel.  
+**Encounters**:  
+- Cell Zero breach during a peace summit  
+- Clone flagged mid-training  
+- Psychic sweep uncovers buried memories  
 
-### Crimson Castle  
-- A gothic-tech academy built into an isolated mountain range. It serves as sanctuary, school, and proving ground for unstable or high-risk mutants.  
-- Its founder, Red Crane, vanished ten years ago. Some say she’s still watching.  
-- **Possible encounters**:  
-  - A forbidden wing of the school opens for the first time in years  
-  - A student undergoes a sudden, catastrophic secondary mutation  
-  - A rival institution attempts a covert recruitment (or extraction) mission
+### **Crimson Castle**  
+Baroque school for unstable powers. Red Crane vanished years ago—but her eyes might still be watching.  
+**Encounters**:  
+- Forbidden wing reopens  
+- Sudden, catastrophic mutation  
+- Rival school launches covert extraction  
+
+## Adventure Seeds
 
 | D66 | Adventure |
 | --- | --------- |
