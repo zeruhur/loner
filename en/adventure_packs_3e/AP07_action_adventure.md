@@ -61,6 +61,51 @@
 |  5  | Throwing Hatchet    | Fragmentation Grenades | Experimental Jetpack    | Signal Flare Gun      | Infrared Monocle         | Survival Rations       |
 |  6  | Engraved Tomahawk   | Compact Flamethrower   | Ultralight Glider Frame | Pneumatic Grapple Gun | All-Terrain Survival Kit | Rotary Borer Drill     |
 
+### Names
+
+#### Female Names
+
+|   | 1     | 2      | 3      | 4      | 5      | 6        |
+| - | ----- | ------ | ------ | ------ | ------ | -------- |
+| 1 | Elena | Samira | Ingrid | Carmen | Amara  | Odessa   |
+| 2 | Lucia | Nadia  | Quinn  | Talia  | Maeve  | Mireille |
+| 3 | Leila | Astrid | Noor   | Kiara  | Yelena | Sylvie   |
+| 4 | Rania | Esme   | Harper | Farah  | Imani  | Sabine   |
+| 5 | Vanya | Bianca | Nyla   | Yasmin | Anika  | Solène   |
+| 6 | Freya | Zahra  | Selene | Hana   | Oriana | Petra    |
+
+#### Male Names
+
+|   | 1      | 2       | 3     | 4      | 5      | 6     |
+| - | ------ | ------- | ----- | ------ | ------ | ----- |
+| 1 | Elias  | Rafi    | Leon  | Dario  | Viktor | Amir  |
+| 2 | Julian | Ashraf  | Owen  | Niko   | Hamza  | Emil  |
+| 3 | Mateo  | Soren   | Tariq | Luca   | Zane   | Kasim |
+| 4 | Anton  | Malik   | Joel  | Rami   | Theo   | Idris |
+| 5 | Stefan | Eitan   | Kian  | Andrej | Hugo   | Cyrus |
+| 6 | Marcel | Youssef | Arjun | Bashir | Karim  | Elias |
+
+#### Surnames
+
+|   | 1       | 2        | 3         | 4         | 5         | 6      |
+| - | ------- | -------- | --------- | --------- | --------- | ------ |
+| 1 | Navarro | Haddad   | Volkova   | Sinclair  | Kazemi    | Duarte |
+| 2 | Moreau  | al-Masri | Ten Boom  | Jafari    | Tagore    | Varga  |
+| 3 | Delgado | Beck     | Kojima    | Fontaine  | Karamazov | Aziz   |
+| 4 | Laurent | Bouchard | Andersson | Bakshi    | Rahal     | Corbin |
+| 5 | Petrov  | Fadel    | Rojas     | Sato      | Alawi     | Reznik |
+| 6 | D'Souza | Tanaka   | Salcedo   | Arslanian | Zamora    | Basile |
+
+#### Nicknames
+
+|   | 1      | 2       | 3      | 4      | 5      | 6     |
+| - | ------ | ------- | ------ | ------ | ------ | ----- |
+| 1 | Ghost  | Ace     | Viper  | Rook   | Jackal | Ember |
+| 2 | Cipher | Wraith  | Echo   | Dagger | Fox    | Nova  |
+| 3 | Fang   | Raven   | Shade  | Flint  | Cobra  | Quill |
+| 4 | Stray  | Blaze   | Hex    | Reaper | Hawk   | Spook |
+| 5 | Atlas  | Whisper | Scorch | Pike   | Zero   | Jet   |
+| 6 | Glint  | Moth    | Brim   | Slick  | Nomad  | Bolt  |
 
 ## Special Rules
 

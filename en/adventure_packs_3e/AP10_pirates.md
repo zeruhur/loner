@@ -15,322 +15,401 @@
 
 ### Concepts
 
-|  | 1                       | 2                      | 3                      | 4                 | 5                          | 6                              |
-|-----|-------------------------|------------------------|------------------------|-------------------|----------------------------|--------------------------------|
-| 1   | Daring Swashbuckler     | Cunning Scoundrel      | Fearless Buccaneer     | Wise Navigator    | Agile Cutthroat            | Enigmatic Corsair              |
-| 2   | Savage Marauder         | Charismatic Freebooter | Mysterious Privateer   | Reckless Renegade | Resourceful Smuggler       | Ferocious Plunderer            |
-| 3   | Loyal Quartermaster     | Audacious Raider       | Ambitious Sea Dog      | Swift Harpooner   | Tenacious Treasure Hunter  | Cursed Buccaneer               |
-| 4   | Legendary Captain       | Stealthy Siren         | Intrepid Explorer      | Ruthless Pillager | Inspirational Swashbuckler | Dashing Pirate Prince/Princess |
-| 5   | Cunning Saboteur        | Merciless Blackguard   | Astute Lookout         | Fearless Avenger  | Wily Shipwright            | Feisty Deckhand                |
-| 6   | Daring Sea Witch/Wizard | Courageous First Mate  | Enigmatic Ghost Pirate | Bold Sea Rover    | Skilled Cannonmaster       | Lucky Buccaneer                |
-
-
+|   | 1                   | 2                       | 3                       | 4                      | 5                     | 6                      |
+| - | ------------------- | ----------------------- | ----------------------- | ---------------------- | --------------------- | ---------------------- |
+| 1 | Weathered Captain   | Vengeful Buccaneer      | Treasure Hunter         | Escaped Convict        | Rogue Privateer       | Drunken Navigator      |
+| 2 | Exiled Noble        | Cunning Cook            | Runaway Shipwright      | Hardened Gunner        | Smiling Smuggler      | Sharp-Tongued Barkeep  |
+| 3 | Reluctant Mutineer  | Survivor of Shipwreck   | Greedy Deckhand         | Obsessive Cartographer | Freed Bondsman        | Cold-Eyed Lookout      |
+| 4 | Former Officer      | Quartermaster in Hiding | Duel-Happy Swashbuckler | Bankrupt Merchant      | Powder Monkey Veteran | Grizzled Harpooner     |
+| 5 | Island-Trader Scout | Scarred Surgeon         | Gambling Addict         | Defrocked Missionary   | Streetwise Orphan     | Cross-Dressed Stowaway |
+| 6 | Seasoned Pilot      | Silver-Tongued Rogue    | Hothead Gunrunner       | Scarred Boatswain      | Cocky Recruit         | Veteran Boatswain      |
 
 ### Skills
 
-|  | 1             | 2               | 3          | 4             | 5                | 6                   |
-|-----|---------------|-----------------|------------|---------------|------------------|---------------------|
-| 1   | Swordsmanship | Marksmanship    | Navigation | Stealth       | Acrobatics       | Leadership          |
-| 2   | Thievery      | Sailing         | Swimming   | Survival      | Lockpicking      | Charm               |
-| 3   | Intimidation  | Cooking         | Healing    | Gunnery       | Cartography      | Tracking            |
-| 4   | Negotiation   | Rope Skills     | Singing    | Gambling      | Ship Maintenance | Shipbuilding        |
-| 5   | Alchemy       | Fortune Telling | Fishing    | Blacksmithing | Herbalism        | Weather Forecasting |
-| 6   | Linguistics   | Musician        | Knot-tying | Tactics       | Cannon Handling  | Treasure Hunting    |
-
+|   | 1                | 2               | 3                     | 4                    | 5                   | 6                      |
+| - | ---------------- | --------------- | --------------------- | -------------------- | ------------------- | ---------------------- |
+| 1 | Ropework Mastery | Pistol Accuracy | Commanding Voice      | Celestial Navigation | Fast Reload         | Dice Hustling          |
+| 2 | Silent Movement  | Knife Throwing  | Swordsmanship         | Reading Charts       | Hide in Plain Sight | Storm Sailing          |
+| 3 | Cannon Handling  | Ship Tactics    | Quick Reflexes        | Intimidation         | Wilderness Survival | Contraband Concealment |
+| 4 | Map Copying      | Multilingual    | Bartering             | Heavy Lifting        | Bluffing            | Rig Climbing           |
+| 5 | Sharp Eyes       | Rig Repair      | Fire Starting         | Load Balancing       | Fast Talking        | Silent Signaling       |
+| 6 | Hold Breath Long | Steady Hand     | Sea Shanty Leadership | Improvised Weapons   | Spot a Traitor      | Hull Patching          |
 
 ### Frailties
 
-|  | 1                         | 2               | 3                    | 4                                    | 5                                  | 6                        |
-|-----|---------------------------|-----------------|----------------------|--------------------------------------|------------------------------------|--------------------------|
-| 1   | Greed                     | Hot-tempered    | Superstitious        | Fear of the sea                      | Claustrophobia                     | Overconfident            |
-| 2   | Impulsive                 | Vengeful        | Easily distracted    | Trust issues                         | Alcoholism                         | Impatient                |
-| 3   | Reckless gambler          | Paranoia        | Prone to seasickness | Arrogant                             | Impoverished                       | Fear of heights          |
-| 4   | Stubborn                  | Guilt-ridden    | Fear of authority    | Claustrophobia                       | Loyal to a fault                   | Perfectionist            |
-| 5   | Nightmares                | Cursed          | Phobia of creatures  | Unlucky                              | Gullible                           | Insomniac                |
-| 6   | Easily swayed by flattery | Impaired vision | Imposter syndrome    | Addiction to rum or other substances | Insecure about physical appearance | Haunted by past mistakes |
-
-
+|   | 1                      | 2                 | 3                   | 4                     | 5                      | 6                   |
+| - | ---------------------- | ----------------- | ------------------- | --------------------- | ---------------------- | ------------------- |
+| 1 | Hunted by the Navy     | Seasick in Storms | Haunted by the Past | Ill Reputation        | Broken Ribs            | Too Trusting        |
+| 2 | Drunk on Duty          | Guilt-Ridden      | Crippling Debt      | Poor Swimmer          | Old Grudge             | Disobeys Orders     |
+| 3 | Missing Fingers        | Loud Sleeper      | Temper Problem      | Illiterate            | Known Braggart         | Limp from Old Wound |
+| 4 | Fears Firearms         | Wanted in Port    | Known Cheat         | Questionable Loyalty  | Reeks of Rum           | Speaks Out of Turn  |
+| 5 | Easily Distracted      | Heavy Gambler     | Prone to Brawls     | Voice Carries Too Far | Trouble Holding Tongue | Overconfident       |
+| 6 | Bitter Toward Officers | Jealous of Others | Unreliable Memory   | Prone to Sunstroke    | Fears Enclosed Spaces  | Weak Stomach        |
 
 ### Gear
 
-|   | 1             | 2                   | 3                   | 4               | 5                | 6                  |
-|---|---------------|---------------------|---------------------|-----------------|------------------|--------------------|
-| 1 | Cutlass       | Flintlock Pistol    | Spyglass            | Grappling Hook  | Compass          | Rope               |
-| 2 | Treasure Map  | Throwing Knives     | Blunderbuss         | Poisoned Dagger | Telescope        | Net                |
-| 3 | Healing Salve | Smoke Bomb          | Harpoon             | Tricorn Hat     | Leather Armor    | Bandana            |
-| 4 | Cannonball    | Lockpicks           | Lantern             | Rum Barrel      | Fishing Net      | Spy's Disguise Kit |
-| 5 | Ship's Wheel  | Pouch of Gold Coins | Barrel of Gunpowder | Healing Potion  | Navigation Tools | Jolly Roger Flag   |
-| 6 | Scimitar      | Sextant             | Pirate Ship         | Ship's Anchor   | Diving Bell      | Wooden Leg         |
+|   | 1                      | 2                        | 3                   | 4                     | 5                      | 6                     |
+| - | ---------------------- | ------------------------ | ------------------- | --------------------- | ---------------------- | --------------------- |
+| 1 | Rusty Cutlass          | Flintlock Pistol         | Hand-Drawn Map      | Locked Chest (no key) | Well-Oiled Compass     | Set of Dice           |
+| 2 | Bottle of Strong Rum   | Set of Cooking Knives    | Waterproof Satchel  | Engraved Spyglass     | Faded Letter from Home | Deck of Playing Cards |
+| 3 | Belt with Hidden Knife | Toolkit for Ship Repairs | Ink & Charts        | Heavy Leather Boots   | Lockpicks              | False Documents       |
+| 4 | Signal Whistle         | Barrel of Powder         | Rope & Grapple Hook | Pocket Notebook       | Engraved Locket        | Sharpening Stone      |
+| 5 | Smuggler’s Satchel     | Brass Telescope          | Pocket Telescope    | Merchant’s Ledger     | Custom Gunpowder Horn  | Dented Tin Mug        |
+| 6 | Signal Flags Set       | Ink-Stained Journal      | Fishing Line & Hook | Black Bandana         | Heavy Cloak            | Brass Knuckles        |
 
+
+### Names
+
+#### Female Names
+
+|   | 1         | 2        | 3         | 4      | 5       | 6        |
+| - | --------- | -------- | --------- | ------ | ------- | -------- |
+| 1 | Anne      | Clara    | Esperanza | Judith | Lucille | Mary     |
+| 2 | Isabel    | Brigitte | Marta     | Eliza  | Nora    | Yvette   |
+| 3 | Agnes     | Céleste  | Dorothea  | Inés   | Lisbeth | Sabine   |
+| 4 | Hester    | Colette  | Maria     | Jane   | Renata  | Béatrice |
+| 5 | Abigail   | Elena    | Odette    | Ruth   | Sybil   | Winifred |
+| 6 | Constance | Ivy      | Jeanne    | Pilar  | Rosalie | Thelma   |
+
+#### Male Names
+
+|   | 1         | 2      | 3      | 4         | 5         | 6       |
+| - | --------- | ------ | ------ | --------- | --------- | ------- |
+| 1 | Thomas    | Edward | Jean   | Pedro     | James     | Anton   |
+| 2 | Samuel    | Diego  | Elias  | Charles   | Lucien    | Basil   |
+| 3 | Gabriel   | Mateo  | Hugh   | Jacques   | Oscar     | Willem  |
+| 4 | Nathaniel | Louis  | Álvaro | Frederick | Colin     | Jasper  |
+| 5 | Henry     | Stefan | Miguel | Walter    | Lionel    | Gilbert |
+| 6 | Francis   | Andre  | Julian | Rupert    | Sébastien | Amos    |
+
+#### Surnames
+
+|   | 1         | 2        | 3          | 4        | 5        | 6          |
+| - | --------- | -------- | ---------- | -------- | -------- | ---------- |
+| 1 | Blackwood | Tremayne | Delacruz   | Lafitte  | Hargrove | Montoya    |
+| 2 | Redfern   | Barrow   | Carvajal   | Dubois   | Kendrick | Saville    |
+| 3 | Ashford   | Navarro  | Desrosiers | Mendoza  | Godwin   | Moreau     |
+| 4 | Thorne    | Ibanez   | Leclair    | Quintero | Rooke    | Villarreal |
+| 5 | Haskett   | Marín    | Beauchamp  | Salazar  | Dunmore  | Rousseau   |
+| 6 | Fenwick   | Ordoñez  | Durant     | Serrano  | Trenholm | Castille   |
+
+#### Nicknames
+
+|   | 1           | 2         | 3          | 4           | 5           | 6           |
+| - | ----------- | --------- | ---------- | ----------- | ----------- | ----------- |
+| 1 | One-Eye     | Long Jack | Red Mary   | Ironhand    | Peg Joe     | No-Nose     |
+| 2 | Black Cat   | Old Salt  | Lucky Jim  | Brass Nell  | Quick Tom   | Bloody Anne |
+| 3 | Half-Tongue | Hard Sue  | Grin Bill  | Quiet Liz   | Mad Pete    | Slick Sam   |
+| 4 | Hookjaw     | Cold Jane | Crabby Lou | Silent John | Slim Vane   | Big Martha  |
+| 5 | Ragged Dan  | Sweet Meg | Tidy Ned   | Fat Molly   | Sharp Kit   | Bold Reggie |
+| 6 | Split Lip   | Toothless | Narrow Nat | Wild Bess   | Deadpan Joe | Slow Elias  |
 
 ## Special Rules
+
 ### Ship Combat
-During ship-to-ship combat, players will make maneuvers, attempt to board enemy vessels, and fire cannons at their opponents.
 
-Closed question resolution:
-- **No and**: The player successfully completes their maneuver, boards the enemy ship, and fires their cannons, dealing heavy damage.
-- **No**: The player fails to complete their maneuver, and takes damage from enemy cannon fire.
-- **No, but**: The player completes their maneuver, but fails to board the enemy ship or fire their cannons effectively.
-- **Yes, but**: The player completes their maneuver and fires their cannons, but takes damage from enemy fire or is unable to board the enemy ship.
-- **Yes**: The player completes their maneuver and deals damage with their cannons.
-- **Yes, and**: The player successfully completes their maneuver, boards the enemy ship, and fires their cannons with deadly precision, dealing massive damage.
+When engaging in ship combat, resolve the scene by asking a closed question (e.g. *Do we manage to board them before they escape?*). Interpret the result with the following **fictional prompts**, not fixed effects.
 
-### Plunder
-After a successful raid, players will divide up the loot and manage crew morale based on the spoils of their victory.
+* **No, and**: Your ship takes a brutal hit or is outmaneuvered. You’re left vulnerable, or damage affects a key system (e.g. sails, rudder, morale).
+* **No**: The enemy ship holds position. You fail to make progress and remain under threat.
+* **No, but**: You’re kept at bay, but avoid damage or find a small tactical advantage.
+* **Yes, but**: You make contact or land a shot, but suffer damage or lose a key crew member.
+* **Yes**: You hit them hard or gain the upper hand.
+* **Yes, and**: A clean broadside, precise boarding, or swift disabling action—total advantage is yours.
 
-Closed question resolution:
-- **No and**: The crew is overjoyed with the amount of loot they receive, and morale is boosted significantly.
-- **No**: The loot is divided up fairly, but morale remains neutral.
-- **No, but**: The loot is divided up, but some members of the crew are unhappy with their share and morale drops slightly.
-- **Yes, but**: The crew is able to divide up the loot, but morale is low due to the losses sustained during the raid.
-- **Yes**: The crew is able to divide up the loot and morale is neutral.
-- **Yes, and**: The loot is divided up fairly and the crew is ecstatic, resulting in a significant morale boost.
+> **Note:** Treat “damage” loosely—it might mean a torn sail, spilled powder, broken morale, or wounded allies. Track the fiction, not HP.
+
+### Plunder & Morale
+
+After a successful raid, ask: *Did the haul satisfy the crew?* or *Do we manage to keep order during the division of spoils?*
+
+Use the result to build **emergent pressure or stability**, not binary success/failure.
+
+* **No, and**: Fights break out over shares; a faction forms against you.
+* **No**: The crew is grumbling, and trust is fraying.
+* **No, but**: Unease simmers, but your officers keep order—for now.
+* **Yes, but**: You get things settled, but only after giving up something or showing weakness.
+* **Yes**: Order is maintained, loot distributed.
+* **Yes, and**: A rousing speech, a fair hand—morale soars, you gain loyalty or volunteers.
+
+> **Caution:** Crew morale can be tracked abstractly (via a tag, journal note, or countdown). Use it narratively to inform future rolls.
 
 ### Mutiny
-When tensions are high aboard a ship, players may face mutinies or leadership challenges that threaten to tear the crew apart.
 
-Closed question resolution:
-- **No and**: The mutiny is quashed, and the crew remains loyal to the player. Morale is boosted as a result.
-- **No**: The mutiny fails, but morale is low and the crew is unhappy with the player's leadership.
-- **No, but**: The mutiny fails, but some members of the crew are still unhappy and morale drops slightly.
-- **Yes, but**: The mutiny is successful, but the player is able to regain control and avoid a total mutiny. Morale is low and the crew is divided.
-- **Yes**: The mutiny is successful, and the player is overthrown. A new leader takes over the ship.
-- **Yes, and**: The mutiny is successful, and the player is overthrown. However, the player is able to regain control with the help of a loyal crew member. Morale is low, but the crew remains intact.
+When tension peaks, ask: *Does the crew rise against me?* or *Can I hold the deck in the face of open defiance?*
+
+* **No, and**: You reassert control with force or fear. The crew falls in line—at a cost.
+* **No**: The uprising is quelled. Morale is shaky, but you’re in charge.
+* **No, but**: You prevent a full revolt, but the ringleaders remain, watching.
+* **Yes, but**: You're deposed or forced to share power, but you avoid being cast overboard.
+* **Yes**: You're overthrown. Someone else takes the helm.
+* **Yes, and**: You’re betrayed by a close ally. Leadership shifts violently. You may survive—but not unscathed.
+
+> **Tip:** Let mutinies reshape the fiction dramatically. They’re a chance to reframe the story, not a game-over.
 
 ## Factions
+
 ### The British Royal Navy
-- Concept: Powerful Navy force
-- Skills: Navigation, Marksmanship
-- Frailty: Arrogance
-- Gear: Cutlass, Pistol
-- Goal: Establish control over the Caribbean Sea
-- Motive: Protect British interests and trade routes
-- Nemesis: Spanish Navy
 
-### The Spanish Navy
-- Concept: Competent Navy force
-- Skills: Seamanship, Boarding
-- Frailty: Inflexibility
-- Gear: Saber, Musket
-- Goal: Assert Spanish dominance in the Caribbean
-- Motive: Maintain control over valuable territories
-- Nemesis: British Royal Navy
+* **Concept**: Imperial navy enforcing order on lawless seas
+* **Skills**: Gunnery, Navigation
+* **Frailty**: Arrogance born of assumed dominance
+* **Gear**: Naval cutlass, flintlock pistol
+* **Goal**: Suppress piracy and secure Crown trade routes
+* **Motive**: Expand British influence and control maritime commerce
+* **Nemesis**: French privateers and local resistance
 
-### The French Privateers
-- Concept: Agile and daring privateers
-- Skills: Acrobatics, Sneaking
-- Frailty: Overconfidence
-- Gear: Rapier, Grappling Hook
-- Goal: Protect French trade routes and interests
-- Motive: Financial gain through piracy
-- Nemesis: British Royal Navy
+### The Spanish Armada Real
+
+* **Concept**: Proud but strained colonial navy
+* **Skills**: Seamanship, Close-quarters combat
+* **Frailty**: Rigid hierarchy and outdated tactics
+* **Gear**: Officer's saber, long musket
+* **Goal**: Defend Spain’s gold routes and recapture lost ports
+* **Motive**: Preserve colonial prestige and royal authority
+* **Nemesis**: British Royal Navy and rebellious locals
+
+### The French Flibustiers
+
+* **Concept**: Crown-backed raiders with pirate instincts
+* **Skills**: Acrobatics, Ambush
+* **Frailty**: Recklessness in pursuit of prize
+* **Gear**: Slim rapier, boarding hook
+* **Goal**: Undermine British and Spanish power through sanctioned piracy
+* **Motive**: Profit from privateering under royal commission
+* **Nemesis**: British Royal Navy and betrayed allies
 
 ### The Pirate Brotherhood
-- Concept: Diverse group of pirates
-- Skills: Swashbuckling, Intimidation
-- Frailty: Greed
-- Gear: Cutlass, Pistol
-- Goal: Establish a pirate utopia in the Caribbean
-- Motive: Amass wealth through piracy and raiding
-- Nemesis: All naval forces and law-abiding societies
+
+* **Concept**: Loose alliance of outlaw captains and rogue crews
+* **Skills**: Intimidation, Swordplay
+* **Frailty**: Self-interest over unity
+* **Gear**: Boarding cutlass, stolen pistol
+* **Goal**: Build freeholds beyond law, live rich and die free
+* **Motive**: Defy empires, claim fortune by force
+* **Nemesis**: All navies and the gallows they serve
 
 ### The Maroon Rebellion
-- Concept: Freed slaves and indigenous people fighting against oppression
-- Skills: Survival, Ambush
-- Frailty: Lack of resources
-- Gear: Spear, Blowgun
-- Goal: Create an independent and just society in the Caribbean
-- Motive: Freedom from colonial oppression and slavery
-- Nemesis: European colonial powers and their loyalists
 
-### The Dutch Traders
-- Concept: Shrewd and wealthy traders
-- Skills: Negotiation, Appraisal
-- Frailty: Cowardice
-- Gear: Saber, Pocketwatch
-- Goal: Expand Dutch trading interests in the Caribbean
-- Motive: Economic gain through trade and commerce
-- Nemesis: Pirates and competing European colonial powers
+* **Concept**: Escaped slaves and native fighters seeking justice
+* **Skills**: Guerrilla tactics, Jungle survival
+* **Frailty**: Scarce resources and isolation
+* **Gear**: Carved spear, hunting bow
+* **Goal**: Establish independent communities beyond colonial rule
+* **Motive**: Freedom through resistance and reclamation
+* **Nemesis**: Slavers, settlers, and empire loyalists
 
+### The Dutch Merchant Syndicates
+
+* **Concept**: Traders balancing profit, diplomacy, and survival
+* **Skills**: Bargaining, Smuggling
+* **Frailty**: Risk aversion and political caution
+* **Gear**: Trade saber, ornate pocketwatch
+* **Goal**: Expand influence via neutral ports and covert deals
+* **Motive**: Economic domination through contracts, not conflict
+* **Nemesis**: Pirates, tariffs, and rival colonial powers
 
 ## NPCs
+
 ### Captain Anne Bonny
-- Concept: Fearless pirate captain
-- Skills: Navigation, sword fighting
-- Frailty: Overconfident
-- Gear: Cutlass, compass
-- Goal: To become the most feared pirate in the Caribbean
-- Motive: Revenge against the English Navy for killing her lover
-- Nemesis: Governor Woodes Rogers
+
+* **Concept**: Defiant pirate captain with fire in her blood
+* **Skills**: Navigation, Swordplay
+* **Frailty**: Overconfidence in her legend
+* **Gear**: Naval cutlass, brass compass
+* **Goal**: Become the most feared name on the sea
+* **Motive**: Avenge the English gallows that took her lover
+* **Nemesis**: Governor Woodes Rogers
 
 ### Governor Woodes Rogers
-- Concept: Ambitious colonial governor
-- Skills: Diplomacy, leadership
-- Frailty: Greed
-- Gear: Flintlock pistol, ledger
-- Goal: To bring an end to piracy in the Caribbean and establish English control over the region
-- Motive: Personal gain and advancement
-- Nemesis: Blackbeard the pirate
 
-### Blackbeard
-- Concept: Ruthless pirate captain
-- Skills: Intimidation, marksmanship
-- Frailty: Bloodthirsty
-- Gear: Blunderbuss, black powder bombs
-- Goal: To amass a fortune and retire as a wealthy man
-- Motive: Revenge against the Spanish for enslaving him and his crew
-- Nemesis: Lieutenant Robert Maynard
+* **Concept**: Driven governor and former privateer
+* **Skills**: Diplomacy, Command
+* **Frailty**: Blinded by ambition
+* **Gear**: Ledger of informants, dueling pistol
+* **Goal**: Crush piracy and raise the Union Jack on every coast
+* **Motive**: Power, promotion, and a clean legacy
+* **Nemesis**: Edward “Blackbeard” Teach
 
-### Captain Calico Jack
-- Concept: Charismatic pirate captain
-- Skills: Persuasion, navigation
-- Frailty: Lacks discipline
-- Gear: Pistol, spyglass
-- Goal: To find and plunder the legendary treasure of El Dorado
-- Motive: Fame and fortune
-- Nemesis: Pirate hunter Jonathan Barnet
+### Edward "Blackbeard" Teach
+
+* **Concept**: Legendary pirate feared across the colonies
+* **Skills**: Intimidation, Gunnery
+* **Frailty**: Thrives on chaos
+* **Gear**: Blunderbuss, powder grenades
+* **Goal**: Seize enough plunder to vanish into legend
+* **Motive**: Revenge on the powers that betrayed him
+* **Nemesis**: Lieutenant Robert Maynard
+
+### Captain Calico Jack Rackham
+
+* **Concept**: Smooth-talking schemer with a flair for drama
+* **Skills**: Persuasion, Coastal navigation
+* **Frailty**: Indiscipline in moments of pressure
+* **Gear**: Fine-lacquered pistol, brass spyglass
+* **Goal**: Discover and loot the hidden gold of El Dorado
+* **Motive**: Fame, pleasure, and a name to echo in taverns
+* **Nemesis**: Pirate hunter Jonathan Barnet
 
 ### Governor Don Rafael de Eslava
-- Concept: Cunning Spanish governor
-- Skills: Espionage, intrigue
-- Frailty: Arrogance
-- Gear: Rapier, spyglass
-- Goal: To eliminate all rival colonial powers from the Caribbean and expand Spanish influence in the region
-- Motive: National glory and honor
-- Nemesis: French pirate Olivier Levasseur
+
+* **Concept**: Ruthless strategist of the Spanish Crown
+* **Skills**: Espionage, Political manipulation
+* **Frailty**: Arrogance born of old blood
+* **Gear**: Engraved rapier, coded dispatches
+* **Goal**: Expel foreign powers and rule the Caribbean for Spain
+* **Motive**: Honor, ambition, and legacy
+* **Nemesis**: French privateer Olivier Levasseur
 
 ### Anne Dieu-le-Veut
-- Concept: Fearless pirate queen
-- Skills: Navigation, hand-to-hand combat
-- Frailty: Reckless
-- Gear: Cutlass, grappling hook
-- Goal: To free her husband from Spanish captivity and become the most powerful pirate in the Caribbean
-- Motive: Love and vengeance
-- Nemesis: Admiral Juan Esteban Ubilla
 
-## Creatures
-### Kraken
-- Concept: Enormous Sea Monster
-- Skills: Crushing Grip, Tentacle Attacks
-- Frailty: Vulnerable to fire and explosions
-- Gear: None
-- Goal: Sate its hunger by consuming ships and sailors
-- Motive: Driven by insatiable hunger and desire for destruction
-- Nemesis: Whalers and skilled sailors
+* **Concept**: Fierce pirate matriarch with a cause
+* **Skills**: Brawling, Ship command
+* **Frailty**: Recklessness in pursuit of loyalty
+* **Gear**: Iron-hooked grapnel, scarred cutlass
+* **Goal**: Liberate her captured husband and unify the pirate fleets
+* **Motive**: Love, vengeance, and a free sea
+* **Nemesis**: Admiral Juan Esteban Ubilla
 
-### Siren
-- Concept: Alluring and dangerous Sea Creature
-- Skills: Hypnotic Song, Seduction
-- Frailty: Weak against loud and sudden noises
-- Gear: None
-- Goal: Lure sailors to their doom with their enchanting voices
-- Motive: Feed on the life force of their victims
-- Nemesis: Experienced sailors and those with strong willpower
+## Wild Encounters
 
-### Giant Crab
-- Concept: Massive armored crustacean
-- Skills: Pincers, Claws, and Carapace Defense
-- Frailty: Slow movement on land
-- Gear: None
-- Goal: Defend territory and seek out food
-- Motive: Basic survival instincts
-- Nemesis: Skilled hunters and those with access to explosives
+### Bull Shark
 
-### Ghost Ship
-- Concept: Haunted and cursed ship
-- Skills: Invisibility, Possession
-- Frailty: Weak against consecrated objects and holy water
-- Gear: None
-- Goal: Draw in unwary sailors and lure them to their doom
-- Motive: To continue its curse and seek revenge against those who wronged it
-- Nemesis: Ghost hunters and those with strong faith
+* **Concept**: Aggressive coastal predator
+* **Skills**: Swift strike, Frenzied attack
+* **Frailty**: Easily baited or driven off with blood and noise
+* **Gear**: None
+* **Goal**: Feed on fish, carrion, or wounded prey
+* **Motive**: Instinctual aggression, especially in shallow waters
+* **Nemesis**: Harpooners, noise-makers, and shark-hunters
 
-### Giant Squid
-- Concept: Enormous cephalopod
-- Skills: Ink Cloud, Camouflage, Tentacle Attacks
-- Frailty: Vulnerable to harpoons and sharp blades
-- Gear: None
-- Goal: Hunt and feed on prey, including fish, whales, and occasionally humans
-- Motive: Basic survival instincts
-- Nemesis: Skilled sailors and whalers
+### Saltwater Crocodile
 
-### Chupacabra
-- Concept: Blood-sucking beast
-- Skills: Stealth, Fangs and Claws
-- Frailty: Weak against fire and sunlight
-- Gear: None
-- Goal: Hunt and feed on livestock and occasionally humans
-- Motive: Basic survival instincts
-- Nemesis: Skilled hunters and those with access to firearms and fire.
+* **Concept**: Apex ambush predator of estuaries and mangroves
+* **Skills**: Ambush, Death roll
+* **Frailty**: Sluggish when cold, poor endurance at sea
+* **Gear**: None
+* **Goal**: Defend territory or feed near river mouths and lagoons
+* **Motive**: Territoriality and hunger
+* **Nemesis**: Fire, nets, and skilled trackers
+
+### Sea Wasps (Box Jellyfish)
+
+* **Concept**: Deadly translucent jellyfish drifting near coasts
+* **Skills**: Paralytic sting, Stealth in water
+* **Frailty**: Delicate body, easily damaged
+* **Gear**: None
+* **Goal**: Float and ensnare prey with stinging tentacles
+* **Motive**: Survival and reproduction
+* **Nemesis**: Vinegar, protective gear, shallow water disruption
+
+### Boar of the Jungle Interior
+
+* **Concept**: Wild boar found inland on larger islands
+* **Skills**: Gore, Charge, Thick hide
+* **Frailty**: Blind charging, spooked by fire
+* **Gear**: None
+* **Goal**: Protect its territory and forage for roots and fruit
+* **Motive**: Survival and defense of young
+* **Nemesis**: Dogs, muskets, and fire
+
+### Rabid Dog Pack
+
+* **Concept**: Feral hounds abandoned at ports or left behind
+* **Skills**: Pack tactics, Chase
+* **Frailty**: Frightened by coordinated defense or noise
+* **Gear**: None
+* **Goal**: Scavenge, hunt weak targets
+* **Motive**: Hunger and survival in the margins of human society
+* **Nemesis**: Torches, blades, trained hunters
+
+### Swarm of Rats
+
+* **Concept**: Infestation aboard ships or in port warehouses
+* **Skills**: Spread disease, Gnaw through stores
+* **Frailty**: Vulnerable to traps, smoke, and cats
+* **Gear**: None
+* **Goal**: Nest, feed, and multiply
+* **Motive**: Scavenging and reproduction
+* **Nemesis**: Ship’s cat, fire, poison
 
 ## Locations
-### Port Royal
-- A bustling British port town, famous for its rum and debauchery.
-- The Governor's mansion: Players may have to deal with the corrupt Governor of Port Royal or his elite guards.
-- The Black Pearl tavern: A popular spot for pirates to drink and gamble.
 
-### Isla de Muerta
-- A cursed island rumored to be the location of a vast treasure hoard.
-- The cursed treasure cave: The final resting place of cursed Aztec gold, guarded by undead pirates.
-- The Kraken's Lair: The island is also rumored to be home to a giant Kraken.
+### Port Royal
+
+* A thriving British colonial port, infamous for its corruption and indulgence.
+* The Governor’s Mansion: A seat of brittle authority, where bribes speak louder than laws.
+* The Black Pearl Tavern: Crowded, smoky, and loud—a crossroads for whispers, wagers, and shady crews.
+
+### Isla de Culebras
+
+* A remote and rocky island, feared for its storms, snakes, and the wrecks that litter its shores.
+* The Hidden Cavern: Said to house long-lost Spanish plunder, accessible only at low tide.
+* The Clifftop Watch: An old lookout tower now used by smugglers—if they trust you.
 
 ### Tortuga
-- A notorious pirate haven, known for its wild parties and lawlessness.
-- The Pirate King's Court: Players may have to seek an audience with the Pirate King to gain the support of his fleet.
-- The Red Parrot Inn: A popular spot for pirates to relax and make deals.
+
+* A loose, lawless port where pirates rule and no flag flies for long.
+* The Pirate Court: A boisterous longhouse where captains settle disputes with drink or steel.
+* The Red Parrot Inn: Loud music, louder laughter, and contracts written in spilled rum.
 
 ### Nassau
-- An independent pirate republic, founded by the infamous pirate captain Blackbeard.
-- The Governor's Mansion: Players may have to deal with the Governor of Nassau, who is often at odds with the pirates.
-- The Pirate Market: A bustling market where pirates can buy and sell goods, including stolen treasure.
 
-### Shipwreck Cove
-- A hidden cove that serves as a secret meeting place for pirate fleets.
-- The Pirate Council: Players may have to convince the Pirate Council to support their cause.
-- The Cove's defenses: The cove is protected by hidden reefs, cannons, and traps to deter unwanted visitors.
+* A fledgling pirate republic where ideals clash with ambition.
+* The Governor’s Quarters: A nominal official walks a fine line between bribes and bullets.
+* The Free Market: Open stalls sell rope, powder, secrets, and stolen goods.
 
-### Devil's Triangle
-- A mysterious region of the Caribbean where ships and crews vanish without a trace.
-- The Ghost Ship: A phantom vessel that is said to haunt the triangle, crewed by undead pirates.
-- The Sea Serpent: A massive sea serpent that is rumored to lurk in the triangle's waters.
+### Shipbreaker Cove
+
+* A jagged inlet known for wrecks, reefs, and rumors of hidden anchorages.
+* The Assembly Rock: A neutral site where pirate captains meet under truce—briefly.
+* The Coastal Defenses: Old swivel guns, natural choke points, and blind currents make entry dangerous.
+
+### The Lost Shoals
+
+* A shifting maze of reefs and fogbanks where compasses spin and charts lie.
+* The Wreck of the Resolute: A splintered brig lodged in coral, possibly still holding sealed cargo.
+* The Deadlight Buoy: A drifting signal with no known owner—some say it follows ships.
 
 ## Adventure Seeds
 
-| D66 | Adventure                                                                                                                                 |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 11  | A local merchant hires the protagonist to escort their ship through dangerous waters, but a rival faction is intent on stopping them. |
-| 12  | The protagonist is hired to retrieve a valuable item from a hidden location on a nearby island, but a tribe of hostile indigenous people also have their eyes on the prize. |
-| 13  | A notorious pirate captain offers to take the protagonist under their wing and teach them the ways of the sea, but their methods are brutal and the protagonist may be in over their head. |
-| 14  | The protagonist is tasked with investigating a series of mysterious disappearances on a remote island, and soon discovers that a vengeful ghost is behind the attacks. |
-| 15  | A wealthy aristocrat hires the protagonist to transport them and their entourage to a nearby island for a vacation, but a storm causes the ship to crash and the protagonist must fend off hostile creatures and factions to survive. |
-| 16  | The protagonist is approached by a member of a secret society, who offers to reveal the location of a legendary treasure in exchange for their help in overthrowing a corrupt colonial governor. |
-| 21  | The protagonist is hired to protect a coastal town from a group of ruthless pirates who have been raiding the area, but they soon discover that the pirates are actually working for a rival faction seeking to control the town. |
-| 22  | The protagonist is stranded on a deserted island and must find a way to escape, while avoiding dangerous wildlife and hostile castaways. |
-| 23  | A local tavern owner hires the protagonist to investigate the disappearance of their best bartender, and the trail leads them to a shadowy smuggling operation. |
-| 24  | The protagonist is hired to transport a wealthy merchant and their valuable cargo, but a rival faction is hot on their trail and will stop at nothing to steal the goods. |
-| 25  | The protagonist must infiltrate a rival faction's stronghold to retrieve vital information, but the fortress is heavily guarded and the protagonist must use all their skills to avoid detection. |
-| 26  | The protagonist is hired to recover a stolen artifact from a notorious pirate, but they soon discover that the pirate is under the protection of a powerful and influential faction. |
-| 31  | The protagonist is hired to hunt down a legendary sea monster that has been terrorizing the region, but they soon discover that the monster is not what it seems. |
-| 32  | The protagonist is stranded on an island inhabited by a tribe of cannibals, and must use their wits and survival skills to escape. |
-| 33  | A mysterious figure hires the protagonist to retrieve a powerful relic from a hidden temple on a remote island, but the protagonist soon discovers that the figure has their own sinister motives. |
-| 34  | The protagonist is approached by a former crewmate who has turned traitor and is now working for a rival faction, and must decide whether to help or hinder them. |
-| 35  | The protagonist must race against time to retrieve a valuable item before a rival faction can get their hands on it. |
-| 36  | The protagonist is hired to rescue a group of hostages who have been taken by a ruthless pirate crew, but the protagonist soon discovers that the hostages may not be as innocent as they seem. |
-| 41  | The protagonist is tasked with delivering a message to a rival faction's leader, but the protagonist soon discovers that the message is actually a trap. |
-| 42  | The protagonist is hired to investigate a series of mysterious deaths in a coastal town, and soon discovers that a deadly plague has struck the area. |
-| 43  | The protagonist is hired to transport a group of colonists to a new settlement, but they soon discover that the settlement is under attack by a rival faction. |
-| 44  | The protagonist is approached by a member of a secret society who offers to teach them a powerful new skill in exchange for their help in a dangerous mission. |
-| 45  | The protagonist is hired by a wealthy plantation owner to investigate a string of thefts occurring on their property. They soon discover that one of the owner's own workers is behind the thefts, and must decide how to handle the situation. |
-| 46  | A band of ruthless pirates have been terrorizing the waters near a small fishing village. The protagonist is recruited by the village elder to help defend their community against the pirates and put an end to their attacks. |
-| 51  | The protagonist is tasked with delivering a valuable artifact to a museum on a distant island, but they soon discover that a rival museum is also seeking the artifact and will stop at nothing to acquire it. |
-| 52  | While exploring a remote island, the protagonist discovers a hidden temple filled with ancient treasures. However, the temple is also home to a dangerous tribe of cannibals who will do anything to protect their sacred site. |
-| 53  | The protagonist is hired by a group of merchants to escort their ship through dangerous waters infested with pirate activity. However, the merchants may not be as innocent as they seem, and the protagonist must navigate treacherous waters both literal and figurative. |
-| 54  | The protagonist is captured by a rival pirate crew and must figure out a way to escape before they are sold into slavery or worse. |
-| 55  | The protagonist is approached by a powerful voodoo priestess who needs their help locating a rare herb needed for an important ritual. However, the herb is guarded by a dangerous creature and other factions are also interested in obtaining it. |
-| 56  | The protagonist is hired to transport a wealthy noblewoman to a distant island where she plans to meet with her secret lover. However, the journey is filled with danger and the protagonist must navigate treacherous waters and treacherous relationships. |
-| 61  | The protagonist is recruited by a secret society of rebels who seek to overthrow the oppressive colonial powers ruling over the Caribbean. However, their activities attract the attention of the authorities and the protagonist must be careful not to get caught. |
-| 62  | The protagonist stumbles upon a deserted island rumored to contain an abandoned treasure hoard. However, they soon discover that they are not alone on the island and must outwit dangerous creatures and rival treasure hunters to claim the loot. |
-| 63  | The protagonist is hired by a wealthy merchant to transport a precious cargo through treacherous waters. However, they soon discover that the cargo is actually a group of slaves being smuggled into the Caribbean, and must decide whether to help them escape or turn a blind eye. |
-| 64  | The protagonist is approached by a notorious pirate captain who offers them a place on their crew. However, the protagonist soon discovers that the captain has a hidden agenda and must decide whether to stay loyal or betray their new comrades. |
-| 65  | The protagonist is hired to track down a dangerous sea monster that has been attacking ships in the Caribbean. However, they soon discover that the monster is actually a rare and valuable creature sought after by collectors and merchants. |
-| 66  | The protagonist is approached by a mysterious figure who offers them a map to a hidden island filled with treasure. However, the map is also being sought after by a rival faction who will stop at nothing to claim the loot. |
+| D66 | Adventure                                                                                               |
+| --- | ------------------------------------------------------------------------------------------------------- |
+| 11  | Escort a merchant brig through contested waters before a rival syndicate sabotages the deal.            |
+| 12  | Locate a hidden inlet said to shelter stolen goods — and those willing to kill for them.                |
+| 13  | A former naval officer offers you a ship and crew — but only if you break him out of prison.            |
+| 14  | A sugar baron’s daughter has vanished. His rivals deny involvement. His men prepare for war.            |
+| 15  | Rescue a cartographer stranded on a reef after his guides mutinied and fled inland.                     |
+| 16  | A storm wrecks your ship near a colonial fort. The commander offers “hospitality” — and conscription.   |
+| 21  | Defend a coastal village from pirate raiders hired by a foreign power to provoke conflict.              |
+| 22  | After drifting to a barren island, you find signs of an earlier castaway — and their final journal.     |
+| 23  | A barkeep begs you to find their brother, last seen aboard a ship rumored cursed by bad luck.           |
+| 24  | Smuggle a banned shipment of weapons past patrols and deliver them to a rebel outpost.                  |
+| 25  | Infiltrate a rival fleet’s anchorage to retrieve a blackmail ledger hidden in the captain’s cabin.      |
+| 26  | A crewman’s gambling debts drag you into a feud between two powerful dockside families.                 |
+| 31  | Your quartermaster vanishes during shore leave. A witness says they boarded a governor’s skiff.         |
+| 32  | A ship limps into harbor claiming to have found a derelict full of gold — and only one survivor.        |
+| 33  | Take command of a crew mid-mutiny. They’ll follow your orders — for now.                                |
+| 34  | A rival captain challenges you to a duel for the rights to a lucrative trade route.                     |
+| 35  | A plantation owner offers coin to escort him home — but his enemies plan to intercept.                  |
+| 36  | A prisoner offers a map to a hidden cache in exchange for safe passage. His former crew wants him dead. |
+| 41  | Deliver a sealed letter to a colonial official. Inside: a list of names — including yours.              |
+| 42  | Investigate a portside warehouse where sailors have gone missing. The guards refuse to enter.           |
+| 43  | Ferry a noble’s spoiled heir to a new post, while rival ships try to “rescue” him for ransom.           |
+| 44  | A disgraced captain offers information on a treasure convoy — but demands half the haul.                |
+| 45  | Track down a saboteur leaking your ship’s position to the authorities. They may be one of your own.     |
+| 46  | A fishing village’s catch has dried up — and a merchant accuses them of piracy. Prove otherwise.        |
+| 51  | Pose as a crew on a slave ship to infiltrate an auction and free those held in the hold.                |
+| 52  | Explore a cave system exposed by erosion. Smugglers once used it — some may still.                      |
+| 53  | Transport a diplomat between colonies, avoiding both pirates and those he’s betrayed.                   |
+| 54  | Escape a foreign prison after your ship is seized — and your crew sold into forced labor.               |
+| 55  | A prominent merchant’s warehouse burns. He accuses you publicly. Clear your name — or run.              |
+| 56  | A mutiny splits your allied fleet. Choose a side — or seize the spoils amid the chaos.                  |
+| 61  | Assist a rebel courier in delivering secret plans to a militia before the Navy catches wind.            |
+| 62  | Stumble upon a maroon camp deep inland. They offer shelter — for a price.                               |
+| 63  | Discover a cache of weapons hidden under a church floor. Decide whether to report it — or sell it.      |
+| 64  | A known traitor offers safe passage through hostile waters. Your crew demands his head.                 |
+| 65  | Track a rival who stole your ship’s figurehead — and your reputation — in a single night.               |
+| 66  | A coded logbook surfaces in a pawn shop. It leads to a smuggler’s vault — if you crack the cipher.      |
+
+

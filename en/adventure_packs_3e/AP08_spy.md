@@ -15,51 +15,97 @@
 
 ### Concepts
 
-|   | 1                                       | 2                            | 3                         | 4                             | 5                          | 6                           |
-| - | --------------------------------------- | ---------------------------- | ------------------------- | ----------------------------- | -------------------------- | --------------------------- |
-| 1 | Burned Field Agent                      | Cold-Eyed Handler            | Defector Turned Asset     | Disavowed Operator            | Embedded Mole              | Black-Bag Specialist        |
-| 2 | Cryptologic Analyst                     | Freelance Interrogator       | Forger in Exile           | Illicit Arms Broker           | Ghost Protocol Courier     | Tinker-Hacker Saboteur      |
-| 3 | Deep Cover Operative                    | Washed-Up Spy Legend         | Ruthless Liaison Officer  | Sceptical Intelligence Vet    | Idealistic Trainee         | Betrayal-Scarred Insider    |
-| 4 | Journalist With A Code                  | Sleeper Cell Survivor        | Double Agent With Regrets | Voiceprint Profiler           | Ex-KGB Clean-Up Man        | Asset With Too Many Secrets |
-| 5 | Conspiracy Theorist Turned Investigator | Bureaucrat With a Body Count | Tech Whisperer on the Run | Drone-Era Surveillance Expert | Diplomatic Immunity Abuser | Puppetmaster in Hiding      |
-| 6 | Truth-Seeking Archivist                 | Field Surgeon With a Past    | Masked Psy-Ops Consultant | Cold War Fossil               | Memory-Tampered Witness    | Nightclub Fixer With Ties   |
+|   | 1                    | 2                     | 3                      | 4                    | 5                   | 6                      |
+| - | -------------------- | --------------------- | ---------------------- | -------------------- | ------------------- | ---------------------- |
+| 1 | Disavowed Operative  | Elegant Assassin      | Hacker-for-Hire        | Burned Spy           | Undercover Analyst  | Rogue Handler          |
+| 2 | Sleeper Agent        | Cryptid Conspirator   | Techno-Saboteur        | Charming Infiltrator | Double-Cross Expert | Cold-War Relic         |
+| 3 | Mind-Wiped Asset     | Shadow Broker         | Deep Mole              | Debonair Seductress  | Clean-Up Specialist | Field Surgeon          |
+| 4 | Diplomatic Chameleon | Interrogation Expert  | MI6 Turncoat           | CIA Escapee          | Corporate Fixer     | Disguised Courier      |
+| 5 | Black Bag Technician | Radio Silence Ghost   | Surveillance Addict    | Glamorous Deceiver   | Anti-Terror Analyst | Precision Cleaner      |
+| 6 | Urban Stalker        | Sleepless Interceptor | Psychological Profiler | Disgraced Patriot    | KGB Heir            | High-Stakes Negotiator |
+
 
 ### Skills
 
-|   | 1                       | 2                         | 3                      | 4                      | 5                         | 6                        |
-| - | ----------------------- | ------------------------- | ---------------------- | ---------------------- | ------------------------- | ------------------------ |
-| 1 | Microexpression Reading | Improvised Weapons        | Burner Device Handling | Cipher Decryption      | Cover Identity Management | Quick Exit Planning      |
-| 2 | Dead Drop Design        | False Flag Execution      | Surveillance Detection | Urban Pursuit Tactics  | Disguise Assembly         | Interrogation Framing    |
-| 3 | High-Stakes Bluffing    | Cold Read Calibration     | Underworld Contacts    | Signal Interception    | Safehouse Preparation     | Ghost Protocol Tactics   |
-| 4 | Psychological Pressure  | Adaptive Seduction        | Inter-Agency Protocols | Data Destruction       | Audio Surveillance Tuning | Trigger Discipline       |
-| 5 | Covert Entry Planning   | Asset Recruitment         | Lie Detection          | Code-Switching Fluency | Improvised Distraction    | Extraction Maneuvering   |
-| 6 | Misinformation Crafting | Counterintelligence Logic | Network Spoofing       | Silent Neutralization  | Hidden Compartment Use    | Negotiation Under Duress |
+|   | 1          | 2                | 3                   | 4                  | 5               | 6                   |
+| - | ---------- | ---------------- | ------------------- | ------------------ | --------------- | ------------------- |
+| 1 | Espionage  | Stealth          | Interrogation       | Lockpicking        | Disguise        | Counterintelligence |
+| 2 | Seduction  | Firearms         | Martial Arts        | Surveillance       | Codebreaking    | Gadgeteering        |
+| 3 | Hacking    | Tail/Shadowing   | Infiltration        | Combat Driving     | Explosives      | Escape Techniques   |
+| 4 | Persuasion | Language Mastery | Distraction         | Social Engineering | Drone Operation | Medical Knowledge   |
+| 5 | Forensics  | Data Extraction  | Voice Impersonation | Bomb Defusal       | Trap Setting    | Toxin Handling      |
+| 6 | Bluffing   | Parkour          | Cryptanalysis       | Strategic Planning | Quick Draw      | Improvised Tools    |
+
 
 
 ### Frailties
 
-|   | 1                             | 2                           | 3                                  | 4                               | 5                              | 6                               |
-| - | ----------------------------- | --------------------------- | ---------------------------------- | ------------------------------- | ------------------------------ | ------------------------------- |
-| 1 | Haunted by Collateral Deaths  | Burned in a Previous Op     | Addicted to Surveillance           | Tendency to Go Off-Book         | Involuntary Flashbacks         | Compulsively Records Everything |
-| 2 | Over-Attached to a Contact    | Crippling Trust Issues      | Known to a Foreign Power           | Trigger-Happy Under Pressure    | Obsessed With a Past Failure   | Keeps a Hidden Dead Man Switch  |
-| 3 | Masked Psychological Trauma   | Chronic Nightmares          | Unable to Drop Their Cover         | Former Identity Still Active    | Frequent Memory Lapses         | Unclear Where Allegiance Lies   |
-| 4 | Always Under Surveillance     | Compromised by Blackmail    | Unstable False Persona             | Paralyzed by Bureaucracy        | Believes in a Lost Cause       | Has a Secret Handler            |
-| 5 | Disillusioned Idealist        | Morally Flexible to a Fault | Prone to Fabricating Intel         | Desensitized to Violence        | Self-Doubt in High-Stakes Ops  | Lost Control of a Prior Asset   |
-| 6 | Keeps Secrets From Themselves | Prone to Breaking Protocol  | Suffers from “Clean Slate” Amnesia | Voice Identified in Leaked Tape | Dependent on Experimental Meds | Doesn't Know Who They Work For  |
+|   | 1                      | 2                       | 3                 | 4                         | 5                | 6                   |
+| - | ---------------------- | ----------------------- | ----------------- | ------------------------- | ---------------- | ------------------- |
+| 1 | Identity Crisis        | Burnout                 | Paranoia          | Guilt Complex             | Trust Issues     | Amnesia             |
+| 2 | Addictive Behavior     | PTSD                    | Obsessive Habits  | Emotional Detachment      | Tremors          | Chronic Insomnia    |
+| 3 | Flashbacks             | Overconfidence          | Panic Under Fire  | Self-Sabotage             | Secret Loyalty   | Haunted by the Past |
+| 4 | Moral Hesitation       | Manipulative Tendencies | Split Allegiances | Nightmares                | Code Dependency  | Reluctance to Kill  |
+| 5 | Fame from a Botched Op | Vengeful                | Overtrusting      | Technophobia              | Chronic Injury   | Emotional Outbursts |
+| 6 | Voices in the Ear      | Double Life Stress      | Fear of Exposure  | Gadget Malfunction Phobia | Cold-Bloodedness | Bureaucratic Trauma |
 
 
 ### Gear
 
-|   | 1                           | 2                              | 3                          | 4                           | 5                           | 6                             |
-| - | --------------------------- | ------------------------------ | -------------------------- | --------------------------- | --------------------------- | ----------------------------- |
-| 1 | Concealed Fiber Recorder    | Burner SIM Toolkit             | Coded Phrasebook           | Forged Diplomatic Papers    | Hidden Cyanide Capsule      | Dust-Sensitive Envelope       |
-| 2 | Hacked Hotel Keycards       | Untraceable Pistol             | Subdermal Tracking Jammer  | One-Time Pad Cipher Wallet  | Tranquilizer Inhaler        | “Clean Room” Field Tent       |
-| 3 | Hidden Camera Button Set    | Reversible Passport Set        | Signal-Sniffing Flashdrive | Magnetic Window Climber     | Dummy Handshake Protocol    | Microdot Reader Glasses       |
-| 4 | Tooth-Implanted Transmitter | Miniature Smoke Pellet Ring    | Whisper-Mic Tie Clip       | Black-Market Firmware Brick | Contact Lens Display        | Smart Contact Poison Ring     |
-| 5 | Embassy Coffee Cup Safe     | Gloves with Electrostatic Grip | Envelope of Marked Bills   | Portable Scrambler Unit     | Collapsible Listening Scope | Holo-Silhouette Projector     |
-| 6 | Briefcase False Bottom      | ShadowNet Router Cube          | Needle Umbrella            | Forged Insider Credentials  | Drone Jammer Beacon         | Decoy Self-Incrimination Tape |
+|   | 1               | 2                 | 3                 | 4                 | 5              | 6                  |
+| - | --------------- | ----------------- | ----------------- | ----------------- | -------------- | ------------------ |
+| 1 | Silenced Pistol | Bug Detector      | Forged Passport   | Lockpick Set      | Micro Recorder | Burner Phone       |
+| 2 | Concealed Blade | Grappling Gun     | Tactical Glasses  | Encryption Tablet | GPS Scrambler  | Flashbang Grenade  |
+| 3 | Tracker Darts   | Eavesdropping Kit | Disguise Kit      | Antidote Injector | Gas Mask       | Surveillance Drone |
+| 4 | Poison Ring     | Hollow Watch      | Signal Jammer     | EMP Device        | Wrist Taser    | Tranquilizer Gun   |
+| 5 | RFID Spoofer    | Hidden Camera     | Kevlar Vest       | Infrared Goggles  | Cyanide Tooth  | Money Bricks       |
+| 6 | Compact SMG     | Retinal Scanner   | Remote Explosives | Med Patch Kit     | Smoke Pellets  | Hacking Rig        |
 
+### Names
 
+#### Female Names
+
+|   | 1     | 2     | 3     | 4      | 5        | 6      |
+| - | ----- | ----- | ----- | ------ | -------- | ------ |
+| 1 | Alina | Sofia | Kaori | Emilia | Yelena   | Claire |
+| 2 | Anika | Lucia | Hana  | Ingrid | Nadine   | Roya   |
+| 3 | Zara  | Petra | Mira  | Elise  | Farah    | Dasha  |
+| 4 | Leila | Sanaa | Irina | Helena | Aiko     | Soraya |
+| 5 | Mina  | Ivana | Noor  | Carmen | Katerina | Sylvie |
+| 6 | Amira | Lina  | Moira | Ayaka  | Chiara   | Galina |
+
+#### Male Names
+
+|   | 1       | 2     | 3      | 4       | 5      | 6       |
+| - | ------- | ----- | ------ | ------- | ------ | ------- |
+| 1 | Viktor  | Elias | Kenji  | Luca    | Malik  | Andrei  |
+| 2 | Karim   | Tomas | Hugo   | Sergei  | Amir   | Claude  |
+| 3 | Mikhail | Rami  | Julien | Nikolai | Jorge  | Takeshi |
+| 4 | Jakob   | Farid | Arman  | Roman   | Dmitri | Theo    |
+| 5 | Anton   | Omar  | Pavel  | Isamu   | Ziad   | Silas   |
+| 6 | Illya   | Marco | Salem  | Arthur  | Emil   | Yann    |
+
+#### Surnames
+
+|   | 1       | 2        | 3        | 4         | 5         | 6        |
+| - | ------- | -------- | -------- | --------- | --------- | -------- |
+| 1 | Novak   | Ramires  | Petrov   | Saito     | Haddad    | Schulz   |
+| 2 | Volkov  | Grimaldi | Morozov  | Takahashi | Zakaria   | Leblanc  |
+| 3 | Haddadi | Kimura   | Castillo | Dragunov  | Mihalovic | Fontaine |
+| 4 | Aziz    | Orlov    | Yamamoto | Fernández | Sorokin   | Kowalski |
+| 5 | Choi    | Khalil   | Ivanova  | Delaunay  | Mahmoud   | Weber    |
+| 6 | Müller  | Sokolov  | Darzi    | Genovese  | Yamazaki  | Krüger   |
+
+### Nicknames
+
+|   | 1         | 2      | 3       | 4       | 5       | 6        |
+| - | --------- | ------ | ------- | ------- | ------- | -------- |
+| 1 | Ghost     | Viper  | Echo    | Phantom | Raven   | Ember    |
+| 2 | Wraith    | Oracle | Wolf    | Nomad   | Ash     | Cipher   |
+| 3 | Helix     | Quill  | Prophet | Fox     | Glitch  | Vector   |
+| 4 | Whisper   | Falcon | Sable   | Tempest | Maze    | Ironhand |
+| 5 | Crossfade | Moth   | Nomura  | Bluejay | Carbon  | Apex     |
+| 6 | Harrow    | Lynx   | Dagger  | Scorch  | Halcyon | Null     |
 
 ## Special Rules
 

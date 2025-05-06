@@ -15,319 +15,402 @@
 
 ### Concepts
 
-|   | 1                       | 2                       | 3                    | 4                     | 5                         | 6                        |
-|---|-------------------------|-------------------------|----------------------|-----------------------|---------------------------|--------------------------|
-| 1 | Lone Gunslinger         | Fearless Outlaw         | Cursed Sheriff       | Wild Tracker          | Mysterious Gambler        | Honorable Lawman         |
-| 2 | Swift Sharpshooter      | Cunning Bandit          | Loyal Deputy         | Vengeful Gunslinger   | Wise Native Scout         | Reckless Renegade        |
-| 3 | Charismatic Showman     | Tenacious Bounty Hunter | Skilled Blacksmith   | Charming Saloon Owner | Quick-fingered Pickpocket | Resilient Frontierswoman |
-| 4 | Skilled Horse Whisperer | Ruthless Desperado      | Noble Rancher        | Enigmatic Preacher    | Adventurous Prospector    | Formidable Gunslinger    |
-| 5 | Crafty Trickster        | Deadly Sniper           | Mysterious Stranger  | Resourceful Tracker   | Courageous Marshal        | Daring Stagecoach Driver |
-| 6 | Wise Medicine Woman     | Sharp-eyed Scout        | Skilled Sharpshooter | Reliable Trail Guide  | Fearless Gunslinger       | Tenacious Lawkeeper      |
-
-
+|   | 1                          | 2                    | 3                      | 4                      | 5                           | 6                         |
+| - | -------------------------- | -------------------- | ---------------------- | ---------------------- | --------------------------- | ------------------------- |
+| 1 | Weathered Sheriff          | Wandering Gunslinger | Jaded Bounty Hunter    | Stoic Homesteader      | Retired Outlaw              | Lone Preacher             |
+| 2 | Broken Deputy              | Mute Tracker         | Gambling Drifter       | Snake-Oil Salesman     | Vengeful Widow              | Ex-Soldier Turned Rancher |
+| 3 | Ghost Town Survivor        | Railroad Scout       | Illiterate Farmhand    | Reluctant Hero         | Cold-Blooded Killer         | Escaped Convict           |
+| 4 | Desert Prophet             | Grizzled Gold Miner  | Runaway Heiress        | Reformed Rustler       | Veteran Indian Scout        | Drunkard with a Past      |
+| 5 | Reckless Stagecoach Driver | Frontier Doctor      | Charismatic Con Man    | Doom-Whispering Hermit | Sharp-Tongued Saloon Singer | Former Pinkerton Agent    |
+| 6 | Outcast Orphan             | Mysterious Stranger  | Whispering Gravekeeper | Foreign Mercenary      | Grave-Robbing Tinkerer      | One-Eyed Ranch Hand       |
 
 ### Skills
 
-|   | 1                  | 2                        | 3                 | 4                     | 5                      | 6                       |
-|---|--------------------|--------------------------|-------------------|-----------------------|------------------------|-------------------------|
-| 1 | Marksmanship       | Horseback Riding         | Quick Draw        | Tracking              | Bartering              | Knife Fighting          |
-| 2 | Survival Instincts | Gambling                 | Lasso Mastery     | Stealth               | Leadership             | Archery                 |
-| 3 | Whiskey Tasting    | Riding Shotgun           | Brawling          | Lockpicking           | Fast Talking           | Sharpshooting           |
-| 4 | Hunting            | Cooking/Campfire Cooking | Horsemanship      | Bank Robbery Planning | Storytelling           | Fistfighting            |
-| 5 | Intimidation       | Trick Shooting           | Gambling Cheating | Tracking Outlaws      | Saloon Games           | Outlaw Contacts         |
-| 6 | Gold Prospecting   | Disguise                 | First Aid         | Dynamite Handling     | Singing/Cowboy Ballads | Roping/Cattle Wrangling |
-
-
+|   | 1                 | 2                 | 3                      | 4                   | 5                | 6                  |
+| - | ----------------- | ----------------- | ---------------------- | ------------------- | ---------------- | ------------------ |
+| 1 | Quick Draw        | Animal Handling   | Blunt Honesty          | Card Sharping       | Gun Maintenance  | Desert Navigation  |
+| 2 | Long-Range Shot   | Rope & Lasso      | Silent Movement        | Ambush Planning     | Bluffing         | Campfire Cooking   |
+| 3 | Riding Hard       | Dowsing           | Staring Contest Winner | Old Wound Diagnosis | Barroom Brawling | Makeshift Repairs  |
+| 4 | Threat Assessment | Gun Twirling      | Hoofprint Reading      | Dynamite Timing     | Sharp Aim        | Standoff Nerve     |
+| 5 | Preaching Fire    | Reading People    | Riding Side Saddle     | Poker Face          | Quick Reload     | Map Memory         |
+| 6 | Lie Detection     | Makeshift Surgery | Spitting Distance      | Horse Whispering    | Lock Busting     | Ghost Storytelling |
 
 ### Frailties
 
-|   | 1                               | 2                                        | 3                                 | 4                                    | 5                            | 6                                      |
-|---|---------------------------------|------------------------------------------|-----------------------------------|--------------------------------------|------------------------------|----------------------------------------|
-| 1 | Shaky Hands                     | Whiskey Addiction                        | Vengeance Obsession               | Trouble with Authority               | Lone Wolf                    | Superstitious Beliefs                  |
-| 2 | Chronic Gold Fever              | Fear of Native Americans                 | Card Sharp's Rivalries            | Reckless Gambler                     | Riding Fear                  | Stagecoach Travel Sickness             |
-| 3 | Wanted Dead or Alive            | Gunshot Wound That Never Healed Properly | Inability to Swim                 | Relentless Outlaw Pursuit            | Cursed by a Condemned Spirit | Chronic Bad Luck with Gambling         |
-| 4 | Nightmares of Past Shootouts    | Quick Tempered                           | Unfinished Business from the Past | Fear of Rattlesnakes                 | Lost in the Desert           | Infamous Reputation                    |
-| 5 | Shoot First Ask Questions Later | PTSD from the Civil War                  | Bandit Gang Feuds                 | Fear of Being Betrayed by Companions | Incurable Horse Allergies    | Chronic Misfortune with Cards and Dice |
-| 6 | Persecuted by a Corrupt Lawman  | Fear of the Noose                        | Rustler Stigma                    | Rejected by Native American Tribes   | Inability to Read or Write   | Bounty on their Head                   |
-
-
+|   | 1                     | 2                      | 3                       | 4                          | 5                      | 6                         |
+| - | --------------------- | ---------------------- | ----------------------- | -------------------------- | ---------------------- | ------------------------- |
+| 1 | Haunted by the War    | One Eye                | Bad Gambling Habit      | Constant Cough             | Hunted for a Bounty    | Allergic to Horses        |
+| 2 | Trusts No One         | Nightmares Every Night | Wanted in Another State | Blames Self for a Massacre | See Ghosts Sometimes   | Afraid of Gunfire         |
+| 3 | Never Learned to Read | Drinking Problem       | Can't Say No to a Dare  | Estranged from Kin         | Marked by the Devil    | Shaky Hands at Dusk       |
+| 4 | Talks to the Dead     | Crossed the Wrong Man  | Old Bullet Still Inside | Townsfolk Hate You         | Superstitious Wreck    | Can't Leave the County    |
+| 5 | Sworn Vow of Silence  | Falls for Every Scam   | Cursed by a Dying Woman | Missing a Finger           | Refuses to Carry a Gun | Flat Broke Always         |
+| 6 | Walks with a Limp     | Claustrophobic         | Known Liar              | Fear of Snakes             | Old Flames Burn Hot    | Suspect in Disappearances |
 
 ### Gear
 
-|   | 1               | 2                  | 3                           | 4                    | 5                | 6                     |
-|---|-----------------|--------------------|-----------------------------|----------------------|------------------|-----------------------|
-| 1 | Revolver        | Lever-action Rifle | Bowie Knife                 | Stetson Hat          | Bandana          | Cowboy Boots          |
-| 2 | Leather Duster  | Saddle and Tack    | Winchester Shotgun          | Spur                 | Lasso            | Saddlebags            |
-| 3 | Colt Peacemaker | Pocket Watch       | Sheriff's Badge             | Saloon Playing Cards | Wanted Poster    | Sheriff's Deputy Star |
-| 4 | Brass Knuckles  | Wagon              | Horseshoes                  | Saddle Holster       | Derringer Pistol | Horse Brush and Comb  |
-| 5 | Mining Pickaxe  | Canteen            | Wanted Dead or Alive Poster | Harmonica            | Gold Pan         | Poncho                |
-| 6 | Dynamite        | Tin Cup            | Chuckwagon Cooking Utensils | Horse Feed           | Riding Spurs     | Gambler's Dice        |
+|   | 1                              | 2                         | 3                      | 4                     | 5                               | 6                               |
+| - | ------------------------------ | ------------------------- | ---------------------- | --------------------- | ------------------------------- | ------------------------------- |
+| 1 | Rusted Revolver                | Bloodstained Hat          | Trusted Lasso          | Custom-Made Spurs     | Deck of Marked Cards            | Snakebite Tonic Flask           |
+| 2 | Sawed-Off Shotgun              | Dog-Eared Wanted Posters  | Ornate Bowie Knife     | Hand-Carved Pipe      | Pocket Bible                    | Lockpick Hairpin                |
+| 3 | Shiny Deputy Badge             | Journal of Last Words     | Fire-Starting Flint    | Coin Toss Token       | Flask of Strong Stuff           | Engraved Pocket Watch           |
+| 4 | Folding Shovel                 | Last Bullet in a Matchbox | Silver Horseshoe Charm | Rusty Bear Trap       | Map to a Lost Mine              | Tattered Trenchcoat             |
+| 5 | Homemade Rifle                 | Whispering Saddlebag      | Mirror from a Lover    | Saloon Token Necklace | Hand-Drawn Wanted Poster (self) | Cracked Spyglass                |
+| 6 | Keepsake Revolver (no bullets) | Charred Sheriff's Star    | Vial of River Dust     | Lockbox with No Key   | Sacred Amulet of a Dying Tribe  | Tin Can with a Rattlesnake Tail |
 
+### Names
+
+#### Female Names
+
+|   | 1       | 2        | 3       | 4       | 5        | 6          |
+| - | ------- | -------- | ------- | ------- | -------- | ---------- |
+| 1 | Clara   | Ruth     | Hattie  | Louella | Nell     | Josie      |
+| 2 | Maude   | Mercy    | June    | Cora    | Ada      | Laverne    |
+| 3 | Belle   | Thelma   | Sadie   | Miriam  | Esther   | Della      |
+| 4 | Winona  | Dorothea | Lillian | Opal    | Edie     | Mabel      |
+| 5 | Blanche | Dinah    | Hazel   | Isobel  | Tilda    | Nora       |
+| 6 | Elvira  | Frankie  | Goldie  | Mattie  | Prudence | Clarabelle |
+
+#### Male Names
+
+|   | 1      | 2     | 3        | 4        | 5       | 6      |
+| - | ------ | ----- | -------- | -------- | ------- | ------ |
+| 1 | Jed    | Amos  | Hank     | Cyrus    | Boone   | Luther |
+| 2 | Elmer  | Rufus | Silas    | Wyatt    | Zeke    | Emmett |
+| 3 | Otis   | Buck  | Clayton  | Jasper   | Ira     | Virgil |
+| 4 | Cletus | Earl  | Thaddeus | Jebediah | Amos    | Vernon |
+| 5 | Levi   | Clyde | Orville  | Amos     | Reuben  | Hollis |
+| 6 | Abner  | Wade  | Roscoe   | Gideon   | Quentin | Enoch  |
+
+#### Surnames
+
+|   | 1            | 2          | 3          | 4         | 5       | 6         |
+| - | ------------ | ---------- | ---------- | --------- | ------- | --------- |
+| 1 | McGraw       | Delaney    | Crowder    | Boone     | Withers | Haywood   |
+| 2 | Langtry      | Hensley    | Tabor      | Callahan  | Sutter  | Duggan    |
+| 3 | Merriweather | Rawlins    | Dalton     | Cavanaugh | Harrow  | Greeley   |
+| 4 | Drummond     | Whitley    | Farnsworth | Hollister | Burrows | Taggart   |
+| 5 | Ketchum      | Cartwright | Calhoun    | Templeton | Bellamy | Goodnight |
+| 6 | Rourke       | Pickett    | Voss       | Maddox    | Doolin  | Parnell   |
+
+### Nicknames
+
+|   | 1          | 2            | 3           | 4            | 5             | 6             |
+| - | ---------- | ------------ | ----------- | ------------ | ------------- | ------------- |
+| 1 | One-Eye    | Dust Devil   | Black Jack  | Preacher     | No-Name       | Whiskey Tooth |
+| 2 | Deadshot   | Slowpoke     | Red Boots   | Widowmaker   | Tin Star      | Gallows Joe   |
+| 3 | Snakebite  | Gravedigger  | Lucky Seven | Silent Sue   | Iron-Hand     | Bitter Creek  |
+| 4 | Mad Maggie | Slim Pickens | Hush Puppy  | Widow’s Son  | Lefty         | Cactus Jim    |
+| 5 | Shotglass  | Crow-Eater   | Rattlesnake | Miss Fortune | Dusty Rose    | Broken-Tooth  |
+| 6 | The Weasel | Cold-Eyes    | Thunderjaw  | Bluebonnet   | Prairie Ghost | Gutshot Hank  |
 
 ## Special Rules
 
-### Quick-draw duels
+### Quick-Draw Duels
 
-- Before the duel, both contenders roll a quick-draw skill check to determine who draws their weapon first.
-- The first contender to draw their weapon gets a bonus to their first attack roll.
-- Both contenders then take turns making attack rolls until one contender is defeated.
+In this land, justice is often decided in a heartbeat — or the failure of one.
 
-### Wanted levels
+- When a duel begins, both participants roll a **Quick-Draw** skill check.
+- The winner gains **+1d on their first attack**.
+- After that, combat proceeds as normal — each side takes turns making attack rolls until one is down or flees.
+- A tie on the draw means both fire at once: resolve both attacks before applying consequences.
 
-- The protagonist's infamy level increases whenever they commit crimes or engage in other outlaw activities.
-- Lawmen and bounty hunters are more likely to recognize and pursue The protagonist at higher infamy levels.
-- The protagonist can decrease their infamy level by completing quests or performing other deeds that are seen as heroic or honorable.
-- The Levels are:
-    1. **Unknown**: No one knows who you are, or you're just starting out. You're not wanted yet.
-    1. **Petty criminal**: You've committed minor crimes like theft or trespassing. Lawmen may be looking for you, but you're not yet a top priority.
-    1. **Notorious outlaw**: You've gained a reputation as an outlaw, and lawmen are actively seeking you out. There may be a bounty on your head.
-    1. **Infamous gang leader**: You're a leader of a gang, and your infamy has grown. Lawmen are actively hunting you, and your name is well-known.
-    1. **Public enemy**: You're a notorious criminal, and lawmen are determined to bring you to justice. You're constantly on the run, and there may be a large bounty on your head.
-    1. **Legendary outlaw**: You're a living legend in the criminal underworld, and lawmen consider you one of the most dangerous criminals in the West. Bounty hunters and lawmen alike are obsessed with bringing you down.
+> **Note:** You can use tags like `Quick Hands`, `Fast Reflexes`, or `Gunfighter Instinct` to get advantage on the draw roll.
+
+### Wanted Levels
+
+A good name goes a long way in the West. A bad one goes even further.
+
+Each time you commit crimes or notorious acts, your **Wanted Level** increases. Higher levels draw the attention of lawmen, bounty hunters, and the occasional vigilante. Good deeds may reduce your notoriety — but only if someone’s watching.
+
+**Wanted Levels:**
+
+1. **Unknown** – You're a nobody. Free to roam.  
+2. **Petty Criminal** – You've stolen, lied, or trespassed. Some folks might take note.  
+3. **Notorious Outlaw** – There's a poster with your face on it somewhere.  
+4. **Infamous Gang Leader** – You're a known threat. Most towns will refuse you service or shoot on sight.  
+5. **Public Enemy** – Your name spreads faster than your horse can ride. You’re hunted.  
+6. **Legendary Outlaw** – You’re a living myth. The law wants your head. So does half the territory.
+
+> **Tip:** Some towns or factions may react based on your level. At Level 3+, roll Faction Tags with Disadvantage unless disguised or protected.
 
 ### Hardship
 
-- The protagonist must keep track of their thirst, hunger, and other physical needs.
-- Injuries take longer to heal and have a greater impact on The protagonist's abilities.
-- Extreme weather conditions like heat waves or blizzards can also affect The protagonist's health and make it more difficult to complete tasks.
+The frontier doesn’t care about your plans. It breaks them — and you — without apology.
+
+- You must track **thirst**, **hunger**, and **exposure**.
+- When injured, healing is slow unless you have access to clean water, shelter, or proper medicine.
+- Harsh conditions (drought, dust storms, blizzards) may impose penalties or force checks to continue travel or avoid Frailty Tags.
+
+> **Example:**  
+> You’re stranded on the mesa. No water, no shade. After a day’s travel, you gain the tag `Parched`. Keep it until you find water. If `Parched` is still active and you fail a survival check, gain `Delirious` or `Sunburned`.
+
+> **Note:** Use Frailty Tags like `Starving`, `Frostbitten`, or `Exhausted` to represent long-term hardship effects.
 
 ## Factions
 
-### The Lawmen
-- **Concept**: Honorable enforcers of the law
-- **Skills**: Tracking, Shooting
-- **Frailty**: Blindly adhere to the law
-- **Gear**: Badge, Handcuffs
-- **Goal**: Uphold the law
-- **Motive**: Justice
-- **Nemesis**: Outlaws
+### The Badge-Bearers
 
-### The Outlaws
-- **Concept**: Ruthless criminals
-- **Skills**: Intimidation, Robbery
-- **Frailty**: Lack of trustworthiness
-- **Gear**: Revolvers, Bandanas
-- **Goal**: Get rich and stay alive
-- **Motive**: Greed
-- **Nemesis**: Lawmen
+* **Concept**: Sheriffs, marshals, and posses trying to hold back the tide.
+* **Skills**: Tracking fugitives, calm under fire.
+* **Frailty**: Bound by a crumbling code in a lawless land.
+* **Gear**: Tin star, ledger of names, dusty long rifle.
+* **Goal**: Keep the peace, or die trying.
+* **Motive**: Duty — even if it kills them.
+* **Nemesis**: The Scars of the Territory.
 
-### The Natives
-- **Concept**: Native American tribes
-- **Skills**: Tracking, Survival
-- **Frailty**: Prejudice and persecution
-- **Gear**: Tomahawks, Bows
-- **Goal**: Protect their land and way of life
-- **Motive**: Tradition
-- **Nemesis**: Settlers
+### The Scars of the Territory
 
-### The Settlers
-- **Concept**: Pioneers and homesteaders
-- **Skills**: Farming, Bartering
-- **Frailty**: Naive optimism
-- **Gear**: Plows, Muskets
-- **Goal**: Establish a new life in the West
-- **Motive**: Opportunity
-- **Nemesis**: Native Americans
+* **Concept**: Disbanded gangs, failed rebellions, desperate men and women living by the gun.
+* **Skills**: Robbery, intimidation, hiding in plain sight.
+* **Frailty**: Distrust and betrayal are the only currency.
+* **Gear**: Masked bandanas, sawed-off shotguns, coin purses of blood money.
+* **Goal**: Live fast, leave nothing behind.
+* **Motive**: Survival through violence.
+* **Nemesis**: Badge-Bearers, but also each other.
 
-### The Railroad Company
-- **Concept**: Industrialist corporation
-- **Skills**: Engineering, Business
-- **Frailty**: Ruthlessness in pursuit of profit
-- **Gear**: Train engines, Rail tracks
-- **Goal**: Build a transcontinental railroad
-- **Motive**: Economic gain
-- **Nemesis**: Saboteurs
+### The Dustwalkers
 
-### The Mexican Banditos
-- **Concept**: Ruthless bandits from south of the border
-- **Skills**: Ambush, Horseback Riding
-- **Frailty**: Hot-headedness
-- **Gear**: Sombreros, Machetes
-- **Goal**: Gain wealth and power
-- **Motive**: Revenge against Anglo-Americans
-- **Nemesis**: Texas Rangers
+* **Concept**: Indigenous guides, warriors, elders, and spirits of a land already lost.
+* **Skills**: Reading wind and stone, spiritual vision.
+* **Frailty**: Haunted by treaties broken and stories stolen.
+* **Gear**: Worn talismans, curved blades, ancestral maps.
+* **Goal**: Preserve memory, protect what’s left.
+* **Motive**: Tradition in resistance.
+* **Nemesis**: The Railmen.
+
+### The Homestead Union
+
+* **Concept**: Farmers, ranchers, widows, and orphans clinging to soil and hope.
+* **Skills**: Bartering, fence-building, sharpshooting with a musket.
+* **Frailty**: Hope can blind them to threats in plain sight.
+* **Gear**: Wedding rings, hunting dogs, patched rifles.
+* **Goal**: Build something that lasts longer than their names.
+* **Motive**: A better life.
+* **Nemesis**: Land barons and all who claim dominion.
+
+### The Railmen Syndicate
+
+* **Concept**: Tycoons, enforcers, and visionaries laying steel across bloodied ground.
+* **Skills**: Explosives, logistics, buying silence.
+* **Frailty**: Blind to human cost.
+* **Gear**: Engine whistles, payroll satchels, ledgers thick with names and debts.
+* **Goal**: Complete the line — no matter who’s buried beneath it.
+* **Motive**: Expansion, efficiency, empire.
+* **Nemesis**: Dustwalkers and saboteurs.
+
+### The Border Marauders
+
+* **Concept**: Runaways, deserters, and ex-revolutionaries from beyond the Rio, bound by their own code.
+* **Skills**: Guerilla tactics, desert riding, fearless strikes.
+* **Frailty**: Divided loyalties and old ghosts.
+* **Gear**: Bullet-scarred coats, machetes, relic pistols.
+* **Goal**: Rewrite the border in fire.
+* **Motive**: Justice twisted into revenge.
+* **Nemesis**: Rangers, mercenaries, and time.
 
 ## NPCs
-### Black Jack McLean
-- **Concept**: Ruthless gunslinger
-- **Skills**: Quick-draw, Intimidation
-- **Frailty**: Gambling addiction
-- **Gear**: Dual revolvers, Stetson hat
-- **Goal**: Build a criminal empire
-- **Motive**: Money and power
-- **Nemesis**: Sheriff John Roberts
 
-### Belle Starr
-- **Concept**: Infamous outlaw
-- **Skills**: Horseback riding, Deception
-- **Frailty**: Alcoholism
-- **Gear**: Sawed-off shotgun, Leather boots
-- **Goal**: Make a name for herself in the criminal underworld
-- **Motive**: Revenge against the law
-- **Nemesis**: U.S. Marshal James Wilson
+### Jack “Black Dust” McLean
 
-### Doc Holliday
-- **Concept**: Gambler and gunslinger
-- **Skills**: Marksmanship, Card playing
-- **Frailty**: Tuberculosis
-- **Gear**: Long coat, Silver-tipped cane
-- **Goal**: Die with his boots on
-- **Motive**: Loyalty to his friends
-- **Nemesis**: Johnny Ringo
+* **Concept**: Charismatic gang leader with a draw faster than talk.
+* **Skills**: Quick-draw duels, battlefield tactics.
+* **Frailty**: Can’t resist a gamble, even when the stakes are life and death.
+* **Gear**: Twin custom pistols, black hat full of bullet holes.
+* **Goal**: Carve out a kingdom of dust and fear.
+* **Motive**: Legacy through blood.
+* **Nemesis**: Sheriff Ada Whitlock.
 
-### Mary "Stagecoach" Fields
-- **Concept**: Tough-as-nails stagecoach driver
-- **Skills**: Driving, Cooking
-- **Frailty**: Fear of water
-- **Gear**: Whip, Bowie knife
-- **Goal**: Keep her passengers safe
-- **Motive**: Protecting those in need
-- **Nemesis**: Bandit leader "One-Eyed" Jack
+### Belle “Brass Tooth” Calderón
 
-### Caleb "The Preacher" Johnson
-- **Concept**: Former preacher turned gunslinger
-- **Skills**: Preaching, Pistol shooting
-- **Frailty**: Guilt over past mistakes
-- **Gear**: Bible, Colt revolver
-- **Goal**: Redeem himself for his sins
-- **Motive**: Protecting the innocent
-- **Nemesis**: Corrupt saloon owner Tom "Black Hat" Smith
+* **Concept**: Notorious stagecoach raider and folk hero to the wrong kind of folks.
+* **Skills**: Disguises, bluffing, horseback ambushes.
+* **Frailty**: Haunted by a betrayal that keeps her half-drunk, half-dangerous.
+* **Gear**: Sawed-off shotgun, charm bracelet made from bounty tags.
+* **Goal**: Burn the records of her past and replace them with legend.
+* **Motive**: Spite dressed up as freedom.
+* **Nemesis**: Deputy Marshal Thorne.
 
-### Lydia "The Widow" Johnson
-- **Concept**: Widow seeking revenge for her husband's death
-- **Skills**: Sewing, Rifle shooting
-- **Frailty**: Alcoholism
-- **Gear**: Embroidered shawl, Cartridge belt
-- **Goal**: Avenge her husband's death
-- **Motive**: Justice for the innocent
-- **Nemesis**: Outlaw gang leader "Bloody Bill" Davidson
+### “Doc” Vance Holloway
 
-## Foes
+* **Concept**: Dying gambler, killer, and philosopher with nothing left but style.
+* **Skills**: Cards, pistols, and reading a man’s soul from across the table.
+* **Frailty**: Coughing blood and hiding it with a joke.
+* **Gear**: Ivory-handled derringer, silver pocketwatch he keeps winding.
+* **Goal**: Die with a grin, not a whimper.
+* **Motive**: Loyalty to those who stayed when others ran.
+* **Nemesis**: “Gentleman” Ringo Malloy.
 
-### Lone Rider
-- **Concept**: Fearless Outlaw
-- **Skills**: Expert Gunman, Quick Reflexes
-- **Frailty**: Arrogance
-- **Gear**: Dual Revolvers, Bandana
-- **Goal**: Amass Wealth
-- **Motive**: Revenge for an old betrayal
-- **Nemesis**: The lawman who killed his brother
+### Mary “Stagecoach” Fields
 
-### Coyote
-- **Concept**: Wily Predator
-- **Skills**: Stealthy Hunter, Sharp Senses
-- **Frailty**: Weakness to traps
-- **Gear**: Sharp Teeth and Claws
-- **Goal**: Survive and Thrive
-- **Motive**: Hunger and Territory
-- **Nemesis**: The Rancher who poisoned his pack
+* **Concept**: Iron-willed hauler of people and freight through places maps avoid.
+* **Skills**: Driving rough terrain, handling a shotgun, wrangling mules and men.
+* **Frailty**: Won’t go near rivers — bad history.
+* **Gear**: Reinforced coach whip, hidden flask, battered iron skillet.
+* **Goal**: Get her people where they’re going, alive and whole.
+* **Motive**: Duty carved in scars.
+* **Nemesis**: Bandit queen "Red Clara" Valdez.
 
-### Rattler
-- **Concept**: Venomous Serpent
-- **Skills**: Stealthy Ambusher, Poisonous Bite
-- **Frailty**: Vulnerable to Cold
-- **Gear**: Venomous Fangs, Coiled Strike
-- **Goal**: Hunt and Kill Prey
-- **Motive**: Self-defense and Nourishment
-- **Nemesis**: The Gunslinger who killed his mate
+### Caleb “The Preacher” Johnson
 
-### Lurker
-- **Concept**: Silent Stalker
-- **Skills**: Camouflage, Ambush Attack
-- **Frailty**: Vulnerable to Loud Noises
-- **Gear**: Sharp Claws, Powerful Jaws
-- **Goal**: Protect its Territory
-- **Motive**: Instinctual Need for Survival
-- **Nemesis**: The Prospector who stumbled upon its lair
+* **Concept**: Bible in one hand, revolver in the other — he believes both are holy.
+* **Skills**: Fiery sermons, deadly aim.
+* **Frailty**: Sees signs of judgment everywhere — even in dreams.
+* **Gear**: Dust-covered Bible, family Colt with a notched grip.
+* **Goal**: Save the town — or cleanse it by fire.
+* **Motive**: Redemption, no matter the cost.
+* **Nemesis**: Snake-oil revivalist Silas "God’s Hand" Granger.
 
-### Bandit
-- **Concept**: Ruthless Thief
-- **Skills**: Stealth, Intimidation
-- **Frailty**: Greed
-- **Gear**: Mask, Knife
-- **Goal**: Rob and Plunder
-- **Motive**: Wealth and Power
-- **Nemesis**: The Sheriff who wants him dead or alive
+### Lydia “The Widow” Duvall
 
-### Renegade
-- **Concept**: Wild Outlaw
-- **Skills**: Horse Riding, Survivalism
-- **Frailty**: Hot-headedness
-- **Gear**: Pistol, Bowie Knife
-- **Goal**: Live Free and Avoid Capture
-- **Motive**: Retaliation against Oppression
-- **Nemesis**: The Merciless Land Baron
+* **Concept**: Lace and lead — mourning clothes over a rifle barrel.
+* **Skills**: Marksmanship, cold patience.
+* **Frailty**: Drinks to remember, not forget.
+* **Gear**: Lace shawl sewn with pistol loops, widow’s veil she never lifts.
+* **Goal**: Put a bullet in the man who shot her husband in the back.
+* **Motive**: Justice cut with grief.
+* **Nemesis**: “Bloody” Bill Davidson and every man who rides with him.
+
+## Frontier Threats
+
+### The Dustjaw
+
+* **Concept**: Hardened outlaw with nothing left to lose.
+* **Skills**: Quick-draw, bush ambush.
+* **Frailty**: Overconfident and slow to retreat.
+* **Gear**: Rusted six-shooter, bullet-patched duster.
+* **Goal**: Rob enough to vanish south.
+* **Motive**: Survival through domination.
+* **Nemesis**: The posse who left him for dead.
+
+### Ridgeback Coyote
+
+* **Concept**: Territorial alpha with a scarred snout.
+* **Skills**: Night prowling, coordinated howling.
+* **Frailty**: Easily baited when hungry.
+* **Gear**: Teeth, speed, the cover of darkness.
+* **Goal**: Drive out intruders and expand its range.
+* **Motive**: Instinct and hunger.
+* **Nemesis**: A ranch dog with a grudge.
+
+### Painted Canyon Sniper
+
+* **Concept**: Former scout turned paid killer.
+* **Skills**: Camouflage, long-range marksmanship.
+* **Frailty**: One eye shot out in war.
+* **Gear**: Scoped carbine, war medal worn on a string.
+* **Goal**: Collect the bounty, no questions asked.
+* **Motive**: Professional pride, not malice.
+* **Nemesis**: Any who return fire.
+
+### Broadjaw Rattler
+
+* **Concept**: Massive rattlesnake nesting near the creek beds.
+* **Skills**: Silent approach, lightning strike.
+* **Frailty**: Slow to move in the morning chill.
+* **Gear**: Fangs, venom sac, natural camouflage.
+* **Goal**: Secure territory and mates.
+* **Motive**: Defense and hunger.
+* **Nemesis**: The trail hand with a shovel scar to prove it.
+
+### Creekbed Rustlers
+
+* **Concept**: Loose band of cattle thieves operating under moonlight.
+* **Skills**: Rope work, herd steering, vanishing fast.
+* **Frailty**: Poor coordination when separated.
+* **Gear**: Lariats, stolen brands, tired nags.
+* **Goal**: Sell stolen herds before daybreak.
+* **Motive**: Profit from other men’s labor.
+* **Nemesis**: Any honest wrangler or night watch.
+
+### Bitter Range Widow
+
+* **Concept**: Sharp-eyed homesteader with a dead husband and no patience.
+* **Skills**: Marksmanship, terrain advantage.
+* **Frailty**: Quick temper, quicker trigger.
+* **Gear**: Old Springfield rifle, widow’s locket.
+* **Goal**: Keep her land at all costs.
+* **Motive**: Defiance against displacement.
+* **Nemesis**: The land agent who forged her claim.
 
 ## Locations
 
-### Deadwood Saloon
-- Iconic drinking establishment in the center of town.
-- Frequented by cowboys, miners, and gamblers.
-- Possibile Encounters: Bartender, Outlaws, Gamblers
+### Red Lantern Saloon
 
-### Coyote Pass
+* Faded hub of drink, smoke, and whispered deals.
+* Known for poker games that end in gunfire.
+* Possible Encounters: Bartender, Drifter, Card Shark
 
-- Treacherous pass through the mountains.
-- Bandits and ambushes are common.
-- Possibile Encounters: Bandit, Natives, Rattlesnake
+### Devil’s Spine Pass
 
-### Silver Mine
-- Abandoned mine with silver veins.
-- Tunnels are unstable and dangerous.
-- Possibile Encounters: Outlaws, Lurker, Rattlesnake
+* Narrow switchback trail carved through jagged rock.
+* Ideal ground for ambushes — or accidents.
+* Possible Encounters: Highwayman, Scout, Coyote
 
-### Fort Union
-- Military fort on the edge of the territory.
-- Commanded by a tough but fair colonel.
-- Possibile Encounters: Soldiers, Natives
+### Lost Pick Mine
 
-### Dry Gulch
-- Small, dusty town on the outskirts of civilization.
-- Lawless and dangerous, ruled by a corrupt mayor.
-- Possibile Encounters: Mayor, Bandit, Lawmen
+* Partially collapsed claim with rumors of hidden silver.
+* Echoes travel too far down here.
+* Possible Encounters: Claim Jumper, Stray Mule, Cave-In Risk
 
-### Big Sky Ranch
-- Sprawling cattle ranch owned by a wealthy rancher.
-- Prized cattle are guarded by cowboys and guard dogs.
-- Possibile Encounters: Rancher, Cowboy, Rattlesnake
+### Fort Redemption
+
+* Old Union fort turned garrison for local patrols.
+* Supplies are short, tempers shorter.
+* Possible Encounters: Captain, Deserter, Supply Officer
+
+### Dusthaven
+
+* Boomtown gone bust, now ruled by backroom politics.
+* Streets are dry, but blood still runs.
+* Possible Encounters: Corrupt Mayor, Deputy, Loan Shark
+
+### Hollow Tree Ranch
+
+* Well-fenced spread on disputed land.
+* Guards work for pay — and switch sides fast.
+* Possible Encounters: Ranch Hand, Foreman, Trespasser
 
 ## Adventure Seeds
 
-| D66 | Adventure                                                                                                                                 |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 11  | The protagonist is hired to escort a wagon train through dangerous territory, but they soon discover that one of the passengers is actually a notorious outlaw in disguise. |
-| 12  | The protagonist is hired by a local rancher to track down a group of rustlers who have been stealing his cattle. However, the rustlers turn out to be a group of native tribespeople who are being forced off their land by the rancher. |
-| 13  | The protagonist is ambushed by a gang of bandits while traveling alone on the trail. They must fight off the attackers and then track them back to their hideout to put an end to their activities. |
-| 14  | The protagonist is hired to protect a wealthy landowner's daughter from a group of kidnappers who have been plaguing the area. However, the daughter is not as helpless as she seems and may have her own agenda. |
-| 15  | The protagonist is recruited by a local sheriff to track down a dangerous outlaw who has been terrorizing the town. However, the outlaw is a former lawman himself and knows all the tricks of the trade. |
-| 16  | The protagonist stumbles upon a group of treasure hunters who are searching for a lost mine said to be filled with gold. However, the mine is also rumored to be cursed, and the treasure hunters are not the only ones looking for it. |
-| 21  | The protagonist is hired to retrieve a stolen shipment of weapons that was headed to a nearby military fort. However, the thieves turn out to be a rogue group of soldiers who have their own agenda. |
-| 22  | The protagonist comes across a small town that has been taken over by a group of ruthless outlaws. They must find a way to liberate the town and bring the criminals to justice. |
-| 23  | The protagonist is hired by a wealthy landowner to protect his ranch from a group of native tribespeople who are fighting back against the encroachment of white settlers. |
-| 24  | The protagonist is hired to transport a group of settlers to a new town being built in the west. However, the journey is fraught with danger, and the settlers may have their own secrets and agendas. |
-| 25  | The protagonist is hired to investigate a series of mysterious disappearances that have been occurring in a remote mining town. However, they soon discover that the town is being haunted by a malevolent spirit. |
-| 26  | The protagonist is hired to track down a legendary gunslinger who has been terrorizing the west for years. However, the gunslinger may not be all that they seem. |
-| 31  | The protagonist is hired by a group of native tribespeople to protect their land from a group of white settlers who are encroaching on their territory. However, the settlers may have their own reasons for being there. |
-| 32  | The protagonist stumbles upon a group of bandits who have taken over a small town and are holding the inhabitants hostage. They must find a way to rescue the townsfolk and put an end to the bandits' activities. |
-| 33  | The protagonist is hired by a group of prospectors to help them find a rich vein of gold that is rumored to be located deep in the mountains. However, the prospectors are not the only ones looking for the gold. |
-| 34  | The protagonist is recruited by a group of vigilantes who are seeking to bring justice to the lawless west. However, the vigilantes may not be as noble as they seem. |
-| 35  | The protagonist is hired by a local rancher to track down a group of wolves that have been killing his livestock. However, the wolves may not be the real threat. |
-| 36  | The protagonist stumbles upon a small town that has been overrun by a gang of undead outlaws. They must find a way to put the undead to rest and bring peace back to the town. |
-| 41  | The protagonist is hired by a wealthy cattle baron to track down a group of rustlers who have been stealing his livestock. The trail leads The protagonist to a nearby town, where they must navigate the corrupt local law enforcement and confront the leader of the rustlers, who turns out to be a member of a rival cattle ranch. |
-| 42  | The protagonist is approached by a group of settlers who are being harassed by a band of bandits. The settlers ask The protagonist to help defend their town, and The protagonist must rally a group of able-bodied citizens and use their skills to fortify the town against the bandits' attack. |
-| 43  | The protagonist is hired to escort a wealthy businessman and his family through dangerous territory to a neighboring town. Along the way, they are attacked by a group of outlaws who are seeking revenge against the businessman, and The protagonist must protect their charges while also fighting off the attackers. |
-| 44  | The protagonist is approached by a group of native Americans who have been displaced from their land by white settlers. The natives ask The protagonist to help them reclaim their land, and The protagonist must navigate the complicated racial tensions of the region while also fighting off the settlers' armed forces. |
-| 45  | The protagonist stumbles upon a ghost town that is rumored to be cursed. The town is infested with undead creatures, and The protagonist must battle their way through hordes of zombies and skeletons to uncover the source of the curse and put an end to it. |
-| 46  | The protagonist is hired by a wealthy mine owner to investigate a series of accidents and thefts that have been plaguing his operations. The protagonist discovers that a rival mine owner has been sabotaging the operations in an attempt to drive his competitor out of business. |
-| 51  | The protagonist is hired by a local lawman to track down a dangerous outlaw who has been terrorizing the region. The protagonist must navigate the harsh wilderness and track down the outlaw's hideout, where they must engage in a tense shootout to bring the criminal to justice. |
-| 52  | The protagonist is hired to investigate a string of mysterious disappearances in a nearby town. They soon discover that the town is being preyed upon by a pack of werewolves, and must work to eliminate the threat before more innocent people are taken. |
-| 53  | The protagonist is approached by a group of miners who have been driven out of their claims by a group of bandits. The miners offer The protagonist a cut of their gold if they can help them reclaim their land, and The protagonist must use their skills to outsmart the bandits and protect the miners. |
-| 54  | The protagonist is hired to investigate a strange illness that is sweeping through a nearby town. They discover that the illness is being caused by a group of witches who are seeking revenge against the townspeople for their persecution. |
-| 55  | The protagonist is hired to track down a rogue gunslinger who has been challenging and killing other gunfighters in the region. The protagonist must engage in a high-noon showdown with the rogue gunslinger to put an end to their reign of terror. |
-| 56  | The protagonist is approached by a group of prospectors who have discovered a rich vein of gold in a nearby canyon. The prospectors ask The protagonist to help them defend their claim against a rival gang of miners who are seeking to steal their gold. |
-| 61  | The protagonist is hired to transport a group of dangerous outlaws to a nearby prison. Along the way, The protagonist must fend off attacks from the outlaws'. |
-| 62  | The protagonist is hired by the local sheriff to track down a notorious outlaw who has been terrorizing the town. Along the way, they encounter hostile terrain, dangerous creatures, and hostile bandits who are trying to protect the outlaw. |
-| 63  | The protagonist stumbles upon a secret gold mine, but soon discovers that it's haunted by vengeful ghosts of miners who died there. They must navigate the treacherous mine and defeat the spirits to claim the gold. |
-| 64  | The protagonist is framed for a crime they didn't commit and must clear their name while avoiding the lawmen who are after them. They must track down the true culprit, gather evidence, and bring them to justice. |
-| 65  | The protagonist is hired to deliver a package to a remote outpost on the frontier, but soon discovers that the package contains a dangerous weapon that could change the course of the war. They must decide whether to deliver the package or destroy it. |
-| 66  | The protagonist is kidnapped by a group of bandits who demand a ransom from their wealthy family. They must escape from their captors, track them down, and bring them to justice. |
+## Adventure Seeds
+
+| D66 | Adventure |
+| --- | --------- |
+| 11 | Track counterfeit coin to a printing press hidden in a traveling medicine show. |
+| 12 | Track a bounty into storm country, but the outlaw’s kin are watching every ridge. |
+| 13 | You wake with your gear stolen and a sheriff’s badge pinned to your chest. The town calls you law now. |
+| 14 | Dig into a sudden election victory — the votes outnumber the living in town. |
+| 15 | Investigate a string of barn burnings blamed on a rival ranch — but something doesn’t add up. |
+| 16 | Escort a supply wagon through contested range land as both raiders and ranchers stake their claim. |
+| 21 | A cattle baron's son vanished on a trail ride. Find him before the vultures do. |
+| 22 | Ride escort for a payroll wagon rumored to be double-loaded. Word’s out, and so are the wolves. |
+| 23 | Serve a warrant in a boomtown that hasn't seen a lawman in years. No one wants the man found. |
+| 24 | Locate a missing surveyor last seen camping near Devil’s Spine — his camp is burned and his horse shot. |
+| 25 | Protect a railworker strike leader from hired enforcers. The company says she’s a firebrand. |
+| 26 | Escort a prisoner across county lines — their old gang has set up blockades. |
+| 31 | Break into a war profiteer’s warehouse to recover stolen army rifles before they cross the border. |
+| 32 | Guard a bridge under construction. Dynamite’s gone missing, and tempers are short. |
+| 33 | A former outlaw seeks to surrender. His old partners plan to bury him before he can talk. |
+| 34 | Break a siege: a traveling doctor and her patients are trapped in a church by local vigilantes. |
+| 35 | Trail a stolen herd across open range. Something’s killing cattle and leaving the meat behind. |
+| 36 | Confront a gunman killing veterans from the same company. You wore the same uniform once. |
+| 41 | A caravan of settlers seeks escort — but a masked rider follows, asking for one man’s head. |
+| 42 | A judge arrives in town with a docket of buried sins. Keep them alive through the night. |
+| 43 | Defend a widow's homestead from hired guns sent by a railroad syndicate with forged land claims. |
+| 44 | You’re offered coin to testify in a land dispute. Both sides swear they’ll kill you if you do. |
+| 45 | Transport a coffin to a mountain cemetery. The family says to bury it before nightfall. |
+| 46 | Investigate a mine collapse blamed on sabotage. Survivors say it wasn’t just the rocks that moved. |
+| 51 | Follow a boot trail into the canyons. The man you’re after vanished chasing a mirage. |
+| 52 | Negotiate a truce between two ranches after a shootout left three men dead — and the water rights in question. |
+| 53 | Intercept a telegram before it reaches the governor. Some truths don’t travel safe in daylight. |
+| 54 | Stop a jailbreak planned by the sheriff’s own deputy. The town’s split, and time’s running short. |
+| 55 | A land baron pays handsomely to relocate a family. The family refuses to move — or to speak. |
+| 56 | A letter arrives: your name is on a will, but the town holding the inheritance is run by outlaws. |
+| 61 | A homesteader’s well turns to blood. Panic brews, but someone stands to gain from the exodus. |
+| 62 | Protect a mule train carrying dynamite to the mountain mine — snow’s coming and wolves follow. |
+| 63 | An aging lawman asks for your help arresting his own son. The town’s ready to turn against him. |
+| 64 | A storm uncovers graves on land newly claimed. The sheriff wants it quiet. The preacher does not. |
+| 65 | A band of regulators offers justice. Are they law — or just another gang with clean boots? |
+| 66 | A hired scout hasn’t returned from the high pass. Their horse came back alone and bloody. |
+
+

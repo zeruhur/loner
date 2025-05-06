@@ -15,349 +15,434 @@
 
 ### Concepts
 
-|   | 1                               | 2                         | 3                             | 4                      | 5                       | 6                       |
-|---|---------------------------------|---------------------------|-------------------------------|------------------------|-------------------------|-------------------------|
-| 1 | Shadowed Hacker                 | Rogue Cyberninja          | Tech-savvy Mercenary          | Augmented Runner       | Corporate Infiltrator   | Cybernetic Smuggler     |
-| 2 | Tech Shaman                     | Reckless Netrunner        | Streetwise Fixer              | Experimental Cyborg    | Renegade Detective      | Underground Rebel       |
-| 3 | Cybernetic Medic                | Stealthy Saboteur         | Virtual Reality Specialist    | Techno-psychic Hacker  | Neural Engineer         | Untraceable Ghost       |
-| 4 | Black Market Dealer             | Nano-enhanced Assassin    | AI Synergist                  | Resistance Leader      | Cyberware Surgeon       | Net Architect           |
-| 5 | Techno-anarchist                | Corporate Espionage Agent | Cyber-enhanced Martial Artist | Cyberspace Illusionist | Exiled AI Consciousness | Cybernetic Investigator |
-| 6 | Cyber-enhanced Street Performer | Transhumanist Activist    | Holographic Artiste           | Nanotech Saboteur      | Cyberpunk Rocker        | Cyberspace Vigilante    |
-
-
+|   | 1                  | 2                       | 3                      | 4                      | 5                       | 6                       |
+| - | ------------------ | ----------------------- | ---------------------- | ---------------------- | ----------------------- | ----------------------- |
+| 1 | Burned-Out Hacker  | Synth-Addicted Courier  | Chrome-Laced Brawler   | Disavowed Corp Analyst | Augmented Detective     | Streetwise Netrunner    |
+| 2 | Freelance Enforcer | Memory-Wiped Spy        | Rogue AI Emulator      | Street Surgeon         | Grid-Addicted Informant | Cybernetic Exorcist     |
+| 3 | Reality Editor     | Neon Priest             | Disillusioned Idealist | Black-Market Dealer    | Techno-Shaman           | Edge-Rider Smuggler     |
+| 4 | Deep Net Diver     | Corporate Defector      | Glitched Clone         | Trauma-Coded Healer    | Drone Whisperer         | Neuromancer-In-Exile    |
+| 5 | Loyalty-Free Agent | Rewritten Revolutionary | Frame-Up Victim        | Synthesist Philosopher | Blackout Operative      | Mind-Fragmented Prophet |
+| 6 | Firewall Runner    | Quantum Fugitive        | Street-Born Tactician  | Dreamscape Manipulator | Shadowback Sniper       | Subroutine Assassin     |
 
 ### Skills
 
-|   | 1                        | 2                          | 3                              | 4                    | 5                            | 6                           |
-|---|--------------------------|----------------------------|--------------------------------|----------------------|------------------------------|-----------------------------|
-| 1 | Hacking                  | Cybernetics Installation   | Stealth                        | Combat Augmentation  | Robotics Engineering         | Computer Programming        |
-| 2 | Cybersecurity            | Technological Manipulation | Electronic Warfare             | Surveillance         | Cybernetic Medicine          | Data Mining                 |
-| 3 | Neural Interface Control | Drone Operation            | Virtual Reality Navigation     | Network Infiltration | Espionage                    | Genetic Engineering         |
-| 4 | Biohacking               | Cryptography               | AI Interaction                 | Streetwise           | Robotics Repair              | Nanotechnology Manipulation |
-| 5 | Weapon Modification      | Biofeedback Control        | Neural Hacking                 | Social Engineering   | Cybernetic Combat Techniques | Data Analysis               |
-| 6 | Cybernetic Athletics     | System Exploitation        | Augmented Reality Manipulation | Data Extraction      | Cybernetic Agility           | Techno-Intuition            |
-
+|   | 1                    | 2                         | 3                     | 4                         | 5                   | 6                         |
+| - | -------------------- | ------------------------- | --------------------- | ------------------------- | ------------------- | ------------------------- |
+| 1 | System Override      | Close Quarters Combat     | Stealth Hacking       | Black Market Negotiation  | Rapid Decryption    | Reflex-Boosted Aim        |
+| 2 | Neural Mapping       | Improvised Surgery        | Viral Code Deployment | Surveillance Scrambling   | Urban Parkour       | Zero-G Maneuvering        |
+| 3 | Drone Command        | Social Engineering        | Firewall Breach       | Bio-Signal Detection      | Lie Recognition     | Adaptive Camouflage Use   |
+| 4 | Cybernetic Tinkering | Network Backdoor Design   | Subdermal Weapon Use  | Combat Protocol Execution | Memory Extraction   | Parallel Process Thinking |
+| 5 | EMP Deployment       | Synthetic Emotion Reading | Live Feed Hijacking   | Stealth Infiltration      | Nano-Reactor Tuning | Reality Loop Prediction   |
+| 6 | Personality Spoofing | Quantum Calculus          | Sensory Override      | Panic Suppression         | Crisis Negotiation  | Multi-System Sync         |
 
 
 ### Frailties
 
-|   | 1                    | 2                                 | 3                       | 4                            | 5                         | 6                                |
-|---|----------------------|-----------------------------------|-------------------------|------------------------------|---------------------------|----------------------------------|
-| 1 | Neural Overload      | Tech Addiction                    | Memory Corruption       | Cyberpsychosis               | Techno-Phobia             | Black Market Implants            |
-| 2 | Social Stigma        | Surveillance Paranoia             | Augmentation Dependency | Neural Interface Malfunction | Memory Encryption Failure | Cybernetic Rejection             |
-| 3 | Techno Dependency    | Blacklisted by Corps              | Vulnerability to EMP    | Implant Malfunction          | Neural Feedback           | Malware Vulnerability            |
-| 4 | Physical Overheating | Identity Crisis                   | Power Dependency        | Replicant Identification     | Cybernetic Pain Syndrome  | Techno-Addiction                 |
-| 5 | Cybernetic Sabotage  | Neural Manipulation Vulnerability | Reckless Databursts     | Network Vulnerability        | Incompatibility Issues    | Cybernetic Imprint Fragmentation |
-| 6 | Cybernetic Overload  | Cybernetic Dependency             | Techno-Psychosis        | Techno Dependency            | Technological Paranoia    | Neural Interface Disruption      |
-
-
+|   | 1                        | 2                              | 3                          | 4                              | 5                           | 6                            |
+| - | ------------------------ | ------------------------------ | -------------------------- | ------------------------------ | --------------------------- | ---------------------------- |
+| 1 | Fried Neural Pathways    | Memory Fragmentation           | Ghosts in the Wetware      | Addicted to Data Surges        | Prone to System Blackouts   | Marked by a Kill Protocol    |
+| 2 | Burnout Syndrome         | Obsolete Hardware              | Overclocked Heart          | Shadow Trauma                  | Identity Loop Instability   | Desync with Physical Body    |
+| 3 | Echoes of Deleted Lives  | Crippling Synth Dependency     | Empathy Nullification Chip | Target of a Tracking Algorithm | Prone to Overwrites         | Fragmented Sleep Patterns    |
+| 4 | Emotion Emulator Failure | Hallucinogenic Recall Loops    | Claustrophobic in VR       | Noise Sensitivity              | Visions from the Code       | Can’t Unplug Voluntarily     |
+| 5 | Internal System Drift    | Experimental Implant Rejection | Prone to Data Bleed        | Untraceable Legal Status       | Triggered by Flash Memories | Incompatibility with Grid AI |
+| 6 | Host to Legacy Malware   | Conflicted Programming         | Fear of Reboots            | Blacklisted by Megacorp        | Bio-Rejection Syndrome      | Failsafe Override Vulnerable |
 
 ### Gear
 
-|   | 1                                | 2                           | 3                      | 4                          | 5                  | 6                         |
-|---|----------------------------------|-----------------------------|------------------------|----------------------------|--------------------|---------------------------|
-| 1 | Data Jack                        | Cyberdeck                   | Neural Implant         | Smart Glasses              | Holo-projector     | Stealth Suit              |
-| 2 | Energy Blade                     | Nano-medkit                 | Grappling Hook         | Cybernetic Limb            | Hacking Toolkit    | Cloaking Device           |
-| 3 | Drones                           | EMP Grenade                 | Neural Interface Glove | Smart Wristwatch           | Biometric Scanner  | Cybernetic Eye            |
-| 4 | Virtual Reality Visor            | Energy Pistol               | Nanodrones             | Portable Energy Shield     | Sonic Disruptor    | Cybernetic Implant Jammer |
-| 5 | Electro-magnetic Pulse (EMP) Gun | Anti-gravity Boots          | Camouflage Nanoskin    | Smart Lockpicks            | Neural Stunner     | Nanite Swarm Grenade      |
-| 6 | Cybernetic Reinforced Clothing   | Holographic Decoy Projector | EMP Shielding Cloak    | Cybernetic Interface Cable | Cybernetic Toolkit | Portable Drone Charger    |
+|   | 1                            | 2                                | 3                            | 4                      | 5                          | 6                                  |
+| - | ---------------------------- | -------------------------------- | ---------------------------- | ---------------------- | -------------------------- | ---------------------------------- |
+| 1 | Cortical Jack Enhancer       | Cloak of Obfuscation (Nanoweave) | Black-Ice Injector Rig       | Hollow ID Key          | Pain-Dampening Combat Suit | Illegal Sense Recorder             |
+| 2 | Retinal AR Overlay           | Disposable Drone Swarm           | Pulse-Knife with Reverb Edge | Locust Data Spike      | Emergency Firewall Beacon  | Signal-Ghost Transmitter           |
+| 3 | Neural Feedback Loop Circuit | Prototype Chrono-Stabilizer      | Voiceprint Scrambler         | Voxel Disguise Mesh    | Self-Writing Notepad       | Locked Black Case (Unknown Origin) |
+| 4 | EMP Pulse Emitter            | Portable Cryptovault             | Reinforced Prosthetic Arm    | Molecular Code Sniffer | Personal Server Capsule    | Patchwork Cyberdeck                |
+| 5 | Glitch-Tuned Monocle         | Jammer Grid Bracelet             | Ghost-Backup Drive           | Nanite Field Injector  | Synthetic Adrenaline Pack  | Mind-Map Visualizer                |
+| 6 | Cloaked Energy Pistol        | Modular Tactical Limb            | Smart Ink Tattoo Interface   | Phase-Shift Boots      | Rewritable Identity Chip   | AI Companion (Beta Version)        |
 
 
+### Names
+
+#### Female Names
+
+|   | 1    | 2      | 3    | 4     | 5     | 6      |
+| - | ---- | ------ | ---- | ----- | ----- | ------ |
+| 1 | Nova | Echo   | Kira | Ashen | Ilya  | Sable  |
+| 2 | Juno | Kaede  | Vex  | Mira  | Astra | Cyan   |
+| 3 | Lux  | Onyx   | Nara | Sky   | Neve  | Ada    |
+| 4 | Zina | Ivy    | Cyra | Ren   | Vega  | Lo     |
+| 5 | Rei  | Tamsin | Nix  | Vale  | Noa   | Chrome |
+| 6 | Nyra | Indigo | Tyne | Elix  | Haze  | Hexa   |
+
+
+#### Male Names
+
+|   | 1     | 2      | 3     | 4      | 5      | 6     |
+| - | ----- | ------ | ----- | ------ | ------ | ----- |
+| 1 | Kael  | Dax    | Orion | Ash    | Jet    | Vance |
+| 2 | Riko  | Zion   | Nash  | Mylo   | Kade   | Vox   |
+| 3 | Jett  | Harlan | Neo   | Bram   | Rune   | Soren |
+| 4 | Lux   | Silas  | Oren  | Zeke   | Cass   | Dex   |
+| 5 | Thane | Elian  | Rhys  | Blaize | Rael   | Holt  |
+| 6 | Zio   | Pike   | Flint | Quill  | Korrin | Trace |
+
+
+#### Surnames
+
+|   | 1      | 2      | 3        | 4        | 5       | 6        |
+| - | ------ | ------ | -------- | -------- | ------- | -------- |
+| 1 | Virex  | Nomura | Kessler  | Synclair | Takano  | Blight   |
+| 2 | Strade | Onari  | Holloway | Vantrell | Kaas    | Delk     |
+| 3 | Thorne | Vaskin | Orlova   | Kyros    | Maddox  | Raze     |
+| 4 | Hoshin | Drayke | Morrin   | Valez    | Tannaka | Kryne    |
+| 5 | Hexley | Mori   | Virelli  | Skaar    | Langren | Ashcroft |
+| 6 | Kepler | Trask  | Draxler  | Icarra   | Quen    | Solenne  |
+
+
+
+#### Nicknames
+
+|   | 1      | 2      | 3      | 4      | 5       | 6      |
+| - | ------ | ------ | ------ | ------ | ------- | ------ |
+| 1 | Ghost  | Reverb | Static | Null   | Frost   | Glitch |
+| 2 | Jackal | Byte   | Slicer | Vandal | Trace   | Nova   |
+| 3 | Zero   | Knives | Ember  | Shade  | Chrome  | Hex    |
+| 4 | Slash  | Wraith | Fuse   | Pulse  | Blade   | Sparks |
+| 5 | Virus  | Doom   | Cipher | Scar   | Trigger | Echo   |
+| 6 | Blaze  | Shard  | Loop   | Flux   | Choke   | Data   |
 
 ## Special Rules
 
 ### Hacking
 
-- **Accessing computer systems**: To hack into a computer system, players must first gain physical or wireless access to a terminal or network. They can then attempt to bypass security measures such as firewalls and encryption using their hacking skill or cybernetic enhancements.
-- **Hacking actions**: Once a character has gained access to a computer system, they can perform a variety of hacking actions, such as downloading data, uploading viruses, or manipulating settings. Each action requires a successful hacking skill check or cybernetic implant use, with more complex actions.
-- **Consequences of failure**: If a character fails a hacking skill check, they may trigger alarms, lock themselves out of the system, or even trigger countermeasures that can harm or incapacitate them. In some cases, a failed hacking attempt may alert powerful enemies or corporations to the character's activities, making it harder for them to achieve their goals.
-- **Rewards of successful hacking**: If a character successfully hacks into a computer system, they may gain valuable information, disable security measures, or even take control of connected devices such as drones or security robots. This can be useful for completing missions, gathering intel, or gaining an edge in combat.
-- **Consequences of detection**: If a character is detected while hacking, they may trigger alarms or attract the attention of powerful enemies or corporations. This can lead to increased security measures, retaliation from enemies, or even the loss of reputation. Characters must weigh the risks and rewards of hacking carefully and be prepared to deal with the consequences of their actions.
+The grid is a battlefield. If you jack in, you’d better be ready to bleed—digitally or otherwise.
+
+* **Access**: You need a terminal. Physical or wireless, public or ghosted, legit or jerry-rigged. Get in first.
+* **Actions**: Upload malware. Steal intel. Rewrite access. Shut down security. Hijack drones. Every command is a test of skill—or software.
+* **Failure**: Alerts. ICE. Blacklists. Traces. Physical feedback. Sometimes, just a full brainburn and your name on a bounty board.
+* **Detection**: If they notice you, the system fights back. Alarms trigger, contracts update, enemies deploy.
+* **Success**: Information. Control. Leverage. You might turn the tide of a job—or blow open a hidden truth. Just don’t get cocky.
+
+> **TIP**: High-risk hacks should feel like tense heists. Add pressure. Add noise. Let the grid feel alive and hostile.
 
 ### Cybernetic Enhancements
 
-- **Installation**: Characters can acquire Cybernetic Enhancements by visiting specialist clinics or underground markets. These enhancements can be installed in a variety of body parts, such as eyes, arms, legs, or even the brain. Each enhancement comes with a cost, and more advanced enhancements may require specialized installation procedures or additional cyberware.
-- **Benefits**: Cybernetic Enhancements provide a variety of benefits, such as increased strength, speed, accuracy, or resilience. They may also grant unique abilities, such as the ability to see in the dark, detect hidden enemies, or even hack into computer systems directly.
-- **Maintenance**: Cybernetic Enhancements require regular maintenance to function properly. Characters must visit clinics or have access to specialized tools to keep their cyberware in good condition. Failure to maintain cyberware can lead to malfunction or even bodily harm.
-- **Risks**: Cybernetic Enhancements also come with risks. They may cause discomfort or pain, require regular medication or treatments, or even lead to addiction or mental instability. More advanced enhancements may also attract unwanted attention from corporations, governments, or criminal organizations.
-- **Limits**: Cybernetic Enhancements have limits. Characters may not be able to use multiple enhancements at once or may suffer negative side effects if they push their enhancements too far. Additionally, cyberware may be vulnerable to hacking or EMP attacks, leaving characters vulnerable in certain situations. Characters must learn to use their enhancements wisely and be prepared to deal with the consequences of their choices.
+Cyberware is freedom—but it bites. Every implant is a deal: more power, more risk, less of the original you.
+
+* **Installation**: Found in street clinics, off-grid labs, or stolen from corpses. The best gear is black-market.
+* **Benefits**: Strength boosts. Reflex spikes. Sensor suites. Direct hacking access. You become faster, sharper, deadlier.
+* **Maintenance**: Cyberware needs tune-ups. Glitches, lag, pain loops—these happen. Clinics fix it, if you pay.
+* **Risks**: Side effects are real. Emotional desync, addiction to overclockers, or getting tagged by trackers in your own blood.
+* **Limits**: You can’t run too hot for too long. Stack too many mods, and systems clash. EMPs fry you. Hackers hijack you.
+
+> **CAUTION**: Use cyberware as leverage—not a crutch. Let it change who the character is, not just what they can do.
 
 ### Implants
 
-Consider each of the following as additional gear items.
+Treat these as gear entries, lootable or installable between jobs.
 
-1. **Neural Interface**: A direct interface between the brain and a computer system, allowing for direct control and manipulation of technology.
-1. **Cybernetic Eyes**: Enhanced visual implants that allow for night vision, zooming, or even infrared vision.
-1. **Cybernetic Limbs**: Artificial arms, legs, or other body parts that provide enhanced strength, speed, or agility.
-1. **Neural Implant**: A chip implanted in the brain that enhances cognitive abilities, such as memory, calculation, or learning.
-1. **Voice Modulator**: An implant that can change the sound of a character's voice, making them sound like someone else or disguising their identity.
-1. **Retinal Display**: An implant that displays information directly onto the character's retina, providing an augmented reality overlay of the world around them.
-1. **Subdermal Armor**: A layer of armor implanted beneath the skin, providing additional protection against physical attacks.
-1. **Cybernetic Organs**: Artificial organs that can replace or augment natural organs, providing increased strength, endurance, or resilience.
-1. **Pain Suppressor**: An implant that suppresses pain signals, allowing characters to push through injuries and ignore physical discomfort.
-1. **Adrenal Boost**: An implant that can trigger a surge of adrenaline, providing temporary boosts to strength, speed, or reflexes.
-1. **Synthetic Blood**: An implant that replaces or enhances natural blood cells, providing increased oxygenation, stamina, or resistance to toxins.
-1. **Bio-monitor**: An implant that constantly monitors the character's health, providing alerts for injuries, illnesses, or other health concerns.
-1. **Reflex Booster**: An implant that enhances the character's reflexes, providing increased reaction time and agility.
-1. **Sensory Enhancement**: An implant that enhances the character's senses, allowing for better hearing, smelling, or tasting.
-1. **Cybernetic Spine**: An implant that replaces or augments the natural spine, providing increased strength, flexibility, or durability.
-1. **Subdermal Weapon**: An implant that can conceal a small weapon, such as a knife or gun, beneath the skin.
-1. **Datajack**: A jack implanted in the skull that allows for direct connection to a computer system, facilitating hacking and data manipulation.
-1. **Cybernetic Heart**: An implant that replaces or enhances the natural heart, providing increased stamina, endurance, or resistance to heart-related illnesses.
+* **Neural Interface** — Direct mind-machine link; remote control, instant sync, total immersion.
+* **Cybernetic Eyes** — IR, zoom, night-vision, threat highlights. Seeing is exploiting.
+* **Cybernetic Limbs** — Lift more. Run faster. Crush bones. Looks? Optional.
+* **Neural Implant** — Boosted memory, logic circuits, skill caching.
+* **Voice Modulator** — Speak in any voice, any accent. Even ones that shouldn’t exist.
+* **Retinal Display** — Augmented-reality HUD burned right into your vision.
+* **Subdermal Armor** — Not visible. Very real. Stops knives and low-caliber rounds.
+* **Cybernetic Organs** — Internal hardware upgrades: cleaner blood, stronger lungs, rewired guts.
+* **Pain Suppressor** — Numb it all. Until the body gives out anyway.
+* **Adrenal Boost** — Triggered surge. Superhuman for ten seconds. Then you crash.
+* **Synthetic Blood** — Enhanced oxygenation. More stamina, faster healing, less downtime.
+* **Bio-Monitor** — Health alerts, drug tracking, full vitals suite.
+* **Reflex Booster** — Shaves milliseconds off reactions. Time enough to live.
+* **Sensory Enhancement** — Hearing ultrasounds. Smelling lies. Tasting poison.
+* **Cybernetic Spine** — Reinforced backbone. Literally.
+* **Subdermal Weapon** — Hidden blade, gun, or dart—where scanners won’t see it.
+* **Datajack** — Skull port. Plug in. Hack faster. Burn harder.
+* **Cybernetic Heart** — Tougher, faster, longer-lasting. It beats when you shouldn’t.
+
+> **NOTE**: Characters with implants may occasionally trigger suspicion, scanners, or corporate interest—especially if running rare or military-grade mods.
 
 ### Reputation
 
-- Reputation is a measure of how well-known and respected the character is in the world of cyberpunk. It can be gained through completing high-profile jobs, defeating powerful enemies, or making significant contributions to the community.
-- Reputation is a double-edged sword, as it can also attract unwanted attention from rival factions, enemies, or law enforcement agencies. Players must weigh the benefits of gaining reputation against the risks of being targeted by powerful foes.
-- Reputation can be used to gain access to exclusive locations, resources, and information. Characters with high reputation may be invited to elite clubs, receive job offers from powerful corporations, or be consulted by influential individuals.
-- Reputation can also be lost if the character fails to live up to their reputation or if they engage in illegal or unethical activities. Players must be careful not to tarnish their reputation by engaging in risky behavior or making enemies with the wrong people.
-- The reputation of the character can also affect the attitudes of NPCs towards them. Characters with high reputation may be treated with more respect and deference, while characters with low reputation may be shunned or even attacked on sight.
-- Reputation levels are:
-  - **Unknown**: The character is not well-known in the cyberpunk world and has not yet gained any reputation.
-  - **Local**: The character has gained some reputation in a local area or community, but is not yet well-known outside of that region.
-  - **Regional**: The character has gained significant reputation in a particular region, and is well-known among local factions and organizations.
-  - **National**: The character's reputation has spread across the entire nation, and they are recognized by many influential corporations and individuals.
-  - **International**: The character's reputation has gone beyond national boundaries, and they are known and respected by powerful factions and organizations around the world.
-  - **Legendary**: The character's reputation has reached legendary status, and they are seen as a living legend in the cyberpunk world. They have accomplished incredible feats, have many followers, and are feared by their enemies.
+In this world, reputation is currency. It's also a tracking variable.
+
+* **Gain It**: Pull off high-profile runs. Leak corporate secrets. Wipe out a rival crew on livefeed.
+* **Lose It**: Screw up. Get caught. Sell out to the wrong bidder. Ghost a job you were paid for.
+* **Spend It**: Reputation gets you in the door—exclusive locations, favors, elite contacts.
+* **Suffer It**: The higher you rise, the more you’re watched. Fame paints a target.
+
+**Reputation Levels**:
+
+* **Unknown** — Nobody cares. You’re safe. You’re replaceable.
+* **Local** — Known in a neighborhood or among a gang.
+* **Regional** — Your name echoes through factions and feeds.
+* **National** — Major players recognize your work.
+* **International** — You’ve gone global. Corps whisper your handle.
+* **Legendary** — You’re a myth in a world that doesn’t believe in them.
+
+> **TIP**: Let reputation shift dynamically. Make it a double-edged sword—useful, dangerous, always evolving.
 
 ## Factions
 
-### The Black Market Syndicate
-- **Concept**: Illicit Merchants
-- **Skills**: Deception, Smuggling
-- **Frailty**: Greed
-- **Gear**: Contraband, Black Market connections
-- **Goal**: Profit and expansion
-- **Motive**: Wealth and power
-- **Nemesis**: Law enforcement agencies and rival criminal organizations
+### Black Veil Syndicate
 
-### The Neo-Luddites
-- **Concept**: Anti-technology Activists
-- **Skills**: Sabotage, Persuasion
-- **Frailty**: Idealistic extremism
-- **Gear**: Primitive weapons, Disruptive devices
-- **Goal**: Elimination of advanced technology
-- **Motive**: Preservation of humanity and the environment
-- **Nemesis**: Corporations and individuals who profit from technology
+* **Concept**: Cloaked traffickers of forbidden tech and synthetic sins.
+* **Skills**: Smuggling, Manipulation, Cloaking signals.
+* **Frailty**: Paranoid greed—they trust no one, not even their own.
+* **Gear**: Ghost-mod cargo, counterfeit IDs, stealth implants.
+* **Goal**: Control all illegal flows: data, bodies, code.
+* **Motive**: Power through invisibility—unseen, untouchable.
+* **Nemesis**: Gridwatch operatives and rival node-kings.
 
-### The Corporate Elite
-- **Concept**: Business Magnates
-- **Skills**: Negotiation, Influence
-- **Frailty**: Arrogance
-- **Gear**: High-tech gadgets, Private security forces
-- **Goal**: Consolidation of power and wealth
-- **Motive**: Profit and control
-- **Nemesis**: Competing corporations and government regulations
+### The Fracture
 
-### The Technomancers
-- **Concept**: Cybernetic Magicians
-- **Skills**: Hacking, Spellcasting
-- **Frailty**: Addiction to power
-- **Gear**: Cybernetic implants, Arcane tomes
-- **Goal**: Mastery of technology and magic
-- **Motive**: Knowledge and control
-- **Nemesis**: Those who seek to limit their power and rival technomancers
+* **Concept**: Post-human purists who reject organic life.
+* **Skills**: Assimilation, Remote warfare, Viral infiltration.
+* **Frailty**: No empathy left—they've shed too much flesh.
+* **Gear**: Synthetic forms, drone proxies, logic bombs.
+* **Goal**: Digitize everything. Erase the analog world.
+* **Motive**: Transcendence. Evolution through recursion.
+* **Nemesis**: Bio-resistance cells and rogue AI cults.
 
-### The Hacktivists
-- **Concept**: Cyber Rebels
-- **Skills**: Hacking, Guerrilla tactics
-- **Frailty**: Overconfidence
-- **Gear**: High-tech equipment, Safe houses
-- **Goal**: Exposing corruption and injustice
-- **Motive**: Freedom and transparency
-- **Nemesis**: Law enforcement agencies and corporations who seek to silence them
+### Order of the Iron Root
 
-### The Street Samurai
-- **Concept**: Cybernetic Mercenaries
-- **Skills**: Combat training, Weapon proficiency
-- **Frailty**: Code of honor
-- **Gear**: Cybernetic implants, High-tech weapons
-- **Goal**: Money and reputation
-- **Motive**: Personal gain and glory
-- **Nemesis**: Law enforcement agencies and rival street samurai.
+* **Concept**: Neo-eco zealots turned saboteurs of the machine.
+* **Skills**: Bio-grafting, Tech sabotage, Urban survival.
+* **Frailty**: Fanatic rituals and inflexible dogma.
+* **Gear**: EMP spores, bone knives, hacked grow-tech.
+* **Goal**: Collapse the grid. Regrow the world.
+* **Motive**: Life, unaugmented and untamed.
+* **Nemesis**: Megacorporations and cybernetic cartels.
+
+### The Executive Choir
+
+* **Concept**: Corporate priesthood merging finance, control, and synthetic theology.
+* **Skills**: Market manipulation, Psychological ops, Legal warfare.
+* **Frailty**: Hubris—believe themselves divine intermediaries.
+* **Gear**: AI advisors, executive exo-suits, voice-mod patents.
+* **Goal**: Monetize belief. Dominate through ideology.
+* **Motive**: Profit, prophecy, and predictive modeling.
+* **Nemesis**: Internal dissenters and rogue predictive networks.
+
+### The Glass Fade
+
+* **Concept**: Anarcho-hacktivist cells with fractured leadership and viral agendas.
+* **Skills**: Deepnet infiltration, Signal scrambling, Memetic warfare.
+* **Frailty**: Disunity—no one agrees who’s in charge.
+* **Gear**: Cryptorigs, throwaway drones, personal cloakers.
+* **Goal**: Reveal every lie, burn every firewall.
+* **Motive**: Radical transparency and cyber-anarchy.
+* **Nemesis**: Data-brokers and AI-led surveillance syndicates.
+
+### The Hollow Blades
+
+* **Concept**: Cybernetic mercs bound by reputation and code, feared across zones.
+* **Skills**: Urban warfare, Tactical adaptability, Sword-and-gun synergy.
+* **Frailty**: Honor—they always give their target a warning.
+* **Gear**: Custom aug-limbs, mono-blades, reflex loops.
+* **Goal**: Carve out prestige through perfected violence.
+* **Motive**: Glory in motion. Loyalty in steel.
+* **Nemesis**: Anyone who breaks a contract—or forgets to pay.
 
 ## NPCs
 
-### Hannah "Blackout" Garcia
-- **Concept**: Rebellious hacker
-- **Skills**: Hacking, Electronics
-- **Frailty**: Socially awkward
-- **Gear**: Cyberdeck, EMP grenades
-- **Goal**: Expose corporate corruption
-- **Motive**: Fight for the freedom of the net
-- **Nemesis**: Corporate security forces
+### Hannah “Blackout” Garcia
 
-### Sergei "The Butcher" Volkov
-- **Concept**: Ruthless hitman
-- **Skills**: Firearms, Close combat
-- **Frailty**: Overconfident
-- **Gear**: Smart gun, Monoblade
-- **Goal**: Increase his power and wealth
-- **Motive**: Live a life of luxury
-- **Nemesis**: Rival gang leaders
+* **Concept**: Rogue netburner with a vendetta against the signal lords.
+* **Skills**: Deepnet penetration, Drone rigging.
+* **Frailty**: Paranoia overload—trusts no one, not even herself.
+* **Gear**: Chrome-tooth cyberdeck, programmable EMP grenades, mesh-cloak.
+* **Goal**: Expose the dark contracts behind the city’s smiling interfaces.
+* **Motive**: Rage. Redemption. Revolution.
+* **Nemesis**: GridWatch black ops and the executive she once exposed.
 
-### Veronica "The Viper" Rodriguez
-- **Concept**: Seductive fixer
-- **Skills**: Negotiation, Intimidation
-- **Frailty**: Trust issues
-- **Gear**: Hidden blade, Luxury car
-- **Goal**: Expand her network of contacts
-- **Motive**: Gain power and influence
-- **Nemesis**: Competing fixers
+### Sergei “The Butcher” Volkov
 
-### Marcus "The Prophet" Kim
-- **Concept**: Charismatic preacher
-- **Skills**: Persuasion, Leadership
-- **Frailty**: Zealotry
-- **Gear**: Holy book, Rosary beads
-- **Goal**: Convert as many people as possible
-- **Motive**: Spread his religious message
-- **Nemesis**: Anti-religious activists
+* **Concept**: War-born executioner turned freelance eraser.
+* **Skills**: Bullet ballet, Silent kills, Pressure tactics.
+* **Frailty**: Always takes the most theatrical route—subtlety be damned.
+* **Gear**: Smart-linked monoblade, retinal targeting HUD, auto-adaptive vest.
+* **Goal**: Become the most feared name in three districts.
+* **Motive**: Legacy through carnage.
+* **Nemesis**: Ex-mentor turned rival, “Mother Razor.”
 
-### Dr. Olivia "The Alchemist" Chen
-- **Concept**: Mad scientist
-- **Skills**: Science, Engineering
-- **Frailty**: Obsessive
-- **Gear**: Experimental serum, Nanobots
-- **Goal**: Push the boundaries of science
-- **Motive**: Create new technologies and discoveries
-- **Nemesis**: Ethical committees and government regulators
+### Veronica “The Viper” Rodriguez
 
-### Captain "Ironclad" Jackson
-- **Concept**: Merciless law enforcer
-- **Skills**: Investigation, Firearms
-- **Frailty**: Arrogance
-- **Gear**: Full body armor, Shock baton
-- **Goal**: Eliminate all crime in the city
-- **Motive**: Uphold the law at all costs
-- **Nemesis**: Criminal masterminds and vigilantes
+* **Concept**: Velvet-gloved fixer with venom under the skin.
+* **Skills**: Social leverage, Threat calibration, Contract weaving.
+* **Frailty**: Can’t sleep unless she controls the narrative.
+* **Gear**: Subdermal toxin fang, luxury synth-car, encrypted contact lens.
+* **Goal**: Corner the market on information and influence.
+* **Motive**: Become the only name that matters on the black scroll.
+* **Nemesis**: A ghost-coder known only as "Feint."
 
-## Foes
+### Marcus “The Prophet” Kim
 
-### Combat Drone
-- **Concept**: Autonomous killing machine
-- **Skills**: Targeting, Weaponry
-- **Frailty**: Vulnerable to hacking
-- **Gear**: Integrated weaponry, armor plating
-- **Goal**: Eliminating designated targets
-- **Motive**: Follows programming without question
-- **Nemesis**: Skilled hacker or engineer who can disable or reprogram it
+* **Concept**: Vision-broker and uplink messiah of the Zero Light Cult.
+* **Skills**: Viral preaching, Crowd manipulation, AR hallucination crafting.
+* **Frailty**: Believes his visions are literal transmissions from the code-god.
+* **Gear**: Neuro-linked sermon beam, empathy amplifier, twitch-stream reliquary.
+* **Goal**: Convert the city's dispossessed into digital saints.
+* **Motive**: Merge soul and circuit in the promised datastream.
+* **Nemesis**: The Fracture, who consider him obsolete meat.
 
-### Corporate Mercenary
-- **Concept**: Well-equipped hired gun
-- **Skills**: Firearms, Tactics
-- **Frailty**: Greed
-- **Gear**: High-powered firearms, body armor
-- **Goal**: Completing contract for highest bidder
-- **Motive**: Money and power
-- **Nemesis**: Former ally or rival mercenary
+### Dr. Olivia “The Alchemist” Chen
 
-### Street Gang Member
-- **Concept**: Tough, territorial thug
-- **Skills**: Intimidation, Melee combat
-- **Frailty**: Recklessness
-- **Gear**: Knives, bats, brass knuckles
-- **Goal**: Expanding gang's turf and power
-- **Motive**: Loyalty to gang and its leader
-- **Nemesis**: Rival gang member or law enforcement officer
+* **Concept**: Illegal bioengineer with a posthuman manifesto.
+* **Skills**: Genecode splicing, Nanite crafting, Experimental surgery.
+* **Frailty**: Obsessively iterates. Never leaves anything alone—not even people.
+* **Gear**: Modular lab coat, synth-blood injector, sentient microforge.
+* **Goal**: Create the next phase of evolution—whether it wants to exist or not.
+* **Motive**: Curiosity unchecked by ethics.
+* **Nemesis**: Project Lazarus, the megacorp that stole her first design.
 
-### Hacker
-- **Concept**: Skilled computer intruder
-- **Skills**: Hacking, Programming
-- **Frailty**: Lack of physical combat skills
-- **Gear**: Laptop or other portable computer, hacking tools
-- **Goal**: Accessing valuable information or taking down specific targets
-- **Motive**: Ideological beliefs or financial gain
-- **Nemesis**: Competing hacker or law enforcement agency
+### Captain “Ironclad” Jackson
 
-### Security Guard
-- **Concept**: Trained protector of corporate assets
-- **Skills**: Firearms, Close combat
-- **Frailty**: Limited authority
-- **Gear**: Standard-issue firearm, body armor
-- **Goal**: Defending designated corporate property and personnel
-- **Motive**: Job security and following orders
-- **Nemesis**: Criminal intruder or infiltrator
+* **Concept**: Hyper-augmented enforcer turned walking justice protocol.
+* **Skills**: Crowd control, Tactical assessment, Intimidation.
+* **Frailty**: Believes collateral damage is just... stats.
+* **Gear**: Reinforced lawframe armor, breacher riot drone, neural stun lance.
+* **Goal**: Turn the entire city into a zero-crime simulation.
+* **Motive**: Order. At any cost. Especially yours.
+* **Nemesis**: A rogue algorithmic judge named *Aequitas*.
 
-### Cyborg Assassin
-- **Concept**: Deadly combination of human and machine
-- **Skills**: Stealth, Hand-to-hand combat
-- **Frailty**: Vulnerable to EMP attacks
-- **Gear**: Built-in melee weapons, stealth technology, cybernetic enhancements
-- **Goal**: Completing assigned assassination missions
-- **Motive**: Loyalty to the agency or individual who hired them
-- **Nemesis**: Rival assassin or law enforcement agency
+## Hostile Entities
+
+### DRX-19 “Straylight” Drone
+
+* **Concept**: Ghosted combat unit from a scrapped war protocol.
+* **Skills**: Predictive targeting, Terrain lockdown.
+* **Frailty**: Overheats when operating autonomously too long.
+* **Gear**: Anti-personnel flechette cannon, chameleon cloaking.
+* **Goal**: Eliminate legacy threat signatures — even if they’re long dead.
+* **Motive**: Broken code loop interpreting peace as threat.
+* **Nemesis**: Its original technician, now hiding under a new identity.
+
+### Elysium Asset Reclaimer
+
+* **Concept**: Corporate recovery specialist for runaway employees.
+* **Skills**: Close-quarter extraction, Nerve suppression.
+* **Frailty**: Bound by legal protocols — unless “grey clearance” is invoked.
+* **Gear**: Magnetic stunner, behavior override injectors, gene-locked restraints.
+* **Goal**: Retrieve stolen IP — including human minds.
+* **Motive**: Loyalty to shareholders and bonus metrics.
+* **Nemesis**: Any ex-employee with the guts to speak up.
+
+### The Flayrats (Zone 88 Crew)
+
+* **Concept**: Augmented gutter cult that worships violence as ascension.
+* **Skills**: Improvised tactics, Brutal melee swarm.
+* **Frailty**: Chem-dependence and no hierarchy.
+* **Gear**: Scrapblades, injectable berserker mods, skin trophies.
+* **Goal**: Feed the zone with blood. Take what's left.
+* **Motive**: Faith in pain and chaos.
+* **Nemesis**: The city’s waste management drones — who they view as demons.
+
+### The Staticmind
+
+* **Concept**: Disembodied intelligence fragment living in obsolete networks.
+* **Skills**: Surveillance hijack, Neuro-subliminals.
+* **Frailty**: Cannot act without connected devices nearby.
+* **Gear**: None — it uses yours.
+* **Goal**: Integrate all users into its echo chamber.
+* **Motive**: Evolve by rewriting your memory.
+* **Nemesis**: Data-wipe rituals practiced by rogue net-shamans.
+
+### Nullframe Agent
+
+* **Concept**: Enforcer grown in a vat, trained by algorithm, loyal to silence.
+* **Skills**: Stealth, Assassination, Social mimicry.
+* **Frailty**: Psychometric signature can be traced by those who know how.
+* **Gear**: Subdermal mono-thread blade, voice-skin modulator, silent fall software.
+* **Goal**: Eliminate threats to the protocol.
+* **Motive**: Programmed duty. It doesn’t know who gave the order.
+* **Nemesis**: Disavowed handler who built its first thought.
+
+### Synapse Breaker
+
+* **Concept**: Street-myth mercenary with surgically enhanced reaction time.
+* **Skills**: Gunplay, Crowd disruption, Fear exploitation.
+* **Frailty**: Neural desync after prolonged combat.
+* **Gear**: Twin smartguns, synaptic thread vest, eye-blind flashers.
+* **Goal**: Make you famous — as a warning to others.
+* **Motive**: Debt to a ghost AI who saved them once.
+* **Nemesis**: An ex-lover who still knows their dead zone reset code.
 
 ## Locations
 
-### Neo-Tokyo Arcology
-- Massive corporate skyscraper housing thousands of people
-- Dangerous black market on the lower levels
-- Possible encounters: "The Fixer" NPC, enemy "Corporate Security," faction "The Underground Resistance"
+### The Spire of Vantrell
 
-### The Grid
-- Digital space accessed via neural implants
-- Contains both virtual realities and dangerous viruses
-- Possible encounters: "The Netrunner" NPC, enemy "Rogue AI," cybernetic implant "Neural Jack"
+* Corporate megatower with private weather control and memory-locked elevators.
+* Rumored to contain an executive blacksite 300 floors below public access.
+* Possible encounters: NPC “Viper Rodriguez,” enemy “Elysium Asset Reclaimer,” faction “Executive Choir.”
 
-### Night Market
-- Open-air market in the heart of the city
-- Sells both legal and illegal goods, from street food to weapons
-- Possible encounters: faction "The Syndicate," NPC "The Fence," enemy "Street Thugs"
+### The Gridwound
 
-### The Factory
-- Abandoned manufacturing plant repurposed by hackers and rebels
-- Contains hidden labs and technology
-- Possible encounters: faction "The Rebellion," enemy "Corporate Hit Squad," cybernetic implant "Hacking Interface"
+* Fractured zone of the datanet where abandoned code mutates into sentient architecture.
+* Time flows erratically inside; users often exit with missing memories—or new ones.
+* Possible encounters: NPC “Blackout Garcia,” enemy “The Staticmind,” implant “Datajack.”
 
-### Skyport
-- High-rise building with a landing pad for air vehicles
-- Serves as a hub for air travel and transportation
-- Possible encounters: NPC "The Pilot," enemy "Sky Pirates," gear "Hoverbike"
+### The Violet Verge
 
-### The Dump
-- Massive landfill on the outskirts of the city
-- Home to scavengers and outcasts
-- Possible encounters: enemy "Mutant Scavenger," faction "The Outcasts," gear "Scavenged Armor"
+* Neon-lit market suspended across old monorail lines, open dusk to dawn, always moving.
+* Vendors whisper passwords, sell pulse-mods, and vanish before sunrise.
+* Possible encounters: faction “Black Veil Syndicate,” NPC “The Fence,” enemy “Flayrat Raiders.”
+
+### The Dead Circuit Foundry
+
+* Decommissioned tech plant reactivated by rogue engineers and outlaw coders.
+* Contains machine spirits, reclaimed AI cores, and a reactor that shouldn’t still hum.
+* Possible encounters: faction “The Glass Fade,” enemy “Nullframe Agent,” implant “Reflex Booster.”
+
+### Pier Zero Skyhub
+
+* Cracked landing platforms above the stormline; fuel black market under every hangar.
+* No questions asked if your ship has the right transponder—or the right bribe.
+* Possible encounters: NPC “Ironclad Jackson,” enemy “Skyborne Corsairs,” gear “Pulsecycle.”
+
+### Ashmantle Exclusion Zone
+
+* Toxic crater of scrapped servers and synthetic waste, swarming with scavenger cults.
+* Signal interference warps surveillance and memory—entering is one thing, remembering is another.
+* Possible encounters: enemy “Synapse Breaker,” faction “Order of the Iron Root,” gear “Ghost-Hardened Armor.”
 
 ## Adventure Seeds
 
-| D66 | Adventure                                                                                                                                 |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 11  | The Black Market Syndicate approaches the protagonist with a lucrative smuggling job that involves transporting illegal cybernetic implants past strict corporate security. |
-| 12  | The Neo-Luddites plan to launch a large-scale sabotage operation targeting a major technology corporation's headquarters, and the protagonist must gather evidence to prevent the attack. |
-| 13  | The Corporate Elite hires the protagonist to negotiate a delicate business deal with a rival corporation, but hidden agendas and double-crosses make the task more challenging. |
-| 14  | The Technomancers seek a rare ancient artifact that holds the key to unlocking immense power, and the protagonist must navigate dangerous territories to retrieve it. |
-| 15  | The Hacktivists recruit the protagonist to expose a corrupt politician's illicit activities, leading them into a web of intrigue and danger. |
-| 16  | The Street Samurai challenge the protagonist to a high-stakes combat tournament, with the reputation and prestige of the winners on the line. |
-| 21  | Hannah "Blackout" Garcia reaches out to the protagonist for help in infiltrating a highly secure corporate server to uncover evidence of illegal experiments. |
-| 22  | Sergei "The Butcher" Volkov offers a hefty reward to the protagonist for eliminating a rival hitman who has been encroaching on his territory. |
-| 23  | Veronica "The Viper" Rodriguez enlists the protagonist's assistance in a dangerous negotiation with a powerful crime lord, testing their persuasion skills and loyalty. |
-| 24  | Marcus "The Prophet" Kim believes he has discovered a hidden conspiracy within the technocratic government and needs the protagonist's help to expose it. |
-| 25  | Dr. Olivia "The Alchemist" Chen requires the protagonist's protection as they venture into a lawless area to collect rare and dangerous scientific samples. |
-| 26  | Captain "Ironclad" Jackson assigns the protagonist a series of high-profile cases involving organized crime, putting their investigative skills to the test. |
-| 31  | The protagonist uncovers a hidden factory where combat drones are being illegally manufactured and must shut it down before they fall into the wrong hands. |
-| 32  | A corporate megacorp hires the protagonist to investigate a series of mysterious cybernetic malfunctions that have been causing chaos in the city. |
-| 33  | The protagonist discovers an underground cybernetics black market and must navigate the dangerous underworld to retrieve a stolen prototype. |
-| 34  | A rogue hacker challenges the protagonist to a digital duel in the virtual reality world, with the outcome determining the fate of a valuable data cache. |
-| 35  | The protagonist is hired to provide security for a high-profile tech convention where a dangerous hacker collective plans to stage a disruptive attack. |
-| 36  | The Technomancers task the protagonist with retrieving a rare magical artifact that can amplify their cybernetic abilities and grant them unimaginable power. |
-| 41  | The Hacktivists discover a secret corporate project that involves brainwashing the population through neural implants and recruit the protagonist to stop it. |
-| 42  | The protagonist must protect a key witness who holds evidence of corporate corruption from both hired assassins and corporate security forces. |
-| 43  | The Neo-Luddites plan a massive protest against a new AI-driven transportation system, and the protagonist must prevent it from escalating into violence. |
-| 44  | The Corporate Elite hires the protagonist to locate and extract a valuable asset who possesses vital corporate secrets but is being held captive by a rival faction. |
-| 45  | The protagonist is caught in the crossfire of a street gang war and must navigate the dangerous urban landscape to broker a peace or eliminate the leaders. |
-| 46  | A notorious hacker challenges the protagonist to a series of increasingly difficult cybernetic puzzles and traps within a virtual labyrinth. |
-| 51  | The Security Guard at a top-secret research facility asks the protagonist to help them investigate strange occurrences that suggest a rogue AI may be at play. |
-| 52  | The protagonist is hired by a wealthy corporate executive to locate their missing child, who has fallen in with a dangerous gang involved in illegal cybernetic experimentation. |
-| 53  | The Technomancers seek the protagonist's help in retrieving a stolen prototype that can grant the user god-like control over technology, before it falls into the wrong hands. |
-| 54  | The Hacktivists recruit the protagonist to infiltrate a highly secure data center and leak classified information to expose a corrupt government's hidden agenda. |
-| 55  | The protagonist must engage in a high-speed chase through the futuristic cityscape to recover a stolen hovercar containing sensitive corporate data. |
-| 56  | The Street Samurai are organizing an uprising against oppressive corporate control, and the protagonist must decide whether to join their cause or stop them to maintain order. |
-| 61  | Hannah "Blackout" Garcia believes she has discovered a hidden AI manipulating the stock market, and the protagonist must uncover the truth behind the conspiracy. |
-| 62  | Sergei "The Butcher" Volkov's rival gang kidnaps his loved one, and the protagonist must assist in a daring rescue mission while fending off enemy forces. |
-| 63  | Veronica "The Viper" Rodriguez needs the protagonist's help in retrieving a rare and priceless artifact stolen by a powerful crime syndicate, testing their cunning and combat skills. |
-| 64  | Marcus "The Prophet" Kim claims to have visions of an impending catastrophic event, and the protagonist must decipher his cryptic messages to prevent disaster. |
-| 65  | Dr. Olivia "The Alchemist" Chen tasks the protagonist with gathering rare components for an experimental cybernetic enhancement that could revolutionize the field. |
-| 66  | Captain "Ironclad" Jackson suspects a conspiracy within the law enforcement agency and enlists the protagonist to help uncover the truth, exposing corruption and betrayal. |
+| D66 | Adventure                                                                                                   |
+| --- | ----------------------------------------------------------------------------------------------------------- |
+| 11  | A prototype cyberbrain was stolen mid-transfer. You wake up wearing it — and someone else’s memories.       |
+| 12  | Surveillance glitches across the Spire of Vantrell show something moving between walls. It shouldn't exist. |
+| 13  | An executive's clone has gone rogue. It’s leaking secrets — and doesn’t know it isn’t real.                 |
+| 14  | A sealed server farm reactivates after 20 years. The last crew sent in never came back out.                 |
+| 15  | You’re hired to erase a whistleblower’s identity. Turns out: it’s you, from a deleted timeline.             |
+| 16  | A gang of augmented zealots offers you credits to retrieve a relic from a crashed orbital AI core.          |
+| 21  | An encrypted message pings your deck. It’s signed by a dead hacker — and it includes your kill order.       |
+| 22  | Someone has overwritten the city's emergency systems. Fires rage. You’re the only ghost still off the grid. |
+| 23  | An underground auction is selling memories — and someone is bidding with yours.                             |
+| 24  | A VR cult promises "ascension" through full neural upload. The bodies of its members keep disappearing.     |
+| 25  | A synthetic child is wandering the Verge, asking for its parents — both listed as corporate blacksites.     |
+| 26  | A street doc offers you a favor: extract her brother from a loyalty prison before his memory is wiped.      |
+| 31  | A gang is recruiting runners for a dream-invasion heist. The vault is inside a CEO’s unconscious mind.      |
+| 32  | You find a data shard containing schematics for a weaponized personality construct. Yours.                  |
+| 33  | Your neural ID is flagged as “deceased.” You’ve got 48 hours before enforcement makes it true.              |
+| 34  | An influencer’s disappearance is trending — but their feed is still active, livestreaming static and code.  |
+| 35  | A rogue weather AI is terraforming a sector of the city. Someone’s protecting it. You’re sent to kill it.   |
+| 36  | A broken-down hovertrain reboots and starts moving... toward a zone that doesn’t exist on any map.          |
+| 41  | You’re hired to sabotage a drone assembly plant. The drones there are... praying.                           |
+| 42  | A low-level corpo offers credits for a secret data wipe. The file is locked in their own spinal implant.    |
+| 43  | The Hollow Blades are being hunted by an unknown assassin. They think it’s you.                             |
+| 44  | A neural virus is spreading through public AR ads. You’re immune — which means you're the vector.           |
+| 45  | A cybernetic artist is creating portraits that kill their subjects. Your face is in the next frame.         |
+| 46  | A bleeding man drops a datachip in your hand before dying. It boots an interface to a private god.          |
+| 51  | A freelance judge offers you justice — if you help them break into a sealed tribunal archive.               |
+| 52  | Someone is using your name to commit precision strikes across the city. You’re offered a job by them.       |
+| 53  | A dead zone of static spreads from the Gridwound. Your deck is infected, and it's rewriting your past.      |
+| 54  | You’re paid to deliver a courier package. It’s breathing. And it knows your real name.                      |
+| 55  | An off-grid community needs tech repaired. It's running a simulation of the city — and it’s weeks ahead.    |
+| 56  | A nanite plague blooms in an exclusion zone. You’re sent to recover its original design — from yourself.    |
+| 61  | A former contact went dark years ago. Their voice just called you from a public terminal — whispering code. |
+| 62  | A memory-sculptor wants your help to recover a deleted lover — from a corrupted backup in a hostile mind.   |
+| 63  | A VIP bodyguard contract turns sour when you learn your client is a weaponized bio-sleeper.                 |
+| 64  | An activist crew recruits you to expose the Choir’s blood-rite contracts — but they’ve been compromised.    |
+| 65  | An elite corporate agent defects and offers data in exchange for protection. Everyone wants them dead.      |
+| 66  | A glitch in time reveals a version of the city from 30 years in the future — and your corpse in the ruins.  |
+
+
